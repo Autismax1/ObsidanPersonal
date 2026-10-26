@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ebee3435df12aa9b",
+        "id": "ede6e2671bd29e39",
         "type": "tabs",
         "children": [
           {
-            "id": "a16f5a280a2ab863",
+            "id": "bfd70407b67b8dc5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Studium.canvas",
-                "viewState": {
-                  "x": -38.5,
-                  "y": 150,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Studium"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -185,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a16f5a280a2ab863",
+  "active": "bfd70407b67b8dc5",
   "lastOpenFiles": [
+    "Studium.canvas",
     "_Utilities/Rezepte/Overnight Oats.md",
     "2026/Wunschliste.md",
     "_Utilities/Sport/Pull Day.md",
@@ -213,7 +206,6 @@
     "_Templates/Zutat Template.md",
     "_Templates/Zutat Template (conflict 2026-10-05 1523).md",
     "Studium (conflict 2026-10-05 1523).canvas",
-    "Studium.canvas",
     "_Utilities/Rezepte/Airfryer Baked Tofu Kartoffel.md",
     "_Templates/Rezept Template.md",
     "_Templates/Book Template.md",
@@ -233,7 +225,6 @@
     "_Utilities/Markdown Cheatsheet.md",
     "2026/Software.md",
     "2026/Untitled 1.md",
-    "_Utilities/Rezepte/Kichererbsen NicNac's 1.md",
     "_Utilities/Sport/Trainingsplan.canvas",
     "2026/2026_extras/Pasted image 20260217125717.png",
     "_Utilities/Sport",
