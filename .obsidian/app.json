@@ -1,0 +1,13 @@
+{
+  "livePreview": true,
+  "showLineNumber": true,
+  "useTab": false,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Templates/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "2026",
+  "attachmentFolderPath": "2026/2026_extras",
+  "showInlineTitle": true
+}

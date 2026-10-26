@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1770818476989,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1770818473157,
+          "path": "2026/Another Note.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1770818423155,
+          "path": "_Utilities/Markdown Cheatsheet.md"
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "type": "search",
+      "ctime": 1770818567322,
+      "query": "\"Star Trek\""
+    }
+  ]
+}
