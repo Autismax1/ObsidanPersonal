@@ -1,1 +1,0 @@
-Hi! I'm the first note ever in this vault.
