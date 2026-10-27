@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"f2355439c1f8cb5d","type":"text","text":"# Samstag","x":-400,"y":-340,"width":250,"height":60},
+		{"id":"f267e0a543649aad","type":"text","text":"# Sonntag","x":20,"y":-340,"width":250,"height":60},
+		{"id":"a5cd1b7acc57b73d","type":"text","text":"# 2 x [[_Utilities/Rezepte/Kichererbsen NicNac's|Kichererbsen NicNac's]]","x":20,"y":-220,"width":300,"height":120},
+		{"id":"b434f9e73ec4703e","type":"text","text":"## Einkaufsliste\n\n#### Wochenmarkt:\n- 12 Eier\n\n#### Aldi:\n- 4 Dosen Kichererbsen\n- Tiefkühlheidelbeeren\n- Haferflocken\n- 4 x Naturtofu\n- Nudeln","x":-400,"y":-220,"width":280,"height":480},
+		{"id":"e14deab47a047f52","type":"text","text":"# 1 x [[Hart gekochte Eier]]","x":20,"y":-80,"width":250,"height":120}
+	],
+	"edges":[]
+}
