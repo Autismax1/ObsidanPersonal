@@ -23,7 +23,13 @@ tags:
 ## Zubereitung
 
 1. Weed grinden
-2. Weed in geschlossenem Behälten (Glascontainer mit Alufolie festg)
+2. Weed in geschlossenem Behälten (Glascontainer mit Alufolie festgedeckt) bei 110grad für 30-40min [wenn es zwischen den Fingern zerbröselt, ist es fertig]
+3. Leinsamen mit 2ter Wasserangabe in eine Tasse geben und hin und wieder mixen
+4. Öl im Topf bei geringerer Hitze
+5. Weed ins Öl
+6. Für min. 30 Minuten bis 1h immer wieder umrühren. Es darf nicht kochen!
+7. Danach grobe Stängel aus dem Öl entfernen
+8. 
 
 ---
 ## Meal Prep
