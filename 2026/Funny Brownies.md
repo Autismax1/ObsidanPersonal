@@ -16,7 +16,7 @@ tags:
 | 100ml | Wasser                         |
 | 100ml | Rapsöl                         |
 | 5g    | Weed                           |
-| 16    | Leinsamen                      |
+| 18g   | Leinsamen                      |
 | 90ml  | Wasser                         |
 
 ---
@@ -30,7 +30,7 @@ tags:
 6. Danach grobe Stängel aus dem Öl entfernen
 7. Airfryer auf 130grad aufheizen
 8. Browniemischung, Leinsamenwasser und WeedÖl zusammen geben und zu glattem Teig rühren
-9. Gesamtgewicht notieren, falls in Schichten gebacken wird um zu Portionen gleichmäßig zu machen
+9. Gesamtgewicht notieren, falls in Schichten gebacken wird um zu Portionen gleichmäßig zu machen: doppelte Portion (2 Backmischungen, 4 Ladungen = 375g pro Ladung)
 
 ---
 ## Meal Prep
