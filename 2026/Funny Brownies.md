@@ -16,10 +16,14 @@ tags:
 | 100ml | Wasser                         |
 | 100ml | Rapsöl                         |
 | 5g    | Weed                           |
-|       |                                |
+| 16    | Leinsamen                      |
+| 90ml  | Wasser                         |
 
 ---
 ## Zubereitung
+
+1. Weed grinden
+2. Weed in geschlossenem Behälten (Glascontainer mit Alufolie festg)
 
 ---
 ## Meal Prep
