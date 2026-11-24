@@ -17,7 +17,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 4
 
 ## Effects
-- Fire trail
+- Burning 5×3 (100% Elemental damage)
 - Speed +9
 - Lose hp per second
 
@@ -33,12 +33,12 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Fire trail | adds elemental damage +2 (roll < 50%) or +3 |
+| Burning 5×3 (100% Elemental damage) | adds elemental damage +2 (roll < 50%) or +3 |
 | Speed +9 | 10 → 19 |
 | Curse stat added | +4 → 8 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Fire trail
+  - Burning 5×3 (100% Elemental damage)
   - Speed +9
 - **Mutation can remove:** Lose hp per second. See [[Mutation#Step 3: remove or copy]].

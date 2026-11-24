@@ -17,7 +17,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 1
 
 ## Effects
-- Burn chance
+- Burning 1×3 (100% Elemental damage), 25% chance
 
 ## Shop
 - Base price 25, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -30,10 +30,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Burn chance | burn damage and duration ×1.10 → ×2.10 |
+| Burning 1×3 (100% Elemental damage), 25% chance | Burning 2×4 → 3×7 |
 | Curse stat added | +1 → 2 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Burn chance
+  - Burning 1×3 (100% Elemental damage), 25% chance
 - No downside a mutation could remove.

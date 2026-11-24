@@ -27,10 +27,10 @@ Starting weapon for: [[Arsonist]], [[Baby]], [[Builder]], [[Chef]], [[Demon]], [
 | 4 | 91 | 1 | 100% Elemental damage | 0.53s | 0% ×2 | 425 | Piercing 1 |
 
 ## Effects per tier
-- **Tier 1:** Effect burning
-- **Tier 2:** Effect burning
-- **Tier 3:** Effect burning
-- **Tier 4:** Effect burning
+- **Tier 1:** Burning 3×3 (100% Elemental damage)
+- **Tier 2:** Burning 5×5 (100% Elemental damage)
+- **Tier 3:** Burning 8×6 (100% Elemental damage)
+- **Tier 4:** Burning 12×9 (100% Elemental damage)
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Elemental|Elemental]]. Shop odds: [[Weapon Rolls]].
 
@@ -39,10 +39,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 1 | 2 → 3 | 55% → 105% Elemental damage | ×2 → ×2.4 | Piercing 2 → 2; Effect burning: burn damage and duration ×1.10 → ×2.10 | +1 |
-| 2 | 2 → 3 | 72% → 136% Elemental damage | ×2 → ×2.4 | Piercing 2 → 2; Effect burning: burn damage and duration ×1.10 → ×2.10 | +1 → 2 |
-| 3 | 2 → 3 | 88% → 168% Elemental damage | ×2 → ×2.4 | Piercing 2 → 2; Effect burning: burn damage and duration ×1.10 → ×2.10 | +2 → 4 |
-| 4 | 2 → 3 | 110% → 210% Elemental damage | ×2 → ×2.4 | Piercing 2 → 2; Effect burning: burn damage and duration ×1.10 → ×2.10 | +4 → 8 |
+| 1 | 2 → 3 | 55% → 105% Elemental damage | ×2 → ×2.4 | Piercing 2 → 2; Burning 3×3 (100% Elemental damage): Burning 4×4 → 7×7 | +1 |
+| 2 | 2 → 3 | 72% → 136% Elemental damage | ×2 → ×2.4 | Piercing 2 → 2; Burning 5×5 (100% Elemental damage): Burning 6×6 → 11×11 | +1 → 2 |
+| 3 | 2 → 3 | 88% → 168% Elemental damage | ×2 → ×2.4 | Piercing 2 → 2; Burning 8×6 (100% Elemental damage): Burning 9×7 → 17×13 | +2 → 4 |
+| 4 | 2 → 3 | 110% → 210% Elemental damage | ×2 → ×2.4 | Piercing 2 → 2; Burning 12×9 (100% Elemental damage): Burning 14×10 → 26×19 | +4 → 8 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

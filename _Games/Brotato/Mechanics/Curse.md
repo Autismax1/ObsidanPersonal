@@ -48,6 +48,8 @@ modifier = 40% + 2% × min(20, wave − 1) + random(−30 … +30)%
 
 Exact cursed values per item and weapon: open the item in [[Items]] or the weapon in [[Weapons]].
 
+The public wiki writes the wave part as `2% × min(wave, 20)`. The current game code uses `min(20, wave − 1)`, so the code's values are 2 points lower until wave 21.
+
 ## Why low curses show up late
 - **±30 is wider than all the wave growth.** A late-game worst roll (50%) is no better than an average wave-5 roll (48%).
 - **Single-effect items** get one roll and land low more often.
