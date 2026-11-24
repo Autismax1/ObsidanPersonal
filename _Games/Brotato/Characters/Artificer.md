@@ -18,10 +18,10 @@ hidden_effect: false
 
 ## Starting effects
 - Explosion damage +175
-- Gain for every stat (+4)
+- +4 Explosion size for every Elemental damage
 - Effect class bonus +100
 - Percent damage -100
-- Effect reduce gains -50
+- -50% gains of Armor
 
 **Starting weapon choices:** Plank, Screwdriver, Wrench, Shredder, Sticky grenade
 
@@ -35,4 +35,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Explosion damage +175
+  - +4 Explosion size for every Elemental damage
+  - Effect class bonus +100
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

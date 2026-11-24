@@ -19,10 +19,10 @@ hidden_effect: false
 - Luck +50
 - Tier iv bonus (+25)
 - Tier iv bonus (+25)
-- Gain for every different stat (+5)
+- +5 Max hp for every Legendary item
 - Tier i bonus (-15)
 - Tier i bonus (-15)
-- Gain for every different stat (-2)
+- -2 Max hp for every Common item
 
 **Starting weapon choices:** Fist, Circular saw, Knife, Hatchet, Ghost axe, Lightning shiv, Torch, Plank, Spear, Jousting lance, Sword, Hammer, Spiky shield, Pistol, Smg, Crossbow, Double barrel shotgun, Rocket launcher, Taser, Fireball, Vorpal sword, Lute, Trident, Flute, Grenade launcher, Javelin, Awl, Crowbar, Shovel, Cestus, Meat tenderizer, Whip, Blowgun, Boomerang, Combat shotgun, Tranq rifle, Sticky grenade, Machinegun, Molotov, Pan flute, Flail, Carbon bow
 
@@ -35,5 +35,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Luck +50, Max hp +5. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Luck +50
+  - Tier iv bonus (+25)
+  - Tier iv bonus (+25)
+  - +5 Max hp for every Legendary item
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

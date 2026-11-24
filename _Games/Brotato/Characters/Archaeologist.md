@@ -18,7 +18,7 @@ hidden_effect: false
 ## Starting effects
 - Dig sites (+4)
 - Box recycling gains (+75)
-- Gain for every crate collected (+3)
+- +3 Xp gain for every Crates collected
 - Pickup range (+25)
 - Enemy gold drops (-50)
 
@@ -33,4 +33,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Dig sites (+4)
+  - Box recycling gains (+75)
+  - +3 Xp gain for every Crates collected
+  - Pickup range (+25)
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

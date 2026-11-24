@@ -13,10 +13,10 @@ Effects marked `[EMPTY]` in the game data. They work, but the tooltip doesn't sh
 |---|---|
 | [[Mad Scientist]] | **+100% mutation fruit chance**. See [[Evolution Drops#Mutation fruit]]. |
 | [[Generalist]] | max 3 ranged weapons |
-| [[Explorer]] | trees from wave 1 |
+| [[Explorer]] | trees spawn right at the start of every wave (first 5 seconds) |
 | [[Beast Master]] | boosted wanted tags: 10% instead of 5%. See [[Shop Item Rolls#Wanted tags]]. |
 | [[Builder]] | max 1 turret |
-| [[Gangster]] | lock flag |
+| [[Gangster]] | a `lock` value of 0 (purpose unclear) |
 
 ## Items
 - All 8 **fossils** have a hidden "counts as fossil" effect, used by fossil synergies.

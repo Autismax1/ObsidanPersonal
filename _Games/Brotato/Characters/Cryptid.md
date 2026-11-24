@@ -22,7 +22,7 @@ hidden_effect: false
 ## Starting effects
 - Trees (+6)
 - Cryptid (+12)
-- Gain for every tree (+3)
+- +3 Hp regeneration for every Living tree
 - Dodge cap (+70)
 - Temp on dodge (+3)
 - Lifesteal -100
@@ -43,5 +43,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Lifesteal. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Hp regeneration +3. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Trees (+6)
+  - Cryptid (+12)
+  - +3 Hp regeneration for every Living tree
+  - Temp on dodge (+3)
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

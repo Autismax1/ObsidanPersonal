@@ -22,7 +22,7 @@ hidden_effect: false
 - Hp regeneration +10
 - Lifesteal +10
 - Deal dmg when heal (+100)
-- Effect reduce gains -50
+- -50% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Piercing damage, Explosion damage, Bounce damage, Damage against bosses
 
 **Starting weapon choices:** Scissors, Chopper, Dagger, Stick, Knife, Ghost flint, Sharp tooth, Pruner, Hatchet, Rock, Spiky shield, Lightning shiv, Ghost scepter, Medical gun, Smg, Wand, Icicle, Slingshot, Crossbow, Spoon, Awl, Crowbar, Shovel, Meat tenderizer, Machinegun, Pan flute, Carbon bow, Boomerang
 
@@ -36,5 +36,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Hp regeneration +10, Lifesteal +10. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Hp regeneration +10
+  - Lifesteal +10
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

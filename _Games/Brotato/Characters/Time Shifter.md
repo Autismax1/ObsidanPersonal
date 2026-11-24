@@ -22,7 +22,7 @@ hidden_effect: false
 - Time shift on hit (+75)
 - Mixing up wave
 - Speed +5
-- Effect reduce gains -100
+- -100% gains of Dodge
 
 **Starting weapon choices:** Fist, Claw, Knife, Dagger, Stick, Spear, Fighting stick, Jousting lance, Screwdriver, Ghost flint, Pruner, Shuriken, Hiking stick, Javelin, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Molotov, Flail, Carbon bow, Machinegun
 
@@ -36,5 +36,7 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Dodge. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Speed +5. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Speed +5
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

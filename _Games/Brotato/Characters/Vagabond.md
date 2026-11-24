@@ -20,8 +20,8 @@ hidden_effect: false
 - No duplicate weapons
 - Armor -5
 - Dodge -5
-- Effect reduce gains -50
-- Effect reduce gains -50
+- -50% gains of Luck
+- -50% gains of Harvesting
 
 **Starting weapon choices:** Cacti club, Chopper, Dagger, Spear, Sharp tooth, Hand, Claw, Fighting stick, Hatchet, Plank, Ghost flint, Spiky shield, Lightning shiv, Torch, Shuriken, Crossbow, Revolver, Laser gun, Rail gun, Lute, Crowbar, Shovel, Whip, Blowgun, Sticky grenade, Molotov, Pan flute, Flail, Meat tenderizer, Boomerang
 
@@ -34,4 +34,5 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
+- [[Mutation]] can't copy any of this character's effects.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

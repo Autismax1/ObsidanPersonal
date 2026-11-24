@@ -19,11 +19,11 @@ hidden_effect: false
 ## Starting effects
 - Projectiles (+2)
 - Piercing
-- Gain for every different stat (+10)
+- +10 Percent damage for every Common item
 - No melee weapons
 - Percent damage -400
 - Accuracy (-50)
-- Effect reduce gains -80
+- -80% gains of Percent damage, Explosion damage
 
 **Starting weapon choices:** Pistol, Revolver, Shredder, Smg, Laser gun, Medical gun, Double barrel shotgun, Taser, Wand, Icicle, Ghost scepter, Crossbow, Shuriken, Slingshot, Rail gun, Flute, Javelin, Blowgun, Sticky grenade, Molotov, Carbon bow, Machinegun
 
@@ -36,5 +36,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Melee damage. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Percent damage +10. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Projectiles (+2)
+  - Piercing
+  - +10 Percent damage for every Common item
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

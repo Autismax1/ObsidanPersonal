@@ -26,11 +26,11 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
 
 ## Starting effects
-- Gain for every perm stat (+5)
-- Gain for every stat (+2)
+- +5 Structure attack speed for every Elemental damage
+- +2 Elemental damage for every Structure
 - Next level xp needed +75
-- Effect reduce gains -100
-- Effect reduce gains -100
+- -100% gains of Melee damage
+- -100% gains of Ranged damage
 
 **Starting weapon choices:** Wrench, Screwdriver, Plank, Torch, Lightning shiv, Pruner, Taser, Wand, Icicle, Awl, Molotov, Carbon bow
 
@@ -46,5 +46,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Melee damage, Ranged damage. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Elemental damage +2. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - +5 Structure attack speed for every Elemental damage
+  - +2 Elemental damage for every Structure
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

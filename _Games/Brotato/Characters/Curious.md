@@ -19,8 +19,8 @@ hidden_effect: false
 ## Starting effects
 - Extra loot aliens (+2)
 - Stronger loot aliens on kill (+8)
-- Gain for every different stat (+2)
-- Gain for duplicate items (-10)
+- +2 Xp gain for every Different item
+- -10 Percent damage for every Duplicate item
 - Enemy health +25
 
 **Starting weapon choices:** Brick, Cacti club, Ghost axe, Hatchet, Knife, Plank, Rock, Torch, Lightning shiv, Pistol, Double barrel shotgun, Icicle, Lute, Javelin, Slingshot, Boomerang, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Machinegun, Molotov, Pan flute, Flail, Carbon bow
@@ -35,4 +35,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Extra loot aliens (+2)
+  - +2 Xp gain for every Different item
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

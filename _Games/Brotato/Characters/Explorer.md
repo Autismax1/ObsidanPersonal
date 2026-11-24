@@ -41,5 +41,9 @@ hidden_effect: true
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Speed +10. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Trees (+12)
+  - Speed +10
+  - Pickup range (+50)
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

@@ -20,12 +20,12 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
 
 ## Starting effects
-- Gain for every stat (+2)
+- +2 Melee damage for every Armor
 - Armor +3
 - No ranged weapons
 - Min tier
-- Effect reduce gains -50
-- Effect reduce gains -80
+- -50% gains of Attack speed
+- -80% gains of Harvesting
 
 **Starting weapon choices:** Sword, Hammer, Spear, Torch, Jousting lance, Fighting stick, Plank, Rock, Fist, Knife, Scissors, Cacti club, Vorpal sword, Mace, Anchor, Crowbar, Shovel, Cestus, Meat tenderizer, Whip, Flail
 
@@ -42,5 +42,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Ranged damage. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Melee damage +2, Armor +3. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - +2 Melee damage for every Armor
+  - Armor +3
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

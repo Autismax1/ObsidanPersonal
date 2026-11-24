@@ -20,7 +20,7 @@ hidden_effect: false
 - Harvesting +20
 - Guaranteed shop item
 - Specific price (-100)
-- Gain for every stat (+2)
+- +2 Harvesting for every Bait
 - Upgraded baits
 - Enemy gold drops (-40)
 
@@ -35,5 +35,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Max hp +5, Harvesting +20, Harvesting +2. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Max hp +5
+  - Harvesting +20
+  - +2 Harvesting for every Bait
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

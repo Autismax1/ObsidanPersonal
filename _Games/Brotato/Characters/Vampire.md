@@ -20,10 +20,10 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
 
 ## Starting effects
-- Gain for every percent player missing health (+2)
-- Gain for every percent player missing health
-- Gain for every percent player missing health
-- Effect reduce stat gains -25
+- +2 Percent damage for every Percent player missing health
+- +1 Lifesteal for every 3 Percent player missing health
+- +1 Armor for every 5 Percent player missing health
+- -25% gains of Max hp
 - Percent damage -60
 - Hp regeneration -100
 - Consumable heal (-100)
@@ -42,5 +42,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Hp regeneration. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Percent damage +2, Lifesteal +1, Armor +1. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - +2 Percent damage for every Percent player missing health
+  - +1 Lifesteal for every 3 Percent player missing health
+  - +1 Armor for every 5 Percent player missing health
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

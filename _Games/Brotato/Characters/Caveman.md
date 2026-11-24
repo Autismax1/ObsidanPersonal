@@ -33,4 +33,7 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Ranged damage. See [[Meca#The four stat groups]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Burn give primitive bonus
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

@@ -17,9 +17,9 @@ hidden_effect: false
 
 ## Starting effects
 - Charm below hp (+50)
-- Melee bonus (+50)
-- Gain for every stat (-3)
-- Gain for every stat (-1)
+- Melee weapons: +50 Max range
+- -3 Percent damage for every 5 Curse
+- -1 Armor for every 5 Curse
 - +1 Curse at the end of every wave
 
 **Starting weapon choices:** Lute, Chopper, Fist, Spoon, Scissors, Sharp tooth, Hatchet, Flute, Double barrel shotgun, Shuriken, Boomerang, Slingshot, Medical gun, Smg, Taser, Cacti club, Claw, Pan flute, Awl, Meat tenderizer, Whip, Blowgun, Sticky grenade, Machinegun, Molotov, Flail, Carbon bow
@@ -33,4 +33,7 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Charm below hp (+50)
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

@@ -17,7 +17,7 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
 
 ## Starting effects
-- Gain for free slots (+60)
+- +60 Xp gain for every Free slots
 - Level upgrades modifications (+100)
 - Next level xp needed +200
 - +2 Enemy health at the end of every wave
@@ -35,4 +35,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - +60 Xp gain for every Free slots
+  - Level upgrades modifications (+100)
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

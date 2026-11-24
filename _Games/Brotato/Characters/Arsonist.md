@@ -30,9 +30,9 @@ hidden_effect: false
 - Fire explosion
 - Fire puddle on burning death
 - Speed +5
-- Effect reduce gains -100
-- Effect reduce gains -100
-- Effect reduce gains -100
+- -100% gains of Melee damage
+- -100% gains of Ranged damage
+- -100% gains of Engineering
 
 **Starting weapon choices:** Torch, Molotov, Shredder, Sticky grenade, Plank, Lightning shiv, Wand, Screwdriver
 
@@ -48,5 +48,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Melee damage, Ranged damage, Engineering. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Speed +5. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Fire puddle on burning death
+  - Speed +5
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

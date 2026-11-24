@@ -18,7 +18,7 @@ hidden_effect: false
 ## Starting effects
 - Weapons price -95
 - Harvesting +30
-- Effect increase gains +33
+- +33% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Explosion damage, Piercing damage, Bounce damage, Damage against bosses
 - Minimum in shop
 - Destroy weapons
 
@@ -33,5 +33,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Harvesting +30. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Harvesting +30
+  - +33% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Explosion damage, Piercing damage, Bounce damage, Damage against bosses
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

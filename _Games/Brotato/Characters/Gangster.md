@@ -34,4 +34,5 @@ hidden_effect: true
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
+- [[Mutation]] can't copy any of this character's effects.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

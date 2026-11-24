@@ -40,4 +40,8 @@ hidden_effect: false
 ## Evolution and curse
 - **Meca only.** Only meca fruit drops, mutation fruit does nothing. See [[Evolution]].
 - **[[Meca]] never offers:** Max hp, Hp regeneration, Lifesteal. See [[Meca#The four stat groups]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Meca parts on level up
+  - +1 Evolution at the end of every wave
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

@@ -24,7 +24,7 @@ hidden_effect: false
 - Max hp +20
 - Hp regeneration +15
 - Armor +10
-- Effect increase gains +50
+- +50% gains of Hp regeneration
 - Explode on hit
 - No weapons
 
@@ -42,5 +42,11 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Lifesteal. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Max hp +20, Hp regeneration +15, Armor +10. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Max hp +20
+  - Hp regeneration +15
+  - Armor +10
+  - +50% gains of Hp regeneration
+  - Explode on hit
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

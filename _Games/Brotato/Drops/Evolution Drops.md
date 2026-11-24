@@ -36,7 +36,7 @@ Four Primal Dread consumables. All four rolls happen on every kill that can drop
 ## Meca parts
 - **Who drops it:** [[Evolved Enemies|meca enemies]] only.
 - **Chance:** same formula with a **2.5%** base. No item requirement, no stat bonus.
-- **Effect:** meca parts to spend in the shop. See [[Meca]].
+- **Effect:** **+2 meca parts** to spend in the shop. See [[Meca]].
 - **Other sources:**
   - Dismantling a shop weapon gives 1. See [[Prices and Rerolls#Dismantle (Primal Dread)]].
   - [[Droid]] gets 1 per level.

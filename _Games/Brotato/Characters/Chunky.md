@@ -25,13 +25,13 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
 
 ## Starting effects
-- Effect increase gains +25
-- Gain for every perm stat
+- +25% gains of Max hp
+- +1 Percent damage for every 3 Max hp
 - Consumable heal (+3)
 - Lifesteal -100
-- Effect reduce gains -50
-- Effect reduce gains -50
-- Effect reduce gains -100
+- -50% gains of Hp regeneration
+- -50% gains of Dodge
+- -100% gains of Speed
 
 **Starting weapon choices:** Fist, Cacti club, Rock, Stick, Torch, Plank, Chopper, Pruner, Spiky shield, Double barrel shotgun, Taser, Ghost scepter, Shredder, Revolver, Spoon, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Molotov, Flail, Carbon bow, Pan flute, Machinegun
 
@@ -48,5 +48,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Lifesteal, Speed. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Percent damage +1. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - +25% gains of Max hp
+  - +1 Percent damage for every 3 Max hp
+  - Consumable heal (+3)
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

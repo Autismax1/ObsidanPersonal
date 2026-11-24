@@ -27,8 +27,8 @@ hidden_effect: false
 
 ## Starting effects
 - Max hp +20
-- Effect increase gains +33
-- Effect increase gains +33
+- +33% gains of Max hp
+- +33% gains of Armor
 - Below half health (+40)
 - Below half health (+20)
 - No heal
@@ -48,5 +48,11 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Hp regeneration, Lifesteal. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Max hp +20. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Max hp +20
+  - +33% gains of Max hp
+  - +33% gains of Armor
+  - Below half health (+40)
+  - Below half health (+20)
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

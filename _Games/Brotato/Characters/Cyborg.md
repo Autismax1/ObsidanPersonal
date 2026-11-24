@@ -24,11 +24,11 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
 
 ## Starting effects
-- Effect increase gains +200
+- +200% gains of Ranged damage
 - Convert temp half wave
-- Effect reduce gains -75
-- Effect reduce gains -100
-- Effect reduce gains -100
+- -75% gains of Engineering
+- -100% gains of Melee damage
+- -100% gains of Elemental damage
 
 **Starting weapon choices:** Wrench, Screwdriver, Plank, Pistol, Smg, Revolver, Double barrel shotgun, Crossbow, Brick, Awl, Crowbar, Machinegun, Carbon bow, Sticky grenade
 
@@ -45,4 +45,7 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Melee damage, Elemental damage. See [[Meca#The four stat groups]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - +200% gains of Ranged damage
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

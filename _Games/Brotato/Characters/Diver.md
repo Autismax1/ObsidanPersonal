@@ -22,8 +22,8 @@ hidden_effect: false
 ## Starting effects
 - Specific price (-100)
 - Effect class bonus +200
-- Effect increase gains +25
-- Gain for every stat
+- +25% gains of Crit chance
+- +1 Hp regeneration for every 2 Melee damage
 - Enemy percent damage taken (+300)
 - Ranged damage -100
 - Enemy health +200
@@ -42,5 +42,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Ranged damage. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Hp regeneration +1. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Effect class bonus +200
+  - +25% gains of Crit chance
+  - +1 Hp regeneration for every 2 Melee damage
+  - Enemy percent damage taken (+300)
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

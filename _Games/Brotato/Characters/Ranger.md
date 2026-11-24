@@ -21,9 +21,9 @@ hidden_effect: false
 
 ## Starting effects
 - Range +50
-- Effect increase gains +50
+- +50% gains of Ranged damage
 - No melee weapons
-- Effect reduce gains -25
+- -25% gains of Max hp
 
 **Starting weapon choices:** Pistol, Smg, Revolver, Double barrel shotgun, Laser gun, Shredder, Crossbow, Slingshot, Rail gun, Blowgun, Sticky grenade, Machinegun, Carbon bow
 
@@ -39,5 +39,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Melee damage. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Range +50. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Range +50
+  - +50% gains of Ranged damage
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

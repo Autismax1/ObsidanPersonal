@@ -26,11 +26,11 @@ hidden_effect: false
 - Max hp +5
 - Luck +15
 - Enemy fruit drops (+4)
-- On fruit
+- On fruit: +1 Luck (33)
 - Poisoned fruit (+33)
 - Hp regeneration -100
 - Lifesteal -100
-- Effect reduce gains -50
+- -50% gains of Engineering
 
 **Starting weapon choices:** Fist, Claw, Ghost flint, Cacti club, Rock, Chopper, Fighting stick, Pruner, Sickle, Lute, Stick, Spear, Torch, Flute, Slingshot, Ghost scepter, Icicle, Wand, Javelin, Pan flute, Awl, Crowbar, Shovel, Whip, Blowgun, Molotov, Flail
 
@@ -47,5 +47,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Hp regeneration, Lifesteal. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Max hp +5, Luck +15. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Max hp +5
+  - Luck +15
+  - Enemy fruit drops (+4)
+  - On fruit: +1 Luck (33)
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

@@ -20,9 +20,9 @@ hidden_effect: false
 - Medical weapons: +200% Attack speed
 - Hp regeneration +5
 - Harvesting +5
-- Effect increase gains +100
+- +100% gains of Hp regeneration
 - Attack speed -100
-- Effect reduce gains -50
+- -50% gains of Armor
 
 **Starting weapon choices:** Scissors, Medical gun, Meat tenderizer
 
@@ -36,5 +36,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Hp regeneration +5, Harvesting +5. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Medical weapons: +200% Attack speed
+  - Hp regeneration +5
+  - Harvesting +5
+  - +100% gains of Hp regeneration
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

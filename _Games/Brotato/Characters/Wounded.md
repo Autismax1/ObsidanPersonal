@@ -42,5 +42,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Max hp, Hp regeneration, Lifesteal, Armor. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Speed +5, Harvesting +8. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Speed +5
+  - Harvesting +8
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

@@ -26,7 +26,7 @@ hidden_effect: false
 - Percent damage -25
 - Min tier
 - Dodge cap (+20)
-- Effect reduce gains -100
+- -100% gains of Harvesting
 
 **Starting weapon choices:** Anchor, Trident, Blunderbuss
 
@@ -43,5 +43,7 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Harvesting. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Curse +25. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Bonus class damage against cursed enemies (+200)
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

@@ -18,8 +18,8 @@ hidden_effect: true
 [[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
 
 ## Starting effects
-- Gain for every stat (+2)
-- Gain for every stat
+- +2 Melee damage for every Ranged damage
+- +1 Ranged damage for every 2 Melee damage
 - Generalist (+3)
 - Max ranged weapons +3 ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
 
@@ -37,5 +37,8 @@ hidden_effect: true
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Melee damage +2, Ranged damage +1. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - +2 Melee damage for every Ranged damage
+  - +1 Ranged damage for every 2 Melee damage
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

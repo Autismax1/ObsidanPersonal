@@ -33,4 +33,7 @@ hidden_effect: true
 ## Evolution and curse
 - **Dual evolution.** Fruit is always 50/50, you can mutate at any non-zero evolution, and enemies can evolve to both sides. See [[Evolution]].
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - +2 Evolution at the end of every wave
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

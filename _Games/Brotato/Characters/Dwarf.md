@@ -19,12 +19,12 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
 
 ## Starting effects
-- Gain when attack killed enemies
-- Gain for every perm stat
+- Gain when attack killed enemies: +1 Engineering (5)
+- +1 Melee damage for every 2 Engineering
 - No ranged weapons
 - Dodge -20
 - Attack speed -100
-- Effect reduce gains -50
+- -50% gains of Attack speed
 
 **Starting weapon choices:** Hammer, Wrench, Brick, Mace, Awl, Crowbar, Shovel, Cestus, Meat tenderizer, Flail
 
@@ -38,5 +38,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Ranged damage. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Melee damage +1. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Gain when attack killed enemies: +1 Engineering (5)
+  - +1 Melee damage for every 2 Engineering
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

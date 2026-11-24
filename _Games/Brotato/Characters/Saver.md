@@ -17,7 +17,7 @@ hidden_effect: false
 
 ## Starting effects
 - Harvesting +15
-- Gain for every stat
+- +1 Percent damage for every 25 Materials
 - Items price +50
 
 **Starting weapon choices:** Fist, Chopper, Dagger, Ghost flint, Pruner, Lightning shiv, Cacti club, Spear, Pistol, Revolver, Laser gun, Taser, Wand, Icicle, Lute, Sickle, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Molotov, Pan flute, Carbon bow
@@ -31,5 +31,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Harvesting +15, Percent damage +1. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Harvesting +15
+  - +1 Percent damage for every 25 Materials
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

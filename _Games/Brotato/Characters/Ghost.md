@@ -39,5 +39,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Armor. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Dodge +30. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Ethereal weapons: +10% Damage
+  - Dodge +30
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

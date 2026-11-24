@@ -36,11 +36,23 @@ If both lists have entries, it flips a **coin**:
 - **Remove:** one random downside is deleted and the item becomes mutant.
 - **Copy:** one random good effect is copied, scaled down, and **added to the Tumor**. The picked item stays as it was.
 
+### What counts as copyable
+Not only plain stats. Any **positive** effect with a stat behind it qualifies, for example:
+- weapon class bonuses ([[Brawler]]: unarmed +50% attack speed)
+- "+X% gains of a stat"
+- "+X stat for every Y", stat per wave or per level
+- explosion and burn effects
+
+Each character note lists exactly which of its effects can be copied.
+
 ### Never copyable
-- price, reroll and shop effects (e.g. Coupon), starting items and weapons
-- on/off effects, multiply or convert effects, Builder effects
-- stats already at their cap
-- pets and structures below scale 0.7
+- **negative** effects, and effects the tooltip hides ([[Hidden Effects]])
+- effects without a stat behind them (e.g. [[Romantic]]'s "melee weapons +50 range")
+- price, reroll and shop effects (e.g. Coupon), starting items and weapons, mutation fruit chance
+- on/off effects (e.g. dual evolution, meca only), multiply or convert effects, Builder effects
+- stats already at their cap, chances already at 100%
+- pets and structures below scale 0.7 (about −63 evolution)
+- some strong effects also need scale 0.7: HP regen bonus, mutate-on-equip, better-tier mutation, projectiles on death, dig sites and a few others
 
 ## Copy strength
 ```

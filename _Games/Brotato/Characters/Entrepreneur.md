@@ -19,10 +19,10 @@ hidden_effect: false
 
 ## Starting effects
 - Items price -25
-- Effect increase gains +50
+- +50% gains of Harvesting
 - Recycling gains (+25)
 - Gain pct gold start wave (-100)
-- Effect reduce stat gains -50
+- -50% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Explosion damage, Bounce damage, Piercing damage, Damage against bosses
 
 **Starting weapon choices:** Fist, Claw, Hand, Knife, Dagger, Pruner, Fighting stick, Hatchet, Ghost flint, Wrench, Plank, Pistol, Double barrel shotgun, Taser, Shuriken, Crossbow, Icicle, Hiking stick, Lute, Sickle, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Sticky grenade, Machinegun, Molotov, Pan flute, Carbon bow
 
@@ -36,4 +36,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - +50% gains of Harvesting
+  - Recycling gains (+25)
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

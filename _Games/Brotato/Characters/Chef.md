@@ -21,7 +21,7 @@ hidden_effect: false
 - Bonus non elemental damage against burning targets (+200)
 - Explode and burn on consumable
 - Enemy health +100
-- Effect reduce gains -75
+- -75% gains of Elemental damage
 
 **Starting weapon choices:** Spoon, Chopper, Fist, Knife, Hatchet, Stick, Torch, Screwdriver, Wrench, Pruner, Cacti club, Wand, Meat tenderizer, Awl, Whip, Blowgun, Flail, Shovel, Molotov
 
@@ -36,5 +36,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character stats into the Tumor:** Luck +35. See [[Mutation#Copy strength]].
+- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Luck +35
+  - Bonus non elemental damage against burning targets (+200)
+  - Explode and burn on consumable
+  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
