@@ -28,6 +28,13 @@ tags:
 | Mutation fruit | 4% per mutant kill + pity | [[Evolution Drops#Mutation fruit]] |
 | Meca parts | 2.5% per meca kill + pity | [[Evolution Drops#Meca parts]] |
 
+## Healing
+| What | Value | More |
+|---|---|---|
+| Lifesteal | lifesteal % chance per hit to heal 1 HP, max 10 HP/s | [[Healing#Lifesteal]] |
+| HP regen | 1 HP every `5 s / (1 + (regen − 1)/2.25)`; 10 regen = 1 HP/s | [[Healing#HP regeneration]] |
+| Which one | lifesteal for many hits, regen for few big hits | [[Lifesteal vs HP Regen]] |
+
 ## Evolution
 | What | Value | More |
 |---|---|---|

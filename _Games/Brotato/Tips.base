@@ -1,0 +1,24 @@
+filters:
+  and:
+    - file.inFolder("_Games/Brotato/Tips")
+properties:
+  note.topic:
+    displayName: Topic
+  note.applies_to:
+    displayName: Applies to
+  note.verified:
+    displayName: Verified
+  note.added:
+    displayName: Added
+views:
+  - type: table
+    name: All tips
+    order:
+      - file.name
+      - topic
+      - applies_to
+      - verified
+      - added
+    sort:
+      - property: topic
+        direction: ASC

@@ -14,6 +14,10 @@ Hidden values and rules read from the game's own scripts. Start at **[[Run Cheat
 > 2. Keep [[Run Cheat Sheet]] open: every key number on one page, each linking to its full note.
 > 3. Visual overview: [[Brotato Map.canvas|Brotato Map]] · evolution decisions: [[Evolution Flow.canvas|Evolution Flow]]
 
+## Tips
+- [[Tips]]: strategy tips, one note each, with a sortable table
+- [[Healing]]: lifesteal and HP regen numbers
+
 ## Characters
 - [[Characters]]: all 74, sortable table plus one note each
 - [[Wanted Tags]]: which items each tag covers and who wants it
