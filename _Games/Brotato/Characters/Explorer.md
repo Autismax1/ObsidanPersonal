@@ -29,7 +29,8 @@ hidden_effect: true
 - Percent damage -40
 - Trees start wave ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
 
-**Starting weapon choices:** Hand, Cacti club, Screwdriver, Dagger, Wrench, Stick, Torch, Chopper, Plank, Hatchet, Jousting lance, Ghost axe, Crossbow, Shredder, Taser, Wand, Hiking stick, Spoon, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Molotov, Carbon bow, Pan flute, Boomerang
+**Starting weapon choices:** [[Hand]], [[Cacti Club]], [[Screwdriver]], [[Dagger]], [[Wrench]], [[Stick]], [[Torch]], [[Chopper]], [[Plank]], [[Hatchet]], [[Jousting Lance]], [[Ghost Axe]], [[Crossbow]], [[Shredder]], [[Taser]], [[Wand]], [[Hiking Stick]], [[Spoon]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Molotov]], [[Carbon Bow]], [[Pan Flute]], [[Boomerang]]
+**Starting items:** [[Lumberjack Shirt]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Speed|Speed]], [[Wanted Tags#Exploration|Exploration]], [[Wanted Tags#Consumable|Consumable]]
@@ -41,9 +42,11 @@ hidden_effect: true
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Trees (+12)
   - Speed +10
   - Pickup range (+50)
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

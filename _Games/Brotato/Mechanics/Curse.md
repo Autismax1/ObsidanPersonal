@@ -39,14 +39,17 @@ modifier = 40% + 2% × min(20, wave − 1) + random(−30 … +30)%
 
 | Wave | Lowest | Average | Highest |
 |---|---|---|---|
-| 1 | 8% | 38% | 68% |
-| 5 | 16% | 46% | 76% |
-| 10 | 26% | 56% | 86% |
-| 15 | 36% | 66% | 96% |
-| 21+ | 48% | 78% | 108% |
+| 1 | 10% | 40% | 70% |
+| 5 | 18% | 48% | 78% |
+| 10 | 28% | 58% | 88% |
+| 15 | 38% | 68% | 98% |
+| 20 | 48% | 78% | 108% |
+| 21+ | 50% | 80% | 110% |
+
+Exact cursed values per item and weapon: open the item in [[Items]] or the weapon in [[Weapons]].
 
 ## Why low curses show up late
-- **±30 is wider than all the wave growth.** Wave 21's worst roll is below wave 5's average.
+- **±30 is wider than all the wave growth.** A late-game worst roll (50%) is no better than an average wave-5 roll (48%).
 - **Single-effect items** get one roll and land low more often.
 - **Fixed 38%:** starting items, dino eggs and Ammosaurus ignore wave and randomness.
 - **Combining** re-rolls, but never below the higher of the two inputs.

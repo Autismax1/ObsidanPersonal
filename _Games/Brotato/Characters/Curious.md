@@ -23,7 +23,8 @@ hidden_effect: false
 - -10 Percent damage for every Duplicate item
 - Enemy health +25
 
-**Starting weapon choices:** Brick, Cacti club, Ghost axe, Hatchet, Knife, Plank, Rock, Torch, Lightning shiv, Pistol, Double barrel shotgun, Icicle, Lute, Javelin, Slingshot, Boomerang, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Machinegun, Molotov, Pan flute, Flail, Carbon bow
+**Starting weapon choices:** [[Brick]], [[Cacti Club]], [[Ghost Axe]], [[Hatchet]], [[Knife]], [[Plank]], [[Rock]], [[Torch]], [[Lightning Shiv]], [[Pistol]], [[Double Barrel Shotgun]], [[Icicle]], [[Lute]], [[Javelin]], [[Slingshot]], [[Boomerang]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Machinegun]], [[Molotov]], [[Pan Flute]], [[Flail]], [[Carbon Bow]]
+**Starting items:** [[Spyglass]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Luck|Luck]]
@@ -35,8 +36,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Extra loot aliens (+2)
   - +2 Xp gain for every Different item
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

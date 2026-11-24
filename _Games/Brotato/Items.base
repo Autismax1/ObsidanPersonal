@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.inFolder("_Games/Brotato/Items")
+properties:
+  note.tier:
+    displayName: Tier
+  note.price:
+    displayName: Price
+  note.max:
+    displayName: Max
+  note.item_tags:
+    displayName: Tags
+  note.dlc:
+    displayName: DLC
+  note.in_shop:
+    displayName: In shop
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - tier
+      - price
+      - max
+      - item_tags
+      - dlc
+      - in_shop
+    sort:
+      - property: tier
+        direction: ASC

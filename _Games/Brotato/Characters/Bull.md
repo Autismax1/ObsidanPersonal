@@ -31,8 +31,8 @@ hidden_effect: false
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Armor|Armor]], [[Wanted Tags#Hp regeneration|Hp regeneration]], [[Wanted Tags#Explosive|Explosive]]
   On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned item groups:** [[Item Groups#Lifesteal|Lifesteal]] (Butterfly, Bat, Whetstone, Decomposing flesh, Bloody hand, Fresh meat)
-- **Banned items (8):** Jelly, Nail, Crystal, Coffee, Seashell, Glasses, Community support, Tardigrade
+- **Banned item groups:** [[Item Groups#Lifesteal|Lifesteal]] ([[Butterfly]], [[Bat]], [[Whetstone]], [[Decomposing Flesh]], [[Bloody Hand]], [[Fresh Meat]])
+- **Banned items (8):** [[Jelly]], [[Nail]], [[Crystal]], [[Coffee]], [[Seashell]], [[Glasses]], [[Community Support]], [[Tardigrade]]
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 - **Banned consumables:** Meca consumable fruit
 
@@ -42,11 +42,13 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Lifesteal. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Max hp +20
   - Hp regeneration +15
   - Armor +10
   - +50% gains of Hp regeneration
   - Explode on hit
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

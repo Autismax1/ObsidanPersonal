@@ -22,7 +22,7 @@ hidden_effect: false
 - No ranged weapons
 - Burn give primitive bonus
 
-**Starting weapon choices:** Cacti club, Hatchet, Rock, Sharp tooth, Spear, Fighting stick, Stick, Torch
+**Starting weapon choices:** [[Cacti Club]], [[Hatchet]], [[Rock]], [[Sharp Tooth]], [[Spear]], [[Fighting Stick]], [[Stick]], [[Torch]]
 
 ## Shop
 - **Wanted tags:** none. Item rolls are fully random. See [[Shop Item Rolls]].
@@ -33,7 +33,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Ranged damage. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Burn give primitive bonus
-  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Burn give primitive bonus
+- Not if that stat is already at its cap.

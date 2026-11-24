@@ -20,7 +20,7 @@ hidden_effect: false
 - Max weapons (+12)
 - Additional bonus (-5)
 
-**Starting weapon choices:** Cacti club, Fist, Claw, Knife, Spear, Stick, Fighting stick, Lightning shiv, Screwdriver, Wrench, Ghost flint, Ghost axe, Plank, Chopper, Hatchet, Jousting lance, Pruner, Rock, Spiky shield, Sharp tooth, Double barrel shotgun, Smg, Revolver, Laser gun, Wand, Icicle, Slingshot, Taser, Shuriken, Crossbow, Rail gun, Hiking stick, Lute, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Molotov, Pan flute, Carbon bow
+**Starting weapon choices:** [[Cacti Club]], [[Fist]], [[Claw]], [[Knife]], [[Spear]], [[Stick]], [[Fighting Stick]], [[Lightning Shiv]], [[Screwdriver]], [[Wrench]], [[Ghost Flint]], [[Ghost Axe]], [[Plank]], [[Chopper]], [[Hatchet]], [[Jousting Lance]], [[Pruner]], [[Rock]], [[Spiky Shield]], [[Sharp Tooth]], [[Double Barrel Shotgun]], [[Smg]], [[Revolver]], [[Laser Gun]], [[Wand]], [[Icicle]], [[Slingshot]], [[Taser]], [[Shuriken]], [[Crossbow]], [[Rail Gun]], [[Hiking Stick]], [[Lute]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Molotov]], [[Pan Flute]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** none. Item rolls are fully random. See [[Shop Item Rolls]].
@@ -31,8 +31,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Percent damage +20
   - Max weapons (+12)
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

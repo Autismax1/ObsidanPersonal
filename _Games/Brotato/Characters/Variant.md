@@ -21,7 +21,7 @@ hidden_effect: false
 - Mutate end of wave
 - Mutate on equip chance (+25)
 
-**Starting weapon choices:** Ghost flint, Pistol, Smg, Double barrel shotgun, Slingshot, Taser, Wand, Icicle, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Machinegun, Molotov, Pan flute, Flail, Carbon bow
+**Starting weapon choices:** [[Ghost Flint]], [[Pistol]], [[Smg]], [[Double Barrel Shotgun]], [[Slingshot]], [[Taser]], [[Wand]], [[Icicle]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Machinegun]], [[Molotov]], [[Pan Flute]], [[Flail]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** none. Item rolls are fully random. See [[Shop Item Rolls]].
@@ -33,7 +33,9 @@ hidden_effect: false
 ## Evolution and curse
 - **Mutant only.** Only mutant fruit drops. See [[Evolution]].
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Mutate on equip chance (+25) (only from scale 0.7, about −63 evolution)
-  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Mutate on equip chance (+25) (only from scale 0.7, about −63 evolution)
+- Not if that stat is already at its cap.

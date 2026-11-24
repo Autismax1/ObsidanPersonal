@@ -10,28 +10,28 @@ tags:
 Once you own this many copies (locked shop items count too), the item leaves the shop and crate pool.
 
 ## Max 1
-Adrenaline, Anvil, Axolotl, Ball and chain, Barnacle, Black flag, Bloody hand, Boosted mitosis, Builder turret 0, Builder turret 1, Builder turret 2, Builder turret 3, Candle, Candy bag, Cauldron, Community support, Crown, Cybernetic arm, Dino egg, Dino egg 1, Dino egg 2, Estys couch, Evil hat, Extra stomach, Failsafe core, Fairy, Flare, Fossil jaw, Fossil left arm, Fossil left leg, Fossil right arm, Fossil right leg, Fossil skull, Fossil spine, Fossil tail, Fried rice, Frozen heart, Ghost outfit, Giant belt, Greek fire, Handcuffs, Hourglass, Ice cube, Improved tools, Jamming backpack, Jerky, Knot, Krakens eye, Lantern, Lighthouse, Lootworm, Lucky coin, Lumberjack shirt, Magma boots, Mud lover, Nail, Padding, Piggy bank, Pile of books, Plastic boots, Pocket factory, Pocket watch, Potion, Power generator, Pyromaniac, Raptor eye, Recycling machine, Retromations hoodie, Sad tomato, Saltwater, Scapegoat, Seashell, Shackles, Sharp bullet, Shaving foam can meca, Shaving foam can mutant, Sifds relic, Snail, Snowball, Stone skin, Strange book, Sunken bell, Torture, Ugly tooth, Virus, Whistle, White flag, Wildfire mutation, Wisdom
+[[Adrenaline]], [[Anvil]], [[Axolotl]], [[Ball And Chain]], [[Barnacle]], [[Black Flag]], [[Bloody Hand]], [[Boosted Mitosis]], [[Candle]], [[Candy Bag]], [[Cauldron]], [[Community Support]], [[Crown]], [[Cybernetic Arm]], [[Dino Egg]], [[Estys Couch]], [[Evil Hat]], [[Extra Stomach]], [[Failsafe Core]], [[Fairy]], [[Flare]], [[Fossil Jaw]], [[Fossil Left Arm]], [[Fossil Left Leg]], [[Fossil Right Arm]], [[Fossil Right Leg]], [[Fossil Skull]], [[Fossil Spine]], [[Fossil Tail]], [[Fried Rice]], [[Frozen Heart]], [[Ghost Outfit]], [[Giant Belt]], [[Greek Fire]], [[Handcuffs]], [[Hourglass]], [[Ice Cube]], [[Improved Tools]], [[Jamming Backpack]], [[Jerky]], [[Knot]], [[Krakens Eye]], [[Lantern]], [[Lighthouse]], [[Lootworm]], [[Lucky Coin]], [[Lumberjack Shirt]], [[Magma Boots]], [[Mud Lover]], [[Nail]], [[Padding]], [[Piggy Bank]], [[Pile Of Books]], [[Plastic Boots]], [[Pocket Factory]], [[Pocket Watch]], [[Potion]], [[Power Generator]], [[Pyromaniac]], [[Raptor Eye]], [[Recycling Machine]], [[Retromations Hoodie]], [[Sad Tomato]], [[Saltwater]], [[Scapegoat]], [[Seashell]], [[Shackles]], [[Sharp Bullet]], [[Shaving Foam Can Meca]], [[Shaving Foam Can Mutant]], [[Sifds Relic]], [[Snail]], [[Snowball]], [[Stone Skin]], [[Strange Book]], [[Sunken Bell]], [[Torture]], [[Ugly Tooth]], [[Virus]], [[Whistle]], [[White Flag]], [[Wildfire Mutation]], [[Wisdom]]
 
 ## Max 2
-Bone dice, Dig site, Eldritch figurine, Eyes surgery, Meca evolved leap, Mut evolved leap, Spicy sauce, Spyglass
+[[Bone Dice]], [[Dig Site]], [[Eldritch Figurine]], [[Eyes Surgery]], [[Meca Evolved Leap]], [[Mut Evolved Leap]], [[Spicy Sauce]], [[Spyglass]]
 
 ## Max 3
-Bag, Coil, Dangerous bunny, Exothermic reaction, Fish hook, Goblet, Hunting trophy, Infected skin, Jellyshield, Penguin, Starfish, Titanium excess
+[[Bag]], [[Coil]], [[Dangerous Bunny]], [[Exothermic Reaction]], [[Fish Hook]], [[Goblet]], [[Hunting Trophy]], [[Infected Skin]], [[Jellyshield]], [[Penguin]], [[Starfish]], [[Titanium Excess]]
 
 ## Max 4
-Baby gecko, Chimera cells, Doc moth, Fruit basket, Scared sausage, Smelly rafflesia
+[[Baby Gecko]], [[Chimera Cells]], [[Doc Moth]], [[Fruit Basket]], [[Scared Sausage]], [[Smelly Rafflesia]]
 
 ## Max 5
-Coupon, Mouse, Rip and tear, Tentacle, Treasure map
+[[Coupon]], [[Mouse]], [[Rip And Tear]], [[Tentacle]], [[Treasure Map]]
 
 ## Max 10
-Gentle alien
+[[Gentle Alien]]
 
 ## Max 13
-Cute monkey
+[[Cute Monkey]]
 
 ## Max 20
-Metal detector, Pearl
+[[Metal Detector]], [[Pearl]]
 
 ## Danger requirement
-Lifeform scanner (Danger 2+)
+[[Lifeform Scanner]] (Danger 2+)

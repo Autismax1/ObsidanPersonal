@@ -23,7 +23,7 @@ hidden_effect: false
 - Group structures
 - -50% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Piercing damage, Explosion damage, Bounce damage, Damage against bosses
 
-**Starting weapon choices:** Wrench, Screwdriver, Plank, Hammer, Crowbar, Shovel, Awl, Carbon bow
+**Starting weapon choices:** [[Wrench]], [[Screwdriver]], [[Plank]], [[Hammer]], [[Crowbar]], [[Shovel]], [[Awl]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Engineering|Engineering]], [[Wanted Tags#Structure|Structure]]
@@ -35,8 +35,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Engineering +10
   - +25% gains of Engineering
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

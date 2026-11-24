@@ -19,7 +19,7 @@ hidden_effect: false
 - Gain every killed enemies in zone (+15)
 - Poacher zone materials (-50)
 
-**Starting weapon choices:** Knife, Stick, Fist, Chopper, Fighting stick, Cacti club, Hatchet, Wrench, Pistol, Smg, Double barrel shotgun, Slingshot, Taser, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Machinegun, Molotov, Flail, Carbon bow, Sharp tooth
+**Starting weapon choices:** [[Knife]], [[Stick]], [[Fist]], [[Chopper]], [[Fighting Stick]], [[Cacti Club]], [[Hatchet]], [[Wrench]], [[Pistol]], [[Smg]], [[Double Barrel Shotgun]], [[Slingshot]], [[Taser]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Machinegun]], [[Molotov]], [[Flail]], [[Carbon Bow]], [[Sharp Tooth]]
 
 ## Shop
 - **Wanted tags:** none. Item rolls are fully random. See [[Shop Item Rolls]].
@@ -30,7 +30,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Gain every killed enemies in zone (+15) (only from scale 0.7, about −63 evolution)
-  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Gain every killed enemies in zone (+15) (only from scale 0.7, about −63 evolution)
+- Not if that stat is already at its cap.

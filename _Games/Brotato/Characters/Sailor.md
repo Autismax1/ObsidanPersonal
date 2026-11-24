@@ -28,13 +28,13 @@ hidden_effect: false
 - Dodge cap (+20)
 - -100% gains of Harvesting
 
-**Starting weapon choices:** Anchor, Trident, Blunderbuss
+**Starting weapon choices:** [[Anchor]], [[Trident]], [[Blunderbuss]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Curse|Curse]]
   On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned item groups:** [[Item Groups#Harvesting|Harvesting]] (Blood donation, Crown, Fertilizer, Tractor, Wheelbarrow, Lost organ); [[Item Groups#Dodge|Dodge]] (Adrenaline, Chameleon, Gambling token, Ghost outfit)
-- **Banned items (2):** Peaceful bee, Ghost outfit
+- **Banned item groups:** [[Item Groups#Harvesting|Harvesting]] ([[Blood Donation]], [[Crown]], [[Fertilizer]], [[Tractor]], [[Wheelbarrow]], [[Lost Organ]]); [[Item Groups#Dodge|Dodge]] ([[Adrenaline]], [[Chameleon]], [[Gambling Token]], [[Ghost Outfit]])
+- **Banned items (2):** [[Peaceful Bee]], [[Ghost Outfit]]
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 
 ## Level-ups
@@ -43,7 +43,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Harvesting. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Bonus class damage against cursed enemies (+200)
-  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Bonus class damage against cursed enemies (+200)
+- Not if that stat is already at its cap.

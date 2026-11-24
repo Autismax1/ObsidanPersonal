@@ -25,7 +25,7 @@ hidden_effect: false
 - Items price +25
 - Xp gain -25
 
-**Starting weapon choices:** Pruner, Chopper, Dagger, Fist, Jousting lance, Screwdriver, Plank, Shredder, Lute, Spoon, Flute, Meat tenderizer, Shovel, Whip, Sticky grenade, Carbon bow, Pan flute
+**Starting weapon choices:** [[Pruner]], [[Chopper]], [[Dagger]], [[Fist]], [[Jousting Lance]], [[Screwdriver]], [[Plank]], [[Shredder]], [[Lute]], [[Spoon]], [[Flute]], [[Meat Tenderizer]], [[Shovel]], [[Whip]], [[Sticky Grenade]], [[Carbon Bow]], [[Pan Flute]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Explosive|Explosive]], [[Wanted Tags#Melee damage|Melee damage]], [[Wanted Tags#Consumable|Consumable]]
@@ -37,9 +37,11 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Luck +50
   - Explode on consumable
   - Consumable while max (only from scale 0.7, about −63 evolution)
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

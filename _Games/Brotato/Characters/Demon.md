@@ -19,7 +19,7 @@ hidden_effect: false
 - Convert end of wave (+13)
 - Hp shop
 
-**Starting weapon choices:** Dagger, Lightning shiv, Ghost axe, Ghost flint, Torch, Chopper, Sharp tooth, Wrench, Ghost scepter, Wand, Taser, Icicle, Spoon, Flute, Awl, Crowbar, Shovel, Meat tenderizer, Molotov, Pan flute
+**Starting weapon choices:** [[Dagger]], [[Lightning Shiv]], [[Ghost Axe]], [[Ghost Flint]], [[Torch]], [[Chopper]], [[Sharp Tooth]], [[Wrench]], [[Ghost Scepter]], [[Wand]], [[Taser]], [[Icicle]], [[Spoon]], [[Flute]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Molotov]], [[Pan Flute]]
 
 ## Shop
 - **Wanted tags:** none. Item rolls are fully random. See [[Shop Item Rolls]].
@@ -30,5 +30,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- [[Mutation]] can't copy any of this character's effects.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- Nothing here can be copied by [[Mutation]].
+- Not if that stat is already at its cap.

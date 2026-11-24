@@ -23,7 +23,7 @@ hidden_effect: false
 - -50% gains of Luck
 - -50% gains of Harvesting
 
-**Starting weapon choices:** Cacti club, Chopper, Dagger, Spear, Sharp tooth, Hand, Claw, Fighting stick, Hatchet, Plank, Ghost flint, Spiky shield, Lightning shiv, Torch, Shuriken, Crossbow, Revolver, Laser gun, Rail gun, Lute, Crowbar, Shovel, Whip, Blowgun, Sticky grenade, Molotov, Pan flute, Flail, Meat tenderizer, Boomerang
+**Starting weapon choices:** [[Cacti Club]], [[Chopper]], [[Dagger]], [[Spear]], [[Sharp Tooth]], [[Hand]], [[Claw]], [[Fighting Stick]], [[Hatchet]], [[Plank]], [[Ghost Flint]], [[Spiky Shield]], [[Lightning Shiv]], [[Torch]], [[Shuriken]], [[Crossbow]], [[Revolver]], [[Laser Gun]], [[Rail Gun]], [[Lute]], [[Crowbar]], [[Shovel]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Molotov]], [[Pan Flute]], [[Flail]], [[Meat Tenderizer]], [[Boomerang]]
 
 ## Shop
 - **Wanted tags:** none. Item rolls are fully random. See [[Shop Item Rolls]].
@@ -34,5 +34,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- [[Mutation]] can't copy any of this character's effects.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- Nothing here can be copied by [[Mutation]].
+- Not if that stat is already at its cap.

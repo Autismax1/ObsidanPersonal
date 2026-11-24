@@ -24,7 +24,7 @@ hidden_effect: false
 - -10 Range at the end of every wave
 - -5 Xp gain at the end of every wave
 
-**Starting weapon choices:** Fist, Claw, Cacti club, Sharp tooth, Sickle, Hatchet, Rock, Stick, Spiky shield, Chopper, Torch, Plank, Smg, Shredder, Icicle, Ghost scepter, Javelin, Shovel, Meat tenderizer, Whip, Blowgun, Boomerang, Sticky grenade, Machinegun, Pan flute, Flail
+**Starting weapon choices:** [[Fist]], [[Claw]], [[Cacti Club]], [[Sharp Tooth]], [[Sickle]], [[Hatchet]], [[Rock]], [[Stick]], [[Spiky Shield]], [[Chopper]], [[Torch]], [[Plank]], [[Smg]], [[Shredder]], [[Icicle]], [[Ghost Scepter]], [[Javelin]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Boomerang]], [[Sticky Grenade]], [[Machinegun]], [[Pan Flute]], [[Flail]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Curse|Curse]], [[Wanted Tags#Xp gain|Xp gain]]
@@ -36,5 +36,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- [[Mutation]] can't copy any of this character's effects.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- Nothing here can be copied by [[Mutation]].
+- Not if that stat is already at its cap.

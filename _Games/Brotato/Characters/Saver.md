@@ -20,7 +20,8 @@ hidden_effect: false
 - +1 Percent damage for every 25 Materials
 - Items price +50
 
-**Starting weapon choices:** Fist, Chopper, Dagger, Ghost flint, Pruner, Lightning shiv, Cacti club, Spear, Pistol, Revolver, Laser gun, Taser, Wand, Icicle, Lute, Sickle, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Molotov, Pan flute, Carbon bow
+**Starting weapon choices:** [[Fist]], [[Chopper]], [[Dagger]], [[Ghost Flint]], [[Pruner]], [[Lightning Shiv]], [[Cacti Club]], [[Spear]], [[Pistol]], [[Revolver]], [[Laser Gun]], [[Taser]], [[Wand]], [[Icicle]], [[Lute]], [[Sickle]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Molotov]], [[Pan Flute]], [[Carbon Bow]]
+**Starting items:** [[Piggy Bank]]
 
 ## Shop
 - **Wanted tags:** none. Item rolls are fully random. See [[Shop Item Rolls]].
@@ -31,8 +32,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Harvesting +15
   - +1 Percent damage for every 25 Materials
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

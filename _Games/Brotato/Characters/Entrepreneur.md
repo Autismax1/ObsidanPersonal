@@ -24,7 +24,7 @@ hidden_effect: false
 - Gain pct gold start wave (-100)
 - -50% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Explosion damage, Bounce damage, Piercing damage, Damage against bosses
 
-**Starting weapon choices:** Fist, Claw, Hand, Knife, Dagger, Pruner, Fighting stick, Hatchet, Ghost flint, Wrench, Plank, Pistol, Double barrel shotgun, Taser, Shuriken, Crossbow, Icicle, Hiking stick, Lute, Sickle, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Sticky grenade, Machinegun, Molotov, Pan flute, Carbon bow
+**Starting weapon choices:** [[Fist]], [[Claw]], [[Hand]], [[Knife]], [[Dagger]], [[Pruner]], [[Fighting Stick]], [[Hatchet]], [[Ghost Flint]], [[Wrench]], [[Plank]], [[Pistol]], [[Double Barrel Shotgun]], [[Taser]], [[Shuriken]], [[Crossbow]], [[Icicle]], [[Hiking Stick]], [[Lute]], [[Sickle]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Sticky Grenade]], [[Machinegun]], [[Molotov]], [[Pan Flute]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Harvesting|Harvesting]], [[Wanted Tags#Economy|Economy]]
@@ -36,8 +36,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - +50% gains of Harvesting
   - Recycling gains (+25)
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

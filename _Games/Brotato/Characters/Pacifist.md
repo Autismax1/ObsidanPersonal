@@ -24,12 +24,13 @@ hidden_effect: false
 - Percent damage -100
 - Engineering -100
 
-**Starting weapon choices:** Hand, Taser, Pruner
+**Starting weapon choices:** [[Hand]], [[Taser]], [[Pruner]]
+**Starting items:** [[Lumberjack Shirt]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Max hp|Max hp]], [[Wanted Tags#Hp regeneration|Hp regeneration]], [[Wanted Tags#Armor|Armor]]
   On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned item groups:** [[Item Groups#Engineering|Engineering]] (Lighthouse, Cog, Nail, Toolbox, Book, Pencil)
+- **Banned item groups:** [[Item Groups#Engineering|Engineering]] ([[Lighthouse]], [[Cog]], [[Nail]], [[Toolbox]], [[Book]], [[Pencil]])
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 
 ## Level-ups
@@ -38,7 +39,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Pacifist (+65)
-  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Pacifist (+65)
+- Not if that stat is already at its cap.

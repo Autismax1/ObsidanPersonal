@@ -10,53 +10,53 @@ tags:
 Fixed lists in the game code. A character that bans a group never sees these items in the shop or crates until endless. See [[Shop Item Rolls#Character bans]].
 
 ## Harvesting
-- Items: Blood donation, Crown, Fertilizer, Tractor, Wheelbarrow, Lost organ
+- Items: [[Blood Donation]], [[Crown]], [[Fertilizer]], [[Tractor]], [[Wheelbarrow]], [[Lost Organ]]
 - Banned by: [[Hunter]], [[Knight]], [[Sailor]]
 
 ## Melee damage
-- Items: Mastery, Goat skull, Riposte
+- Items: [[Mastery]], [[Goat Skull]], [[Riposte]]
 - Banned by: [[Arsonist]], [[Cyborg]], [[Mage]], [[Ranger]], [[Technomage]]
 
 ## Ranged damage
-- Items: Lens
+- Items: [[Lens]]
 - Banned by: [[Arsonist]], [[Brawler]], [[Diver]], [[Gladiator]], [[Knight]], [[Mage]], [[Technomage]]
 
 ## Melee and ranged damage
-- Items: Big arms, Hedgehog
+- Items: [[Big Arms]], [[Hedgehog]]
 - Banned by: [[Arsonist]], [[Mage]], [[Technomage]]
 
 ## Lifesteal
-- Items: Butterfly, Bat, Whetstone, Decomposing flesh, Bloody hand, Fresh meat
+- Items: [[Butterfly]], [[Bat]], [[Whetstone]], [[Decomposing Flesh]], [[Bloody Hand]], [[Fresh Meat]]
 - Banned by: [[Bull]], [[Chunky]], [[Cryptid]], [[Druid]], [[Golem]], [[Veteran]]
 
 ## Lifesteal and hp regeneration
-- Items: Blood leech
+- Items: [[Blood Leech]]
 - Banned by: [[Chunky]], [[Druid]], [[Golem]], [[Veteran]]
 
 ## Hp regeneration
-- Items: Mushroom, Plant, Sad tomato, Medikit, Fairy, Potion, Fried rice, Baby squid, Coral, Penguin
+- Items: [[Mushroom]], [[Plant]], [[Sad Tomato]], [[Medikit]], [[Fairy]], [[Potion]], [[Fried Rice]], [[Baby Squid]], [[Coral]], [[Penguin]]
 - Banned by: [[Druid]], [[Golem]], [[Sick]], [[Vampire]], [[Veteran]]
 
 ## Consumable heal
-- Items: Jerky, Weird food, Lemonade, Fruit basket
+- Items: [[Jerky]], [[Weird Food]], [[Lemonade]], [[Fruit Basket]]
 - Banned by: [[Golem]], [[Vampire]]
 
 ## Speed
-- Items: Terrified onion, Beanie, Power generator
+- Items: [[Terrified Onion]], [[Beanie]], [[Power Generator]]
 - Banned by: [[Chunky]]
 
 ## Engineering
-- Items: Lighthouse, Cog, Nail, Toolbox, Book, Pencil
+- Items: [[Lighthouse]], [[Cog]], [[Nail]], [[Toolbox]], [[Book]], [[Pencil]]
 - Banned by: [[Pacifist]]
 
 ## Elemental damage
-- Items: Strange book, Frozen heart, Boiling water, Snowball, Toxic sludge, Fuel tank, Will o the wisp
+- Items: [[Strange Book]], [[Frozen Heart]], [[Boiling Water]], [[Snowball]], [[Toxic Sludge]], [[Fuel Tank]], [[Will O The Wisp]]
 - Banned by: [[Chef]], [[Cyborg]]
 
 ## Armor
-- Items: Stone skin, Helmet, Metal plate
+- Items: [[Stone Skin]], [[Helmet]], [[Metal Plate]]
 - Banned by: [[Ghost]]
 
 ## Dodge
-- Items: Adrenaline, Chameleon, Gambling token, Ghost outfit
+- Items: [[Adrenaline]], [[Chameleon]], [[Gambling Token]], [[Ghost Outfit]]
 - Banned by: [[Sailor]]

@@ -28,12 +28,12 @@ hidden_effect: false
 - Hp regeneration -100
 - Consumable heal (-100)
 
-**Starting weapon choices:** Fist, Claw, Sharp tooth, Ghost flint, Hatchet, Knife, Dagger, Lightning shiv, Scissors, Spiky shield, Stick, Torch, Screwdriver, Wrench, Shuriken, Pistol, Smg, Double barrel shotgun, Medical gun, Revolver, Shredder, Crossbow, Sickle, Awl, Shovel, Whip, Blowgun, Sticky grenade, Machinegun, Flail, Carbon bow
+**Starting weapon choices:** [[Fist]], [[Claw]], [[Sharp Tooth]], [[Ghost Flint]], [[Hatchet]], [[Knife]], [[Dagger]], [[Lightning Shiv]], [[Scissors]], [[Spiky Shield]], [[Stick]], [[Torch]], [[Screwdriver]], [[Wrench]], [[Shuriken]], [[Pistol]], [[Smg]], [[Double Barrel Shotgun]], [[Medical Gun]], [[Revolver]], [[Shredder]], [[Crossbow]], [[Sickle]], [[Awl]], [[Shovel]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Machinegun]], [[Flail]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Lifesteal|Lifesteal]]
   On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned item groups:** [[Item Groups#Hp regeneration|Hp regeneration]] (Mushroom, Plant, Sad tomato, Medikit, Fairy, Potion, Fried rice, Baby squid, Coral, Penguin); [[Item Groups#Consumable heal|Consumable heal]] (Jerky, Weird food, Lemonade, Fruit basket)
+- **Banned item groups:** [[Item Groups#Hp regeneration|Hp regeneration]] ([[Mushroom]], [[Plant]], [[Sad Tomato]], [[Medikit]], [[Fairy]], [[Potion]], [[Fried Rice]], [[Baby Squid]], [[Coral]], [[Penguin]]); [[Item Groups#Consumable heal|Consumable heal]] ([[Jerky]], [[Weird Food]], [[Lemonade]], [[Fruit Basket]])
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 
 ## Level-ups
@@ -42,9 +42,11 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Hp regeneration. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - +2 Percent damage for every Percent player missing health
   - +1 Lifesteal for every 3 Percent player missing health
   - +1 Armor for every 5 Percent player missing health
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

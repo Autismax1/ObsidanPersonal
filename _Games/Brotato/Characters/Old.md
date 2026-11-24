@@ -24,7 +24,7 @@ hidden_effect: false
 - Number of enemies -10
 - Speed -10
 
-**Starting weapon choices:** Scissors, Screwdriver, Wrench, Rock, Plank, Chopper, Pruner, Double barrel shotgun, Revolver, Taser, Wand, Icicle, Lute, Sickle, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Molotov, Carbon bow, Boomerang
+**Starting weapon choices:** [[Scissors]], [[Screwdriver]], [[Wrench]], [[Rock]], [[Plank]], [[Chopper]], [[Pruner]], [[Double Barrel Shotgun]], [[Revolver]], [[Taser]], [[Wand]], [[Icicle]], [[Lute]], [[Sickle]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Molotov]], [[Carbon Bow]], [[Boomerang]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Less enemies|Less enemies]], [[Wanted Tags#Less enemy speed|Less enemy speed]]
@@ -36,8 +36,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Enemy speed -25
   - Harvesting +10
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

@@ -24,7 +24,7 @@ hidden_effect: false
 - Knockback (+15)
 - Cant attack while moving
 
-**Starting weapon choices:** Knife, Lightning shiv, Crossbow, Double barrel shotgun, Laser gun, Pistol, Shredder, Revolver, Smg, Taser, Wand, Icicle, Rail gun, Flute, Javelin, Whip, Boomerang, Sticky grenade, Molotov, Pan flute, Machinegun, Flail, Carbon bow
+**Starting weapon choices:** [[Knife]], [[Lightning Shiv]], [[Crossbow]], [[Double Barrel Shotgun]], [[Laser Gun]], [[Pistol]], [[Shredder]], [[Revolver]], [[Smg]], [[Taser]], [[Wand]], [[Icicle]], [[Rail Gun]], [[Flute]], [[Javelin]], [[Whip]], [[Boomerang]], [[Sticky Grenade]], [[Molotov]], [[Pan Flute]], [[Machinegun]], [[Flail]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Stand still|Stand still]]
@@ -36,11 +36,13 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Percent damage +50
   - Attack speed +50
   - Speed +10
   - Pickup range (+200)
   - Knockback (+15)
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

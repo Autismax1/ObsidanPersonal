@@ -25,7 +25,7 @@ hidden_effect: false
 - Attack speed -60
 - Xp gain -50
 
-**Starting weapon choices:** Stick, Rock, Fist, Chopper, Plank, Screwdriver, Jousting lance, Torch, Pruner, Slingshot, Wand, Icicle, Lute, Flute, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Molotov, Carbon bow, Pan flute
+**Starting weapon choices:** [[Stick]], [[Rock]], [[Fist]], [[Chopper]], [[Plank]], [[Screwdriver]], [[Jousting Lance]], [[Torch]], [[Pruner]], [[Slingshot]], [[Wand]], [[Icicle]], [[Lute]], [[Flute]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Molotov]], [[Carbon Bow]], [[Pan Flute]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Luck|Luck]], [[Wanted Tags#Pickup|Pickup]], [[Wanted Tags#Exploration|Exploration]]
@@ -37,9 +37,11 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Luck +100
   - +25% gains of Luck
   - Deal dmg when pickup gold (+15)
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

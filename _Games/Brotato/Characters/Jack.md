@@ -22,7 +22,7 @@ hidden_effect: false
 - Enemy health +175
 - Enemy damage +35
 
-**Starting weapon choices:** Knife, Jousting lance, Wrench, Torch, Hatchet, Stick, Spear, Spiky shield, Shuriken, Boomerang, Laser gun, Revolver, Crossbow, Taser, Wand, Icicle, Rail gun, Brick, Lute, Spoon, Flute, Molotov, Sticky grenade, Awl, Meat tenderizer, Whip, Blowgun, Machinegun, Pan flute, Flail, Carbon bow
+**Starting weapon choices:** [[Knife]], [[Jousting Lance]], [[Wrench]], [[Torch]], [[Hatchet]], [[Stick]], [[Spear]], [[Spiky Shield]], [[Shuriken]], [[Boomerang]], [[Laser Gun]], [[Revolver]], [[Crossbow]], [[Taser]], [[Wand]], [[Icicle]], [[Rail Gun]], [[Brick]], [[Lute]], [[Spoon]], [[Flute]], [[Molotov]], [[Sticky Grenade]], [[Awl]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Machinegun]], [[Pan Flute]], [[Flail]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** none. Item rolls are fully random. See [[Shop Item Rolls]].
@@ -33,8 +33,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Damage against bosses (+125)
   - Gold drops (+200)
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

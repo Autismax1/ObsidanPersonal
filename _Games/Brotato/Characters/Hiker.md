@@ -22,7 +22,7 @@ hidden_effect: false
 - +10% gains of Speed
 - Gold drops (-50)
 
-**Starting weapon choices:** Hiking stick, Fist, Hand, Lute, Flute, Dagger, Jousting lance, Stick, Pistol, Taser, Awl, Crowbar, Shovel, Spoon, Whip, Blowgun, Boomerang, Sticky grenade, Molotov, Pan flute, Flail, Carbon bow
+**Starting weapon choices:** [[Hiking Stick]], [[Fist]], [[Hand]], [[Lute]], [[Flute]], [[Dagger]], [[Jousting Lance]], [[Stick]], [[Pistol]], [[Taser]], [[Awl]], [[Crowbar]], [[Shovel]], [[Spoon]], [[Whip]], [[Blowgun]], [[Boomerang]], [[Sticky Grenade]], [[Molotov]], [[Pan Flute]], [[Flail]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Speed|Speed]]
@@ -34,9 +34,11 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Gold on every step: +6 Gold (10)
   - On every step: +1 Max hp (80)
   - +10% gains of Speed
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

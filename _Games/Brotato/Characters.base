@@ -18,7 +18,7 @@ properties:
     displayName: Hidden effect
 views:
   - type: table
-    name: All characters
+    name: All
     order:
       - file.name
       - dlc

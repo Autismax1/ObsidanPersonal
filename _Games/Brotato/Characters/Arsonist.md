@@ -34,12 +34,12 @@ hidden_effect: false
 - -100% gains of Ranged damage
 - -100% gains of Engineering
 
-**Starting weapon choices:** Torch, Molotov, Shredder, Sticky grenade, Plank, Lightning shiv, Wand, Screwdriver
+**Starting weapon choices:** [[Torch]], [[Molotov]], [[Shredder]], [[Sticky Grenade]], [[Plank]], [[Lightning Shiv]], [[Wand]], [[Screwdriver]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Elemental damage|Elemental damage]], [[Wanted Tags#Explosive|Explosive]]
   On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned item groups:** [[Item Groups#Melee damage|Melee damage]] (Mastery, Goat skull, Riposte); [[Item Groups#Ranged damage|Ranged damage]] (Lens); [[Item Groups#Melee and ranged damage|Melee and ranged damage]] (Big arms, Hedgehog)
+- **Banned item groups:** [[Item Groups#Melee damage|Melee damage]] ([[Mastery]], [[Goat Skull]], [[Riposte]]); [[Item Groups#Ranged damage|Ranged damage]] ([[Lens]]); [[Item Groups#Melee and ranged damage|Melee and ranged damage]] ([[Big Arms]], [[Hedgehog]])
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 
 ## Level-ups
@@ -48,8 +48,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Melee damage, Ranged damage, Engineering. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Fire puddle on burning death
   - Speed +5
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

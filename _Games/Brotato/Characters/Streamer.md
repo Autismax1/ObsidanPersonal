@@ -25,7 +25,7 @@ hidden_effect: false
 - -1 Percent damage for every 15 Materials
 - -1 Speed for every 30 Materials
 
-**Starting weapon choices:** Fist, Stick, Cacti club, Ghost flint, Ghost axe, Scissors, Screwdriver, Wrench, Spear, Plank, Pruner, Spiky shield, Crossbow, Double barrel shotgun, Laser gun, Medical gun, Pistol, Shredder, Smg, Revolver, Slingshot, Ghost scepter, Taser, Wand, Icicle, Javelin, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Machinegun, Pan flute, Carbon bow
+**Starting weapon choices:** [[Fist]], [[Stick]], [[Cacti Club]], [[Ghost Flint]], [[Ghost Axe]], [[Scissors]], [[Screwdriver]], [[Wrench]], [[Spear]], [[Plank]], [[Pruner]], [[Spiky Shield]], [[Crossbow]], [[Double Barrel Shotgun]], [[Laser Gun]], [[Medical Gun]], [[Pistol]], [[Shredder]], [[Smg]], [[Revolver]], [[Slingshot]], [[Ghost Scepter]], [[Taser]], [[Wand]], [[Icicle]], [[Javelin]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Machinegun]], [[Pan Flute]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Structure|Structure]]
@@ -37,10 +37,12 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Gold while not moving: +3 Percent materials (25)
   - While moving (+40)
   - While moving (+40)
   - +2 Armor for every Structure
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

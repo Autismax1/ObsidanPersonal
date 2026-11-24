@@ -24,7 +24,7 @@ hidden_effect: false
 - Engineering -10
 - Ranged damage -10
 
-**Starting weapon choices:** Knife, Dagger, Scissors, Lightning shiv, Claw, Sharp tooth, Shuriken, Icicle
+**Starting weapon choices:** [[Knife]], [[Dagger]], [[Scissors]], [[Lightning Shiv]], [[Claw]], [[Sharp Tooth]], [[Shuriken]], [[Icicle]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Crit chance|Crit chance]], [[Wanted Tags#Melee damage|Melee damage]]
@@ -36,8 +36,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Effect class bonus +100
   - Attack speed +25
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

@@ -25,10 +25,11 @@ added: 2026-11-25
 - Numbers and tables: [[Healing]].
 
 ## Good with
-- Fast or multi-hit builds: Smg, Minigun, bouncing and piercing weapons, unarmed (fists hit often): [[Brawler]]
+- Fast or multi-hit builds: [[Smg]], [[Minigun]], bouncing and piercing weapons, unarmed ([[Fist]], [[Flaming Brass Knuckles]]): [[Brawler]]
+- Compare cooldowns in [[Weapons]]: a low cooldown means more hits, so more lifesteal rolls.
 - Lifesteal-focused characters: [[Vampire]], [[Sick]]
 
 ## Bad with
-- Slow, heavy weapons (rocket launchers, slow melee): pick regen instead.
+- Slow, heavy weapons ([[Rocket Launcher]], slow melee): pick regen instead.
 - Characters that ban lifesteal items: [[Golem]], [[Druid]], [[Veteran]], [[Bull]], [[Cryptid]], [[Chunky]], plus [[Droid]] and [[Wounded]] (long item ban lists)
 - Characters that ban regen items: [[Vampire]], [[Sick]], [[Golem]], [[Druid]], [[Veteran]], plus [[Droid]] and [[Wounded]]

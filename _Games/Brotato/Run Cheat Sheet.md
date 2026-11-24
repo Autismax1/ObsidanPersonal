@@ -50,5 +50,6 @@ tags:
 | What | Value | More |
 |---|---|---|
 | Item cursed | `15%·(1 − 1/(1 + curse/50))` | [[Curse#Curse chance]] |
-| Curse strength | `40% + 2%·(wave−1) ± 30%` | [[Curse#Curse strength]] |
+| Curse strength | `40% + 2%·min(20, wave−1) ± 30%`, so 10–70% at wave 1, 50–110% from wave 21 | [[Curse#Curse strength]] |
+| Cursed values of one item | open it in [[Items]] / [[Weapons]] | |
 | Enemy cursed | `50%·(1 − 1/(1 + curse/50))` | [[Cursed Enemies]] |

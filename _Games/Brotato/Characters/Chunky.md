@@ -33,13 +33,13 @@ hidden_effect: false
 - -50% gains of Dodge
 - -100% gains of Speed
 
-**Starting weapon choices:** Fist, Cacti club, Rock, Stick, Torch, Plank, Chopper, Pruner, Spiky shield, Double barrel shotgun, Taser, Ghost scepter, Shredder, Revolver, Spoon, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Molotov, Flail, Carbon bow, Pan flute, Machinegun
+**Starting weapon choices:** [[Fist]], [[Cacti Club]], [[Rock]], [[Stick]], [[Torch]], [[Plank]], [[Chopper]], [[Pruner]], [[Spiky Shield]], [[Double Barrel Shotgun]], [[Taser]], [[Ghost Scepter]], [[Shredder]], [[Revolver]], [[Spoon]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Molotov]], [[Flail]], [[Carbon Bow]], [[Pan Flute]], [[Machinegun]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Max hp|Max hp]], [[Wanted Tags#Consumable|Consumable]], [[Wanted Tags#Luck|Luck]]
   On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned item groups:** [[Item Groups#Lifesteal|Lifesteal]] (Butterfly, Bat, Whetstone, Decomposing flesh, Bloody hand, Fresh meat); [[Item Groups#Lifesteal and hp regeneration|Lifesteal and hp regeneration]] (Blood leech); [[Item Groups#Speed|Speed]] (Terrified onion, Beanie, Power generator)
-- **Banned items (1):** Fin
+- **Banned item groups:** [[Item Groups#Lifesteal|Lifesteal]] ([[Butterfly]], [[Bat]], [[Whetstone]], [[Decomposing Flesh]], [[Bloody Hand]], [[Fresh Meat]]); [[Item Groups#Lifesteal and hp regeneration|Lifesteal and hp regeneration]] ([[Blood Leech]]); [[Item Groups#Speed|Speed]] ([[Terrified Onion]], [[Beanie]], [[Power Generator]])
+- **Banned items (1):** [[Fin]]
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 
 ## Level-ups
@@ -48,9 +48,11 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Lifesteal, Speed. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - +25% gains of Max hp
   - +1 Percent damage for every 3 Max hp
   - Consumable heal (+3)
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

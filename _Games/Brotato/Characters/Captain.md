@@ -23,7 +23,7 @@ hidden_effect: false
 - +2 Enemy health at the end of every wave
 - +2 Enemy damage at the end of every wave
 
-**Starting weapon choices:** Fist, Knife, Hatchet, Spear, Ghost axe, Ghost flint, Chopper, Fighting stick, Torch, Plank, Lightning shiv, Double barrel shotgun, Smg, Revolver, Slingshot, Boomerang, Shredder, Javelin, Awl, Crowbar, Shovel, Meat tenderizer, Blowgun, Sticky grenade, Machinegun, Molotov, Pan flute, Carbon bow
+**Starting weapon choices:** [[Fist]], [[Knife]], [[Hatchet]], [[Spear]], [[Ghost Axe]], [[Ghost Flint]], [[Chopper]], [[Fighting Stick]], [[Torch]], [[Plank]], [[Lightning Shiv]], [[Double Barrel Shotgun]], [[Smg]], [[Revolver]], [[Slingshot]], [[Boomerang]], [[Shredder]], [[Javelin]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Blowgun]], [[Sticky Grenade]], [[Machinegun]], [[Molotov]], [[Pan Flute]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Xp gain|Xp gain]]
@@ -35,8 +35,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - +60 Xp gain for every Free slots
   - Level upgrades modifications (+100)
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

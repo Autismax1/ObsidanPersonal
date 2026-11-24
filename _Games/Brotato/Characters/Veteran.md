@@ -28,11 +28,11 @@ hidden_effect: false
 - Lifesteal -100
 - No fruit attracted end of wave
 
-**Starting weapon choices:** Double barrel shotgun, Rail gun, Smg, Sticky grenade, Molotov, Machinegun, Carbon bow
+**Starting weapon choices:** [[Double Barrel Shotgun]], [[Rail Gun]], [[Smg]], [[Sticky Grenade]], [[Molotov]], [[Machinegun]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** none. Item rolls are fully random. See [[Shop Item Rolls]].
-- **Banned item groups:** [[Item Groups#Lifesteal|Lifesteal]] (Butterfly, Bat, Whetstone, Decomposing flesh, Bloody hand, Fresh meat); [[Item Groups#Lifesteal and hp regeneration|Lifesteal and hp regeneration]] (Blood leech); [[Item Groups#Hp regeneration|Hp regeneration]] (Mushroom, Plant, Sad tomato, Medikit, Fairy, Potion, Fried rice, Baby squid, Coral, Penguin)
+- **Banned item groups:** [[Item Groups#Lifesteal|Lifesteal]] ([[Butterfly]], [[Bat]], [[Whetstone]], [[Decomposing Flesh]], [[Bloody Hand]], [[Fresh Meat]]); [[Item Groups#Lifesteal and hp regeneration|Lifesteal and hp regeneration]] ([[Blood Leech]]); [[Item Groups#Hp regeneration|Hp regeneration]] ([[Mushroom]], [[Plant]], [[Sad Tomato]], [[Medikit]], [[Fairy]], [[Potion]], [[Fried Rice]], [[Baby Squid]], [[Coral]], [[Penguin]])
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 
 ## Level-ups
@@ -41,7 +41,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Hp regeneration, Lifesteal. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - +1 Percent damage for every Percent player missing health
-  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - +1 Percent damage for every Percent player missing health
+- Not if that stat is already at its cap.

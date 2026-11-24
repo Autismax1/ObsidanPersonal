@@ -29,11 +29,12 @@ hidden_effect: false
 - Harvesting +8
 - Wounded items explanation
 
-**Starting weapon choices:** Knife, Stick, Fist, Chopper, Fighting stick, Cacti club, Hatchet, Spiky shield, Ghost flint, Wrench, Pistol, Smg, Double barrel shotgun, Slingshot, Boomerang, Taser, Wand, Icicle, Rail gun, Lute, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Machinegun, Molotov, Pan flute, Flail, Carbon bow
+**Starting weapon choices:** [[Knife]], [[Stick]], [[Fist]], [[Chopper]], [[Fighting Stick]], [[Cacti Club]], [[Hatchet]], [[Spiky Shield]], [[Ghost Flint]], [[Wrench]], [[Pistol]], [[Smg]], [[Double Barrel Shotgun]], [[Slingshot]], [[Boomerang]], [[Taser]], [[Wand]], [[Icicle]], [[Rail Gun]], [[Lute]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Machinegun]], [[Molotov]], [[Pan Flute]], [[Flail]], [[Carbon Bow]]
+**Starting items:** [[Tardigrade]]
 
 ## Shop
 - **Wanted tags:** none. Item rolls are fully random. See [[Shop Item Rolls]].
-- **Banned items (52):** Acid, Alien baby, Alien magic, Alien worm, Baby squid, Bat, Blood donation, Blood leech, Bloody hand, Broken mouth, Butterfly, Cake, Coral, Cute monkey, Decomposing flesh, Estys couch, Extra stomach, Fairy, Fresh meat, Fried rice, Goblet, Grinds magical leaf, Helmet, Jelly, Jerky, Krakens eye, Lemonade, Medikit, Metal plate, Mushroom, Octopus, Padding, Penguin, Plant, Potion, Sad tomato, Shmoop, Spicy sauce, Stone skin, Sunken bell, Torture, Warrior helmet, Weird food, Weird ghost, Whetstone, Alien eyes, Garden, Doc moth, Fruit basket, Turret healing, Pocket watch, Magma boots
+- **Banned items (52):** [[Acid]], [[Alien Baby]], [[Alien Magic]], [[Alien Worm]], [[Baby Squid]], [[Bat]], [[Blood Donation]], [[Blood Leech]], [[Bloody Hand]], [[Broken Mouth]], [[Butterfly]], [[Cake]], [[Coral]], [[Cute Monkey]], [[Decomposing Flesh]], [[Estys Couch]], [[Extra Stomach]], [[Fairy]], [[Fresh Meat]], [[Fried Rice]], [[Goblet]], [[Grinds Magical Leaf]], [[Helmet]], [[Jelly]], [[Jerky]], [[Krakens Eye]], [[Lemonade]], [[Medikit]], [[Metal Plate]], [[Mushroom]], [[Octopus]], [[Padding]], [[Penguin]], [[Plant]], [[Potion]], [[Sad Tomato]], [[Shmoop]], [[Spicy Sauce]], [[Stone Skin]], [[Sunken Bell]], [[Torture]], [[Warrior Helmet]], [[Weird Food]], [[Weird Ghost]], [[Whetstone]], [[Alien Eyes]], [[Garden]], [[Doc Moth]], [[Fruit Basket]], [[Turret Healing]], [[Pocket Watch]], [[Magma Boots]]
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 
 ## Level-ups
@@ -42,8 +43,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Max hp, Hp regeneration, Lifesteal, Armor. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Speed +5
   - Harvesting +8
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

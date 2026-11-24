@@ -22,11 +22,12 @@ hidden_effect: true
 - Beast master effect
 - Luck +10
 - Boosted wanted tag ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
+**Starting items:** [[Lootworm]], [[Ratzilla]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Pet|Pet]]
   On 5% of item rolls the shop only offers items with one of these tags (10% for this character). See [[Shop Item Rolls#Wanted tags]].
-- **Banned items (2):** Jelly, Glasses
+- **Banned items (2):** [[Jelly]], [[Glasses]]
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 - **Banned consumables:** Meca consumable fruit
 
@@ -36,9 +37,11 @@ hidden_effect: true
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - +2 Speed for every Pet
   - Beast master effect
   - Luck +10
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

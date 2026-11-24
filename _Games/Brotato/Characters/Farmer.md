@@ -23,7 +23,8 @@ hidden_effect: false
 - Consumable while max
 - Gold drops (-50)
 
-**Starting weapon choices:** Hand, Spear, Stick, Torch, Fighting stick, Screwdriver, Pruner, Dagger, Wrench, Taser, Wand, Double barrel shotgun, Slingshot, Potato thrower, Lute, Sickle, Awl, Crowbar, Shovel, Whip, Pan flute
+**Starting weapon choices:** [[Hand]], [[Spear]], [[Stick]], [[Torch]], [[Fighting Stick]], [[Screwdriver]], [[Pruner]], [[Dagger]], [[Wrench]], [[Taser]], [[Wand]], [[Double Barrel Shotgun]], [[Slingshot]], [[Potato Thrower]], [[Lute]], [[Sickle]], [[Awl]], [[Crowbar]], [[Shovel]], [[Whip]], [[Pan Flute]]
+**Starting items:** [[Garden]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Harvesting|Harvesting]], [[Wanted Tags#Consumable|Consumable]]
@@ -35,9 +36,11 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Harvesting +20
   - Harvesting growth (+3)
   - Consumable while max (only from scale 0.7, about −63 evolution)
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

@@ -24,7 +24,7 @@ hidden_effect: false
 - Upgraded baits
 - Enemy gold drops (-40)
 
-**Starting weapon choices:** Knife, Rock, Spear, Fighting stick, Spiky shield, Torch, Stick, Sharp tooth, Plank, Pruner, Scissors, Pistol, Smg, Crossbow, Double barrel shotgun, Laser gun, Revolver, Shredder, Slingshot, Boomerang, Icicle, Javelin, Meat tenderizer, Blowgun, Sticky grenade, Machinegun, Molotov, Pan flute, Carbon bow
+**Starting weapon choices:** [[Knife]], [[Rock]], [[Spear]], [[Fighting Stick]], [[Spiky Shield]], [[Torch]], [[Stick]], [[Sharp Tooth]], [[Plank]], [[Pruner]], [[Scissors]], [[Pistol]], [[Smg]], [[Crossbow]], [[Double Barrel Shotgun]], [[Laser Gun]], [[Revolver]], [[Shredder]], [[Slingshot]], [[Boomerang]], [[Icicle]], [[Javelin]], [[Meat Tenderizer]], [[Blowgun]], [[Sticky Grenade]], [[Machinegun]], [[Molotov]], [[Pan Flute]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** none. Item rolls are fully random. See [[Shop Item Rolls]].
@@ -35,9 +35,11 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Max hp +5
   - Harvesting +20
   - +2 Harvesting for every Bait
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

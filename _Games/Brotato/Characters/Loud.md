@@ -21,7 +21,7 @@ hidden_effect: false
 - Number of enemies +50
 - -3 Harvesting at the end of every wave
 
-**Starting weapon choices:** Cacti club, Ghost axe, Ghost flint, Lightning shiv, Dagger, Claw, Spear, Torch, Rock, Hatchet, Plank, Wrench, Jousting lance, Fighting stick, Pruner, Screwdriver, Double barrel shotgun, Pistol, Smg, Shredder, Icicle, Shuriken, Slingshot, Crossbow, Javelin, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Machinegun, Molotov, Pan flute, Flail, Carbon bow
+**Starting weapon choices:** [[Cacti Club]], [[Ghost Axe]], [[Ghost Flint]], [[Lightning Shiv]], [[Dagger]], [[Claw]], [[Spear]], [[Torch]], [[Rock]], [[Hatchet]], [[Plank]], [[Wrench]], [[Jousting Lance]], [[Fighting Stick]], [[Pruner]], [[Screwdriver]], [[Double Barrel Shotgun]], [[Pistol]], [[Smg]], [[Shredder]], [[Icicle]], [[Shuriken]], [[Slingshot]], [[Crossbow]], [[Javelin]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Machinegun]], [[Molotov]], [[Pan Flute]], [[Flail]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#More enemies|More enemies]]
@@ -33,7 +33,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Percent damage +30
-  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Percent damage +30
+- Not if that stat is already at its cap.

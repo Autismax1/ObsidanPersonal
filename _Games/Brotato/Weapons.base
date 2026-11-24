@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.inFolder("_Games/Brotato/Weapons")
+properties:
+  note.type:
+    displayName: Type
+  note.classes:
+    displayName: Classes
+  note.lowest_tier:
+    displayName: Lowest tier
+  note.damage_lowest_tier:
+    displayName: Damage
+  note.cooldown_lowest_tier:
+    displayName: Cooldown (s)
+  note.dlc:
+    displayName: DLC
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - type
+      - classes
+      - lowest_tier
+      - damage_lowest_tier
+      - cooldown_lowest_tier
+      - dlc
+    sort:
+      - property: file.name
+        direction: ASC

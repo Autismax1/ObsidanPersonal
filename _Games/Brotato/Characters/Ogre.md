@@ -26,12 +26,12 @@ hidden_effect: false
 - Attack speed -50
 - Speed -10
 
-**Starting weapon choices:** Fist, Brick, Rock, Plank, Cacti club, Chopper, Spoon, Meat tenderizer, Whip, Flail
+**Starting weapon choices:** [[Fist]], [[Brick]], [[Rock]], [[Plank]], [[Cacti Club]], [[Chopper]], [[Spoon]], [[Meat Tenderizer]], [[Whip]], [[Flail]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Max hp|Max hp]], [[Wanted Tags#Melee damage|Melee damage]], [[Wanted Tags#Explosive|Explosive]]
   On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned items (1):** Seashell
+- **Banned items (1):** [[Seashell]]
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 
 ## Level-ups
@@ -40,8 +40,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Ranged damage. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Explode on overkill (+200)
   - Melee damage +10
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

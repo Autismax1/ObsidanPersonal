@@ -24,6 +24,11 @@ Hidden values and rules read from the game's own scripts. Start at **[[Run Cheat
 - [[Item Groups]]: the fixed ban lists
 - [[Hidden Effects]]: effects the tooltips don't show
 
+## Items and weapons
+- [[Items]]: all 294 items by tier, each with effects, cursed values (worst → best roll) and mutation info
+- [[Weapons]]: all 96 weapons, stats per tier, cooldowns, cursed values
+- [[Weapon Classes]]: set bonuses for 2–6 weapons and which weapons belong to each class
+
 ## Shop
 - [[Shop Item Rolls]]: how one shop slot is filled, wanted tags, bans
 - [[Rarity Odds]]: tier chances per wave, luck, level-ups

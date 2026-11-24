@@ -24,12 +24,12 @@ hidden_effect: false
 - Minimum in shop
 - Next level xp needed +130
 
-**Starting weapon choices:** Fist, Scissors, Screwdriver, Pruner, Sharp tooth, Fighting stick, Knife, Stick, Plank, Rock, Wrench, Shuriken, Taser, Wand, Icicle, Slingshot, Pistol, Rail gun, Hiking stick, Spoon, Flute, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Machinegun, Molotov, Pan flute, Flail, Carbon bow
+**Starting weapon choices:** [[Fist]], [[Scissors]], [[Screwdriver]], [[Pruner]], [[Sharp Tooth]], [[Fighting Stick]], [[Knife]], [[Stick]], [[Plank]], [[Rock]], [[Wrench]], [[Shuriken]], [[Taser]], [[Wand]], [[Icicle]], [[Slingshot]], [[Pistol]], [[Rail Gun]], [[Hiking Stick]], [[Spoon]], [[Flute]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Machinegun]], [[Molotov]], [[Pan Flute]], [[Flail]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Xp gain|Xp gain]]
   On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned items (1):** Barnacle
+- **Banned items (1):** [[Barnacle]]
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 
 ## Level-ups
@@ -38,7 +38,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Harvesting +12
-  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Harvesting +12
+- Not if that stat is already at its cap.

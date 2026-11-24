@@ -25,13 +25,13 @@ hidden_effect: false
 - Attack speed -40
 - Luck -30
 
-**Starting weapon choices:** Spear, Jousting lance, Cacti club, Torch, Dagger, Knife, Plank, Ghost axe, Ghost flint, Sharp tooth, Fist, Claw, Fighting stick, Hatchet, Lightning shiv, Flail, Crowbar, Shovel, Meat tenderizer, Whip
+**Starting weapon choices:** [[Spear]], [[Jousting Lance]], [[Cacti Club]], [[Torch]], [[Dagger]], [[Knife]], [[Plank]], [[Ghost Axe]], [[Ghost Flint]], [[Sharp Tooth]], [[Fist]], [[Claw]], [[Fighting Stick]], [[Hatchet]], [[Lightning Shiv]], [[Flail]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Melee damage|Melee damage]]
   On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned item groups:** [[Item Groups#Ranged damage|Ranged damage]] (Lens)
-- **Banned items (1):** Seashell
+- **Banned item groups:** [[Item Groups#Ranged damage|Ranged damage]] ([[Lens]])
+- **Banned items (1):** [[Seashell]]
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 
 ## Level-ups
@@ -40,8 +40,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Ranged damage. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Unique bonus (+20)
   - Melee damage +5
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

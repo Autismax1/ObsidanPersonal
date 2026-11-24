@@ -32,13 +32,13 @@ hidden_effect: false
 - Lifesteal -100
 - -50% gains of Engineering
 
-**Starting weapon choices:** Fist, Claw, Ghost flint, Cacti club, Rock, Chopper, Fighting stick, Pruner, Sickle, Lute, Stick, Spear, Torch, Flute, Slingshot, Ghost scepter, Icicle, Wand, Javelin, Pan flute, Awl, Crowbar, Shovel, Whip, Blowgun, Molotov, Flail
+**Starting weapon choices:** [[Fist]], [[Claw]], [[Ghost Flint]], [[Cacti Club]], [[Rock]], [[Chopper]], [[Fighting Stick]], [[Pruner]], [[Sickle]], [[Lute]], [[Stick]], [[Spear]], [[Torch]], [[Flute]], [[Slingshot]], [[Ghost Scepter]], [[Icicle]], [[Wand]], [[Javelin]], [[Pan Flute]], [[Awl]], [[Crowbar]], [[Shovel]], [[Whip]], [[Blowgun]], [[Molotov]], [[Flail]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Consumable|Consumable]], [[Wanted Tags#Luck|Luck]]
   On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned item groups:** [[Item Groups#Lifesteal|Lifesteal]] (Butterfly, Bat, Whetstone, Decomposing flesh, Bloody hand, Fresh meat); [[Item Groups#Lifesteal and hp regeneration|Lifesteal and hp regeneration]] (Blood leech); [[Item Groups#Hp regeneration|Hp regeneration]] (Mushroom, Plant, Sad tomato, Medikit, Fairy, Potion, Fried rice, Baby squid, Coral, Penguin)
-- **Banned items (1):** Doc moth
+- **Banned item groups:** [[Item Groups#Lifesteal|Lifesteal]] ([[Butterfly]], [[Bat]], [[Whetstone]], [[Decomposing Flesh]], [[Bloody Hand]], [[Fresh Meat]]); [[Item Groups#Lifesteal and hp regeneration|Lifesteal and hp regeneration]] ([[Blood Leech]]); [[Item Groups#Hp regeneration|Hp regeneration]] ([[Mushroom]], [[Plant]], [[Sad Tomato]], [[Medikit]], [[Fairy]], [[Potion]], [[Fried Rice]], [[Baby Squid]], [[Coral]], [[Penguin]])
+- **Banned items (1):** [[Doc Moth]]
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 
 ## Level-ups
@@ -47,10 +47,12 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Hp regeneration, Lifesteal. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Max hp +5
   - Luck +15
   - Enemy fruit drops (+4)
   - On fruit: +1 Luck (33)
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

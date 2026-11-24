@@ -19,7 +19,7 @@ hidden_effect: false
 - Primitive weapons: +30% Lifesteal
 - Max tier
 
-**Starting weapon choices:** Stick, Spear, Torch, Rock, Cacti club, Hatchet, Fighting stick, Sharp tooth, Slingshot, Javelin, Whip, Blowgun, Boomerang
+**Starting weapon choices:** [[Stick]], [[Spear]], [[Torch]], [[Rock]], [[Cacti Club]], [[Hatchet]], [[Fighting Stick]], [[Sharp Tooth]], [[Slingshot]], [[Javelin]], [[Whip]], [[Blowgun]], [[Boomerang]]
 
 ## Shop
 - **Wanted tags:** none. Item rolls are fully random. See [[Shop Item Rolls]].
@@ -30,7 +30,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Primitive weapons: +30% Lifesteal
-  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Primitive weapons: +30% Lifesteal
+- Not if that stat is already at its cap.

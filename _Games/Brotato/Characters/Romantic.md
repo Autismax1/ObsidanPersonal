@@ -22,7 +22,7 @@ hidden_effect: false
 - -1 Armor for every 5 Curse
 - +1 Curse at the end of every wave
 
-**Starting weapon choices:** Lute, Chopper, Fist, Spoon, Scissors, Sharp tooth, Hatchet, Flute, Double barrel shotgun, Shuriken, Boomerang, Slingshot, Medical gun, Smg, Taser, Cacti club, Claw, Pan flute, Awl, Meat tenderizer, Whip, Blowgun, Sticky grenade, Machinegun, Molotov, Flail, Carbon bow
+**Starting weapon choices:** [[Lute]], [[Chopper]], [[Fist]], [[Spoon]], [[Scissors]], [[Sharp Tooth]], [[Hatchet]], [[Flute]], [[Double Barrel Shotgun]], [[Shuriken]], [[Boomerang]], [[Slingshot]], [[Medical Gun]], [[Smg]], [[Taser]], [[Cacti Club]], [[Claw]], [[Pan Flute]], [[Awl]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Machinegun]], [[Molotov]], [[Flail]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** none. Item rolls are fully random. See [[Shop Item Rolls]].
@@ -33,7 +33,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Charm below hp (+50)
-  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Charm below hp (+50)
+- Not if that stat is already at its cap.

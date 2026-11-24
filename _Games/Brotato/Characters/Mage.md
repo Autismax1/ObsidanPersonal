@@ -29,12 +29,13 @@ hidden_effect: false
 - -100% gains of Ranged damage
 - -50% gains of Engineering
 
-**Starting weapon choices:** Wand, Torch, Plank, Taser, Lightning shiv, Icicle, Smg, Double barrel shotgun, Molotov, Blowgun, Sticky grenade, Pan flute
+**Starting weapon choices:** [[Wand]], [[Torch]], [[Plank]], [[Taser]], [[Lightning Shiv]], [[Icicle]], [[Smg]], [[Double Barrel Shotgun]], [[Molotov]], [[Blowgun]], [[Sticky Grenade]], [[Pan Flute]]
+**Starting items:** [[Snake]], [[Scared Sausage]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Elemental damage|Elemental damage]]
   On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned item groups:** [[Item Groups#Melee damage|Melee damage]] (Mastery, Goat skull, Riposte); [[Item Groups#Ranged damage|Ranged damage]] (Lens); [[Item Groups#Melee and ranged damage|Melee and ranged damage]] (Big arms, Hedgehog)
+- **Banned item groups:** [[Item Groups#Melee damage|Melee damage]] ([[Mastery]], [[Goat Skull]], [[Riposte]]); [[Item Groups#Ranged damage|Ranged damage]] ([[Lens]]); [[Item Groups#Melee and ranged damage|Melee and ranged damage]] ([[Big Arms]], [[Hedgehog]])
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 
 ## Level-ups
@@ -43,7 +44,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Melee damage, Ranged damage. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - +25% gains of Elemental damage
-  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - +25% gains of Elemental damage
+- Not if that stat is already at its cap.

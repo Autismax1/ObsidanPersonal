@@ -23,12 +23,12 @@ hidden_effect: false
 - Range -50
 - Ranged damage -50
 
-**Starting weapon choices:** Fist, Hand, Claw
+**Starting weapon choices:** [[Fist]], [[Hand]], [[Claw]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Melee damage|Melee damage]]
   On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned item groups:** [[Item Groups#Ranged damage|Ranged damage]] (Lens)
+- **Banned item groups:** [[Item Groups#Ranged damage|Ranged damage]] ([[Lens]])
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 
 ## Level-ups
@@ -37,8 +37,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Unarmed weapons: +50% Attack speed
   - Dodge +15
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

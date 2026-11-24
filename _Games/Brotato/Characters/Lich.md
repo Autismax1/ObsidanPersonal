@@ -24,7 +24,7 @@ hidden_effect: false
 - Deal dmg when heal (+100)
 - -50% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Piercing damage, Explosion damage, Bounce damage, Damage against bosses
 
-**Starting weapon choices:** Scissors, Chopper, Dagger, Stick, Knife, Ghost flint, Sharp tooth, Pruner, Hatchet, Rock, Spiky shield, Lightning shiv, Ghost scepter, Medical gun, Smg, Wand, Icicle, Slingshot, Crossbow, Spoon, Awl, Crowbar, Shovel, Meat tenderizer, Machinegun, Pan flute, Carbon bow, Boomerang
+**Starting weapon choices:** [[Scissors]], [[Chopper]], [[Dagger]], [[Stick]], [[Knife]], [[Ghost Flint]], [[Sharp Tooth]], [[Pruner]], [[Hatchet]], [[Rock]], [[Spiky Shield]], [[Lightning Shiv]], [[Ghost Scepter]], [[Medical Gun]], [[Smg]], [[Wand]], [[Icicle]], [[Slingshot]], [[Crossbow]], [[Spoon]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Machinegun]], [[Pan Flute]], [[Carbon Bow]], [[Boomerang]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Max hp|Max hp]], [[Wanted Tags#Hp regeneration|Hp regeneration]], [[Wanted Tags#Lifesteal|Lifesteal]]
@@ -36,8 +36,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Hp regeneration +10
   - Lifesteal +10
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

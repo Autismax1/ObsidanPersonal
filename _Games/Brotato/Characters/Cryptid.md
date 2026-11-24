@@ -29,12 +29,12 @@ hidden_effect: false
 - Range -100
 - Enemy gold drops (-50)
 
-**Starting weapon choices:** Fist, Hand, Claw, Knife, Cacti club, Pruner, Chopper, Ghost axe, Dagger, Lightning shiv, Ghost flint, Rock, Stick, Hatchet, Jousting lance, Screwdriver, Plank, Ghost scepter, Shredder, Pistol, Smg, Lute, Sickle, Whip, Sticky grenade, Machinegun, Molotov, Pan flute
+**Starting weapon choices:** [[Fist]], [[Hand]], [[Claw]], [[Knife]], [[Cacti Club]], [[Pruner]], [[Chopper]], [[Ghost Axe]], [[Dagger]], [[Lightning Shiv]], [[Ghost Flint]], [[Rock]], [[Stick]], [[Hatchet]], [[Jousting Lance]], [[Screwdriver]], [[Plank]], [[Ghost Scepter]], [[Shredder]], [[Pistol]], [[Smg]], [[Lute]], [[Sickle]], [[Whip]], [[Sticky Grenade]], [[Machinegun]], [[Molotov]], [[Pan Flute]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Exploration|Exploration]], [[Wanted Tags#Dodge|Dodge]]
   On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned item groups:** [[Item Groups#Lifesteal|Lifesteal]] (Butterfly, Bat, Whetstone, Decomposing flesh, Bloody hand, Fresh meat)
+- **Banned item groups:** [[Item Groups#Lifesteal|Lifesteal]] ([[Butterfly]], [[Bat]], [[Whetstone]], [[Decomposing Flesh]], [[Bloody Hand]], [[Fresh Meat]])
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 
 ## Level-ups
@@ -43,10 +43,12 @@ hidden_effect: false
 
 ## Evolution and curse
 - **[[Meca]] never offers:** Lifesteal. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Trees (+6)
   - Cryptid (+12)
   - +3 Hp regeneration for every Living tree
   - Temp on dodge (+3)
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

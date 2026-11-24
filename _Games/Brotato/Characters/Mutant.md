@@ -20,7 +20,7 @@ hidden_effect: false
 - Next level xp needed -66
 - Items price +50
 
-**Starting weapon choices:** Cacti club, Ghost axe, Stick, Fighting stick, Rock, Plank, Lightning shiv, Double barrel shotgun, Smg, Revolver, Shredder, Crossbow, Taser, Wand, Icicle, Brick, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Molotov, Carbon bow
+**Starting weapon choices:** [[Cacti Club]], [[Ghost Axe]], [[Stick]], [[Fighting Stick]], [[Rock]], [[Plank]], [[Lightning Shiv]], [[Double Barrel Shotgun]], [[Smg]], [[Revolver]], [[Shredder]], [[Crossbow]], [[Taser]], [[Wand]], [[Icicle]], [[Brick]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Molotov]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Xp gain|Xp gain]]
@@ -32,5 +32,8 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- [[Mutation]] can't copy any of this character's effects.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- Nothing here can be copied by [[Mutation]].
+- Not if that stat is already at its cap.

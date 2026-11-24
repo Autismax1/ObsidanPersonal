@@ -25,12 +25,13 @@ hidden_effect: true
 - Pickup range (-30)
 - -75% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Piercing damage, Explosion damage, Bounce damage, Damage against bosses
 
-**Starting weapon choices:** Brick, Plank, Javelin, Double barrel shotgun, Laser gun, Medical gun, Revolver, Shredder, Smg, Slingshot, Boomerang, Ghost scepter, Flute, Taser, Wand, Rail gun, Blowgun, Sticky grenade, Machinegun, Molotov, Pan flute, Shovel
+**Starting weapon choices:** [[Brick]], [[Plank]], [[Javelin]], [[Double Barrel Shotgun]], [[Laser Gun]], [[Medical Gun]], [[Revolver]], [[Shredder]], [[Smg]], [[Slingshot]], [[Boomerang]], [[Ghost Scepter]], [[Flute]], [[Taser]], [[Wand]], [[Rail Gun]], [[Blowgun]], [[Sticky Grenade]], [[Machinegun]], [[Molotov]], [[Pan Flute]], [[Shovel]]
+**Starting items:** [[Builder Turret 0]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Engineering|Engineering]]
   On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned items (1):** Rusty antenna
+- **Banned items (1):** [[Rusty Antenna]]
 - Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
 
 ## Level-ups
@@ -39,9 +40,11 @@ hidden_effect: true
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - +50% gains of Engineering
   - Harvesting +20
   - Convert bonus gold two (+5) (only from scale 0.7, about −63 evolution)
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

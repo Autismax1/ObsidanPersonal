@@ -22,7 +22,7 @@ hidden_effect: false
 - Pickup range (+25)
 - Enemy gold drops (-50)
 
-**Starting weapon choices:** Knife, Stick, Chopper, Fighting stick, Cacti club, Hatchet, Slingshot, Taser, Rail gun, Crowbar, Meat tenderizer, Whip, Blowgun, Sticky grenade, Molotov, Pan flute, Flail, Carbon bow, Sharp tooth, Shovel
+**Starting weapon choices:** [[Knife]], [[Stick]], [[Chopper]], [[Fighting Stick]], [[Cacti Club]], [[Hatchet]], [[Slingshot]], [[Taser]], [[Rail Gun]], [[Crowbar]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Molotov]], [[Pan Flute]], [[Flail]], [[Carbon Bow]], [[Sharp Tooth]], [[Shovel]]
 
 ## Shop
 - **Wanted tags:** none. Item rolls are fully random. See [[Shop Item Rolls]].
@@ -33,10 +33,12 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Dig sites (+4)
   - Box recycling gains (+75)
   - +3 Xp gain for every Crates collected
   - Pickup range (+25)
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

@@ -26,7 +26,7 @@ hidden_effect: false
 - Armor +8
 - Percent damage -100
 
-**Starting weapon choices:** Rock, Scissors, Cacti club, Ghost axe, Spiky shield, Sharp tooth, Torch, Double barrel shotgun, Medical gun, Wand, Icicle, Brick, Lute, Sickle, Crowbar, Shovel, Meat tenderizer, Blowgun, Sticky grenade, Molotov, Pan flute, Carbon bow
+**Starting weapon choices:** [[Rock]], [[Scissors]], [[Cacti Club]], [[Ghost Axe]], [[Spiky Shield]], [[Sharp Tooth]], [[Torch]], [[Double Barrel Shotgun]], [[Medical Gun]], [[Wand]], [[Icicle]], [[Brick]], [[Lute]], [[Sickle]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Blowgun]], [[Sticky Grenade]], [[Molotov]], [[Pan Flute]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Max hp|Max hp]], [[Wanted Tags#Armor|Armor]], [[Wanted Tags#Hp regeneration|Hp regeneration]], [[Wanted Tags#Lifesteal|Lifesteal]]
@@ -38,10 +38,12 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - On hit (+5)
   - Max hp +10
   - Hp regeneration +20
   - Armor +8
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.

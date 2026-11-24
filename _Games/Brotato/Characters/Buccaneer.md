@@ -22,7 +22,7 @@ hidden_effect: false
 - Attack speed -100
 - Enemy gold drops (-50)
 
-**Starting weapon choices:** Brick, Cacti club, Rock, Spear, Torch, Double barrel shotgun, Laser gun, Shredder, Icicle, Flute, Slingshot, Crossbow, Rail gun, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Molotov, Pan flute, Flail, Carbon bow
+**Starting weapon choices:** [[Brick]], [[Cacti Club]], [[Rock]], [[Spear]], [[Torch]], [[Double Barrel Shotgun]], [[Laser Gun]], [[Shredder]], [[Icicle]], [[Flute]], [[Slingshot]], [[Crossbow]], [[Rail Gun]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Molotov]], [[Pan Flute]], [[Flail]], [[Carbon Bow]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Pickup|Pickup]]
@@ -34,7 +34,9 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Increase material value (+100)
-  - Not if that stat is already at its cap.
 - Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+  - Increase material value (+100)
+- Not if that stat is already at its cap.

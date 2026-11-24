@@ -22,7 +22,7 @@ hidden_effect: false
 - While not moving (-100)
 - Armor -3
 
-**Starting weapon choices:** Fist, Claw, Knife, Dagger, Stick, Spear, Fighting stick, Jousting lance, Screwdriver, Ghost flint, Pruner, Shuriken, Hiking stick, Javelin, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Flail, Boomerang
+**Starting weapon choices:** [[Fist]], [[Claw]], [[Knife]], [[Dagger]], [[Stick]], [[Spear]], [[Fighting Stick]], [[Jousting Lance]], [[Screwdriver]], [[Ghost Flint]], [[Pruner]], [[Shuriken]], [[Hiking Stick]], [[Javelin]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Flail]], [[Boomerang]]
 
 ## Shop
 - **Wanted tags:** [[Wanted Tags#Speed|Speed]]
@@ -34,8 +34,10 @@ hidden_effect: false
 
 ## Evolution and curse
 - [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- **[[Mutation]] can copy these character effects into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+
+## Mutation (character as the picked item)
+- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Speed +30
   - +1 Melee damage for every 2 Speed
-  - Not if that stat is already at its cap.
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+- Not if that stat is already at its cap.
