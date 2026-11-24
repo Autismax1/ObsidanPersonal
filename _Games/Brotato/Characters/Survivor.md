@@ -1,0 +1,39 @@
+---
+tags:
+  - brotato/character
+  - brotato/dlc/primal-dread
+dlc: Primal Dread
+wanted_tags: []
+banned_item_groups: []
+banned_items_count: 0
+banned_level_ups: []
+banned_meca_stats: []
+hidden_effect: false
+---
+
+# Survivor
+
+[[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
+
+## Starting effects
+- Crate give weapon
+- No in shop
+- Max weapons (+8)
+- Trees (+12)
+- Crate chance (+25)
+- Gold drops (-25)
+- Extra starting choices
+- Consumable heal (-2)
+
+**Starting weapon choices:** Knife, Stick, Fist, Chopper, Fighting stick, Cacti club, Hatchet, Spiky shield, Ghost flint, Wrench, Slingshot, Wand, Icicle, Lute, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Molotov, Pan flute, Flail, Carbon bow, Sharp tooth
+
+## Shop
+- **Wanted tags:** none. Item rolls are fully random. See [[Shop Item Rolls]].
+
+## Level-ups
+- No banned level-ups.
+- Level-up rarity follows your level, see [[Rarity Odds#Level-ups]].
+
+## Evolution and curse
+- [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

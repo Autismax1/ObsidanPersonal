@@ -1,0 +1,53 @@
+---
+tags:
+  - brotato/mechanic
+  - brotato/dlc/abyssal-terrors
+---
+# Curse
+
+[[Brotato]] › Abyssal Terrors · enemies: [[Cursed Enemies]]
+
+A cursed item multiplies its good values and divides its bad values by the same random modifier. **Your curse stat only decides whether things get cursed.** Strength depends on the wave and the roll.
+
+## Curse chance
+Rolled once for every shop or crate item:
+```
+chance = 15% × (1 − 1/(1 + curse/50))
+```
+| Curse | 0 | 10 | 25 | 50 | 100 | 200 | ∞ |
+|---|---|---|---|---|---|---|---|
+| Item cursed | 0% | 2.5% | 5% | 7.5% | 10% | 12% | 15% |
+
+- **0 curse means no cursed shop items.**
+- Never cursed: items already cursed, meca or mutant.
+- With both DLCs, the higher of curse and evolution rolls first. See [[Meca#Meca weapons in the shop]].
+
+### Other ways to get curses
+- Locked items with **Fish Hook** (own pity counter)
+- Cursed starting items
+- Dino eggs hatching
+- **Ammosaurus**
+- Combining a cursed weapon
+
+## Curse strength
+```
+modifier = 40% + 2% × min(20, wave − 1) + random(−30 … +30)%
+```
+- **Weapons:** one roll for damage and scaling ×(1 + m), crit damage ×(1 + m/5), pierce and bounce +1 at most.
+- **Every effect rolls on its own:** good values ×(1 + m) rounded up, bad values ÷(1 + m).
+- The **shown curse level is the highest roll**, so items with many effects show higher curses.
+
+| Wave | Lowest | Average | Highest |
+|---|---|---|---|
+| 1 | 8% | 38% | 68% |
+| 5 | 16% | 46% | 76% |
+| 10 | 26% | 56% | 86% |
+| 15 | 36% | 66% | 96% |
+| 21+ | 48% | 78% | 108% |
+
+## Why low curses show up late
+- **±30 is wider than all the wave growth.** Wave 21's worst roll is below wave 5's average.
+- **Single-effect items** get one roll and land low more often.
+- **Fixed 38%:** starting items, dino eggs and Ammosaurus ignore wave and randomness.
+- **Combining** re-rolls, but never below the higher of the two inputs.
+- **Locked items** keep the roll from the shop they first appeared in.

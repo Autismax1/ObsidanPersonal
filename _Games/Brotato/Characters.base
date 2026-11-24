@@ -1,0 +1,33 @@
+filters:
+  and:
+    - file.inFolder("_Games/Brotato/Characters")
+properties:
+  note.dlc:
+    displayName: DLC
+  note.wanted_tags:
+    displayName: Wanted tags
+  note.banned_item_groups:
+    displayName: Banned groups
+  note.banned_items_count:
+    displayName: Banned items
+  note.banned_level_ups:
+    displayName: Banned level-ups
+  note.banned_meca_stats:
+    displayName: Banned meca stats
+  note.hidden_effect:
+    displayName: Hidden effect
+views:
+  - type: table
+    name: All characters
+    order:
+      - file.name
+      - dlc
+      - wanted_tags
+      - banned_item_groups
+      - banned_items_count
+      - banned_level_ups
+      - banned_meca_stats
+      - hidden_effect
+    sort:
+      - property: file.name
+        direction: ASC

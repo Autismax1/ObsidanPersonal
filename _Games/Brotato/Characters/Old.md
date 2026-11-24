@@ -1,0 +1,40 @@
+---
+tags:
+  - brotato/character
+  - brotato/base-game
+dlc: Base game
+wanted_tags:
+  - Less enemies
+  - Less enemy speed
+banned_item_groups: []
+banned_items_count: 0
+banned_level_ups: []
+banned_meca_stats: []
+hidden_effect: false
+---
+
+# Old
+
+[[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
+
+## Starting effects
+- Enemy speed -25
+- Harvesting +10
+- Map size -33
+- Number of enemies -10
+- Speed -10
+
+**Starting weapon choices:** Scissors, Screwdriver, Wrench, Rock, Plank, Chopper, Pruner, Double barrel shotgun, Revolver, Taser, Wand, Icicle, Lute, Sickle, Awl, Crowbar, Shovel, Meat tenderizer, Whip, Blowgun, Sticky grenade, Molotov, Carbon bow, Boomerang
+
+## Shop
+- **Wanted tags:** [[Wanted Tags#Less enemies|Less enemies]], [[Wanted Tags#Less enemy speed|Less enemy speed]]
+  On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
+
+## Level-ups
+- No banned level-ups.
+- Level-up rarity follows your level, see [[Rarity Odds#Level-ups]].
+
+## Evolution and curse
+- [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
+- **[[Mutation]] can copy these character stats into the Tumor:** Harvesting +10. See [[Mutation#Copy strength]].
+- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
