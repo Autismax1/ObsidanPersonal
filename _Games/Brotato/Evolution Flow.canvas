@@ -1,277 +1,38 @@
 {
-	"nodes": [
-		{
-			"id": "n0034",
-			"type": "text",
-			"text": "## Normal enemy dies\n2% chance: evolution fruit\n\u2192 [[Evolution Drops#Meca and mutant fruit]]",
-			"x": -150,
-			"y": -700,
-			"width": 360,
-			"height": 120
-		},
-		{
-			"id": "n0035",
-			"type": "text",
-			"text": "**Which fruit?**\nbanned / meca-only / mutant-only / dual first\nthen evolution > +2 \u2192 meca, < \u22122 \u2192 mutant, else 50/50",
-			"x": -170,
-			"y": -500,
-			"width": 400,
-			"height": 140
-		},
-		{
-			"id": "n0037",
-			"type": "text",
-			"text": "### Meca fruit\n+1 evolution",
-			"x": -560,
-			"y": -280,
-			"width": 260,
-			"height": 90,
-			"color": "5"
-		},
-		{
-			"id": "n0038",
-			"type": "text",
-			"text": "### Mutant fruit\n\u22121 evolution",
-			"x": 460,
-			"y": -280,
-			"width": 260,
-			"height": 90,
-			"color": "4"
-		},
-		{
-			"id": "n0041",
-			"type": "text",
-			"text": "## Evolution stat\n> 0 meca \u00b7 < 0 mutant\n\u00b12 locks fruit and shop side\n\u2192 [[Evolution]]",
-			"x": -150,
-			"y": -120,
-			"width": 360,
-			"height": 140
-		},
-		{
-			"id": "n0044",
-			"type": "text",
-			"text": "### Meca enemies spawn\nchance 50%\u00b7(1\u22121/(1+|evo|/50))\n\u2192 [[Evolved Enemies]]",
-			"x": -700,
-			"y": 100,
-			"width": 340,
-			"height": 130,
-			"color": "5"
-		},
-		{
-			"id": "n0045",
-			"type": "text",
-			"text": "### Meca parts\n2.5% per meca kill + pity\nor dismantle a shop weapon (1)\n\u2192 [[Evolution Drops#Meca parts]]",
-			"x": -700,
-			"y": 290,
-			"width": 340,
-			"height": 150,
-			"color": "5"
-		},
-		{
-			"id": "n0046",
-			"type": "text",
-			"text": "### Mechanize in shop\ncost = rank + 1\nroll 2 stat groups \u2192 pick 1\n\u2192 [[Meca]]",
-			"x": -700,
-			"y": 500,
-			"width": 340,
-			"height": 140,
-			"color": "5"
-		},
-		{
-			"id": "n0047",
-			"type": "text",
-			"text": "### Result\n+3% weapon damage per power\nstat bonus by rank ([[Meca#Stat value by rank]])\nfirst time: +1 evolution",
-			"x": -700,
-			"y": 700,
-			"width": 340,
-			"height": 150,
-			"color": "5"
-		},
-		{
-			"id": "n0052",
-			"type": "text",
-			"text": "### Mutant enemies spawn\nsame chance formula\n\u2192 [[Evolved Enemies]]",
-			"x": 400,
-			"y": 100,
-			"width": 340,
-			"height": 130,
-			"color": "4"
-		},
-		{
-			"id": "n0053",
-			"type": "text",
-			"text": "### Mutation fruit\n4% per mutant kill + pity\nneeds 3+ mutatable items\n\u2192 [[Evolution Drops#Mutation fruit]]",
-			"x": 400,
-			"y": 290,
-			"width": 340,
-			"height": 150,
-			"color": "4"
-		},
-		{
-			"id": "n0054",
-			"type": "text",
-			"text": "### Wave end: pick item\nrandom item, character included, never weapons\n\u2192 [[Mutation#Step 1: pick the item]]",
-			"x": 400,
-			"y": 500,
-			"width": 340,
-			"height": 140,
-			"color": "4"
-		},
-		{
-			"id": "n0055",
-			"type": "text",
-			"text": "Wildfire Mutation / Chimera Cells?\n\u2192 item becomes a tier+1 item\n[[Mutation#Step 2: better-tier roll (optional)]]",
-			"x": 820,
-			"y": 500,
-			"width": 320,
-			"height": 140
-		},
-		{
-			"id": "n0056",
-			"type": "text",
-			"text": "### Remove or copy (coin flip)\nremove: delete one downside\ncopy: good effect \u2192 Tumor, scaled by |evo|\n\u2192 [[Mutation#Step 3: remove or copy]]",
-			"x": 400,
-			"y": 700,
-			"width": 340,
-			"height": 160,
-			"color": "4"
-		},
-		{
-			"id": "n0057",
-			"type": "text",
-			"text": "### Tumor grows\n+1 mutation, \u22121 evolution\n\u2192 [[Mutation#Step 4: the Tumor grows]]",
-			"x": 400,
-			"y": 920,
-			"width": 340,
-			"height": 120,
-			"color": "4"
-		}
+	"nodes":[
+		{"id":"n0034","type":"text","text":"## Normal enemy dies\n2% chance: evolution fruit\n→ [[Evolution Drops#Meca and mutant fruit]]","x":-150,"y":-700,"width":360,"height":120},
+		{"id":"n0035","type":"text","text":"**Which fruit?**\nbanned / meca-only / mutant-only / dual first\nthen evolution > +2 → meca, < −2 → mutant, else 50/50","x":-170,"y":-500,"width":400,"height":140},
+		{"id":"n0037","type":"text","text":"### Meca fruit\n+1 evolution","x":-560,"y":-280,"width":260,"height":90,"color":"5"},
+		{"id":"n0038","type":"text","text":"### Mutant fruit\n−1 evolution","x":460,"y":-280,"width":260,"height":90,"color":"4"},
+		{"id":"n0041","type":"text","text":"## Evolution stat\n> 0 meca · < 0 mutant\n±2 locks fruit and shop side\n→ [[Evolution]]","x":-150,"y":-120,"width":360,"height":140},
+		{"id":"n0044","type":"text","text":"### Meca enemies spawn\nchance 50%·(1−1/(1+|evo|/50))\n→ [[Evolved Enemies]]","x":-700,"y":100,"width":340,"height":130,"color":"5"},
+		{"id":"n0045","type":"text","text":"### Meca parts\n2.5% per meca kill + pity\nor dismantle a shop weapon (1)\n→ [[Evolution Drops#Meca parts]]","x":-700,"y":290,"width":340,"height":150,"color":"5"},
+		{"id":"n0046","type":"text","text":"### Mechanize in shop\ncost = rank + 1\nroll 2 stat groups → pick 1\n→ [[Meca]]","x":-700,"y":500,"width":340,"height":140,"color":"5"},
+		{"id":"n0047","type":"text","text":"### Result\n+3% weapon damage per power\nstat bonus by rank ([[Meca#Stat value by rank]])\nfirst time: +1 evolution","x":-700,"y":700,"width":340,"height":150,"color":"5"},
+		{"id":"n0052","type":"text","text":"### Mutant enemies spawn\nsame chance formula\n→ [[Evolved Enemies]]","x":400,"y":100,"width":340,"height":130,"color":"4"},
+		{"id":"n0053","type":"text","text":"### Mutation fruit\n4% per mutant kill + pity\nneeds 3+ mutatable items\n→ [[Evolution Drops#Mutation fruit]]","x":400,"y":290,"width":340,"height":150,"color":"4"},
+		{"id":"n0054","type":"text","text":"### Wave end: pick item\nrandom item, character included, never weapons\n→ [[Mutation#Step 1: pick the item]]","x":400,"y":500,"width":340,"height":140,"color":"4"},
+		{"id":"n0055","type":"text","text":"Wildfire Mutation / Chimera Cells?\n→ item becomes a tier+1 item\n[[Mutation#Step 2: better-tier roll (optional)]]","x":820,"y":500,"width":320,"height":140},
+		{"id":"n0056","type":"text","text":"### Remove or copy (coin flip)\nremove: delete one downside\ncopy: good effect → Tumor, scaled by |evo|\n→ [[Mutation#Step 3: remove or copy]]","x":400,"y":700,"width":340,"height":160,"color":"4"},
+		{"id":"n0057","type":"text","text":"### Tumor grows\n+1 mutation, −1 evolution\n→ [[Mutation#Step 4: the Tumor grows]]","x":400,"y":920,"width":340,"height":120,"color":"4"}
 	],
-	"edges": [
-		{
-			"id": "n0036",
-			"fromNode": "n0034",
-			"fromSide": "bottom",
-			"toNode": "n0035",
-			"toSide": "top"
-		},
-		{
-			"id": "n0039",
-			"fromNode": "n0035",
-			"fromSide": "left",
-			"toNode": "n0037",
-			"toSide": "top",
-			"label": "meca"
-		},
-		{
-			"id": "n0040",
-			"fromNode": "n0035",
-			"fromSide": "right",
-			"toNode": "n0038",
-			"toSide": "top",
-			"label": "mutant"
-		},
-		{
-			"id": "n0042",
-			"fromNode": "n0037",
-			"fromSide": "bottom",
-			"toNode": "n0041",
-			"toSide": "left"
-		},
-		{
-			"id": "n0043",
-			"fromNode": "n0038",
-			"fromSide": "bottom",
-			"toNode": "n0041",
-			"toSide": "right"
-		},
-		{
-			"id": "n0048",
-			"fromNode": "n0041",
-			"fromSide": "left",
-			"toNode": "n0044",
-			"toSide": "top",
-			"label": "evolution > 0"
-		},
-		{
-			"id": "n0049",
-			"fromNode": "n0044",
-			"fromSide": "bottom",
-			"toNode": "n0045",
-			"toSide": "top"
-		},
-		{
-			"id": "n0050",
-			"fromNode": "n0045",
-			"fromSide": "bottom",
-			"toNode": "n0046",
-			"toSide": "top"
-		},
-		{
-			"id": "n0051",
-			"fromNode": "n0046",
-			"fromSide": "bottom",
-			"toNode": "n0047",
-			"toSide": "top"
-		},
-		{
-			"id": "n0058",
-			"fromNode": "n0041",
-			"fromSide": "right",
-			"toNode": "n0052",
-			"toSide": "top",
-			"label": "evolution < 0"
-		},
-		{
-			"id": "n0059",
-			"fromNode": "n0052",
-			"fromSide": "bottom",
-			"toNode": "n0053",
-			"toSide": "top"
-		},
-		{
-			"id": "n0060",
-			"fromNode": "n0053",
-			"fromSide": "bottom",
-			"toNode": "n0054",
-			"toSide": "top"
-		},
-		{
-			"id": "n0061",
-			"fromNode": "n0054",
-			"fromSide": "right",
-			"toNode": "n0055",
-			"toSide": "left",
-			"label": "25%"
-		},
-		{
-			"id": "n0062",
-			"fromNode": "n0054",
-			"fromSide": "bottom",
-			"toNode": "n0056",
-			"toSide": "top"
-		},
-		{
-			"id": "n0063",
-			"fromNode": "n0055",
-			"fromSide": "bottom",
-			"toNode": "n0056",
-			"toSide": "right"
-		},
-		{
-			"id": "n0064",
-			"fromNode": "n0056",
-			"fromSide": "bottom",
-			"toNode": "n0057",
-			"toSide": "top"
-		},
-		{
-			"id": "n0065",
-			"fromNode": "n0057",
-			"fromSide": "right",
-			"toNode": "n0041",
-			"toSide": "right",
-			"label": "\u22121"
-		}
+	"edges":[
+		{"id":"n0036","fromNode":"n0034","fromSide":"bottom","toNode":"n0035","toSide":"top"},
+		{"id":"n0039","fromNode":"n0035","fromSide":"left","toNode":"n0037","toSide":"top","label":"meca"},
+		{"id":"n0040","fromNode":"n0035","fromSide":"right","toNode":"n0038","toSide":"top","label":"mutant"},
+		{"id":"n0042","fromNode":"n0037","fromSide":"bottom","toNode":"n0041","toSide":"left"},
+		{"id":"n0043","fromNode":"n0038","fromSide":"bottom","toNode":"n0041","toSide":"right"},
+		{"id":"n0048","fromNode":"n0041","fromSide":"left","toNode":"n0044","toSide":"top","label":"evolution > 0"},
+		{"id":"n0049","fromNode":"n0044","fromSide":"bottom","toNode":"n0045","toSide":"top"},
+		{"id":"n0050","fromNode":"n0045","fromSide":"bottom","toNode":"n0046","toSide":"top"},
+		{"id":"n0051","fromNode":"n0046","fromSide":"bottom","toNode":"n0047","toSide":"top"},
+		{"id":"n0058","fromNode":"n0041","fromSide":"right","toNode":"n0052","toSide":"top","label":"evolution < 0"},
+		{"id":"n0059","fromNode":"n0052","fromSide":"bottom","toNode":"n0053","toSide":"top"},
+		{"id":"n0060","fromNode":"n0053","fromSide":"bottom","toNode":"n0054","toSide":"top"},
+		{"id":"n0061","fromNode":"n0054","fromSide":"right","toNode":"n0055","toSide":"left","label":"25%"},
+		{"id":"n0062","fromNode":"n0054","fromSide":"bottom","toNode":"n0056","toSide":"top"},
+		{"id":"n0063","fromNode":"n0055","fromSide":"bottom","toNode":"n0056","toSide":"right"},
+		{"id":"n0064","fromNode":"n0056","fromSide":"bottom","toNode":"n0057","toSide":"top"},
+		{"id":"n0065","fromNode":"n0057","fromSide":"left","toNode":"n0041","toSide":"right","label":"−1"}
 	]
 }
