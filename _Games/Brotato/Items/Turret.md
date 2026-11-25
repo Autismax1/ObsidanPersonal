@@ -18,7 +18,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 1
 
 ## Effects
-- Turret
+- Turret (10 damage (80% Engineering), every 0.73s, range 300)
 
 ## Shop
 - Base price 15, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -31,7 +31,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Turret | structure damage and scaling ×1.10 → ×2.10 (or faster spawning) |
+| Turret (10 damage (80% Engineering), every 0.73s, range 300) | damage 11 → 21, scaling ×1.10 → ×2.10 |
 | Curse stat added | +1 |
 
 ## Mutation

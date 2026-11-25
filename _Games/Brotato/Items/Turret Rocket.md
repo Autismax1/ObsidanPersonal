@@ -18,7 +18,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 4
 
 ## Effects
-- Turret rocket
+- Turret rocket (25 damage (150% Engineering), every 0.87s, range 500, Explodes on hit (100% chance, explosion size 100%, uses the weapon's damage))
 
 ## Shop
 - Base price 80, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -31,7 +31,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Turret rocket | structure damage and scaling ×1.10 → ×2.10 (or faster spawning) |
+| Turret rocket (25 damage (150% Engineering), every 0.87s, range 500, Explodes on hit (100% chance, explosion size 100%, uses the weapon's damage)) | damage 28 → 53, scaling ×1.10 → ×2.10 |
 | Curse stat added | +4 → 7 |
 
 ## Mutation

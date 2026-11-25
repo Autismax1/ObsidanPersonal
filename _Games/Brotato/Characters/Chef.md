@@ -19,7 +19,7 @@ hidden_effect: false
 ## Starting effects
 - Luck +35
 - Bonus non elemental damage against burning targets (+200)
-- Explode and burn on consumable
+- Explode and burn on consumable (100% chance)
 - Enemy health +100
 - -75% gains of Elemental damage
 
@@ -43,5 +43,5 @@ hidden_effect: false
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Luck +35
   - Bonus non elemental damage against burning targets (+200)
-  - Explode and burn on consumable
+  - Explode and burn on consumable (100% chance)
 - Not if that stat is already at its cap.

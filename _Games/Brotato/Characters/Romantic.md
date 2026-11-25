@@ -16,7 +16,7 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
 
 ## Starting effects
-- Charm below hp (+50)
+- Charm below hp (+50) (second value 25)
 - Melee weapons: +50 Max range
 - -3 Percent damage for every 5 Curse
 - -1 Armor for every 5 Curse
@@ -37,5 +37,5 @@ hidden_effect: false
 
 ## Mutation (character as the picked item)
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Charm below hp (+50)
+  - Charm below hp (+50) (second value 25)
 - Not if that stat is already at its cap.

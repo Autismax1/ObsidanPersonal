@@ -40,10 +40,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 1 | 14 → 26 | 77% → 147% Melee damage, 11% → 21% Luck | ×1.5 → ×1.8 | Crate dig chance (+50): 56 → 105 | +1 → 2 |
-| 2 | 25 → 47 | 94% → 178% Melee damage, 16% → 32% Luck | ×1.5 → ×1.8 | Crate dig chance (+100): 111 → 210 | +2 → 3 |
-| 3 | 47 → 89 | 110% → 210% Melee damage, 22% → 42% Luck | ×1.5 → ×1.8 | Crate dig chance (+150): 165 → 315 | +3 → 6 |
-| 4 | 75 → 143 | 126% → 241% Melee damage, 28% → 52% Luck | ×1.5 → ×1.8 | Crate dig chance (+200): 221 → 420 | +6 → 11 |
+| 1 | 14 → 26 | 77% → 147% Melee damage, 11% → 21% Luck | ×1.5 → ×1.8 | Crate dig chance: 56 → 105 | +1 → 2 |
+| 2 | 25 → 47 | 94% → 178% Melee damage, 16% → 32% Luck | ×1.5 → ×1.8 | Crate dig chance: 111 → 210 | +2 → 3 |
+| 3 | 47 → 89 | 110% → 210% Melee damage, 22% → 42% Luck | ×1.5 → ×1.8 | Crate dig chance: 165 → 315 | +3 → 6 |
+| 4 | 75 → 143 | 126% → 241% Melee damage, 28% → 52% Luck | ×1.5 → ×1.8 | Crate dig chance: 221 → 420 | +6 → 11 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

@@ -20,7 +20,7 @@ in_shop: true
 
 ## Effects
 - Max hp +3
-- Explode on consumable
+- Explode on consumable (50% chance, explosion size 125%, 0 damage (100% Max hp), every 1.56s, range 150)
 
 ## Shop
 - Base price 40, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -35,11 +35,11 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 | Effect | Cursed |
 |---|---|
 | Max hp +3 | 4 → 7 |
-| Explode on consumable | explosion damage ×1.10 → ×2.10 |
+| Explode on consumable (50% chance, explosion size 125%, 0 damage (100% Max hp), every 1.56s, range 150) | damage 0 → 0, scaling ×1.10 → ×2.10 |
 | Curse stat added | +2 → 3 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Max hp +3
-  - Explode on consumable
+  - Explode on consumable (50% chance, explosion size 125%, 0 damage (100% Max hp), every 1.56s, range 150)
 - No downside a mutation could remove.

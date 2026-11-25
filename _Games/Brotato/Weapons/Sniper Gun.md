@@ -24,8 +24,8 @@ dlc: Base game
 | 4 | 245 | 80 | 100% Ranged damage, 30% Range | 2.40s | 20% ×4 | 1000 | – |
 
 ## Effects per tier
-- **Tier 3:** Effect projectiles on hit +5
-- **Tier 4:** Effect projectiles on hit +8
+- **Tier 3:** Effect projectiles on hit +5 (5 damage (10% Range), every 1.20s, range 10000, crit 20% ×3)
+- **Tier 4:** Effect projectiles on hit +8 (5 damage (15% Range), every 1.20s, range 10000, crit 20% ×4)
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Gun|Gun]], [[Weapon Classes#Precise|Precise]]. Shop odds: [[Weapon Rolls]].
 
@@ -34,8 +34,8 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 3 | 56 → 105 | 110% → 210% Ranged damage, 22% → 42% Range | ×3.1 → ×3.7 | Effect projectiles on hit +5: projectile damage ×1.10 → ×2.10 | +5 → 10 |
-| 4 | 88 → 168 | 110% → 210% Ranged damage, 33% → 63% Range | ×4.1 → ×4.9 | Effect projectiles on hit +8: projectile damage ×1.10 → ×2.10 | +11 → 21 |
+| 3 | 56 → 105 | 110% → 210% Ranged damage, 22% → 42% Range | ×3.1 → ×3.7 | Effect projectiles on hit +5: damage 6 → 11, scaling ×1.10 → ×2.10 | +5 → 10 |
+| 4 | 88 → 168 | 110% → 210% Ranged damage, 33% → 63% Range | ×4.1 → ×4.9 | Effect projectiles on hit +8: damage 6 → 11, scaling ×1.10 → ×2.10 | +11 → 21 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

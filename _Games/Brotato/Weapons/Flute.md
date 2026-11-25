@@ -27,10 +27,10 @@ Starting weapon for: [[Baby]], [[Buccaneer]], [[Builder]], [[Demon]], [[Druid]],
 | 4 | 165 | 15 | 50% Ranged damage, 25% Luck | 0.78s | 3% ×1.5 | 375 | – |
 
 ## Effects per tier
-- **Tier 1:** Charm below hp no scaling (+10)
-- **Tier 2:** Charm below hp no scaling (+15)
-- **Tier 3:** Charm below hp no scaling (+20)
-- **Tier 4:** Charm below hp no scaling (+25)
+- **Tier 1:** Charm below hp no scaling (+10) (second value 60)
+- **Tier 2:** Charm below hp no scaling (+15) (second value 65)
+- **Tier 3:** Charm below hp no scaling (+20) (second value 70)
+- **Tier 4:** Charm below hp no scaling (+25) (second value 75)
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Musical|Musical]]. Shop odds: [[Weapon Rolls]].
 
@@ -39,10 +39,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 1 | 7 → 13 | 55% → 105% Ranged damage, 11% → 21% Luck | ×1.5 → ×1.8 | Charm below hp no scaling (+10): 11 → 21 | +1 → 2 |
-| 2 | 9 → 17 | 55% → 105% Ranged damage, 16% → 32% Luck | ×1.5 → ×1.8 | Charm below hp no scaling (+15): 17 → 32 | +2 → 4 |
-| 3 | 13 → 24 | 55% → 105% Ranged damage, 22% → 42% Luck | ×1.5 → ×1.8 | Charm below hp no scaling (+20): 22 → 42 | +4 → 7 |
-| 4 | 17 → 32 | 55% → 105% Ranged damage, 28% → 52% Luck | ×1.5 → ×1.8 | Charm below hp no scaling (+25): 28 → 53 | +7 → 14 |
+| 1 | 7 → 13 | 55% → 105% Ranged damage, 11% → 21% Luck | ×1.5 → ×1.8 | Charm below hp no scaling: 11 → 21 | +1 → 2 |
+| 2 | 9 → 17 | 55% → 105% Ranged damage, 16% → 32% Luck | ×1.5 → ×1.8 | Charm below hp no scaling: 17 → 32 | +2 → 4 |
+| 3 | 13 → 24 | 55% → 105% Ranged damage, 22% → 42% Luck | ×1.5 → ×1.8 | Charm below hp no scaling: 22 → 42 | +4 → 7 |
+| 4 | 17 → 32 | 55% → 105% Ranged damage, 28% → 52% Luck | ×1.5 → ×1.8 | Charm below hp no scaling: 28 → 53 | +7 → 14 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

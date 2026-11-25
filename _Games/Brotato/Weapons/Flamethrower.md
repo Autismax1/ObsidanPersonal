@@ -36,9 +36,9 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 2 | 2 → 3 | 1% → 2% Elemental damage | ×2 → ×2.4 | Piercing 100 → 100; Burning 1×3 (100% Elemental damage): Burning 2×4 → 3×7 | +2 → 5 |
-| 3 | 2 → 3 | 1% → 2% Elemental damage | ×2 → ×2.4 | Piercing 100 → 100; Burning 3×5 (100% Elemental damage): Burning 4×6 → 7×11 | +5 → 9 |
-| 4 | 2 → 3 | 1% → 2% Elemental damage | ×2 → ×2.4 | Piercing 100 → 100; Burning 5×8 (100% Elemental damage): Burning 6×9 → 11×17 | +9 → 17 |
+| 2 | 2 → 3 | 1% → 2% Elemental damage | ×2 → ×2.4 | Piercing 100 → 100; Burning 1×3: Burning 2×4 → 3×7 | +2 → 5 |
+| 3 | 2 → 3 | 1% → 2% Elemental damage | ×2 → ×2.4 | Piercing 100 → 100; Burning 3×5: Burning 4×6 → 7×11 | +5 → 9 |
+| 4 | 2 → 3 | 1% → 2% Elemental damage | ×2 → ×2.4 | Piercing 100 → 100; Burning 5×8: Burning 6×9 → 11×17 | +9 → 17 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

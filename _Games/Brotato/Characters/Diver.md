@@ -24,7 +24,7 @@ hidden_effect: false
 - Effect class bonus +200
 - +25% gains of Crit chance
 - +1 Hp regeneration for every 2 Melee damage
-- Enemy percent damage taken (+300)
+- Enemy percent damage taken (+300) (100% chance)
 - Ranged damage -100
 - Enemy health +200
 
@@ -49,5 +49,5 @@ hidden_effect: false
   - Effect class bonus +200
   - +25% gains of Crit chance
   - +1 Hp regeneration for every 2 Melee damage
-  - Enemy percent damage taken (+300)
+  - Enemy percent damage taken (+300) (100% chance)
 - Not if that stat is already at its cap.

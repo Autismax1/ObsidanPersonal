@@ -17,7 +17,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 4
 
 ## Effects
-- Pet scapegoat
+- Pet scapegoat (revive after 2s)
 
 ## Shop
 - Base price 110, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -30,7 +30,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Pet scapegoat | pet becomes cursed: damage / effect strength ×1.10 → ×2.10 |
+| Pet scapegoat (revive after 2s) | revive after 1.82s → 0.95s, more HP on revive |
 | Curse stat added | +5 → 9 |
 
 ## Mutation

@@ -27,9 +27,9 @@ Starting weapon for: [[King]]
 | 4 | 207 | 80 | 100% Ranged damage | 1.03s | 3% ×2 | 600 | – |
 
 ## Effects per tier
-- **Tier 2:** Effect explode
-- **Tier 3:** Effect explode
-- **Tier 4:** Effect explode
+- **Tier 2:** Explodes on hit (100% chance, explosion size 120%, uses the weapon's damage)
+- **Tier 3:** Explodes on hit (100% chance, explosion size 120%, uses the weapon's damage)
+- **Tier 4:** Explodes on hit (100% chance, explosion size 120%, uses the weapon's damage)
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Heavy|Heavy]]. Shop odds: [[Weapon Rolls]].
 

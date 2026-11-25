@@ -27,10 +27,10 @@ Starting weapon for: [[Archaeologist]], [[Arsonist]], [[Artificer]], [[Baby]], [
 | 4 | 122 | 35 | 150% Ranged damage | 1.45s | 3% ×2 | 375 | – |
 
 ## Effects per tier
-- **Tier 1:** Sticky grenade explode
-- **Tier 2:** Sticky grenade explode
-- **Tier 3:** Sticky grenade explode
-- **Tier 4:** Sticky grenade explode
+- **Tier 1:** Explodes on hit (100% chance, explosion size 110%, explodes after 0.4s)
+- **Tier 2:** Explodes on hit (100% chance, explosion size 120%, explodes after 0.4s)
+- **Tier 3:** Explodes on hit (100% chance, explosion size 135%, explodes after 0.4s)
+- **Tier 4:** Explodes on hit (100% chance, explosion size 150%, explodes after 0.4s)
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Explosive|Explosive]]. Shop odds: [[Weapon Rolls]].
 

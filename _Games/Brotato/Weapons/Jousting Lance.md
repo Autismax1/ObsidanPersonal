@@ -39,10 +39,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 1 | 22 → 42 | 55% → 105% Melee damage, 33% → 63% Speed | ×2 → ×2.4 | Speed +2: 3 → 5; While not moving (-10): -9 → -4 | +1 → 2 |
-| 2 | 28 → 53 | 55% → 105% Melee damage, 38% → 74% Speed | ×2 → ×2.4 | Speed +3: 4 → 7; While not moving (-15): -13 → -7 | +2 → 3 |
-| 3 | 33 → 63 | 55% → 105% Melee damage, 44% → 84% Speed | ×2 → ×2.4 | Speed +4: 5 → 9; While not moving (-20): -18 → -9 | +3 → 6 |
-| 4 | 56 → 105 | 55% → 105% Melee damage, 55% → 105% Speed | ×2 → ×2.4 | Speed +5: 6 → 11; While not moving (-25): -22 → -11 | +6 → 11 |
+| 1 | 22 → 42 | 55% → 105% Melee damage, 33% → 63% Speed | ×2 → ×2.4 | Speed +2: 3 → 5; While not moving: -9 → -4 | +1 → 2 |
+| 2 | 28 → 53 | 55% → 105% Melee damage, 38% → 74% Speed | ×2 → ×2.4 | Speed +3: 4 → 7; While not moving: -13 → -7 | +2 → 3 |
+| 3 | 33 → 63 | 55% → 105% Melee damage, 44% → 84% Speed | ×2 → ×2.4 | Speed +4: 5 → 9; While not moving: -18 → -9 | +3 → 6 |
+| 4 | 56 → 105 | 55% → 105% Melee damage, 55% → 105% Speed | ×2 → ×2.4 | Speed +5: 6 → 11; While not moving: -22 → -11 | +6 → 11 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

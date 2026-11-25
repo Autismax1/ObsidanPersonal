@@ -16,7 +16,7 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
 
 ## Starting effects
-- Gain every killed enemies in zone (+15)
+- Gain every killed enemies in zone (+15) (second value 3)
 - Poacher zone materials (-50)
 
 **Starting weapon choices:** [[Knife]], [[Stick]], [[Fist]], [[Chopper]], [[Fighting Stick]], [[Cacti Club]], [[Hatchet]], [[Wrench]], [[Pistol]], [[Smg]], [[Double Barrel Shotgun]], [[Slingshot]], [[Taser]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Blowgun]], [[Sticky Grenade]], [[Machinegun]], [[Molotov]], [[Flail]], [[Carbon Bow]], [[Sharp Tooth]]
@@ -34,5 +34,5 @@ hidden_effect: false
 
 ## Mutation (character as the picked item)
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Gain every killed enemies in zone (+15) (only from scale 0.7, about −63 evolution)
+  - Gain every killed enemies in zone (+15) (second value 3) (only from scale 0.7, about −63 evolution)
 - Not if that stat is already at its cap.

@@ -16,7 +16,7 @@ in_shop: false
 [[Brotato]] › [[Items]] › Tier 1
 
 ## Effects
-- Builder turret alt
+- Builder turret alt (10 damage (80% Engineering), every 0.73s, range 300)
 - Builder turret upgrade
 
 ## Shop

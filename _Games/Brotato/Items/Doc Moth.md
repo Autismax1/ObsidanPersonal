@@ -33,7 +33,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Pet doc moth | pet becomes cursed: damage / effect strength ×1.10 → ×2.10 |
+| Pet doc moth | boost zone ×1.10 → ×2.10 bigger |
 | Curse stat added | +2 → 5 |
 
 ## Mutation

@@ -19,7 +19,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 3
 
 ## Effects
-- Wandering bot
+- Wandering bot (1 damage (0% Engineering), every 16666666.85s)
 
 ## Shop
 - Base price 60, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -32,10 +32,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Wandering bot | structure damage and scaling ×1.10 → ×2.10 (or faster spawning) |
+| Wandering bot (1 damage (0% Engineering), every 16666666.85s) | damage 2 → 3, scaling ×1.10 → ×2.10 |
 | Curse stat added | +3 → 5 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Wandering bot
+  - Wandering bot (1 damage (0% Engineering), every 16666666.85s)
 - No downside a mutation could remove.

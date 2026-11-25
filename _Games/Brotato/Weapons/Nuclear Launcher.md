@@ -24,8 +24,8 @@ dlc: Base game
 | 4 | 289 | 120 | 100% Ranged damage, 100% Elemental damage | 2.12s | 3% ×2 | 800 | – |
 
 ## Effects per tier
-- **Tier 3:** Effect explode
-- **Tier 4:** Effect explode
+- **Tier 3:** Explodes on hit (100% chance, explosion size 200%, uses the weapon's damage)
+- **Tier 4:** Explodes on hit (100% chance, explosion size 225%, uses the weapon's damage)
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Heavy|Heavy]]. Shop odds: [[Weapon Rolls]].
 

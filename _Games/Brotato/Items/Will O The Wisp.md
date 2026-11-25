@@ -17,7 +17,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 3
 
 ## Effects
-- Gain for killed enemies while burning (+30)
+- Gain for killed enemies while burning (+30) (second value 1, third value 4)
 - Attack speed -7
 
 ## Shop
@@ -33,11 +33,11 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Gain for killed enemies while burning (+30) | becomes 16–25 elemental damage (random) |
+| Gain for killed enemies while burning (+30) (second value 1, third value 4) | becomes 16–25 elemental damage (random) |
 | Attack speed -7 | -6 → -3 |
 | Curse stat added | +4 → 7 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Gain for killed enemies while burning (+30) (only from scale 0.7, about −63 evolution)
+  - Gain for killed enemies while burning (+30) (second value 1, third value 4) (only from scale 0.7, about −63 evolution)
 - **Mutation can remove:** Attack speed -7. See [[Mutation#Step 3: remove or copy]].

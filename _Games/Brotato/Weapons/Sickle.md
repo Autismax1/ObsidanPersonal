@@ -27,10 +27,10 @@ Starting weapon for: [[Creature]], [[Cryptid]], [[Druid]], [[Entrepreneur]], [[F
 | 4 | 122 | 15 | 80% Melee damage, 25% Harvesting | 0.70s | 3% ×2 | 125 | – |
 
 ## Effects per tier
-- **Tier 1:** Bonus damage against targets below hp (+20)
-- **Tier 2:** Bonus damage against targets below hp (+30)
-- **Tier 3:** Bonus damage against targets below hp (+40)
-- **Tier 4:** Bonus damage against targets below hp (+50)
+- **Tier 1:** Bonus damage against targets below hp (+20) (second value 30)
+- **Tier 2:** Bonus damage against targets below hp (+30) (second value 30)
+- **Tier 3:** Bonus damage against targets below hp (+40) (second value 30)
+- **Tier 4:** Bonus damage against targets below hp (+50) (second value 30)
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Support|Support]]. Shop odds: [[Weapon Rolls]].
 
@@ -39,10 +39,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 1 | 6 → 11 | 88% → 168% Melee damage, 11% → 21% Harvesting | ×2 → ×2.4 | Bonus damage against targets below hp (+20): 22 → 42 | +1 |
-| 2 | 9 → 17 | 88% → 168% Melee damage, 16% → 32% Harvesting | ×2 → ×2.4 | Bonus damage against targets below hp (+30): 33 → 63 | +1 → 3 |
-| 3 | 14 → 26 | 88% → 168% Melee damage, 22% → 42% Harvesting | ×2 → ×2.4 | Bonus damage against targets below hp (+40): 44 → 84 | +3 → 5 |
-| 4 | 17 → 32 | 88% → 168% Melee damage, 28% → 52% Harvesting | ×2 → ×2.4 | Bonus damage against targets below hp (+50): 56 → 105 | +5 → 10 |
+| 1 | 6 → 11 | 88% → 168% Melee damage, 11% → 21% Harvesting | ×2 → ×2.4 | Bonus damage against targets below hp: 22 → 42 | +1 |
+| 2 | 9 → 17 | 88% → 168% Melee damage, 16% → 32% Harvesting | ×2 → ×2.4 | Bonus damage against targets below hp: 33 → 63 | +1 → 3 |
+| 3 | 14 → 26 | 88% → 168% Melee damage, 22% → 42% Harvesting | ×2 → ×2.4 | Bonus damage against targets below hp: 44 → 84 | +3 → 5 |
+| 4 | 17 → 32 | 88% → 168% Melee damage, 28% → 52% Harvesting | ×2 → ×2.4 | Bonus damage against targets below hp: 56 → 105 | +5 → 10 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

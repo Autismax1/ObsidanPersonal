@@ -32,7 +32,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 4 | 165 → 315 | 110% → 210% Melee damage, 110% → 210% Lifesteal | ×2 → ×2.4 | Lifesteal 110% → 210%; Lose hp per second (+3): 2 → 1; On hit (+3): 4 → 7 | +13 → 24 |
+| 4 | 165 → 315 | 110% → 210% Melee damage, 110% → 210% Lifesteal | ×2 → ×2.4 | Lifesteal 110% → 210%; Lose hp per second: 2 → 1; On hit: 4 → 7 | +13 → 24 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

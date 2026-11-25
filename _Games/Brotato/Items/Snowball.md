@@ -17,7 +17,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 2
 
 ## Effects
-- Gain for equipped with stat
+- Gain for equipped with stat (and Elemental damage)
 
 ## Shop
 - Base price 50, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -32,10 +32,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Gain for equipped with stat | 2 → 3 |
+| Gain for equipped with stat (and Elemental damage) | 2 → 3 |
 | Curse stat added | +2 → 4 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Gain for equipped with stat (only from scale 0.7, about −63 evolution)
+  - Gain for equipped with stat (and Elemental damage) (only from scale 0.7, about −63 evolution)
 - No downside a mutation could remove.

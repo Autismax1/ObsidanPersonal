@@ -18,7 +18,7 @@ in_shop: true
 
 ## Effects
 - Dodge +5
-- Heal when dodge (+5)
+- Heal when dodge (+5) (50% chance)
 
 ## Shop
 - Base price 60, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -34,7 +34,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 | Effect | Cursed |
 |---|---|
 | Dodge +5 | 6 → 11 |
-| Heal when dodge (+5) | 6 → 11 |
+| Heal when dodge (+5) (50% chance) | 6 → 11 |
 | Curse stat added | +3 → 5 |
 
 ## Mutation

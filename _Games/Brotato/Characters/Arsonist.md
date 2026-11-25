@@ -28,7 +28,7 @@ hidden_effect: false
 
 ## Starting effects
 - Fire explosion
-- Fire puddle on burning death
+- Fire puddle on burning death (50% chance)
 - Speed +5
 - -100% gains of Melee damage
 - -100% gains of Ranged damage
@@ -52,6 +52,6 @@ hidden_effect: false
 
 ## Mutation (character as the picked item)
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Fire puddle on burning death
+  - Fire puddle on burning death (50% chance)
   - Speed +5
 - Not if that stat is already at its cap.

@@ -18,7 +18,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 1
 
 ## Effects
-- Pet ratzilla
+- Pet ratzilla (4 damage (10% Max hp), every 0.98s, range 150)
 
 ## Shop
 - Base price 30, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -31,7 +31,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Pet ratzilla | pet becomes cursed: damage / effect strength ×1.10 → ×2.10 |
+| Pet ratzilla (4 damage (10% Max hp), every 0.98s, range 150) | damage 5 → 9, scaling ×1.10 → ×2.10 |
 | Curse stat added | +1 → 3 |
 
 ## Mutation

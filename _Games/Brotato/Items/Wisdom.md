@@ -17,7 +17,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 3
 
 ## Effects
-- Temp stats per interval (+5)
+- Temp stats per interval (+5) (every 5s)
 - Percent damage -15
 
 ## Shop
@@ -31,11 +31,11 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Temp stats per interval (+5) | 6 → 11 |
+| Temp stats per interval (+5) (every 5s) | 6 → 11 |
 | Percent damage -15 | -13 → -7 |
 | Curse stat added | +4 → 7 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Temp stats per interval (+5)
+  - Temp stats per interval (+5) (every 5s)
 - **Mutation can remove:** Percent damage -15. See [[Mutation#Step 3: remove or copy]].

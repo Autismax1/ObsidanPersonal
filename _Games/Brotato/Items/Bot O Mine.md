@@ -19,7 +19,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 2
 
 ## Effects
-- Pet bot o mine
+- Pet bot o mine (10 damage (100% Engineering), every 0.63s, range 300)
 
 ## Shop
 - Base price 55, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -32,7 +32,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Pet bot o mine | pet becomes cursed: damage / effect strength ×1.10 → ×2.10 |
+| Pet bot o mine (10 damage (100% Engineering), every 0.63s, range 300) | damage 11 → 21, scaling ×1.10 → ×2.10 |
 | Curse stat added | +2 → 5 |
 
 ## Mutation

@@ -17,7 +17,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 4
 
 ## Effects
-- Modify every x projectile (+5)
+- Modify every x projectile (+5) (Projectiles (+3))
 - Percent damage -10
 
 ## Shop
@@ -32,7 +32,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Modify every x projectile (+5) | 4 → 2 |
+| Modify every x projectile (+5) (Projectiles (+3)) | 4 → 2 |
 | Percent damage -10 | -9 → -4 |
 | Curse stat added | +4 → 8 |
 

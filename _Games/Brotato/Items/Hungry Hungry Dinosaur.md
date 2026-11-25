@@ -17,7 +17,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 3
 
 ## Effects
-- Pet hungry hungry dinosaur
+- Pet hungry hungry dinosaur (+5 damage per fruit eaten, 12 damage (25% Max hp), every 1.03s, range 150)
 
 ## Shop
 - Base price 80, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -30,7 +30,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Pet hungry hungry dinosaur | pet becomes cursed: damage / effect strength ×1.10 → ×2.10 |
+| Pet hungry hungry dinosaur (+5 damage per fruit eaten, 12 damage (25% Max hp), every 1.03s, range 150) | damage 14 → 26, scaling ×1.10 → ×2.10 |
 | Curse stat added | +4 → 7 |
 
 ## Mutation

@@ -40,10 +40,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 1 | 15 → 28 | 110% → 210% Melee damage | ×2.5 → ×3 | Crit on whip tip (+48): 53 → 101 | +1 |
-| 2 | 20 → 38 | 121% → 231% Melee damage | ×3.1 → ×3.7 | Crit on whip tip (+48): 53 → 101 | +1 → 2 |
-| 3 | 27 → 51 | 143% → 273% Melee damage | ×3.6 → ×4.3 | Crit on whip tip (+48): 53 → 101 | +2 → 5 |
-| 4 | 36 → 68 | 165% → 315% Melee damage | ×4.1 → ×4.9 | Crit on whip tip (+48): 53 → 101 | +5 → 9 |
+| 1 | 15 → 28 | 110% → 210% Melee damage | ×2.5 → ×3 | Crit on whip tip: 53 → 101 | +1 |
+| 2 | 20 → 38 | 121% → 231% Melee damage | ×3.1 → ×3.7 | Crit on whip tip: 53 → 101 | +1 → 2 |
+| 3 | 27 → 51 | 143% → 273% Melee damage | ×3.6 → ×4.3 | Crit on whip tip: 53 → 101 | +2 → 5 |
+| 4 | 36 → 68 | 165% → 315% Melee damage | ×4.1 → ×4.9 | Crit on whip tip: 53 → 101 | +5 → 9 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

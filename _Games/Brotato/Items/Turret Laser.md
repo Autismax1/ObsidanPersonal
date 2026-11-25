@@ -18,7 +18,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 3
 
 ## Effects
-- Turret laser
+- Turret laser (20 damage (125% Engineering), every 0.87s, range 400, piercing 3)
 
 ## Shop
 - Base price 65, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -31,7 +31,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Turret laser | structure damage and scaling ×1.10 → ×2.10 (or faster spawning) |
+| Turret laser (20 damage (125% Engineering), every 0.87s, range 400, piercing 3) | damage 22 → 42, scaling ×1.10 → ×2.10 |
 | Curse stat added | +3 → 5 |
 
 ## Mutation

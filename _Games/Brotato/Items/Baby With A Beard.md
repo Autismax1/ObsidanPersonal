@@ -17,7 +17,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 3
 
 ## Effects
-- Projectiles on death
+- Every -1s: 1 projectiles (1 damage (100% Ranged damage), range 10000, crit 3% ×2)
 - Range -50
 
 ## Shop
@@ -31,11 +31,11 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Projectiles on death | projectile damage ×1.10 → ×2.10 |
+| Every -1s: 1 projectiles (1 damage (100% Ranged damage), range 10000, crit 3% ×2) | damage 2 → 3, scaling ×1.10 → ×2.10 |
 | Range -50 | -45 → -23 |
 | Curse stat added | +4 → 8 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Projectiles on death (only from scale 0.7, about −63 evolution)
+  - Every -1s: 1 projectiles (1 damage (100% Ranged damage), range 10000, crit 3% ×2) (only from scale 0.7, about −63 evolution)
 - **Mutation can remove:** Range -50. See [[Mutation#Step 3: remove or copy]].

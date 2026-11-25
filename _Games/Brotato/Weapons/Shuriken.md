@@ -40,9 +40,9 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
 | 1 | 8 → 15 | 28% → 52% Melee damage | ×1.5 → ×1.8 | Bounce on crit: 2 → 3 | +1 |
-| 2 | 10 → 19 | 37% → 71% Melee damage | ×1.5 → ×1.8 | Bounce on crit (+2): 3 → 5 | +1 → 2 |
-| 3 | 13 → 24 | 46% → 88% Melee damage | ×1.5 → ×1.8 | Bounce on crit (+3): 4 → 7 | +2 → 4 |
-| 4 | 17 → 32 | 55% → 105% Melee damage | ×1.5 → ×1.8 | Bounce on crit (+4): 5 → 9 | +5 → 9 |
+| 2 | 10 → 19 | 37% → 71% Melee damage | ×1.5 → ×1.8 | Bounce on crit: 3 → 5 | +1 → 2 |
+| 3 | 13 → 24 | 46% → 88% Melee damage | ×1.5 → ×1.8 | Bounce on crit: 4 → 7 | +2 → 4 |
+| 4 | 17 → 32 | 55% → 105% Melee damage | ×1.5 → ×1.8 | Bounce on crit: 5 → 9 | +5 → 9 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

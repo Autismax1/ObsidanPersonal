@@ -17,7 +17,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 3
 
 ## Effects
-- Explode when below hp
+- Explode when below hp (100% chance, explosion size 600%, below 40% HP, 100 damage (500% Melee damage, 500% Ranged damage, 500% Elemental damage, 500% Engineering), every 1.56s, range 150, crit 3% ×1.5)
 
 ## Shop
 - Base price 50, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -31,10 +31,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Explode when below hp | explosion damage ×1.10 → ×2.10 |
+| Explode when below hp (100% chance, explosion size 600%, below 40% HP, 100 damage (500% Melee damage, 500% Ranged damage, 500% Elemental damage, 500% Engineering), every 1.56s, range 150, crit 3% ×1.5) | damage 111 → 210, scaling ×1.10 → ×2.10 |
 | Curse stat added | +2 → 4 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Explode when below hp
+  - Explode when below hp (100% chance, explosion size 600%, below 40% HP, 100 damage (500% Melee damage, 500% Ranged damage, 500% Elemental damage, 500% Engineering), every 1.56s, range 150, crit 3% ×1.5)
 - No downside a mutation could remove.

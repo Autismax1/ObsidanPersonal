@@ -36,9 +36,9 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 2 | 22 → 42 | 110% → 210% Melee damage | ×1.5 → ×1.8 | Burning 10×5 (100% Elemental damage): Burning 11×6 → 21×11 | +2 → 4 |
-| 3 | 44 → 84 | 110% → 210% Melee damage | ×1.5 → ×1.8 | Burning 15×6 (100% Elemental damage): Burning 17×7 → 32×13 | +4 → 7 |
-| 4 | 88 → 168 | 110% → 210% Melee damage | ×1.5 → ×1.8 | Burning 18×7 (100% Elemental damage): Burning 20×8 → 38×15 | +8 → 15 |
+| 2 | 22 → 42 | 110% → 210% Melee damage | ×1.5 → ×1.8 | Burning 10×5: Burning 11×6 → 21×11 | +2 → 4 |
+| 3 | 44 → 84 | 110% → 210% Melee damage | ×1.5 → ×1.8 | Burning 15×6: Burning 17×7 → 32×13 | +4 → 7 |
+| 4 | 88 → 168 | 110% → 210% Melee damage | ×1.5 → ×1.8 | Burning 18×7: Burning 20×8 → 38×15 | +8 → 15 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

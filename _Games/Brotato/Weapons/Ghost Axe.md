@@ -27,10 +27,10 @@ Starting weapon for: [[Apprentice]], [[Captain]], [[Cryptid]], [[Curious]], [[De
 | 4 | 149 | 40 | 100% Melee damage | 1.51s | 3% ×2 | 200 | – |
 
 ## Effects per tier
-- **Tier 1:** Effect gain every killed enemies +20
-- **Tier 2:** Effect gain every killed enemies +18
-- **Tier 3:** Effect gain every killed enemies +16
-- **Tier 4:** Effect gain every killed enemies +12
+- **Tier 1:** +1 Percent damage every 20 kills
+- **Tier 2:** +1 Percent damage every 18 kills
+- **Tier 3:** +1 Percent damage every 16 kills
+- **Tier 4:** +1 Percent damage every 12 kills
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Ethereal|Ethereal]]. Shop odds: [[Weapon Rolls]].
 
@@ -39,10 +39,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 1 | 14 → 26 | 110% → 210% Melee damage | ×2 → ×2.4 | Effect gain every killed enemies +20: kills needed: 18 → 9 | +1 → 2 |
-| 2 | 20 → 38 | 110% → 210% Melee damage | ×2 → ×2.4 | Effect gain every killed enemies +18: kills needed: 16 → 8 | +2 → 3 |
-| 3 | 27 → 51 | 110% → 210% Melee damage | ×2 → ×2.4 | Effect gain every killed enemies +16: kills needed: 14 → 7 | +3 → 6 |
-| 4 | 44 → 84 | 110% → 210% Melee damage | ×2 → ×2.4 | Effect gain every killed enemies +12: kills needed: 10 → 5 | +7 → 13 |
+| 1 | 14 → 26 | 110% → 210% Melee damage | ×2 → ×2.4 | +1 Percent damage every 20 kills: kills needed: 18 → 9 | +1 → 2 |
+| 2 | 20 → 38 | 110% → 210% Melee damage | ×2 → ×2.4 | +1 Percent damage every 18 kills: kills needed: 16 → 8 | +2 → 3 |
+| 3 | 27 → 51 | 110% → 210% Melee damage | ×2 → ×2.4 | +1 Percent damage every 16 kills: kills needed: 14 → 7 | +3 → 6 |
+| 4 | 44 → 84 | 110% → 210% Melee damage | ×2 → ×2.4 | +1 Percent damage every 12 kills: kills needed: 10 → 5 | +7 → 13 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

@@ -41,9 +41,9 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
 | 1 | 11 → 21 | 55% → 105% Ranged damage, 11% → 21% Range | ×1.5 → ×1.8 | Pierce on crit weapon: 2 → 3 | +1 |
-| 2 | 14 → 26 | 55% → 105% Ranged damage, 11% → 21% Range | ×1.8 → ×2.1 | Pierce on crit weapon (+2): 3 → 5 | +1 → 3 |
-| 3 | 17 → 32 | 55% → 105% Ranged damage, 11% → 21% Range | ×2 → ×2.4 | Pierce on crit weapon (+3): 4 → 7 | +3 → 5 |
-| 4 | 20 → 38 | 55% → 105% Ranged damage, 11% → 21% Range | ×2.3 → ×2.7 | Pierce on crit weapon (+4): 5 → 9 | +6 → 11 |
+| 2 | 14 → 26 | 55% → 105% Ranged damage, 11% → 21% Range | ×1.8 → ×2.1 | Pierce on crit weapon: 3 → 5 | +1 → 3 |
+| 3 | 17 → 32 | 55% → 105% Ranged damage, 11% → 21% Range | ×2 → ×2.4 | Pierce on crit weapon: 4 → 7 | +3 → 5 |
+| 4 | 20 → 38 | 55% → 105% Ranged damage, 11% → 21% Range | ×2.3 → ×2.7 | Pierce on crit weapon: 5 → 9 | +6 → 11 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

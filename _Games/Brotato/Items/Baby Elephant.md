@@ -18,7 +18,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 1
 
 ## Effects
-- Deal dmg when pickup gold (+25)
+- Deal dmg when pickup gold (+25) (25% chance)
 
 ## Shop
 - Base price 22, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -31,10 +31,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Deal dmg when pickup gold (+25) | 28 → 53 |
+| Deal dmg when pickup gold (+25) (25% chance) | 28 → 53 |
 | Curse stat added | +1 → 2 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Deal dmg when pickup gold (+25)
+  - Deal dmg when pickup gold (+25) (25% chance)
 - No downside a mutation could remove.

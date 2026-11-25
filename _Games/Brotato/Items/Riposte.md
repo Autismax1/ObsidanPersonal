@@ -19,7 +19,7 @@ in_shop: true
 
 ## Effects
 - Melee damage +2
-- Deal dmg when dodge (+300)
+- Deal dmg when dodge (+300) (100% chance)
 
 ## Shop
 - Base price 40, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -35,11 +35,11 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 | Effect | Cursed |
 |---|---|
 | Melee damage +2 | 3 → 5 |
-| Deal dmg when dodge (+300) | 330 → 630 |
+| Deal dmg when dodge (+300) (100% chance) | 330 → 630 |
 | Curse stat added | +2 → 3 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Melee damage +2
-  - Deal dmg when dodge (+300)
+  - Deal dmg when dodge (+300) (100% chance)
 - No downside a mutation could remove.

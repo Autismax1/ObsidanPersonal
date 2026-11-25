@@ -24,8 +24,8 @@ dlc: Base game
 | 4 | 289 | 120 | 100% Elemental damage, 100% Engineering | 1.62s | 3% ×2 | 800 | Piercing 99 |
 
 ## Effects per tier
-- **Tier 3:** Burning 8×8 (100% Elemental damage); Effect weapon slow on hit
-- **Tier 4:** Burning 10×10 (100% Elemental damage); Effect weapon slow on hit +2
+- **Tier 3:** Burning 8×8 (100% Elemental damage); Effect weapon slow on hit (scales with Engineering)
+- **Tier 4:** Burning 10×10 (100% Elemental damage); Effect weapon slow on hit +2 (scales with Engineering)
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Elemental|Elemental]], [[Weapon Classes#Heavy|Heavy]]. Shop odds: [[Weapon Rolls]].
 
@@ -34,8 +34,8 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 3 | 66 → 126 | 110% → 210% Elemental damage, 110% → 210% Engineering | ×2 → ×2.4 | Piercing 100 → 100; Burning 8×8 (100% Elemental damage): Burning 9×9 → 17×17; Effect weapon slow on hit: 2 → 3 | +6 → 12 |
-| 4 | 132 → 252 | 110% → 210% Elemental damage, 110% → 210% Engineering | ×2 → ×2.4 | Piercing 100 → 100; Burning 10×10 (100% Elemental damage): Burning 11×11 → 21×21; Effect weapon slow on hit +2: 3 → 5 | +13 → 24 |
+| 3 | 66 → 126 | 110% → 210% Elemental damage, 110% → 210% Engineering | ×2 → ×2.4 | Piercing 100 → 100; Burning 8×8: Burning 9×9 → 17×17; Effect weapon slow on hit: 2 → 3 | +6 → 12 |
+| 4 | 132 → 252 | 110% → 210% Elemental damage, 110% → 210% Engineering | ×2 → ×2.4 | Piercing 100 → 100; Burning 10×10: Burning 11×11 → 21×21; Effect weapon slow on hit +2: 3 → 5 | +13 → 24 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

@@ -18,7 +18,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 2
 
 ## Effects
-- Pet catling gun
+- Pet catling gun (10 damage (60% Ranged damage), every 1.02s, range 500)
 
 ## Shop
 - Base price 34, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -31,7 +31,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Pet catling gun | pet becomes cursed: damage / effect strength ×1.10 → ×2.10 |
+| Pet catling gun (10 damage (60% Ranged damage), every 1.02s, range 500) | damage 11 → 21, scaling ×1.10 → ×2.10 |
 | Curse stat added | +1 → 3 |
 
 ## Mutation

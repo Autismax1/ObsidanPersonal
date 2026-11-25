@@ -19,7 +19,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 1
 
 ## Effects
-- Pet lootworm
+- Pet lootworm (10% double chance)
 
 ## Shop
 - Base price 30, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -32,7 +32,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Pet lootworm | pet becomes cursed: damage / effect strength ×1.10 → ×2.10 |
+| Pet lootworm (10% double chance) | double chance 11% → 21% |
 | Curse stat added | +1 → 3 |
 
 ## Mutation

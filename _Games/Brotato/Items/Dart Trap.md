@@ -18,7 +18,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 1
 
 ## Effects
-- Dart trap
+- Dart trap (6 darts, spawns every 6s, 8 damage (100% Engineering), every 0.23s, range 10000)
 
 ## Shop
 - Base price 15, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -31,7 +31,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Dart trap | structure damage and scaling ×1.10 → ×2.10 (or faster spawning) |
+| Dart trap (6 darts, spawns every 6s, 8 damage (100% Engineering), every 0.23s, range 10000) | damage 9 → 17, scaling ×1.10 → ×2.10, spawns faster |
 | Curse stat added | +1 |
 
 ## Mutation

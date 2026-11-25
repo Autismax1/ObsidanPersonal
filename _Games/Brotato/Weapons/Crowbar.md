@@ -27,10 +27,10 @@ Starting weapon for: [[Archaeologist]], [[Baby]], [[Buccaneer]], [[Captain]], [[
 | 4 | 149 | 28 | 100% Engineering | 1.59s | 3% ×2 | 190 | – |
 
 ## Effects per tier
-- **Tier 1:** Spawn turret every killed enemies (+16); Turret damage taken
-- **Tier 2:** Spawn turret every killed enemies (+14); Turret damage taken
-- **Tier 3:** Spawn turret every killed enemies (+12); Turret damage taken
-- **Tier 4:** Spawn turret every killed enemies (+10); Turret damage taken
+- **Tier 1:** Spawn turret every killed enemies (+16) (structure: 8 damage (80% Engineering), every 0.73s, range 300); Turret damage taken (8 damage (80% Engineering), every 0.73s, range 300, All +10 (5s, up to 3 stacks))
+- **Tier 2:** Spawn turret every killed enemies (+14) (structure: 8 damage (80% Engineering), every 0.73s, range 300); Turret damage taken (8 damage (80% Engineering), every 0.73s, range 300, All +10 (5s, up to 3 stacks))
+- **Tier 3:** Spawn turret every killed enemies (+12) (structure: 8 damage (80% Engineering), every 0.73s, range 300); Turret damage taken (8 damage (80% Engineering), every 0.73s, range 300, All +10 (5s, up to 3 stacks))
+- **Tier 4:** Spawn turret every killed enemies (+10) (structure: 8 damage (80% Engineering), every 0.73s, range 300); Turret damage taken (8 damage (80% Engineering), every 0.73s, range 300, All +10 (5s, up to 3 stacks))
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Tool|Tool]]. Shop odds: [[Weapon Rolls]].
 
@@ -39,10 +39,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 1 | 16 → 30 | 110% → 210% Engineering | ×2 → ×2.4 | Spawn turret every killed enemies (+16): structure damage and scaling ×1.10 → ×2.10 (or faster spawning); Turret damage taken: structure damage and scaling ×1.10 → ×2.10 (or faster spawning) | +1 → 2 |
-| 2 | 20 → 38 | 110% → 210% Engineering | ×2 → ×2.4 | Spawn turret every killed enemies (+14): structure damage and scaling ×1.10 → ×2.10 (or faster spawning); Turret damage taken: structure damage and scaling ×1.10 → ×2.10 (or faster spawning) | +2 → 3 |
-| 3 | 26 → 49 | 110% → 210% Engineering | ×2 → ×2.4 | Spawn turret every killed enemies (+12): structure damage and scaling ×1.10 → ×2.10 (or faster spawning); Turret damage taken: structure damage and scaling ×1.10 → ×2.10 (or faster spawning) | +3 → 6 |
-| 4 | 31 → 59 | 110% → 210% Engineering | ×2 → ×2.4 | Spawn turret every killed enemies (+10): structure damage and scaling ×1.10 → ×2.10 (or faster spawning); Turret damage taken: structure damage and scaling ×1.10 → ×2.10 (or faster spawning) | +7 → 13 |
+| 1 | 16 → 30 | 110% → 210% Engineering | ×2 → ×2.4 | Spawn turret every killed enemies: damage 9 → 17, scaling ×1.10 → ×2.10; Turret damage taken: damage 9 → 17, scaling ×1.10 → ×2.10 | +1 → 2 |
+| 2 | 20 → 38 | 110% → 210% Engineering | ×2 → ×2.4 | Spawn turret every killed enemies: damage 9 → 17, scaling ×1.10 → ×2.10; Turret damage taken: damage 9 → 17, scaling ×1.10 → ×2.10 | +2 → 3 |
+| 3 | 26 → 49 | 110% → 210% Engineering | ×2 → ×2.4 | Spawn turret every killed enemies: damage 9 → 17, scaling ×1.10 → ×2.10; Turret damage taken: damage 9 → 17, scaling ×1.10 → ×2.10 | +3 → 6 |
+| 4 | 31 → 59 | 110% → 210% Engineering | ×2 → ×2.4 | Spawn turret every killed enemies: damage 9 → 17, scaling ×1.10 → ×2.10; Turret damage taken: damage 9 → 17, scaling ×1.10 → ×2.10 | +7 → 13 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

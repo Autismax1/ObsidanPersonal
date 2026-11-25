@@ -27,10 +27,10 @@ Starting weapon for: [[Apprentice]], [[Builder]], [[Chunky]], [[Creature]], [[Cr
 | 4 | 122 | 30 | 100% Ranged damage | 0.83s | 3% ×2 | 450 | – |
 
 ## Effects per tier
-- **Tier 1:** Effect gain every killed enemies +20
-- **Tier 2:** Effect gain every killed enemies +18
-- **Tier 3:** Effect gain every killed enemies +16
-- **Tier 4:** Effect gain every killed enemies +12
+- **Tier 1:** +1 Max hp every 20 kills
+- **Tier 2:** +1 Max hp every 18 kills
+- **Tier 3:** +1 Max hp every 16 kills
+- **Tier 4:** +1 Max hp every 12 kills
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Ethereal|Ethereal]]. Shop odds: [[Weapon Rolls]].
 
@@ -39,10 +39,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 1 | 11 → 21 | 110% → 210% Ranged damage | ×2 → ×2.4 | Effect gain every killed enemies +20: kills needed: 18 → 9 | +1 |
-| 2 | 17 → 32 | 110% → 210% Ranged damage | ×2 → ×2.4 | Effect gain every killed enemies +18: kills needed: 16 → 8 | +1 → 3 |
-| 3 | 22 → 42 | 110% → 210% Ranged damage | ×2 → ×2.4 | Effect gain every killed enemies +16: kills needed: 14 → 7 | +3 → 5 |
-| 4 | 33 → 63 | 110% → 210% Ranged damage | ×2 → ×2.4 | Effect gain every killed enemies +12: kills needed: 10 → 5 | +5 → 10 |
+| 1 | 11 → 21 | 110% → 210% Ranged damage | ×2 → ×2.4 | +1 Max hp every 20 kills: kills needed: 18 → 9 | +1 |
+| 2 | 17 → 32 | 110% → 210% Ranged damage | ×2 → ×2.4 | +1 Max hp every 18 kills: kills needed: 16 → 8 | +1 → 3 |
+| 3 | 22 → 42 | 110% → 210% Ranged damage | ×2 → ×2.4 | +1 Max hp every 16 kills: kills needed: 14 → 7 | +3 → 5 |
+| 4 | 33 → 63 | 110% → 210% Ranged damage | ×2 → ×2.4 | +1 Max hp every 12 kills: kills needed: 10 → 5 | +5 → 10 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

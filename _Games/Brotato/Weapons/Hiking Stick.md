@@ -27,10 +27,10 @@ Starting weapon for: [[Baby]], [[Entrepreneur]], [[Explorer]], [[Hiker]], [[Hunt
 | 4 | 130 | 30 | 50% Melee damage, 20% Range | 1.17s | 3% ×1.5 | 175 | – |
 
 ## Effects per tier
-- **Tier 1:** On every step
-- **Tier 2:** On every step
-- **Tier 3:** On every step
-- **Tier 4:** On every step
+- **Tier 1:** On every step (second value 70)
+- **Tier 2:** On every step (second value 60)
+- **Tier 3:** On every step (second value 50)
+- **Tier 4:** On every step (second value 40)
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Support|Support]]. Shop odds: [[Weapon Rolls]].
 

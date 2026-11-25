@@ -27,10 +27,10 @@ Starting weapon for: [[Apprentice]], [[Buccaneer]], [[Builder]], [[Curious]], [[
 | 4 | 40 | 120 | 100% Melee damage, 100% Engineering | 1.39s | 3% ×1.5 | 150 | – |
 
 ## Effects per tier
-- **Tier 1:** Break on hit
-- **Tier 2:** Break on hit
-- **Tier 3:** Break on hit
-- **Tier 4:** Break on hit
+- **Tier 1:** Break on hit (second value 10)
+- **Tier 2:** Break on hit (second value 30)
+- **Tier 3:** Break on hit (second value 75)
+- **Tier 4:** Break on hit (second value 200)
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Blunt|Blunt]]. Shop odds: [[Weapon Rolls]].
 

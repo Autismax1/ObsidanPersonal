@@ -21,7 +21,7 @@ hidden_effect: false
 ## Starting effects
 - Luck +100
 - +25% gains of Luck
-- Deal dmg when pickup gold (+15)
+- Deal dmg when pickup gold (+15) (75% chance)
 - Attack speed -60
 - Xp gain -50
 
@@ -43,5 +43,5 @@ hidden_effect: false
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Luck +100
   - +25% gains of Luck
-  - Deal dmg when pickup gold (+15)
+  - Deal dmg when pickup gold (+15) (75% chance)
 - Not if that stat is already at its cap.

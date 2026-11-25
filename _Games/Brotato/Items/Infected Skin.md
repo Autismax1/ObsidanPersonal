@@ -19,7 +19,7 @@ in_shop: true
 ## Effects
 - Armor +3
 - Consumable heal (-1)
-- Spines on hit (+8)
+- Spines on hit (+8) (33% chance, 5 damage (150% Armor), every 1.20s, range 10000)
 
 ## Shop
 - Base price 80, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -33,11 +33,11 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 | Effect | Cursed |
 |---|---|
 | Armor +3 | 4 → 7 |
-| Spines on hit (+8) | 9 → 17 |
+| Spines on hit (+8) (33% chance, 5 damage (150% Armor), every 1.20s, range 10000) | 9 → 17 |
 | Curse stat added | +4 → 7 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Armor +3
-  - Spines on hit (+8)
+  - Spines on hit (+8) (33% chance, 5 damage (150% Armor), every 1.20s, range 10000)
 - **Mutation can remove:** Consumable heal (-1). See [[Mutation#Step 3: remove or copy]].

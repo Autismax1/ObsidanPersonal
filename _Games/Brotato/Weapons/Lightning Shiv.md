@@ -28,10 +28,10 @@ Starting weapon for: [[Apprentice]], [[Arsonist]], [[Captain]], [[Crazy]], [[Cry
 | 4 | 142 | 15 | 80% Melee damage | 0.78s | 10% ×2 | 150 | – |
 
 ## Effects per tier
-- **Tier 1:** Effect lightning on hit
-- **Tier 2:** Effect lightning on hit
-- **Tier 3:** Effect lightning on hit
-- **Tier 4:** Effect lightning on hit
+- **Tier 1:** Effect lightning on hit (5 damage (80% Elemental damage), every 1.20s, range 9999, crit 4% ×2)
+- **Tier 2:** Effect lightning on hit (6 damage (80% Elemental damage), every 1.20s, range 9999, crit 6% ×2, bounce 1)
+- **Tier 3:** Effect lightning on hit (8 damage (80% Elemental damage), every 1.20s, range 9999, crit 8% ×2, bounce 2)
+- **Tier 4:** Effect lightning on hit (11 damage (80% Elemental damage), every 1.20s, range 9999, crit 10% ×2, bounce 3)
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Elemental|Elemental]], [[Weapon Classes#Precise|Precise]]. Shop odds: [[Weapon Rolls]].
 
@@ -40,10 +40,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 1 | 4 → 7 | 88% → 168% Melee damage | ×2 → ×2.4 | Effect lightning on hit: projectile damage ×1.10 → ×2.10 | +1 → 2 |
-| 2 | 7 → 13 | 88% → 168% Melee damage | ×2 → ×2.4 | Effect lightning on hit: projectile damage ×1.10 → ×2.10 | +2 → 3 |
-| 3 | 10 → 19 | 88% → 168% Melee damage | ×2 → ×2.4 | Effect lightning on hit: projectile damage ×1.10 → ×2.10 | +3 → 6 |
-| 4 | 17 → 32 | 88% → 168% Melee damage | ×2 → ×2.4 | Effect lightning on hit: projectile damage ×1.10 → ×2.10 | +6 → 12 |
+| 1 | 4 → 7 | 88% → 168% Melee damage | ×2 → ×2.4 | Effect lightning on hit: damage 6 → 11, scaling ×1.10 → ×2.10 | +1 → 2 |
+| 2 | 7 → 13 | 88% → 168% Melee damage | ×2 → ×2.4 | Effect lightning on hit: damage 7 → 13, scaling ×1.10 → ×2.10 | +2 → 3 |
+| 3 | 10 → 19 | 88% → 168% Melee damage | ×2 → ×2.4 | Effect lightning on hit: damage 9 → 17, scaling ×1.10 → ×2.10 | +3 → 6 |
+| 4 | 17 → 32 | 88% → 168% Melee damage | ×2 → ×2.4 | Effect lightning on hit: damage 13 → 24, scaling ×1.10 → ×2.10 | +6 → 12 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

@@ -20,7 +20,7 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
 
 ## Starting effects
-- Explode on overkill (+200)
+- Explode on overkill (+200) (100% chance)
 - Melee damage +10
 - No ranged weapons
 - Attack speed -50
@@ -44,6 +44,6 @@ hidden_effect: false
 
 ## Mutation (character as the picked item)
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Explode on overkill (+200)
+  - Explode on overkill (+200) (100% chance)
   - Melee damage +10
 - Not if that stat is already at its cap.

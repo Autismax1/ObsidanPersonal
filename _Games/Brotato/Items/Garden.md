@@ -18,7 +18,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 2
 
 ## Effects
-- Garden
+- Garden (0 damage, every 15.20s, range 150)
 
 ## Shop
 - Base price 50, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -32,7 +32,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Garden | structure damage and scaling ×1.10 → ×2.10 (or faster spawning) |
+| Garden (0 damage, every 15.20s, range 150) | damage 0 → 0, scaling ×1.10 → ×2.10 |
 | Curse stat added | +2 → 4 |
 
 ## Mutation

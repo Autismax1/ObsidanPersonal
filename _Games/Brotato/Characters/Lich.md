@@ -21,7 +21,7 @@ hidden_effect: false
 ## Starting effects
 - Hp regeneration +10
 - Lifesteal +10
-- Deal dmg when heal (+100)
+- Deal dmg when heal (+100) (100% chance)
 - -50% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Piercing damage, Explosion damage, Bounce damage, Damage against bosses
 
 **Starting weapon choices:** [[Scissors]], [[Chopper]], [[Dagger]], [[Stick]], [[Knife]], [[Ghost Flint]], [[Sharp Tooth]], [[Pruner]], [[Hatchet]], [[Rock]], [[Spiky Shield]], [[Lightning Shiv]], [[Ghost Scepter]], [[Medical Gun]], [[Smg]], [[Wand]], [[Icicle]], [[Slingshot]], [[Crossbow]], [[Spoon]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Machinegun]], [[Pan Flute]], [[Carbon Bow]], [[Boomerang]]

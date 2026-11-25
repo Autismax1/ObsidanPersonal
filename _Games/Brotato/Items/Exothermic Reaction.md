@@ -18,7 +18,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 3
 
 ## Effects
-- Explode on evolved death
+- Explode on evolved death (33% chance, explosion size 65%, 10 damage (100% Evolution), every 1.56s, range 150)
 - Dodge -4
 
 ## Shop
@@ -32,11 +32,11 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Explode on evolved death | explosion damage ×1.10 → ×2.10 |
+| Explode on evolved death (33% chance, explosion size 65%, 10 damage (100% Evolution), every 1.56s, range 150) | damage 11 → 21, scaling ×1.10 → ×2.10 |
 | Dodge -4 | -3 → -1 |
 | Curse stat added | +4 → 7 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Explode on evolved death
+  - Explode on evolved death (33% chance, explosion size 65%, 10 damage (100% Evolution), every 1.56s, range 150)
 - **Mutation can remove:** Dodge -4. See [[Mutation#Step 3: remove or copy]].

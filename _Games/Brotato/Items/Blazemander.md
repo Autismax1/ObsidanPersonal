@@ -18,7 +18,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 2
 
 ## Effects
-- Burning 3×5 (50% Elemental damage)
+- Pet blazemander: Burning 3×5 (50% Elemental damage) (1 damage (1% Elemental damage), every 0.93s, range 150, ranged attack: 1 damage (1% Elemental damage), every 4.04s, range 300, piercing 99)
 
 ## Shop
 - Base price 40, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -31,7 +31,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Burning 3×5 (50% Elemental damage) | pet becomes cursed: damage / effect strength ×1.10 → ×2.10 |
+| Pet blazemander: Burning 3×5 (50% Elemental damage) (1 damage (1% Elemental damage), every 0.93s, range 150, ranged attack: 1 damage (1% Elemental damage), every 4.04s, range 300, piercing 99) | burn scaling ×1.10 → ×2.10, ranged attack twice as fast, ranged attack range ÷1.10 → ÷2.10 |
 | Curse stat added | +2 → 3 |
 
 ## Mutation

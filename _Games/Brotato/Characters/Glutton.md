@@ -21,7 +21,7 @@ hidden_effect: false
 ## Starting effects
 - Luck +50
 - Consumable while max
-- Explode on consumable
+- Explode on consumable (100% chance)
 - Items price +25
 - Xp gain -25
 
@@ -42,6 +42,6 @@ hidden_effect: false
 ## Mutation (character as the picked item)
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Luck +50
-  - Explode on consumable
+  - Explode on consumable (100% chance)
   - Consumable while max (only from scale 0.7, about −63 evolution)
 - Not if that stat is already at its cap.

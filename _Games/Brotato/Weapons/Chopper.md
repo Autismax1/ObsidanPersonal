@@ -42,7 +42,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 | 1 | 7 → 13 | 55% → 105% Melee damage, 16% → 32% Max hp | ×2 → ×2.4 | Consumable heal: 2 → 3 | +1 |
 | 2 | 14 → 26 | 55% → 105% Melee damage, 22% → 42% Max hp | ×2 → ×2.4 | Consumable heal: 2 → 3 | +1 → 3 |
 | 3 | 20 → 38 | 55% → 105% Melee damage, 28% → 52% Max hp | ×2 → ×2.4 | Consumable heal: 2 → 3 | +3 → 5 |
-| 4 | 33 → 63 | 55% → 105% Melee damage, 33% → 63% Max hp | ×2 → ×2.4 | Consumable heal (+2): 3 → 5 | +5 → 10 |
+| 4 | 33 → 63 | 55% → 105% Melee damage, 33% → 63% Max hp | ×2 → ×2.4 | Consumable heal: 3 → 5 | +5 → 10 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

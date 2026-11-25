@@ -25,7 +25,7 @@ hidden_effect: false
 - Hp regeneration +15
 - Armor +10
 - +50% gains of Hp regeneration
-- Explode on hit
+- Explode on hit (100% chance)
 - No weapons
 
 ## Shop
@@ -50,5 +50,5 @@ hidden_effect: false
   - Hp regeneration +15
   - Armor +10
   - +50% gains of Hp regeneration
-  - Explode on hit
+  - Explode on hit (100% chance)
 - Not if that stat is already at its cap.

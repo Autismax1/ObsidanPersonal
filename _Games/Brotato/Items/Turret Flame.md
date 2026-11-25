@@ -18,7 +18,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 2
 
 ## Effects
-- Turret flame
+- Turret flame (1 damage, every 0.45s, range 300, piercing 99, Burning 5×8 (33% Engineering))
 
 ## Shop
 - Base price 40, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -31,7 +31,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Turret flame | structure damage and scaling ×1.10 → ×2.10 (or faster spawning) |
+| Turret flame (1 damage, every 0.45s, range 300, piercing 99, Burning 5×8 (33% Engineering)) | damage 2 → 3, scaling ×1.10 → ×2.10 |
 | Curse stat added | +2 → 3 |
 
 ## Mutation

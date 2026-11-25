@@ -24,8 +24,8 @@ dlc: Base game
 | 4 | 221 | 80 | 100% Melee damage | 0.59s | 1% ×1.5 | 150 | – |
 
 ## Effects per tier
-- **Tier 3:** Effect explode melee
-- **Tier 4:** Effect explode melee
+- **Tier 3:** Explodes on hit (25% chance, explosion size 100%, uses the weapon's damage)
+- **Tier 4:** Explodes on hit (50% chance, explosion size 125%, uses the weapon's damage)
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Unarmed|Unarmed]]. Shop odds: [[Weapon Rolls]].
 
@@ -34,8 +34,8 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 3 | 44 → 84 | 110% → 210% Melee damage | ×1.5 → ×1.8 | Effect explode melee: explosion chance 25.5% → 30.5% | +5 → 9 |
-| 4 | 88 → 168 | 110% → 210% Melee damage | ×1.5 → ×1.8 | Effect explode melee: explosion chance 51% → 61% | +10 → 19 |
+| 3 | 44 → 84 | 110% → 210% Melee damage | ×1.5 → ×1.8 | Explodes on hit: explosion chance 25.5% → 30.5% | +5 → 9 |
+| 4 | 88 → 168 | 110% → 210% Melee damage | ×1.5 → ×1.8 | Explodes on hit: explosion chance 51% → 61% | +10 → 19 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

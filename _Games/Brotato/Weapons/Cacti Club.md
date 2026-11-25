@@ -28,10 +28,10 @@ Starting weapon for: [[Apprentice]], [[Archaeologist]], [[Buccaneer]], [[Caveman
 | 4 | 149 | 60 | 100% Melee damage | 1.36s | 3% ×2 | 200 | – |
 
 ## Effects per tier
-- **Tier 1:** Effect projectiles on hit +3
-- **Tier 2:** Effect projectiles on hit +4
-- **Tier 3:** Effect projectiles on hit +5
-- **Tier 4:** Effect projectiles on hit +6
+- **Tier 1:** Effect projectiles on hit +3 (1 damage (60% Ranged damage), every 1.20s, range 9999, crit 3% ×2)
+- **Tier 2:** Effect projectiles on hit +4 (2 damage (70% Ranged damage), every 1.20s, range 9999, crit 3% ×2)
+- **Tier 3:** Effect projectiles on hit +5 (3 damage (80% Ranged damage), every 1.20s, range 9999, crit 3% ×2)
+- **Tier 4:** Effect projectiles on hit +6 (4 damage (100% Ranged damage), every 1.20s, range 9999, crit 3% ×2)
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Heavy|Heavy]], [[Weapon Classes#Primitive|Primitive]]. Shop odds: [[Weapon Rolls]].
 
@@ -40,10 +40,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 1 | 17 → 32 | 88% → 168% Melee damage | ×2 → ×2.4 | Effect projectiles on hit +3: projectile damage ×1.10 → ×2.10 | +1 → 2 |
-| 2 | 22 → 42 | 94% → 178% Melee damage | ×2 → ×2.4 | Effect projectiles on hit +4: projectile damage ×1.10 → ×2.10 | +2 → 3 |
-| 3 | 39 → 74 | 99% → 189% Melee damage | ×2 → ×2.4 | Effect projectiles on hit +5: projectile damage ×1.10 → ×2.10 | +3 → 6 |
-| 4 | 66 → 126 | 110% → 210% Melee damage | ×2 → ×2.4 | Effect projectiles on hit +6: projectile damage ×1.10 → ×2.10 | +7 → 13 |
+| 1 | 17 → 32 | 88% → 168% Melee damage | ×2 → ×2.4 | Effect projectiles on hit +3: damage 2 → 3, scaling ×1.10 → ×2.10 | +1 → 2 |
+| 2 | 22 → 42 | 94% → 178% Melee damage | ×2 → ×2.4 | Effect projectiles on hit +4: damage 3 → 5, scaling ×1.10 → ×2.10 | +2 → 3 |
+| 3 | 39 → 74 | 99% → 189% Melee damage | ×2 → ×2.4 | Effect projectiles on hit +5: damage 4 → 7, scaling ×1.10 → ×2.10 | +3 → 6 |
+| 4 | 66 → 126 | 110% → 210% Melee damage | ×2 → ×2.4 | Effect projectiles on hit +6: damage 5 → 9, scaling ×1.10 → ×2.10 | +7 → 13 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

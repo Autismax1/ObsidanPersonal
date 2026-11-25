@@ -39,10 +39,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 1 | 7 → 13 | 55% → 105% Melee damage | ×2 → ×2.4 | Gold on crit kill (+50): 56 → 100 | +1 |
-| 2 | 14 → 26 | 55% → 105% Melee damage | ×2 → ×2.4 | Gold on crit kill (+56): 62 → 100 | +1 → 2 |
-| 3 | 20 → 38 | 55% → 105% Melee damage | ×2 → ×2.4 | Gold on crit kill (+62): 69 → 100 | +2 → 4 |
-| 4 | 33 → 63 | 55% → 105% Melee damage | ×2 → ×2.4 | Gold on crit kill (+80): 88 → 100 | +5 → 9 |
+| 1 | 7 → 13 | 55% → 105% Melee damage | ×2 → ×2.4 | Gold on crit kill: 56 → 100 | +1 |
+| 2 | 14 → 26 | 55% → 105% Melee damage | ×2 → ×2.4 | Gold on crit kill: 62 → 100 | +1 → 2 |
+| 3 | 20 → 38 | 55% → 105% Melee damage | ×2 → ×2.4 | Gold on crit kill: 69 → 100 | +2 → 4 |
+| 4 | 33 → 63 | 55% → 105% Melee damage | ×2 → ×2.4 | Gold on crit kill: 88 → 100 | +5 → 9 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

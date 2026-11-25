@@ -18,7 +18,7 @@ in_shop: true
 
 ## Effects
 - Attack speed +5
-- Temp stats per interval
+- Temp stats per interval (every 1s)
 - Lost on hit
 - Engineering -2
 
@@ -34,12 +34,12 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 | Effect | Cursed |
 |---|---|
 | Attack speed +5 | 6 → 11 |
-| Temp stats per interval | 2 → 3 |
+| Temp stats per interval (every 1s) | 2 → 3 |
 | Engineering -2 | -1 |
 | Curse stat added | +3 → 5 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - Attack speed +5
-  - Temp stats per interval
+  - Temp stats per interval (every 1s)
 - **Mutation can remove:** Engineering -2. See [[Mutation#Step 3: remove or copy]].

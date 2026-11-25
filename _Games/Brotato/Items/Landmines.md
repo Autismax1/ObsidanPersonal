@@ -19,7 +19,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 1
 
 ## Effects
-- Landmines
+- Landmines (spawns every 12s, 10 damage (100% Engineering), every 0.23s, Effect (100% chance, explosion size 175%))
 
 ## Shop
 - Base price 15, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -32,10 +32,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Landmines | structure damage and scaling ×1.10 → ×2.10 (or faster spawning) |
+| Landmines (spawns every 12s, 10 damage (100% Engineering), every 0.23s, Effect (100% chance, explosion size 175%)) | damage 11 → 21, scaling ×1.10 → ×2.10, spawns faster |
 | Curse stat added | +1 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Landmines (only from scale 0.7, about −63 evolution)
+  - Landmines (spawns every 12s, 10 damage (100% Engineering), every 0.23s, Effect (100% chance, explosion size 175%)) (only from scale 0.7, about −63 evolution)
 - No downside a mutation could remove.

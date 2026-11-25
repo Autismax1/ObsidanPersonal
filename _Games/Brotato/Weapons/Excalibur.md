@@ -32,7 +32,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 4 | 221 → 420 | 220% → 420% Melee damage, 220% → 420% Max hp | ×2.5 → ×3 | Additional bonus (-2): -1 | +10 → 19 |
+| 4 | 221 → 420 | 220% → 420% Melee damage, 220% → 420% Max hp | ×2.5 → ×3 | Additional bonus: -1 | +10 → 19 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

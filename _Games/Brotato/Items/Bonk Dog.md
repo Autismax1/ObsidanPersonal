@@ -19,7 +19,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 2
 
 ## Effects
-- Pet bonk dog
+- Pet bonk dog (10 damage (60% Melee damage), every 1.03s, range 150, explosion: 8 damage (40% Melee damage), every 5.56s, range 150, 100% chance, explosion size 150%)
 
 ## Shop
 - Base price 40, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -32,7 +32,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Pet bonk dog | pet becomes cursed: damage / effect strength ×1.10 → ×2.10 |
+| Pet bonk dog (10 damage (60% Melee damage), every 1.03s, range 150, explosion: 8 damage (40% Melee damage), every 5.56s, range 150, 100% chance, explosion size 150%) | damage 11 → 21, scaling ×1.10 → ×2.10 |
 | Curse stat added | +2 → 3 |
 
 ## Mutation

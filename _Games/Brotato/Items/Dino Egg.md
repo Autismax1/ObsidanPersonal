@@ -30,7 +30,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Dino egg 3 | pet becomes cursed: damage / effect strength ×1.10 → ×2.10 |
+| Dino egg 3 | pet becomes cursed: effect strength ×1.10 → ×2.10 |
 | Curse stat added | +3 → 5 |
 
 ## Mutation

@@ -19,7 +19,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 4
 
 ## Effects
-- Chance explode on hit
+- Chance explode on hit (50% chance, explosion size 150%, 10 damage (500% Curse), every 1.56s, range 150, crit 3% ×1.5)
 - Max hp +15
 - Curse +15
 
@@ -35,12 +35,12 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Chance explode on hit | explosion damage ×1.10 → ×2.10 |
+| Chance explode on hit (50% chance, explosion size 150%, 10 damage (500% Curse), every 1.56s, range 150, crit 3% ×1.5) | damage 11 → 21, scaling ×1.10 → ×2.10 |
 | Max hp +15 | 17 → 32 |
 | Curse +15 | 17 → 32 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Chance explode on hit
+  - Chance explode on hit (50% chance, explosion size 150%, 10 damage (500% Curse), every 1.56s, range 150, crit 3% ×1.5)
   - Max hp +15
 - No downside a mutation could remove.

@@ -19,7 +19,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 2
 
 ## Effects
-- Tyler
+- Tyler (12 ×10 damage (90% Engineering, 90% Elemental damage), every 2.20s, range 235, piercing 2)
 
 ## Shop
 - Base price 62, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -32,7 +32,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Tyler | structure damage and scaling ×1.10 → ×2.10 (or faster spawning) |
+| Tyler (12 ×10 damage (90% Engineering, 90% Elemental damage), every 2.20s, range 235, piercing 2) | damage 14 → 26, scaling ×1.10 → ×2.10 |
 | Curse stat added | +3 → 5 |
 
 ## Mutation

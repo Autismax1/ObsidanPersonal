@@ -27,10 +27,10 @@ Starting weapon for: [[Apprentice]], [[Archaeologist]], [[Arsonist]], [[Baby]], 
 | 4 | 105 | 12 | 80% Elemental damage | 1.45s | 3% ×1.5 | 375 | – |
 
 ## Effects per tier
-- **Tier 1:** Burning 3×4 (100% Elemental damage); Burning 3×4 (100% Elemental damage)
-- **Tier 2:** Burning 5×5 (100% Elemental damage); Burning 5×5 (100% Elemental damage)
-- **Tier 3:** Burning 8×6 (100% Elemental damage); Burning 8×6 (100% Elemental damage)
-- **Tier 4:** Burning 12×9 (100% Elemental damage); Burning 12×9 (100% Elemental damage)
+- **Tier 1:** Fire puddle on hit: Burning 3×4 (100% Elemental damage) (puddle lasts 3s); Burning 3×4 (100% Elemental damage)
+- **Tier 2:** Fire puddle on hit: Burning 5×5 (100% Elemental damage) (puddle lasts 3.5s); Burning 5×5 (100% Elemental damage)
+- **Tier 3:** Fire puddle on hit: Burning 8×6 (100% Elemental damage) (puddle lasts 4s); Burning 8×6 (100% Elemental damage)
+- **Tier 4:** Fire puddle on hit: Burning 12×9 (100% Elemental damage) (puddle lasts 4.5s); Burning 12×9 (100% Elemental damage)
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Elemental|Elemental]]. Shop odds: [[Weapon Rolls]].
 
@@ -39,10 +39,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 1 | 5 → 9 | 33% → 63% Elemental damage | ×1.5 → ×1.8 | Burning 3×4 (100% Elemental damage): Burning 4×5 → 7×9 | +1 |
-| 2 | 7 → 13 | 50% → 94% Elemental damage | ×1.5 → ×1.8 | Burning 5×5 (100% Elemental damage): Burning 6×6 → 11×11 | +1 → 2 |
-| 3 | 9 → 17 | 66% → 126% Elemental damage | ×1.5 → ×1.8 | Burning 8×6 (100% Elemental damage): Burning 9×7 → 17×13 | +2 → 4 |
-| 4 | 14 → 26 | 88% → 168% Elemental damage | ×1.5 → ×1.8 | Burning 12×9 (100% Elemental damage): Burning 14×10 → 26×19 | +5 → 9 |
+| 1 | 5 → 9 | 33% → 63% Elemental damage | ×1.5 → ×1.8 | Burning 3×4: Burning 4×5 → 7×9 | +1 |
+| 2 | 7 → 13 | 50% → 94% Elemental damage | ×1.5 → ×1.8 | Burning 5×5: Burning 6×6 → 11×11 | +1 → 2 |
+| 3 | 9 → 17 | 66% → 126% Elemental damage | ×1.5 → ×1.8 | Burning 8×6: Burning 9×7 → 17×13 | +2 → 4 |
+| 4 | 14 → 26 | 88% → 168% Elemental damage | ×1.5 → ×1.8 | Burning 12×9: Burning 14×10 → 26×19 | +5 → 9 |
 
 ## Meca
 - Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].

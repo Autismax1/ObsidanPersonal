@@ -28,10 +28,10 @@ Starting weapon for: [[Apprentice]], [[Arsonist]], [[Artificer]], [[Buccaneer]],
 | 4 | 122 | 25 | 50% Ranged damage | 1.05s | 3% ×2 | 450 | Piercing 3 |
 
 ## Effects per tier
-- **Tier 1:** Effect explode custom
-- **Tier 2:** Effect explode custom
-- **Tier 3:** Effect explode custom
-- **Tier 4:** Effect explode
+- **Tier 1:** Explodes on hit (50% chance, explosion size 75%, uses the weapon's damage)
+- **Tier 2:** Explodes on hit (65% chance, explosion size 80%, uses the weapon's damage)
+- **Tier 3:** Explodes on hit (80% chance, explosion size 85%, uses the weapon's damage)
+- **Tier 4:** Explodes on hit (100% chance, explosion size 90%, uses the weapon's damage)
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Gun|Gun]]. Shop odds: [[Weapon Rolls]].
 
@@ -40,9 +40,9 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse str
 
 | Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
 |---|---|---|---|---|---|
-| 1 | 6 → 11 | 55% → 105% Ranged damage | ×2 → ×2.4 | Piercing 4 → 4; Effect explode custom: explosion chance 51% → 61% | +1 |
-| 2 | 11 → 21 | 55% → 105% Ranged damage | ×2 → ×2.4 | Piercing 4 → 4; Effect explode custom: explosion chance 66.3% → 79.3% | +1 → 3 |
-| 3 | 17 → 32 | 55% → 105% Ranged damage | ×2 → ×2.4 | Piercing 4 → 4; Effect explode custom: explosion chance 81.6% → 97.6% | +3 → 5 |
+| 1 | 6 → 11 | 55% → 105% Ranged damage | ×2 → ×2.4 | Piercing 4 → 4; Explodes on hit: explosion chance 51% → 61% | +1 |
+| 2 | 11 → 21 | 55% → 105% Ranged damage | ×2 → ×2.4 | Piercing 4 → 4; Explodes on hit: explosion chance 66.3% → 79.3% | +1 → 3 |
+| 3 | 17 → 32 | 55% → 105% Ranged damage | ×2 → ×2.4 | Piercing 4 → 4; Explodes on hit: explosion chance 81.6% → 97.6% | +3 → 5 |
 | 4 | 28 → 53 | 55% → 105% Ranged damage | ×2 → ×2.4 | Piercing 4 → 4 | +5 → 10 |
 
 ## Meca
