@@ -27,10 +27,10 @@ Starting weapon for: [[Archaeologist]], [[Baby]], [[Buccaneer]], [[Captain]], [[
 | 4 | 149 | 28 | 100% Engineering | 1.59s | 3% ×2 | 190 | – |
 
 ## Effects per tier
-- **Tier 1:** Spawn turret every killed enemies (+16) (structure: 8 damage (80% Engineering), every 0.73s, range 300); Turret damage taken (8 damage (80% Engineering), every 0.73s, range 300, All +10 (5s, up to 3 stacks))
-- **Tier 2:** Spawn turret every killed enemies (+14) (structure: 8 damage (80% Engineering), every 0.73s, range 300); Turret damage taken (8 damage (80% Engineering), every 0.73s, range 300, All +10 (5s, up to 3 stacks))
-- **Tier 3:** Spawn turret every killed enemies (+12) (structure: 8 damage (80% Engineering), every 0.73s, range 300); Turret damage taken (8 damage (80% Engineering), every 0.73s, range 300, All +10 (5s, up to 3 stacks))
-- **Tier 4:** Spawn turret every killed enemies (+10) (structure: 8 damage (80% Engineering), every 0.73s, range 300); Turret damage taken (8 damage (80% Engineering), every 0.73s, range 300, All +10 (5s, up to 3 stacks))
+- **Tier 1:** Spawn turret every killed enemies (+16) (structure: 8 damage (80% Engineering), every 0.73s, range 300, Enemies hit take +10% damage (5s, up to 3 stacks)); Turret damage taken (8 damage (80% Engineering), every 0.73s, range 300, Enemies hit take +10% damage (5s, up to 3 stacks))
+- **Tier 2:** Spawn turret every killed enemies (+14) (structure: 8 damage (80% Engineering), every 0.73s, range 300, Enemies hit take +10% damage (5s, up to 3 stacks)); Turret damage taken (8 damage (80% Engineering), every 0.73s, range 300, Enemies hit take +10% damage (5s, up to 3 stacks))
+- **Tier 3:** Spawn turret every killed enemies (+12) (structure: 8 damage (80% Engineering), every 0.73s, range 300, Enemies hit take +10% damage (5s, up to 3 stacks)); Turret damage taken (8 damage (80% Engineering), every 0.73s, range 300, Enemies hit take +10% damage (5s, up to 3 stacks))
+- **Tier 4:** Spawn turret every killed enemies (+10) (structure: 8 damage (80% Engineering), every 0.73s, range 300, Enemies hit take +10% damage (5s, up to 3 stacks)); Turret damage taken (8 damage (80% Engineering), every 0.73s, range 300, Enemies hit take +10% damage (5s, up to 3 stacks))
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Tool|Tool]]. Shop odds: [[Weapon Rolls]].
 

@@ -27,10 +27,10 @@ Starting weapon for: [[Apprentice]], [[Arsonist]], [[Artificer]], [[Baby]], [[Ch
 | 4 | 91 | 20 | 50% Melee damage, 80% Engineering | 0.88s | 30% ×2.5 | 135 | – |
 
 ## Effects per tier
-- **Tier 1:** Landmines (spawns every 12s, 10 damage (100% Engineering), every 0.23s, Effect (100% chance, explosion size 175%))
-- **Tier 2:** Landmines (spawns every 9s, 10 damage (100% Engineering), every 0.23s, Effect (100% chance, explosion size 175%))
-- **Tier 3:** Landmines (spawns every 6s, 10 damage (100% Engineering), every 0.23s, Effect (100% chance, explosion size 175%))
-- **Tier 4:** Landmines (spawns every 3s, 10 damage (100% Engineering), every 0.23s, Effect (100% chance, explosion size 175%))
+- **Tier 1:** Landmines (spawns every 12s, 10 damage (100% Engineering), every 0.23s, Explodes on hit (100% chance, explosion size 175%))
+- **Tier 2:** Landmines (spawns every 9s, 10 damage (100% Engineering), every 0.23s, Explodes on hit (100% chance, explosion size 175%))
+- **Tier 3:** Landmines (spawns every 6s, 10 damage (100% Engineering), every 0.23s, Explodes on hit (100% chance, explosion size 175%))
+- **Tier 4:** Landmines (spawns every 3s, 10 damage (100% Engineering), every 0.23s, Explodes on hit (100% chance, explosion size 175%))
 
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Tool|Tool]]. Shop odds: [[Weapon Rolls]].
 

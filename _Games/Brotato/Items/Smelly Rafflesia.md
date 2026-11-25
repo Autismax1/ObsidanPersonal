@@ -16,7 +16,7 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 3
 
 ## Effects
-- Enemy percent damage taken chance (+25) (25% chance, 5s, up to 1 stacks)
+- Enemies hit take +25% damage (25% chance, 5s, up to 1 stacks)
 
 ## Shop
 - Base price 80, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -27,10 +27,10 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Enemy percent damage taken chance (+25) (25% chance, 5s, up to 1 stacks) | 28 → 53 |
+| Enemies hit take +25% damage (25% chance, 5s, up to 1 stacks) | 28 → 53 |
 | Curse stat added | +4 → 7 |
 
 ## Mutation
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Enemy percent damage taken chance (+25) (25% chance, 5s, up to 1 stacks)
+  - Enemies hit take +25% damage (25% chance, 5s, up to 1 stacks)
 - No downside a mutation could remove.

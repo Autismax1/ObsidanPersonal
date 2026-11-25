@@ -1,48 +1,391 @@
 {
-	"nodes":[
-		{"id":"n0001","type":"file","file":"_Games/Brotato/Brotato.md","x":-160,"y":-60,"width":320,"height":120},
-		{"id":"n0002","type":"file","file":"_Games/Brotato/Run Cheat Sheet.md","x":-160,"y":-260,"width":320,"height":120,"color":"3"},
-		{"id":"n0004","type":"group","label":"Characters","x":-1000,"y":-500,"width":420,"height":390,"color":"6"},
-		{"id":"n0005","type":"file","file":"_Games/Brotato/Characters.md","x":-970,"y":-460,"width":360,"height":60,"color":"6"},
-		{"id":"n0006","type":"file","file":"_Games/Brotato/Reference/Wanted Tags.md","x":-970,"y":-380,"width":360,"height":60,"color":"6"},
-		{"id":"n0007","type":"file","file":"_Games/Brotato/Reference/Item Groups.md","x":-970,"y":-300,"width":360,"height":60,"color":"6"},
-		{"id":"n0008","type":"file","file":"_Games/Brotato/Reference/Hidden Effects.md","x":-970,"y":-220,"width":360,"height":60,"color":"6"},
-		{"id":"n0009","type":"file","file":"_Games/Brotato/Characters/Brawler.md","x":-970,"y":-140,"width":360,"height":60,"color":"6"},
-		{"id":"n0011","type":"group","label":"Shop","x":-1000,"y":250,"width":420,"height":460,"color":"3"},
-		{"id":"n0012","type":"file","file":"_Games/Brotato/Shop/Shop Item Rolls.md","x":-970,"y":290,"width":360,"height":60,"color":"3"},
-		{"id":"n0013","type":"file","file":"_Games/Brotato/Shop/Rarity Odds.md","x":-970,"y":370,"width":360,"height":60,"color":"3"},
-		{"id":"n0014","type":"file","file":"_Games/Brotato/Shop/Weapon Rolls.md","x":-970,"y":450,"width":360,"height":60,"color":"3"},
-		{"id":"n0015","type":"file","file":"_Games/Brotato/Shop/Prices and Rerolls.md","x":-970,"y":530,"width":360,"height":60,"color":"3"},
-		{"id":"n0016","type":"file","file":"_Games/Brotato/Reference/Item Caps.md","x":-970,"y":610,"width":360,"height":60,"color":"3"},
-		{"id":"n0018","type":"group","label":"Drops","x":-160,"y":400,"width":420,"height":220,"color":"2"},
-		{"id":"n0019","type":"file","file":"_Games/Brotato/Drops/Materials and Crates.md","x":-130,"y":440,"width":360,"height":60,"color":"2"},
-		{"id":"n0020","type":"file","file":"_Games/Brotato/Drops/Evolution Drops.md","x":-130,"y":520,"width":360,"height":60,"color":"2"},
-		{"id":"n0022","type":"group","label":"Primal Dread","x":500,"y":-500,"width":420,"height":460,"color":"4"},
-		{"id":"n0023","type":"file","file":"_Games/Brotato/Mechanics/Evolution.md","x":530,"y":-460,"width":360,"height":60,"color":"4"},
-		{"id":"n0024","type":"file","file":"_Games/Brotato/Mechanics/Mutation.md","x":530,"y":-380,"width":360,"height":60,"color":"4"},
-		{"id":"n0025","type":"file","file":"_Games/Brotato/Mechanics/Meca.md","x":530,"y":-300,"width":360,"height":60,"color":"4"},
-		{"id":"n0026","type":"file","file":"_Games/Brotato/Mechanics/Evolved Enemies.md","x":530,"y":-220,"width":360,"height":60,"color":"4"},
-		{"id":"n0027","type":"file","file":"_Games/Brotato/Evolution Flow.canvas","x":530,"y":-140,"width":360,"height":60,"color":"4"},
-		{"id":"n0029","type":"group","label":"Abyssal Terrors","x":500,"y":250,"width":420,"height":300,"color":"1"},
-		{"id":"n0030","type":"file","file":"_Games/Brotato/Mechanics/Curse.md","x":530,"y":290,"width":360,"height":60,"color":"1"},
-		{"id":"n0031","type":"file","file":"_Games/Brotato/Mechanics/Cursed Enemies.md","x":530,"y":370,"width":360,"height":60,"color":"1"},
-		{"id":"n0032","type":"file","file":"_Games/Brotato/Reference/Danger Levels.md","x":530,"y":450,"width":360,"height":60,"color":"1"},
-		{"id":"tips_group","type":"group","label":"Tips","x":-160,"y":-700,"width":420,"height":220,"color":"5"},
-		{"id":"tips_0","type":"file","file":"_Games/Brotato/Tips.md","x":-130,"y":-660,"width":360,"height":60,"color":"5"},
-		{"id":"tips_1","type":"file","file":"_Games/Brotato/Mechanics/Healing.md","x":-130,"y":-580,"width":360,"height":60,"color":"5"},
-		{"id":"iw_group","type":"group","label":"Items & Weapons","x":-160,"y":680,"width":420,"height":300,"color":"2"},
-		{"id":"iw_0","type":"file","file":"_Games/Brotato/Items.md","x":-130,"y":720,"width":360,"height":60,"color":"2"},
-		{"id":"iw_1","type":"file","file":"_Games/Brotato/Weapons.md","x":-130,"y":800,"width":360,"height":60,"color":"2"},
-		{"id":"iw_2","type":"file","file":"_Games/Brotato/Reference/Weapon Classes.md","x":-130,"y":880,"width":360,"height":60,"color":"2"}
+	"nodes": [
+		{
+			"id": "hub",
+			"type": "text",
+			"x": -190,
+			"y": -110,
+			"width": 380,
+			"height": 150,
+			"text": "# [[Brotato]]\nStart page. During a run: [[Run Cheat Sheet]] and your character in [[Characters]]."
+		},
+		{
+			"id": "cheat",
+			"type": "text",
+			"x": -190,
+			"y": -330,
+			"width": 380,
+			"height": 90,
+			"color": "3",
+			"text": "## [[Run Cheat Sheet]]\nevery key number on one page"
+		},
+		{
+			"id": "g_tips",
+			"type": "group",
+			"label": "Tips",
+			"x": -190,
+			"y": -720,
+			"width": 420,
+			"height": 220,
+			"color": "5"
+		},
+		{
+			"id": "g_tips_0",
+			"type": "text",
+			"x": -170,
+			"y": -674,
+			"width": 380,
+			"height": 70,
+			"color": "5",
+			"text": "**[[Tips]]**\nstrategy tips, one note each"
+		},
+		{
+			"id": "g_tips_1",
+			"type": "text",
+			"x": -170,
+			"y": -590,
+			"width": 380,
+			"height": 70,
+			"color": "5",
+			"text": "**[[Healing]]**\nlifesteal and HP regen numbers"
+		},
+		{
+			"id": "g_chars",
+			"type": "group",
+			"label": "Characters",
+			"x": -1080,
+			"y": -520,
+			"width": 420,
+			"height": 388,
+			"color": "6"
+		},
+		{
+			"id": "g_chars_0",
+			"type": "text",
+			"x": -1060,
+			"y": -474,
+			"width": 380,
+			"height": 70,
+			"color": "6",
+			"text": "**[[Characters]]**\nall 74, sortable table"
+		},
+		{
+			"id": "g_chars_1",
+			"type": "text",
+			"x": -1060,
+			"y": -390,
+			"width": 380,
+			"height": 70,
+			"color": "6",
+			"text": "**[[Wanted Tags]]**\nitems per tag, who wants them"
+		},
+		{
+			"id": "g_chars_2",
+			"type": "text",
+			"x": -1060,
+			"y": -306,
+			"width": 380,
+			"height": 70,
+			"color": "6",
+			"text": "**[[Item Groups]]**\nfixed ban lists"
+		},
+		{
+			"id": "g_chars_3",
+			"type": "text",
+			"x": -1060,
+			"y": -222,
+			"width": 380,
+			"height": 70,
+			"color": "6",
+			"text": "**[[Hidden Effects]]**\neffects the tooltip hides"
+		},
+		{
+			"id": "g_shop",
+			"type": "group",
+			"label": "Shop",
+			"x": -1080,
+			"y": 60,
+			"width": 420,
+			"height": 472,
+			"color": "3"
+		},
+		{
+			"id": "g_shop_0",
+			"type": "text",
+			"x": -1060,
+			"y": 106,
+			"width": 380,
+			"height": 70,
+			"color": "3",
+			"text": "**[[Shop Item Rolls]]**\nhow one slot is filled"
+		},
+		{
+			"id": "g_shop_1",
+			"type": "text",
+			"x": -1060,
+			"y": 190,
+			"width": 380,
+			"height": 70,
+			"color": "3",
+			"text": "**[[Rarity Odds]]**\ntier chances by wave and luck"
+		},
+		{
+			"id": "g_shop_2",
+			"type": "text",
+			"x": -1060,
+			"y": 274,
+			"width": 380,
+			"height": 70,
+			"color": "3",
+			"text": "**[[Weapon Rolls]]**\nhow many weapons, which ones"
+		},
+		{
+			"id": "g_shop_3",
+			"type": "text",
+			"x": -1060,
+			"y": 358,
+			"width": 380,
+			"height": 70,
+			"color": "3",
+			"text": "**[[Prices and Rerolls]]**\nprice, reroll, recycling"
+		},
+		{
+			"id": "g_shop_4",
+			"type": "text",
+			"x": -1060,
+			"y": 442,
+			"width": 380,
+			"height": 70,
+			"color": "3",
+			"text": "**[[Item Caps]]**\nmax copies per item"
+		},
+		{
+			"id": "g_pd",
+			"type": "group",
+			"label": "Primal Dread",
+			"x": 700,
+			"y": -520,
+			"width": 420,
+			"height": 472,
+			"color": "4"
+		},
+		{
+			"id": "g_pd_0",
+			"type": "text",
+			"x": 720,
+			"y": -474,
+			"width": 380,
+			"height": 70,
+			"color": "4",
+			"text": "**[[Evolution]]**\nthe evolution stat and \u00b12 lock"
+		},
+		{
+			"id": "g_pd_1",
+			"type": "text",
+			"x": 720,
+			"y": -390,
+			"width": 380,
+			"height": 70,
+			"color": "4",
+			"text": "**[[Mutation]]**\nremove or copy, the Tumor"
+		},
+		{
+			"id": "g_pd_2",
+			"type": "text",
+			"x": 720,
+			"y": -306,
+			"width": 380,
+			"height": 70,
+			"color": "4",
+			"text": "**[[Meca]]**\nmechanizing, stat groups, ranks"
+		},
+		{
+			"id": "g_pd_3",
+			"type": "text",
+			"x": 720,
+			"y": -222,
+			"width": 380,
+			"height": 70,
+			"color": "4",
+			"text": "**[[Evolved Enemies]]**\nmeca and mutant enemies"
+		},
+		{
+			"id": "g_pd_4",
+			"type": "text",
+			"x": 720,
+			"y": -138,
+			"width": 380,
+			"height": 70,
+			"color": "4",
+			"text": "**[[Evolution Flow.canvas|Evolution Flow]]**\ndecision flowchart"
+		},
+		{
+			"id": "g_at",
+			"type": "group",
+			"label": "Abyssal Terrors",
+			"x": 700,
+			"y": 140,
+			"width": 420,
+			"height": 304,
+			"color": "1"
+		},
+		{
+			"id": "g_at_0",
+			"type": "text",
+			"x": 720,
+			"y": 186,
+			"width": 380,
+			"height": 70,
+			"color": "1",
+			"text": "**[[Curse]]**\ncurse chance and strength"
+		},
+		{
+			"id": "g_at_1",
+			"type": "text",
+			"x": 720,
+			"y": 270,
+			"width": 380,
+			"height": 70,
+			"color": "1",
+			"text": "**[[Cursed Enemies]]**\ncursed enemy stats"
+		},
+		{
+			"id": "g_at_2",
+			"type": "text",
+			"x": 720,
+			"y": 354,
+			"width": 380,
+			"height": 70,
+			"color": "1",
+			"text": "**[[Danger Levels]]**\ndanger 0\u20136"
+		},
+		{
+			"id": "g_drops",
+			"type": "group",
+			"label": "Drops",
+			"x": -190,
+			"y": 330,
+			"width": 420,
+			"height": 220,
+			"color": "2"
+		},
+		{
+			"id": "g_drops_0",
+			"type": "text",
+			"x": -170,
+			"y": 376,
+			"width": 380,
+			"height": 70,
+			"color": "2",
+			"text": "**[[Materials and Crates]]**\nmaterials, crates, fruit"
+		},
+		{
+			"id": "g_drops_1",
+			"type": "text",
+			"x": -170,
+			"y": 460,
+			"width": 380,
+			"height": 70,
+			"color": "2",
+			"text": "**[[Evolution Drops]]**\nfruit, mutation fruit, meca parts"
+		},
+		{
+			"id": "g_iw",
+			"type": "group",
+			"label": "Items & Weapons",
+			"x": -190,
+			"y": 620,
+			"width": 420,
+			"height": 304,
+			"color": "2"
+		},
+		{
+			"id": "g_iw_0",
+			"type": "text",
+			"x": -170,
+			"y": 666,
+			"width": 380,
+			"height": 70,
+			"color": "2",
+			"text": "**[[Items]]**\nall 294 items with cursed values"
+		},
+		{
+			"id": "g_iw_1",
+			"type": "text",
+			"x": -170,
+			"y": 750,
+			"width": 380,
+			"height": 70,
+			"color": "2",
+			"text": "**[[Weapons]]**\nall 96 weapons, stats per tier"
+		},
+		{
+			"id": "g_iw_2",
+			"type": "text",
+			"x": -170,
+			"y": 834,
+			"width": 380,
+			"height": 70,
+			"color": "2",
+			"text": "**[[Weapon Classes]]**\nset bonuses for 2\u20136 weapons"
+		}
 	],
-	"edges":[
-		{"id":"n0003","fromNode":"n0001","fromSide":"top","toNode":"n0002","toSide":"bottom"},
-		{"id":"n0010","fromNode":"n0001","fromSide":"left","toNode":"n0004","toSide":"right"},
-		{"id":"n0017","fromNode":"n0001","fromSide":"left","toNode":"n0011","toSide":"right"},
-		{"id":"n0021","fromNode":"n0001","fromSide":"bottom","toNode":"n0018","toSide":"top"},
-		{"id":"n0028","fromNode":"n0001","fromSide":"right","toNode":"n0022","toSide":"left"},
-		{"id":"n0033","fromNode":"n0001","fromSide":"right","toNode":"n0029","toSide":"left"},
-		{"id":"tips_edge","fromNode":"n0002","fromSide":"top","toNode":"tips_group","toSide":"bottom"},
-		{"id":"iw_edge","fromNode":"n0018","fromSide":"bottom","toNode":"iw_group","toSide":"top"}
+	"edges": [
+		{
+			"id": "e_cheat",
+			"fromNode": "hub",
+			"fromSide": "top",
+			"toNode": "cheat",
+			"toSide": "bottom"
+		},
+		{
+			"id": "e_tips",
+			"fromNode": "cheat",
+			"fromSide": "top",
+			"toNode": "g_tips",
+			"toSide": "bottom"
+		},
+		{
+			"id": "e_g_chars",
+			"fromNode": "hub",
+			"fromSide": "left",
+			"toNode": "g_chars",
+			"toSide": "right"
+		},
+		{
+			"id": "e_g_shop",
+			"fromNode": "hub",
+			"fromSide": "left",
+			"toNode": "g_shop",
+			"toSide": "right"
+		},
+		{
+			"id": "e_g_pd",
+			"fromNode": "hub",
+			"fromSide": "right",
+			"toNode": "g_pd",
+			"toSide": "left"
+		},
+		{
+			"id": "e_g_at",
+			"fromNode": "hub",
+			"fromSide": "right",
+			"toNode": "g_at",
+			"toSide": "left"
+		},
+		{
+			"id": "e_g_drops",
+			"fromNode": "hub",
+			"fromSide": "bottom",
+			"toNode": "g_drops",
+			"toSide": "top"
+		},
+		{
+			"id": "e_g_iw",
+			"fromNode": "g_drops",
+			"fromSide": "bottom",
+			"toNode": "g_iw",
+			"toSide": "top"
+		}
 	]
 }
