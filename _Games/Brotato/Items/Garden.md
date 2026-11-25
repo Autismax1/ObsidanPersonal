@@ -20,6 +20,8 @@ in_shop: true
 ## Effects
 - Garden (0 damage, every 15.20s, range 150)
 
+Structure: uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
 ## Shop
 - Base price 50, real price grows with the wave. See [[Prices and Rerolls#Item price]].
 - No copy limit.

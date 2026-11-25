@@ -21,6 +21,8 @@ in_shop: true
 ## Effects
 - Tyler (12 ×10 damage (90% Engineering, 90% Elemental damage), every 2.20s, range 235, piercing 2)
 
+Structure: uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
 ## Shop
 - Base price 62, real price grows with the wave. See [[Prices and Rerolls#Item price]].
 - No copy limit.

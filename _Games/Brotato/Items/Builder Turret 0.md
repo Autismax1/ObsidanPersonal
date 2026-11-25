@@ -19,6 +19,8 @@ in_shop: false
 - Builder turret alt (10 damage (80% Engineering), every 0.73s, range 300)
 - Builder turret upgrade
 
+Structure: uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
 ## Shop
 - **Not sold in the shop or crates.** Created by another effect.
 

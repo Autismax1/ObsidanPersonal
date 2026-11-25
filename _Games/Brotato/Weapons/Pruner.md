@@ -32,6 +32,8 @@ Starting weapon for: [[Apprentice]], [[Baby]], [[Chef]], [[Chunky]], [[Cryptid]]
 - **Tier 3:** Garden (0 damage, every 12.20s, range 150)
 - **Tier 4:** Garden (0 damage, every 10.20s, range 150)
 
+Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].
+
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Support|Support]]. Shop odds: [[Weapon Rolls]].
 
 ## Cursed

@@ -32,6 +32,8 @@ Starting weapon for: [[Apprentice]], [[Archaeologist]], [[Baby]], [[Buccaneer]],
 - **Tier 3:** Carbon bow random scaling; Carbon bow melee, while it scales with Melee damage (+50) (1.5s); Carbon bow ranged, while it scales with Ranged damage (+2); Burning 8×6 (100% Elemental damage); Carbon bow engineering, while it scales with Engineering (+4) (structure: 10 damage (100% Engineering), every 0.23s, spawns every 12s, Explodes on hit (100% chance, explosion size 175%))
 - **Tier 4:** Carbon bow random scaling; Carbon bow melee, while it scales with Melee damage (+50) (2s); Carbon bow ranged, while it scales with Ranged damage (+2); Burning 12×9 (100% Elemental damage); Carbon bow engineering, while it scales with Engineering (+5) (structure: 10 damage (100% Engineering), every 0.23s, spawns every 12s, Explodes on hit (100% chance, explosion size 175%))
 
+Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].
+
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Precise|Precise]]. Shop odds: [[Weapon Rolls]].
 
 ## Cursed

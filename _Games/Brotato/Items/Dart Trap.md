@@ -20,6 +20,8 @@ in_shop: true
 ## Effects
 - Dart trap (6 darts, spawns every 6s, 8 damage (100% Engineering), every 0.23s, range 10000)
 
+Structure: uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
 ## Shop
 - Base price 15, real price grows with the wave. See [[Prices and Rerolls#Item price]].
 - No copy limit.

@@ -20,6 +20,8 @@ in_shop: false
 - Projectiles (+2)
 - Builder turret upgrade
 
+Structure: uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
 ## Shop
 - **Not sold in the shop or crates.** Created by another effect.
 

@@ -22,7 +22,7 @@ in_shop: true
 ## How it works
 - Bites: 12 damage (25% Max HP), cooldown 0.47s.
 - Runs to healing consumables (fruit) and **eats them**: +5 damage for every fruit eaten. You don't get that fruit.
-- Pets get your % Damage and Crit chance, but **not your Attack speed**: their attack cooldowns never change.
+- Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
 
 ## Shop
 - Base price 80, real price grows with the wave. See [[Prices and Rerolls#Item price]].

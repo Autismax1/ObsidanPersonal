@@ -32,6 +32,8 @@ Starting weapon for: [[Baby]], [[Captain]], [[Chef]], [[Chunky]], [[Curious]], [
 - **Tier 3:** Dart trap (12 darts, spawns every 6s, 8 damage (100% Engineering), every 0.23s, range 10000)
 - **Tier 4:** Dart trap (15 darts, spawns every 6s, 8 damage (100% Engineering), every 0.23s, range 10000)
 
+Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].
+
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Tool|Tool]]. Shop odds: [[Weapon Rolls]].
 
 ## Cursed

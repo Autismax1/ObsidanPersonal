@@ -20,6 +20,8 @@ in_shop: true
 ## Effects
 - Turret flame (1 damage, every 0.45s, range 300, piercing 99, Burning 5×8 (33% Engineering))
 
+Structure: uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
 ## Shop
 - Base price 40, real price grows with the wave. See [[Prices and Rerolls#Item price]].
 - No copy limit.

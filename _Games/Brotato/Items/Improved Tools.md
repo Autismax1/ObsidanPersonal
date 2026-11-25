@@ -21,6 +21,10 @@ in_shop: true
 - Attack speed +10
 - Structures cooldown reduction (+50)
 
+## How it works
+- Structures get **50% of your attack speed** as structure attack speed: faster turrets and faster timed spawns (landmines). Negative attack speed makes them slower.
+- Pets don't benefit. See [[Structures and Pets]].
+
 ## Shop
 - Base price 70, real price grows with the wave. See [[Prices and Rerolls#Item price]].
 - Max copies: 1. See [[Item Caps]].

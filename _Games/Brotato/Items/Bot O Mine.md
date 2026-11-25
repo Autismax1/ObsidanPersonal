@@ -24,7 +24,7 @@ in_shop: true
 ## How it works
 - Shoots: 10 damage (100% Engineering), cooldown 0.53s, range 300.
 - Drops a **landmine every 5s**: 10 damage (100% Engineering), explosion size 175%.
-- As a structure pet it gets your % Damage **and** structure % damage, but **no attack speed**, and it only crits with a "structures can crit" effect.
+- As a structure pet it gets your % Damage **and** structure % damage, but **no attack speed**, and it only crits with a "structures can crit" effect. Its tooltip speeds up the landmine timer with structure attack speed, but the pet itself uses the raw 5s. See [[Structures and Pets]].
 
 ## Shop
 - Base price 55, real price grows with the wave. See [[Prices and Rerolls#Item price]].

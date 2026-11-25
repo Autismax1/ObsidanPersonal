@@ -24,7 +24,7 @@ in_shop: true
 - Bites: 1 damage (1% Elemental damage), cooldown 0.37s. Its attacks set enemies on fire: burning 3×5 (50% Elemental damage).
 - Every 4s it shoots a **circle of 6 fire projectiles** that pierce (almost) everything and burn.
 - Its value is the burn: damage comes almost entirely from Elemental damage.
-- Pets get your % Damage and Crit chance, but **not your Attack speed**: their attack cooldowns never change.
+- Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
 
 ## Shop
 - Base price 40, real price grows with the wave. See [[Prices and Rerolls#Item price]].

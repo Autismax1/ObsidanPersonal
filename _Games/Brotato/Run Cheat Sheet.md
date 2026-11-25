@@ -35,6 +35,12 @@ tags:
 | HP regen | 1 HP every `5 s / (1 + (regen − 1)/2.25)`; 10 regen = 1 HP/s | [[Healing#HP regeneration]] |
 | Which one | lifesteal for many hits, regen for few big hits | [[Lifesteal vs HP Regen]] |
 
+## Structures and pets
+| What | Value | More |
+|---|---|---|
+| Pet attack speed | never changes (your attack speed doesn't apply) | [[Structures and Pets]] |
+| Turret attack speed | structure attack speed; [[Improved Tools]] adds 50% of your attack speed | [[Structures and Pets#Structure attack speed]] |
+
 ## Evolution
 | What | Value | More |
 |---|---|---|

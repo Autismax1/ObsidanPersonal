@@ -32,6 +32,8 @@ Starting weapon for: [[Archaeologist]], [[Baby]], [[Buccaneer]], [[Captain]], [[
 - **Tier 3:** Spawn turret every killed enemies (+12) (structure: 8 damage (80% Engineering), every 0.73s, range 300, Enemies hit take +10% damage (5s, up to 3 stacks)); Turret damage taken (8 damage (80% Engineering), every 0.73s, range 300, Enemies hit take +10% damage (5s, up to 3 stacks))
 - **Tier 4:** Spawn turret every killed enemies (+10) (structure: 8 damage (80% Engineering), every 0.73s, range 300, Enemies hit take +10% damage (5s, up to 3 stacks)); Turret damage taken (8 damage (80% Engineering), every 0.73s, range 300, Enemies hit take +10% damage (5s, up to 3 stacks))
 
+Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].
+
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Tool|Tool]]. Shop odds: [[Weapon Rolls]].
 
 ## Cursed

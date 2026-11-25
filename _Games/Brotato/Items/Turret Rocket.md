@@ -20,6 +20,8 @@ in_shop: true
 ## Effects
 - Turret rocket (25 damage (150% Engineering), every 0.87s, range 500, Explodes on hit (100% chance, explosion size 100%, uses the weapon's damage))
 
+Structure: uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
 ## Shop
 - Base price 80, real price grows with the wave. See [[Prices and Rerolls#Item price]].
 - No copy limit.

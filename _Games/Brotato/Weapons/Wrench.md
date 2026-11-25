@@ -32,6 +32,8 @@ Starting weapon for: [[Apprentice]], [[Artificer]], [[Baby]], [[Chef]], [[Cyborg
 - **Tier 3:** Turret laser (20 damage (125% Engineering), every 0.87s, range 400, piercing 3)
 - **Tier 4:** Turret rocket (25 damage (150% Engineering), every 0.87s, range 500, Explodes on hit (100% chance, explosion size 100%, uses the weapon's damage))
 
+Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].
+
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Tool|Tool]]. Shop odds: [[Weapon Rolls]].
 
 ## Cursed

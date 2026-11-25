@@ -1,0 +1,34 @@
+---
+tags:
+  - brotato/mechanic
+---
+# Structures and Pets
+
+[[Brotato]] › Structures and Pets · related: [[Items]], [[Weapons]]
+
+Pets are **not** structures. The game builds their stats differently, and attack speed is where it matters most.
+
+## Which stats they get
+| | Structures (turrets, landmines, garden…) | Pets (Bonk Dog, Catling Gun, Mosquitor…) | Structure pet ([[Bot O Mine]]) |
+|---|---|---|---|
+| % Damage | no, only **structure % damage** | yes | yes, **plus** structure % damage |
+| Crit chance | only with a "structures can crit" effect | yes | only with "structures can crit" |
+| Range | structure range | your range (melee pets: half of it) | structure range |
+| Your attack speed | no | **no** | **no** |
+| Structure attack speed | **yes** | no | no (see below) |
+
+## Structure attack speed
+```
+structure attack speed = structure attack speed stat + (share of your attack speed from effects)
+cooldown = cooldown / (1 + structure attack speed)     if positive
+cooldown = cooldown × (1 + |structure attack speed|)   if negative
+```
+- **[[Improved Tools]]** gives structures **50% of your attack speed** as structure attack speed. With 100 attack speed that's +50% for turrets.
+- **Negative attack speed** with Improved Tools makes turrets **slower**.
+- Applied to: turret attack cooldowns, and spawn timers of structures that spawn on a timer, like [[Landmines]] and [[Screwdriver]] mines.
+- Turrets also randomize each shot's cooldown between 70% and 130%.
+
+## Pets and attack speed
+- The game sets attack speed to 0 when it builds pet stats, so **nothing speeds up a pet's attacks**. That includes your attack speed and Improved Tools.
+- Pets count their timers in ticks (60 per second), so the cooldowns on the pet notes are their real attack intervals.
+- **[[Bot O Mine]]:** its tooltip applies structure attack speed to the landmine timer, but the pet itself uses the raw 5 s. With Improved Tools the tooltip shows a shorter time than you actually get.

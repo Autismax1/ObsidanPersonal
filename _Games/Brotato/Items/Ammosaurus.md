@@ -23,7 +23,7 @@ in_shop: false
 - **Copies your best weapon:** the highest tier, and among those the highest DPS. Without weapons it uses a tier 1 SMG.
 - Moves at **half speed** while holding a ranged weapon.
 - A cursed Ammosaurus also curses the weapon copy (at least its own curse level).
-- Pets get your % Damage and Crit chance, but **not your Attack speed**: their attack cooldowns never change.
+- Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
 
 ## Shop
 - **Not sold in the shop or crates.** Created by another effect.

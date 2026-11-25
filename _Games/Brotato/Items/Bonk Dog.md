@@ -25,7 +25,7 @@ in_shop: true
 - Bites nearby enemies: 10 damage (60% Melee damage), attack cooldown 0.47s.
 - Every 5s it leaps onto the enemy with the **most max HP** (not one right next to it) and explodes on landing: 8 damage (40% Melee damage), explosion size 150%.
 - No valid target: it retries after 2s. The first leap of a wave comes after a random 1.25–5s.
-- Pets get your % Damage and Crit chance, but **not your Attack speed**: their attack cooldowns never change.
+- Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
 
 ## Shop
 - Base price 40, real price grows with the wave. See [[Prices and Rerolls#Item price]].

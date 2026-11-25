@@ -21,6 +21,8 @@ in_shop: true
 ## Effects
 - Landmines (spawns every 12s, 10 damage (100% Engineering), every 0.23s, Explodes on hit (100% chance, explosion size 175%))
 
+Structure: uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
 ## Shop
 - Base price 15, real price grows with the wave. See [[Prices and Rerolls#Item price]].
 - No copy limit.

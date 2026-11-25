@@ -22,7 +22,7 @@ in_shop: true
 
 ## How it works
 - Bites: 4 damage, scales with **10% of your Max HP**, cooldown 0.42s.
-- Pets get your % Damage and Crit chance, but **not your Attack speed**: their attack cooldowns never change.
+- Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
 
 ## Shop
 - Base price 30, real price grows with the wave. See [[Prices and Rerolls#Item price]].

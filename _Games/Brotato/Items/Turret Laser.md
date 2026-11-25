@@ -20,6 +20,8 @@ in_shop: true
 ## Effects
 - Turret laser (20 damage (125% Engineering), every 0.87s, range 400, piercing 3)
 
+Structure: uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
 ## Shop
 - Base price 65, real price grows with the wave. See [[Prices and Rerolls#Item price]].
 - No copy limit.

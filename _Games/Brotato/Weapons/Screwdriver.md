@@ -32,6 +32,8 @@ Starting weapon for: [[Apprentice]], [[Arsonist]], [[Artificer]], [[Baby]], [[Ch
 - **Tier 3:** Landmines (spawns every 6s, 10 damage (100% Engineering), every 0.23s, Explodes on hit (100% chance, explosion size 175%))
 - **Tier 4:** Landmines (spawns every 3s, 10 damage (100% Engineering), every 0.23s, Explodes on hit (100% chance, explosion size 175%))
 
+Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].
+
 Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Tool|Tool]]. Shop odds: [[Weapon Rolls]].
 
 ## Cursed

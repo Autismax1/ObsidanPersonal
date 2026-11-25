@@ -23,7 +23,7 @@ in_shop: true
 ## How it works
 - Shoots: 5 damage (75% Ranged damage), cooldown 0.75s, range 400.
 - **Enemies it hits take +30% damage for 5s** (1 stack).
-- Pets get your % Damage and Crit chance, but **not your Attack speed**: their attack cooldowns never change.
+- Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
 
 ## Shop
 - Base price 40, real price grows with the wave. See [[Prices and Rerolls#Item price]].

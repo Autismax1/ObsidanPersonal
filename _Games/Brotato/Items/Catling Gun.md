@@ -23,7 +23,7 @@ in_shop: true
 ## How it works
 - Two guns that take turns: 10 damage (60% Ranged damage) each, range 500. With a 0.92s cooldown and alternating guns that is **a shot every 0.46s**.
 - **Mad mode:** while you stand next to it, it stops moving and attacks **twice as fast** (a shot every 0.23s).
-- Pets get your % Damage and Crit chance, but **not your Attack speed**: their attack cooldowns never change.
+- Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
 
 ## Shop
 - Base price 34, real price grows with the wave. See [[Prices and Rerolls#Item price]].
