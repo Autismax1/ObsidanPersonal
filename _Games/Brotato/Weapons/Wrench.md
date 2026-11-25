@@ -14,37 +14,55 @@ dlc: Base game
 
 # Wrench
 
-[[Brotato]] › [[Weapons]] · Melee · classes: [[Weapon Classes#Tool|Tool]]
+[[Brotato]] › [[Weapons]] · **Melee** · Base game
 
-Starting weapon for: [[Apprentice]], [[Artificer]], [[Baby]], [[Chef]], [[Cyborg]], [[Demon]], [[Droid]], [[Dwarf]], [[Engineer]], [[Entrepreneur]], [[Explorer]], [[Farmer]], [[Jack]], [[Loud]], [[Mad Scientist]], [[Multitasker]], [[Old]], [[Poacher]], [[Streamer]], [[Survivor]], [[Technomage]], [[Vampire]], [[Well Rounded]], [[Wounded]]
+> [!info] Weapon
+> **Classes** [[Weapon Classes#Tool|Tool]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
+> **Starting weapon for** [[Apprentice]], [[Artificer]], [[Baby]], [[Chef]], [[Cyborg]], [[Demon]], [[Droid]], [[Dwarf]], [[Engineer]], [[Entrepreneur]], [[Explorer]], [[Farmer]], [[Jack]], [[Loud]], [[Mad Scientist]], [[Multitasker]], [[Old]], [[Poacher]], [[Streamer]], [[Survivor]], [[Technomage]], [[Vampire]], [[Well Rounded]], [[Wounded]]
 
 ## Stats per tier
 | Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
 |---|---|---|---|---|---|---|---|
-| 1 | 20 | 12 | 100% Melee damage | 1.70s | 3% ×2 | 175 | – |
-| 2 | 39 | 16 | 100% Melee damage | 1.64s | 3% ×2 | 175 | – |
-| 3 | 74 | 20 | 100% Melee damage | 1.55s | 3% ×2 | 175 | – |
-| 4 | 149 | 24 | 100% Melee damage | 1.49s | 3% ×2 | 175 | – |
+| 1 | 20 | **12** | 100% Melee damage | 1.70s | 3% ×2 | 175 | – |
+| 2 | 39 | **16** | 100% Melee damage | 1.64s | 3% ×2 | 175 | – |
+| 3 | 74 | **20** | 100% Melee damage | 1.55s | 3% ×2 | 175 | – |
+| 4 | 149 | **24** | 100% Melee damage | 1.49s | 3% ×2 | 175 | – |
+
+Cooldown is the base value with 0 attack speed.
 
 ## Effects per tier
-- **Tier 1:** Turret (10 damage (80% Engineering), every 0.73s, range 300)
-- **Tier 2:** Turret flame (1 damage, every 0.45s, range 300, piercing 99, Burning 5×8 (33% Engineering))
-- **Tier 3:** Turret laser (20 damage (125% Engineering), every 0.87s, range 400, piercing 3)
-- **Tier 4:** Turret rocket (25 damage (150% Engineering), every 0.87s, range 500, Explodes on hit (100% chance, explosion size 100%, uses the weapon's damage))
+| Tier | Effect | Details |
+|---|---|---|
+| 1 | **Turret** | `10` damage (80% Engineering) · every `0.73s` · range `300` |
+| 2 | **Turret flame** | `1` damage · every `0.45s` · range `300` · piercing 99<br>Burning 5×8 (33% Engineering) |
+| 3 | **Turret laser** | `20` damage (125% Engineering) · every `0.87s` · range `400` · piercing 3 |
+| 4 | **Turret rocket** | `25` damage (150% Engineering) · every `0.87s` · range `500`<br>Explodes on hit (100% chance, explosion size 100%, uses the weapon's damage) |
 
-Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].
-
-Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Tool|Tool]]. Shop odds: [[Weapon Rolls]].
+> [!note] Structures
+> Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].
 
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
-|---|---|---|---|---|---|
-| 1 | 14 → 26 | 110% → 210% Melee damage | ×2 → ×2.4 | Turret: damage 11 → 21, scaling ×1.10 → ×2.10 | +1 → 2 |
-| 2 | 18 → 34 | 110% → 210% Melee damage | ×2 → ×2.4 | Turret flame: damage 2 → 3, scaling ×1.10 → ×2.10 | +2 → 3 |
-| 3 | 22 → 42 | 110% → 210% Melee damage | ×2 → ×2.4 | Turret laser: damage 22 → 42, scaling ×1.10 → ×2.10 | +3 → 6 |
-| 4 | 27 → 51 | 110% → 210% Melee damage | ×2 → ×2.4 | Turret rocket: damage 28 → 53, scaling ×1.10 → ×2.10 | +7 → 13 |
+| Tier | Damage | Scaling | Crit damage | Curse stat added |
+|---|---|---|---|---|
+| 1 | `14 → 26` | 110% → 210% Melee damage | ×2 → ×2.4 | `+1 → 2` |
+| 2 | `18 → 34` | 110% → 210% Melee damage | ×2 → ×2.4 | `+2 → 3` |
+| 3 | `22 → 42` | 110% → 210% Melee damage | ×2 → ×2.4 | `+3 → 6` |
+| 4 | `27 → 51` | 110% → 210% Melee damage | ×2 → ×2.4 | `+7 → 13` |
+
+**Effects when cursed**
+
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Tier 1: Turret | damage | `11 → 21` |
+|  | scaling | `×1.10 → ×2.10` |
+| Tier 2: Turret flame | damage | `2 → 3` |
+|  | scaling | `×1.10 → ×2.10` |
+| Tier 3: Turret laser | damage | `22 → 42` |
+|  | scaling | `×1.10 → ×2.10` |
+| Tier 4: Turret rocket | damage | `28 → 53` |
+|  | scaling | `×1.10 → ×2.10` |
 
 ## Meca
-- Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].
+Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

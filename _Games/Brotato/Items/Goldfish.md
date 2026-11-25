@@ -13,23 +13,26 @@ in_shop: true
 
 # Goldfish
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Abyssal Terrors
+
+> [!info] Shop
+> **Price** `23` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
 
 ## Effects
 - Increase tier on reroll
 
-## Shop
-- Base price 23, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Increase tier on reroll | 2 → 3 |
-| Curse stat added | +1 → 2 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Increase tier on reroll | value | `2 → 3` |
+| Curse stat | added | `+1 → 2` |
 
 ## Mutation
-- Nothing here can be copied by [[Mutation]].
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | nothing |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

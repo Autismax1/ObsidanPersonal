@@ -13,17 +13,21 @@ in_shop: false
 
 # Tumor
 
-[[Brotato]] › [[Items]] › Tier 1
+[[Brotato]] › [[Items]] · **Tier 1** · Primal Dread
+
+> [!info] Not in the shop
+> Not sold in the shop or crates. Created by another effect.
 
 ## Effects
 - (no stat effects in the data)
 
-## Shop
-- **Not sold in the shop or crates.** Created by another effect.
-
 ## Cursed
-- Not sold in the shop, so it only gets cursed through special effects.
+Not sold in the shop, so it only gets cursed through special effects.
 
 ## Mutation
-- Nothing here can be copied by [[Mutation]].
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | nothing |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

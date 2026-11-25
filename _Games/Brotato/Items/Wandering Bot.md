@@ -16,30 +16,34 @@ in_shop: true
 
 # Wandering Bot
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Base game
+
+> [!info] Shop
+> **Price** `60` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
+> **Tags** [[Wanted Tags#Less enemy speed|Less enemy speed]], [[Wanted Tags#Structure|Structure]], [[Wanted Tags#Pet|Pet]]
+> **Shows up more often for** [[Beast Master]], [[Cyborg]], [[Dwarf]], [[Engineer]], [[Old]], [[Streamer]], [[Technomage]]
 
 ## Effects
-- Wandering bot (1 damage (0% Engineering), every 16666666.85s)
+- **Wandering bot**
+  - `1` damage (0% Engineering) · every `16666666.85s`
 
 ## How it works
 - A bot that circles you at a random 100–200 distance. Enemies it touches are **slowed by 250 speed** (wears off over time).
 - Cursed: also gives you extra speed.
 
-## Shop
-- Base price 60, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-- Tags: [[Wanted Tags#Less enemy speed|Less enemy speed]], [[Wanted Tags#Structure|Structure]], [[Wanted Tags#Pet|Pet]]
-- Shows up a bit more often for: [[Beast Master]], [[Cyborg]], [[Dwarf]], [[Engineer]], [[Old]], [[Streamer]], [[Technomage]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Wandering bot (1 damage (0% Engineering), every 16666666.85s) | damage 2 → 3, scaling ×1.10 → ×2.10 |
-| Curse stat added | +3 → 5 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Wandering bot | damage | `2 → 3` |
+|  | scaling | `×1.10 → ×2.10` |
+| Curse stat | added | `+3 → 5` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Wandering bot (1 damage (0% Engineering), every 16666666.85s)
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | Wandering bot (`1` damage (0% Engineering) · every `16666666.85s`) |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

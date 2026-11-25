@@ -45,11 +45,11 @@ tags:
 | What | Value | More |
 |---|---|---|
 | Side lock | past ±2 evolution: only your side's fruit and items | [[Evolution#The ±2 threshold]] |
-| Mutation copy scale | `0.1 + 0.9·√(|evo|/130)` | [[Mutation#Copy strength]] |
+| Mutation copy scale | `0.1 + 0.9·√(\|evo\|/130)` | [[Mutation#Copy strength]] |
 | Pets copyable from | about −63 evolution | [[Mutation#Copy strength]] |
 | Mechanize cost | rank + 1 parts | [[Meca]] |
 | Meca damage | +3% per meca power | [[Meca#Meca power]] |
-| Evolved enemy chance | `50%·(1 − 1/(1 + |evo|/50))` | [[Evolved Enemies]] |
+| Evolved enemy chance | `50%·(1 − 1/(1 + \|evo\|/50))` | [[Evolved Enemies]] |
 | Evolved boss | always past ±30 team evolution | [[Evolved Enemies#Bosses and elites]] |
 
 ## Curse

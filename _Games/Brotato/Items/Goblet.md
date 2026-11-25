@@ -13,27 +13,29 @@ in_shop: true
 
 # Goblet
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Abyssal Terrors
+
+> [!info] Shop
+> **Price** `70` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `3` ([[Item Caps]])
+> **Never offered to** [[Droid]], [[Golem]], [[Wounded]] (until endless)
 
 ## Effects
 - Heal on kill (+15)
 - Hp regeneration -3
 
-## Shop
-- Base price 70, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 3. See [[Item Caps]].
-- **Never offered to:** [[Droid]], [[Golem]], [[Wounded]] (until endless)
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Heal on kill (+15) | 17 → 32 |
-| Hp regeneration -3 | -2 → -1 |
-| Curse stat added | +3 → 6 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Heal on kill (+15) | value | `17 → 32` |
+| Hp regeneration -3 | value | `-2 → -1` |
+| Curse stat | added | `+3 → 6` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Heal on kill (+15)
-- **Mutation can remove:** Hp regeneration -3. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Heal on kill (+15) |
+| **Can be removed** | Hp regeneration -3 |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

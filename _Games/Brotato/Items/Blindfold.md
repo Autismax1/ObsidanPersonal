@@ -15,31 +15,32 @@ in_shop: true
 
 # Blindfold
 
-[[Brotato]] › [[Items]] › Tier 2
+[[Brotato]] › [[Items]] · **Tier 2** · Base game
+
+> [!info] Shop
+> **Price** `45` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
+> **Tags** [[Wanted Tags#Crit chance|Crit chance]], [[Wanted Tags#Dodge|Dodge]]
+> **Shows up more often for** [[Crazy]], [[Cryptid]], [[Diver]], [[Ghost]], [[Hunter]]
 
 ## Effects
 - Crit chance +5
 - Dodge +5
 - Range -15
 
-## Shop
-- Base price 45, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-- Tags: [[Wanted Tags#Crit chance|Crit chance]], [[Wanted Tags#Dodge|Dodge]]
-- Shows up a bit more often for: [[Crazy]], [[Cryptid]], [[Diver]], [[Ghost]], [[Hunter]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Crit chance +5 | 6 → 11 |
-| Dodge +5 | 6 → 11 |
-| Range -15 | -13 → -7 |
-| Curse stat added | +2 → 4 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Crit chance +5 | value | `6 → 11` |
+| Dodge +5 | value | `6 → 11` |
+| Range -15 | value | `-13 → -7` |
+| Curse stat | added | `+2 → 4` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Crit chance +5
-  - Dodge +5
-- **Mutation can remove:** Range -15. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Crit chance +5<br>Dodge +5 |
+| **Can be removed** | Range -15 |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

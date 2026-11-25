@@ -14,28 +14,30 @@ in_shop: true
 
 # Dig Site
 
-[[Brotato]] › [[Items]] › Tier 2
+[[Brotato]] › [[Items]] · **Tier 2** · Primal Dread
+
+> [!info] Shop
+> **Price** `45` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `2` ([[Item Caps]])
+> **Tags** [[Wanted Tags#Luck|Luck]]
+> **Shows up more often for** [[Chunky]], [[Curious]], [[Druid]], [[Lucky]]
 
 ## Effects
 - Dig sites every x waves: +1 Dig sites every x waves (3)
 - Luck -3
 
-## Shop
-- Base price 45, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 2. See [[Item Caps]].
-- Tags: [[Wanted Tags#Luck|Luck]]
-- Shows up a bit more often for: [[Chunky]], [[Curious]], [[Druid]], [[Lucky]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Dig sites every x waves: +1 Dig sites every x waves (3) | dig site every 2 waves |
-| Luck -3 | -2 → -1 |
-| Curse stat added | +2 → 4 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Dig sites every x waves: +1 Dig sites every x waves (3) | dig site every | `2 waves` |
+| Luck -3 | value | `-2 → -1` |
+| Curse stat | added | `+2 → 4` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Dig sites every x waves: +1 Dig sites every x waves (3) (only from scale 0.7, about −63 evolution)
-- **Mutation can remove:** Luck -3. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Dig sites every x waves: +1 Dig sites every x waves (3) *(only from scale 0.7, about −63 evolution)* |
+| **Can be removed** | Luck -3 |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

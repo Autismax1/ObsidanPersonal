@@ -15,7 +15,13 @@ hidden_effect: false
 
 # Brawler
 
-[[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
+[[Brotato]] › [[Characters]] · Base game · during a run: [[Run Cheat Sheet]]
+
+> [!summary] At a glance
+> **Wanted tags** [[Wanted Tags#Melee damage|Melee damage]]
+> **Never in the shop** [[Item Groups#Ranged damage|Ranged damage]]
+> **Evolution** normal · **Meca stats** all
+> **Hidden effects** none
 
 ## Starting effects
 - Unarmed weapons: +50% Attack speed
@@ -23,24 +29,31 @@ hidden_effect: false
 - Range -50
 - Ranged damage -50
 
-**Starting weapon choices:** [[Fist]], [[Hand]], [[Claw]]
+**Starting weapons** [[Fist]] · [[Hand]] · [[Claw]]
 
 ## Shop
-- **Wanted tags:** [[Wanted Tags#Melee damage|Melee damage]]
-  On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned item groups:** [[Item Groups#Ranged damage|Ranged damage]] ([[Lens]])
-- Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
+| Rule | Details |
+|---|---|
+| Wanted tags | [[Wanted Tags#Melee damage\|Melee damage]]<br>On `5%` of item rolls the shop only offers items with one of these tags. [[Shop Item Rolls#Wanted tags]] |
+| Banned group: [[Item Groups#Ranged damage\|Ranged damage]] | [[Lens]] |
+| In endless | bans stop after the last wave, so these items can appear. [[Shop Item Rolls#Character bans]] |
 
 ## Level-ups
-- No banned level-ups.
-- Level-up rarity follows your level, see [[Rarity Odds#Level-ups]].
+| Rule | Details |
+|---|---|
+| Never offered | nothing |
+| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
 
 ## Evolution and curse
-- [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+| Topic | Details |
+|---|---|
+| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
+| [[Meca]] offers | every stat. [[Meca#The four stat groups]] |
+| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
 
-## Mutation (character as the picked item)
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Unarmed weapons: +50% Attack speed
-  - Dodge +15
-- Not if that stat is already at its cap.
+## Mutation
+| | |
+|---|---|
+| **Copied into the Tumor** | Unarmed weapons: +50% Attack speed<br>Dodge +15 |
+
+Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.

@@ -29,10 +29,10 @@ Past **+2 or −2** evolution you are locked to a side:
 ## What each side does
 | | Meca (evolution > 0) | Mutant (evolution < 0) |
 |---|---|---|
-| Upgrades | spend parts to [[Meca|mechanize weapons]] | [[Mutation|mutate items]] at wave end |
-| Currency | [[Evolution Drops#Meca parts|meca parts]] | [[Evolution Drops#Mutation fruit|mutation fruit]] |
+| Upgrades | spend parts to [[Meca\|mechanize weapons]] | [[Mutation\|mutate items]] at wave end |
+| Currency | [[Evolution Drops#Meca parts\|meca parts]] | [[Evolution Drops#Mutation fruit\|mutation fruit]] |
 | Strength from | weapon rank | how negative your evolution is |
-| Enemies | [[Evolved Enemies|meca enemies]] | [[Evolved Enemies|mutant enemies]] |
+| Enemies | [[Evolved Enemies\|meca enemies]] | [[Evolved Enemies\|mutant enemies]] |
 
 ## Special characters
 - **Meca only** ([[Droid]]): mutation fruit does nothing.

@@ -16,7 +16,12 @@ in_shop: true
 
 # Heavy Bullets
 
-[[Brotato]] › [[Items]] › Tier 4
+[[Brotato]] › [[Items]] · **Tier 4** · Base game
+
+> [!info] Shop
+> **Price** `100` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
+> **Tags** [[Wanted Tags#Ranged damage|Ranged damage]], [[Wanted Tags#Percent damage|Percent damage]], [[Wanted Tags#Range|Range]]
+> **Shows up more often for** [[Cyborg]], [[Generalist]], [[Hunter]], [[One Armed]], [[Ranger]]
 
 ## Effects
 - Ranged damage +5
@@ -25,27 +30,22 @@ in_shop: true
 - Attack speed -5
 - Crit chance -5
 
-## Shop
-- Base price 100, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-- Tags: [[Wanted Tags#Ranged damage|Ranged damage]], [[Wanted Tags#Percent damage|Percent damage]], [[Wanted Tags#Range|Range]]
-- Shows up a bit more often for: [[Cyborg]], [[Generalist]], [[Hunter]], [[One Armed]], [[Ranger]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Ranged damage +5 | 6 → 11 |
-| Percent damage +10 | 11 → 21 |
-| Range +10 | 11 → 21 |
-| Attack speed -5 | -4 → -2 |
-| Crit chance -5 | -4 → -2 |
-| Curse stat added | +4 → 8 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Ranged damage +5 | value | `6 → 11` |
+| Percent damage +10 | value | `11 → 21` |
+| Range +10 | value | `11 → 21` |
+| Attack speed -5 | value | `-4 → -2` |
+| Crit chance -5 | value | `-4 → -2` |
+| Curse stat | added | `+4 → 8` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Ranged damage +5
-  - Percent damage +10
-  - Range +10
-- **Mutation can remove:** Attack speed -5; Crit chance -5. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Ranged damage +5<br>Percent damage +10<br>Range +10 |
+| **Can be removed** | Attack speed -5<br>Crit chance -5 |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

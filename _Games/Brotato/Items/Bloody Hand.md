@@ -14,32 +14,33 @@ in_shop: true
 
 # Bloody Hand
 
-[[Brotato]] › [[Items]] › Tier 4
+[[Brotato]] › [[Items]] · **Tier 4** · Base game
+
+> [!info] Shop
+> **Price** `110` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `1` ([[Item Caps]])
+> **Tags** [[Wanted Tags#Lifesteal|Lifesteal]]
+> **Shows up more often for** [[Lich]], [[Masochist]], [[Sick]], [[Vampire]]
+> **Item group** [[Item Groups#Lifesteal|Lifesteal]]
+> **Never offered to** [[Bull]], [[Chunky]], [[Cryptid]], [[Druid]], [[Golem]], [[Veteran]], [[Wounded]] (until endless)
 
 ## Effects
 - Lifesteal +10
 - +2 Percent damage for every Lifesteal
 - Lose hp per second
 
-## Shop
-- Base price 110, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 1. See [[Item Caps]].
-- Tags: [[Wanted Tags#Lifesteal|Lifesteal]]
-- Shows up a bit more often for: [[Lich]], [[Masochist]], [[Sick]], [[Vampire]]
-- Item group: [[Item Groups#Lifesteal|Lifesteal]]
-- **Never offered to:** [[Bull]], [[Chunky]], [[Cryptid]], [[Druid]], [[Golem]], [[Veteran]], [[Wounded]] (until endless)
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Lifesteal +10 | 11 → 21 |
-| +2 Percent damage for every Lifesteal | 3 → 5 |
-| Curse stat added | +5 → 9 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Lifesteal +10 | value | `11 → 21` |
+| +2 Percent damage for every Lifesteal | value | `3 → 5` |
+| Curse stat | added | `+5 → 9` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Lifesteal +10
-  - +2 Percent damage for every Lifesteal
-- **Mutation can remove:** Lose hp per second. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Lifesteal +10<br>+2 Percent damage for every Lifesteal |
+| **Can be removed** | Lose hp per second |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

@@ -14,7 +14,13 @@ hidden_effect: false
 
 # Doctor
 
-[[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
+[[Brotato]] › [[Characters]] · Base game · during a run: [[Run Cheat Sheet]]
+
+> [!summary] At a glance
+> **Wanted tags** [[Wanted Tags#Hp regeneration|Hp regeneration]]
+> **Never in the shop** nothing banned
+> **Evolution** normal · **Meca stats** all
+> **Hidden effects** none
 
 ## Starting effects
 - Medical weapons: +200% Attack speed
@@ -24,24 +30,29 @@ hidden_effect: false
 - Attack speed -100
 - -50% gains of Armor
 
-**Starting weapon choices:** [[Scissors]], [[Medical Gun]], [[Meat Tenderizer]]
+**Starting weapons** [[Scissors]] · [[Medical Gun]] · [[Meat Tenderizer]]
 
 ## Shop
-- **Wanted tags:** [[Wanted Tags#Hp regeneration|Hp regeneration]]
-  On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
+| Rule | Details |
+|---|---|
+| Wanted tags | [[Wanted Tags#Hp regeneration\|Hp regeneration]]<br>On `5%` of item rolls the shop only offers items with one of these tags. [[Shop Item Rolls#Wanted tags]] |
 
 ## Level-ups
-- No banned level-ups.
-- Level-up rarity follows your level, see [[Rarity Odds#Level-ups]].
+| Rule | Details |
+|---|---|
+| Never offered | nothing |
+| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
 
 ## Evolution and curse
-- [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+| Topic | Details |
+|---|---|
+| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
+| [[Meca]] offers | every stat. [[Meca#The four stat groups]] |
+| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
 
-## Mutation (character as the picked item)
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Medical weapons: +200% Attack speed
-  - Hp regeneration +5
-  - Harvesting +5
-  - +100% gains of Hp regeneration
-- Not if that stat is already at its cap.
+## Mutation
+| | |
+|---|---|
+| **Copied into the Tumor** | Medical weapons: +200% Attack speed<br>Hp regeneration +5<br>Harvesting +5<br>+100% gains of Hp regeneration |
+
+Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.

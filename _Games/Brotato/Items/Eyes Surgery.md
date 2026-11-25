@@ -14,31 +14,32 @@ in_shop: true
 
 # Eyes Surgery
 
-[[Brotato]] › [[Items]] › Tier 2
+[[Brotato]] › [[Items]] · **Tier 2** · Base game
+
+> [!info] Shop
+> **Price** `60` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `2` ([[Item Caps]])
+> **Tags** [[Wanted Tags#Elemental damage|Elemental damage]]
+> **Shows up more often for** [[Arsonist]], [[Mage]], [[Technomage]]
 
 ## Effects
 - Burning cooldown reduction (+20)
 - Elemental damage +1
 - Range -10
 
-## Shop
-- Base price 60, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 2. See [[Item Caps]].
-- Tags: [[Wanted Tags#Elemental damage|Elemental damage]]
-- Shows up a bit more often for: [[Arsonist]], [[Mage]], [[Technomage]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Burning cooldown reduction (+20) | 22 → 42 |
-| Elemental damage +1 | 2 → 3 |
-| Range -10 | -9 → -4 |
-| Curse stat added | +3 → 5 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Burning cooldown reduction (+20) | value | `22 → 42` |
+| Elemental damage +1 | value | `2 → 3` |
+| Range -10 | value | `-9 → -4` |
+| Curse stat | added | `+3 → 5` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Burning cooldown reduction (+20)
-  - Elemental damage +1
-- **Mutation can remove:** Range -10. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Burning cooldown reduction (+20)<br>Elemental damage +1 |
+| **Can be removed** | Range -10 |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

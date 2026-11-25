@@ -14,26 +14,28 @@ in_shop: true
 
 # Dynamite
 
-[[Brotato]] › [[Items]] › Tier 1
+[[Brotato]] › [[Items]] · **Tier 1** · Base game
+
+> [!info] Shop
+> **Price** `20` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
+> **Tags** [[Wanted Tags#Explosive|Explosive]]
+> **Shows up more often for** [[Arsonist]], [[Artificer]], [[Bull]], [[Glutton]], [[Ogre]]
 
 ## Effects
 - Explosion damage +15
 
-## Shop
-- Base price 20, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-- Tags: [[Wanted Tags#Explosive|Explosive]]
-- Shows up a bit more often for: [[Arsonist]], [[Artificer]], [[Bull]], [[Glutton]], [[Ogre]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Explosion damage +15 | 17 → 32 |
-| Curse stat added | +1 → 2 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Explosion damage +15 | value | `17 → 32` |
+| Curse stat | added | `+1 → 2` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Explosion damage +15
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | Explosion damage +15 |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

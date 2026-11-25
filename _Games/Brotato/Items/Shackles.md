@@ -16,7 +16,12 @@ in_shop: true
 
 # Shackles
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Base game
+
+> [!info] Shop
+> **Price** `80` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `1` ([[Item Caps]])
+> **Tags** [[Wanted Tags#Range|Range]], [[Wanted Tags#Hp regeneration|Hp regeneration]], [[Wanted Tags#Engineering|Engineering]]
+> **Shows up more often for** [[Builder]], [[Bull]], [[Doctor]], [[Dwarf]], [[Engineer]], [[Hunter]], [[Lich]], [[Masochist]], [[Pacifist]], [[Ranger]], [[Technomage]]
 
 ## Effects
 - Hp regeneration +8
@@ -24,25 +29,20 @@ in_shop: true
 - Range +80
 - Speed cap at current value
 
-## Shop
-- Base price 80, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 1. See [[Item Caps]].
-- Tags: [[Wanted Tags#Range|Range]], [[Wanted Tags#Hp regeneration|Hp regeneration]], [[Wanted Tags#Engineering|Engineering]]
-- Shows up a bit more often for: [[Builder]], [[Bull]], [[Doctor]], [[Dwarf]], [[Engineer]], [[Hunter]], [[Lich]], [[Masochist]], [[Pacifist]], [[Ranger]], [[Technomage]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Hp regeneration +8 | 9 → 17 |
-| Engineering +8 | 9 → 17 |
-| Range +80 | 88 → 168 |
-| Curse stat added | +4 → 7 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Hp regeneration +8 | value | `9 → 17` |
+| Engineering +8 | value | `9 → 17` |
+| Range +80 | value | `88 → 168` |
+| Curse stat | added | `+4 → 7` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Hp regeneration +8
-  - Engineering +8
-  - Range +80
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | Hp regeneration +8<br>Engineering +8<br>Range +80 |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

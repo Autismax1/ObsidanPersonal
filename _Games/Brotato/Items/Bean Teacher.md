@@ -14,28 +14,30 @@ in_shop: true
 
 # Bean Teacher
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Base game
+
+> [!info] Shop
+> **Price** `70` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
+> **Tags** [[Wanted Tags#Xp gain|Xp gain]]
+> **Shows up more often for** [[Apprentice]], [[Baby]], [[Captain]], [[Creature]], [[Mutant]]
 
 ## Effects
 - Xp gain +50
 - Lifesteal -2
 
-## Shop
-- Base price 70, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-- Tags: [[Wanted Tags#Xp gain|Xp gain]]
-- Shows up a bit more often for: [[Apprentice]], [[Baby]], [[Captain]], [[Creature]], [[Mutant]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Xp gain +50 | 56 → 105 |
-| Lifesteal -2 | -1 |
-| Curse stat added | +3 → 6 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Xp gain +50 | value | `56 → 105` |
+| Lifesteal -2 | value | `-1` |
+| Curse stat | added | `+3 → 6` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Xp gain +50
-- **Mutation can remove:** Lifesteal -2. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Xp gain +50 |
+| **Can be removed** | Lifesteal -2 |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

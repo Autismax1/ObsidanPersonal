@@ -15,30 +15,32 @@ in_shop: true
 
 # Power Generator
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Base game
+
+> [!info] Shop
+> **Price** `65` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `1` ([[Item Caps]])
+> **Tags** [[Wanted Tags#Speed|Speed]], [[Wanted Tags#Percent damage|Percent damage]]
+> **Shows up more often for** [[Explorer]], [[Hiker]], [[One Armed]], [[Speedy]], [[Time Shifter]]
+> **Item group** [[Item Groups#Speed|Speed]]
+> **Never offered to** [[Chunky]] (until endless)
 
 ## Effects
 - +1 Percent damage for every Speed
 - Percent damage -5
 
-## Shop
-- Base price 65, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 1. See [[Item Caps]].
-- Tags: [[Wanted Tags#Speed|Speed]], [[Wanted Tags#Percent damage|Percent damage]]
-- Shows up a bit more often for: [[Explorer]], [[Hiker]], [[One Armed]], [[Speedy]], [[Time Shifter]]
-- Item group: [[Item Groups#Speed|Speed]]
-- **Never offered to:** [[Chunky]] (until endless)
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| +1 Percent damage for every Speed | 2 → 3 |
-| Percent damage -5 | -4 → -2 |
-| Curse stat added | +3 → 5 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| +1 Percent damage for every Speed | value | `2 → 3` |
+| Percent damage -5 | value | `-4 → -2` |
+| Curse stat | added | `+3 → 5` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - +1 Percent damage for every Speed
-- **Mutation can remove:** Percent damage -5. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | +1 Percent damage for every Speed |
+| **Can be removed** | Percent damage -5 |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

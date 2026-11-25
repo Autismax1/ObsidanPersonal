@@ -13,27 +13,29 @@ in_shop: true
 
 # Whistle
 
-[[Brotato]] › [[Items]] › Tier 1
+[[Brotato]] › [[Items]] · **Tier 1** · Abyssal Terrors
+
+> [!info] Shop
+> **Price** `25` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `1` ([[Item Caps]])
 
 ## Effects
 - Loot alien chance (+50)
 - Loot alien speed (+20)
 - Whistle sound
 
-## Shop
-- Base price 25, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 1. See [[Item Caps]].
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Loot alien chance (+50) | 56 → 105 |
-| Loot alien speed (+20) | 18 → 9 |
-| Curse stat added | +1 → 2 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Loot alien chance (+50) | value | `56 → 105` |
+| Loot alien speed (+20) | value | `18 → 9` |
+| Curse stat | added | `+1 → 2` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Loot alien chance (+50)
-- **Mutation can remove:** Loot alien speed (+20). See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Loot alien chance (+50) |
+| **Can be removed** | Loot alien speed (+20) |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

@@ -14,25 +14,28 @@ in_shop: true
 
 # Coupon
 
-[[Brotato]] › [[Items]] › Tier 1
+[[Brotato]] › [[Items]] · **Tier 1** · Base game
+
+> [!info] Shop
+> **Price** `15` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `5` ([[Item Caps]])
+> **Tags** [[Wanted Tags#Economy|Economy]]
+> **Shows up more often for** [[Entrepreneur]]
 
 ## Effects
 - Items price -5
 
-## Shop
-- Base price 15, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 5. See [[Item Caps]].
-- Tags: [[Wanted Tags#Economy|Economy]]
-- Shows up a bit more often for: [[Entrepreneur]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Items price -5 | -6 → -11 |
-| Curse stat added | +1 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Items price -5 | value | `-6 → -11` |
+| Curse stat | added | `+1` |
 
 ## Mutation
-- Nothing here can be copied by [[Mutation]].
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | nothing |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

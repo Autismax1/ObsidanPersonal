@@ -15,7 +15,13 @@ hidden_effect: false
 
 # Entrepreneur
 
-[[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
+[[Brotato]] › [[Characters]] · Base game · during a run: [[Run Cheat Sheet]]
+
+> [!summary] At a glance
+> **Wanted tags** [[Wanted Tags#Harvesting|Harvesting]], [[Wanted Tags#Economy|Economy]]
+> **Never in the shop** nothing banned
+> **Evolution** normal · **Meca stats** all
+> **Hidden effects** none
 
 ## Starting effects
 - Items price -25
@@ -24,22 +30,29 @@ hidden_effect: false
 - Gain pct gold start wave (-100)
 - -50% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Explosion damage, Bounce damage, Piercing damage, Damage against bosses
 
-**Starting weapon choices:** [[Fist]], [[Claw]], [[Hand]], [[Knife]], [[Dagger]], [[Pruner]], [[Fighting Stick]], [[Hatchet]], [[Ghost Flint]], [[Wrench]], [[Plank]], [[Pistol]], [[Double Barrel Shotgun]], [[Taser]], [[Shuriken]], [[Crossbow]], [[Icicle]], [[Hiking Stick]], [[Lute]], [[Sickle]], [[Awl]], [[Crowbar]], [[Shovel]], [[Meat Tenderizer]], [[Whip]], [[Sticky Grenade]], [[Machinegun]], [[Molotov]], [[Pan Flute]], [[Carbon Bow]]
+**Starting weapons** [[Fist]] · [[Claw]] · [[Hand]] · [[Knife]] · [[Dagger]] · [[Pruner]] · [[Fighting Stick]] · [[Hatchet]] · [[Ghost Flint]] · [[Wrench]] · [[Plank]] · [[Pistol]] · [[Double Barrel Shotgun]] · [[Taser]] · [[Shuriken]] · [[Crossbow]] · [[Icicle]] · [[Hiking Stick]] · [[Lute]] · [[Sickle]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Pan Flute]] · [[Carbon Bow]]
 
 ## Shop
-- **Wanted tags:** [[Wanted Tags#Harvesting|Harvesting]], [[Wanted Tags#Economy|Economy]]
-  On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
+| Rule | Details |
+|---|---|
+| Wanted tags | [[Wanted Tags#Harvesting\|Harvesting]], [[Wanted Tags#Economy\|Economy]]<br>On `5%` of item rolls the shop only offers items with one of these tags. [[Shop Item Rolls#Wanted tags]] |
 
 ## Level-ups
-- No banned level-ups.
-- Level-up rarity follows your level, see [[Rarity Odds#Level-ups]].
+| Rule | Details |
+|---|---|
+| Never offered | nothing |
+| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
 
 ## Evolution and curse
-- [[Meca]] can offer every stat. See [[Meca#The four stat groups]].
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+| Topic | Details |
+|---|---|
+| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
+| [[Meca]] offers | every stat. [[Meca#The four stat groups]] |
+| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
 
-## Mutation (character as the picked item)
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - +50% gains of Harvesting
-  - Recycling gains (+25)
-- Not if that stat is already at its cap.
+## Mutation
+| | |
+|---|---|
+| **Copied into the Tumor** | +50% gains of Harvesting<br>Recycling gains (+25) |
+
+Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.

@@ -14,35 +14,48 @@ dlc: Base game
 
 # Dagger
 
-[[Brotato]] › [[Weapons]] · Melee · classes: [[Weapon Classes#Precise|Precise]]
+[[Brotato]] › [[Weapons]] · **Melee** · Base game
 
-Starting weapon for: [[Crazy]], [[Cryptid]], [[Demon]], [[Diver]], [[Entrepreneur]], [[Explorer]], [[Farmer]], [[Gangster]], [[Gladiator]], [[Glutton]], [[Hiker]], [[Hunter]], [[Lich]], [[Loud]], [[One Armed]], [[Saver]], [[Speedy]], [[Time Shifter]], [[Vagabond]], [[Vampire]]
+> [!info] Weapon
+> **Classes** [[Weapon Classes#Precise|Precise]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
+> **Starting weapon for** [[Crazy]], [[Cryptid]], [[Demon]], [[Diver]], [[Entrepreneur]], [[Explorer]], [[Farmer]], [[Gangster]], [[Gladiator]], [[Glutton]], [[Hiker]], [[Hunter]], [[Lich]], [[Loud]], [[One Armed]], [[Saver]], [[Speedy]], [[Time Shifter]], [[Vagabond]], [[Vampire]]
 
 ## Stats per tier
 | Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
 |---|---|---|---|---|---|---|---|
-| 1 | 12 | 6 | 50% Melee damage | 1.01s | 20% ×2 | 150 | – |
-| 2 | 26 | 12 | 50% Melee damage | 0.93s | 25% ×2 | 150 | – |
-| 3 | 52 | 18 | 50% Melee damage | 0.86s | 30% ×2 | 150 | – |
-| 4 | 105 | 30 | 50% Melee damage | 0.73s | 40% ×2 | 150 | – |
+| 1 | 12 | **6** | 50% Melee damage | 1.01s | 20% ×2 | 150 | – |
+| 2 | 26 | **12** | 50% Melee damage | 0.93s | 25% ×2 | 150 | – |
+| 3 | 52 | **18** | 50% Melee damage | 0.86s | 30% ×2 | 150 | – |
+| 4 | 105 | **30** | 50% Melee damage | 0.73s | 40% ×2 | 150 | – |
+
+Cooldown is the base value with 0 attack speed.
 
 ## Effects per tier
-- **Tier 1:** Gold on crit kill (+50)
-- **Tier 2:** Gold on crit kill (+56)
-- **Tier 3:** Gold on crit kill (+62)
-- **Tier 4:** Gold on crit kill (+80)
-
-Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Precise|Precise]]. Shop odds: [[Weapon Rolls]].
+| Tier | Effect | Details |
+|---|---|---|
+| 1 | **Gold on crit kill (+50)** | – |
+| 2 | **Gold on crit kill (+56)** | – |
+| 3 | **Gold on crit kill (+62)** | – |
+| 4 | **Gold on crit kill (+80)** | – |
 
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
-|---|---|---|---|---|---|
-| 1 | 7 → 13 | 55% → 105% Melee damage | ×2 → ×2.4 | Gold on crit kill: 56 → 100 | +1 |
-| 2 | 14 → 26 | 55% → 105% Melee damage | ×2 → ×2.4 | Gold on crit kill: 62 → 100 | +1 → 2 |
-| 3 | 20 → 38 | 55% → 105% Melee damage | ×2 → ×2.4 | Gold on crit kill: 69 → 100 | +2 → 4 |
-| 4 | 33 → 63 | 55% → 105% Melee damage | ×2 → ×2.4 | Gold on crit kill: 88 → 100 | +5 → 9 |
+| Tier | Damage | Scaling | Crit damage | Curse stat added |
+|---|---|---|---|---|
+| 1 | `7 → 13` | 55% → 105% Melee damage | ×2 → ×2.4 | `+1` |
+| 2 | `14 → 26` | 55% → 105% Melee damage | ×2 → ×2.4 | `+1 → 2` |
+| 3 | `20 → 38` | 55% → 105% Melee damage | ×2 → ×2.4 | `+2 → 4` |
+| 4 | `33 → 63` | 55% → 105% Melee damage | ×2 → ×2.4 | `+5 → 9` |
+
+**Effects when cursed**
+
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Tier 1: Gold on crit kill (+50) | value | `56 → 100` |
+| Tier 2: Gold on crit kill (+56) | value | `62 → 100` |
+| Tier 3: Gold on crit kill (+62) | value | `69 → 100` |
+| Tier 4: Gold on crit kill (+80) | value | `88 → 100` |
 
 ## Meca
-- Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].
+Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

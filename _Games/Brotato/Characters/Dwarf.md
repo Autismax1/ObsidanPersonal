@@ -16,7 +16,13 @@ hidden_effect: false
 
 # Dwarf
 
-[[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
+[[Brotato]] › [[Characters]] · Abyssal Terrors · during a run: [[Run Cheat Sheet]]
+
+> [!summary] At a glance
+> **Wanted tags** [[Wanted Tags#Engineering|Engineering]], [[Wanted Tags#Structure|Structure]]
+> **Never in the shop** nothing banned
+> **Evolution** normal · **Meca stats** all except Ranged damage
+> **Hidden effects** none
 
 ## Starting effects
 - Gain when attack killed enemies: +1 Engineering (5)
@@ -26,22 +32,29 @@ hidden_effect: false
 - Attack speed -100
 - -50% gains of Attack speed
 
-**Starting weapon choices:** [[Hammer]], [[Wrench]], [[Brick]], [[Mace]], [[Awl]], [[Crowbar]], [[Shovel]], [[Cestus]], [[Meat Tenderizer]], [[Flail]]
+**Starting weapons** [[Hammer]] · [[Wrench]] · [[Brick]] · [[Mace]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Cestus]] · [[Meat Tenderizer]] · [[Flail]]
 
 ## Shop
-- **Wanted tags:** [[Wanted Tags#Engineering|Engineering]], [[Wanted Tags#Structure|Structure]]
-  On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
+| Rule | Details |
+|---|---|
+| Wanted tags | [[Wanted Tags#Engineering\|Engineering]], [[Wanted Tags#Structure\|Structure]]<br>On `5%` of item rolls the shop only offers items with one of these tags. [[Shop Item Rolls#Wanted tags]] |
 
 ## Level-ups
-- No banned level-ups.
-- Level-up rarity follows your level, see [[Rarity Odds#Level-ups]].
+| Rule | Details |
+|---|---|
+| Never offered | nothing |
+| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
 
 ## Evolution and curse
-- **[[Meca]] never offers:** Ranged damage. See [[Meca#The four stat groups]].
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+| Topic | Details |
+|---|---|
+| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
+| [[Meca]] offers | every stat except Ranged damage. [[Meca#The four stat groups]] |
+| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
 
-## Mutation (character as the picked item)
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Gain when attack killed enemies: +1 Engineering (5)
-  - +1 Melee damage for every 2 Engineering
-- Not if that stat is already at its cap.
+## Mutation
+| | |
+|---|---|
+| **Copied into the Tumor** | Gain when attack killed enemies: +1 Engineering (5)<br>+1 Melee damage for every 2 Engineering |
+
+Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.

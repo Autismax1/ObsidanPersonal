@@ -14,30 +14,32 @@ in_shop: true
 
 # Fuel Tank
 
-[[Brotato]] › [[Items]] › Tier 2
+[[Brotato]] › [[Items]] · **Tier 2** · Base game
+
+> [!info] Shop
+> **Price** `45` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
+> **Tags** [[Wanted Tags#Elemental damage|Elemental damage]]
+> **Shows up more often for** [[Arsonist]], [[Mage]], [[Technomage]]
+> **Item group** [[Item Groups#Elemental damage|Elemental damage]]
+> **Never offered to** [[Chef]], [[Cyborg]] (until endless)
 
 ## Effects
 - Elemental damage +4
 - Melee damage -1
 - Ranged damage -1
 
-## Shop
-- Base price 45, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-- Tags: [[Wanted Tags#Elemental damage|Elemental damage]]
-- Shows up a bit more often for: [[Arsonist]], [[Mage]], [[Technomage]]
-- Item group: [[Item Groups#Elemental damage|Elemental damage]]
-- **Never offered to:** [[Chef]], [[Cyborg]] (until endless)
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Elemental damage +4 | 5 → 9 |
-| Curse stat added | +2 → 4 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Elemental damage +4 | value | `5 → 9` |
+| Curse stat | added | `+2 → 4` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Elemental damage +4
-- **Mutation can remove:** Melee damage -1; Ranged damage -1. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Elemental damage +4 |
+| **Can be removed** | Melee damage -1<br>Ranged damage -1 |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

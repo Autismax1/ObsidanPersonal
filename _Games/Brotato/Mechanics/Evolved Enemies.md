@@ -37,7 +37,7 @@ Strength = the average |evolution| of that side's players.
 | Damage | +25% → +50% (square-root curve, 1–100 evo) | +15% → +80% (linear, 1–150 evo) |
 | Speed | +5% → +25% (square-root curve, 1–100 evo) | +5% → +25% (square-root curve, 1–100 evo) |
 | Materials | +33% | +33% |
-| Special drop | [[Evolution Drops#Meca parts|meca parts]] 2.5% | [[Evolution Drops#Mutation fruit|mutation fruit]] 4% |
+| Special drop | [[Evolution Drops#Meca parts\|meca parts]] 2.5% | [[Evolution Drops#Mutation fruit\|mutation fruit]] 4% |
 
 - Evolved enemies never drop [[Evolution Drops#Meca and mutant fruit|meca or mutant fruit]].
 - Items with "material on evolved kill" or "heal on mutant kill" trigger here.

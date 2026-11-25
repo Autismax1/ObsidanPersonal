@@ -14,7 +14,12 @@ in_shop: true
 
 # Fossil Skull
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Primal Dread
+
+> [!info] Shop
+> **Price** `70` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `1` ([[Item Caps]])
+> **Tags** [[Wanted Tags#Percent damage|Percent damage]]
+> **Shows up more often for** [[One Armed]]
 
 ## Effects
 - Percent damage +10
@@ -22,25 +27,20 @@ in_shop: true
 - +5 Percent damage for every Fossil count
 - Fossil count ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
 
-## Shop
-- Base price 70, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 1. See [[Item Caps]].
-- Tags: [[Wanted Tags#Percent damage|Percent damage]]
-- Shows up a bit more often for: [[One Armed]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Percent damage +10 | 11 → 21 |
-| Dodge -3 | -2 → -1 |
-| +5 Percent damage for every Fossil count | 6 → 11 |
-| Curse stat added | +3 → 6 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Percent damage +10 | value | `11 → 21` |
+| Dodge -3 | value | `-2 → -1` |
+| +5 Percent damage for every Fossil count | value | `6 → 11` |
+| Curse stat | added | `+3 → 6` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Percent damage +10
-  - +5 Percent damage for every Fossil count
-  - Fossil count ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
-- **Mutation can remove:** Dodge -3. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Percent damage +10<br>+5 Percent damage for every Fossil count<br>Fossil count ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]]) |
+| **Can be removed** | Dodge -3 |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

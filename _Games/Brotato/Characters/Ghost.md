@@ -16,7 +16,13 @@ hidden_effect: false
 
 # Ghost
 
-[[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
+[[Brotato]] › [[Characters]] · Base game · during a run: [[Run Cheat Sheet]]
+
+> [!summary] At a glance
+> **Wanted tags** [[Wanted Tags#Dodge|Dodge]]
+> **Never in the shop** [[Item Groups#Armor|Armor]], 2 items
+> **Evolution** normal · **Meca stats** all except Armor
+> **Hidden effects** none
 
 ## Starting effects
 - Ethereal weapons: +10% Damage
@@ -24,25 +30,32 @@ hidden_effect: false
 - Dodge cap (+90)
 - Armor -100
 
-**Starting weapon choices:** [[Ghost Flint]], [[Ghost Axe]], [[Ghost Scepter]], [[Rail Gun]]
+**Starting weapons** [[Ghost Flint]] · [[Ghost Axe]] · [[Ghost Scepter]] · [[Rail Gun]]
 
 ## Shop
-- **Wanted tags:** [[Wanted Tags#Dodge|Dodge]]
-  On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned item groups:** [[Item Groups#Armor|Armor]] ([[Stone Skin]], [[Helmet]], [[Metal Plate]])
-- **Banned items (2):** [[Duct Tape]], [[Ghost Outfit]]
-- Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
+| Rule | Details |
+|---|---|
+| Wanted tags | [[Wanted Tags#Dodge\|Dodge]]<br>On `5%` of item rolls the shop only offers items with one of these tags. [[Shop Item Rolls#Wanted tags]] |
+| Banned group: [[Item Groups#Armor\|Armor]] | [[Stone Skin]], [[Helmet]], [[Metal Plate]] |
+| Banned items (2) | [[Duct Tape]], [[Ghost Outfit]] |
+| In endless | bans stop after the last wave, so these items can appear. [[Shop Item Rolls#Character bans]] |
 
 ## Level-ups
-- No banned level-ups.
-- Level-up rarity follows your level, see [[Rarity Odds#Level-ups]].
+| Rule | Details |
+|---|---|
+| Never offered | nothing |
+| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
 
 ## Evolution and curse
-- **[[Meca]] never offers:** Armor. See [[Meca#The four stat groups]].
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+| Topic | Details |
+|---|---|
+| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
+| [[Meca]] offers | every stat except Armor. [[Meca#The four stat groups]] |
+| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
 
-## Mutation (character as the picked item)
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Ethereal weapons: +10% Damage
-  - Dodge +30
-- Not if that stat is already at its cap.
+## Mutation
+| | |
+|---|---|
+| **Copied into the Tumor** | Ethereal weapons: +10% Damage<br>Dodge +30 |
+
+Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.

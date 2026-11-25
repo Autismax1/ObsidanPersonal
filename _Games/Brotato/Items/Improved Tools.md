@@ -15,7 +15,12 @@ in_shop: true
 
 # Improved Tools
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Base game
+
+> [!info] Shop
+> **Price** `70` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `1` ([[Item Caps]])
+> **Tags** [[Wanted Tags#Structure|Structure]], [[Wanted Tags#Attack speed|Attack speed]]
+> **Shows up more often for** [[Cyborg]], [[Dwarf]], [[Engineer]], [[Streamer]], [[Technomage]]
 
 ## Effects
 - Attack speed +10
@@ -25,23 +30,19 @@ in_shop: true
 - Structures get **50% of your attack speed** as structure attack speed: faster turrets and faster timed spawns (landmines). Negative attack speed makes them slower.
 - Pets don't benefit. See [[Structures and Pets]].
 
-## Shop
-- Base price 70, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 1. See [[Item Caps]].
-- Tags: [[Wanted Tags#Structure|Structure]], [[Wanted Tags#Attack speed|Attack speed]]
-- Shows up a bit more often for: [[Cyborg]], [[Dwarf]], [[Engineer]], [[Streamer]], [[Technomage]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Attack speed +10 | 11 → 21 |
-| Structures cooldown reduction (+50) | 56 → 105 |
-| Curse stat added | +3 → 6 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Attack speed +10 | value | `11 → 21` |
+| Structures cooldown reduction (+50) | value | `56 → 105` |
+| Curse stat | added | `+3 → 6` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Attack speed +10
-  - Structures cooldown reduction (+50)
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | Attack speed +10<br>Structures cooldown reduction (+50) |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

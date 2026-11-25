@@ -15,29 +15,30 @@ in_shop: true
 
 # Clockwork Wasp
 
-[[Brotato]] › [[Items]] › Tier 2
+[[Brotato]] › [[Items]] · **Tier 2** · Base game
+
+> [!info] Shop
+> **Price** `45` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
+> **Tags** [[Wanted Tags#Structure|Structure]], [[Wanted Tags#Speed|Speed]]
+> **Shows up more often for** [[Cyborg]], [[Dwarf]], [[Engineer]], [[Explorer]], [[Hiker]], [[Speedy]], [[Streamer]], [[Technomage]], [[Time Shifter]]
 
 ## Effects
 - Structure attack speed +10
 - Speed +5
 
-## Shop
-- Base price 45, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-- Tags: [[Wanted Tags#Structure|Structure]], [[Wanted Tags#Speed|Speed]]
-- Shows up a bit more often for: [[Cyborg]], [[Dwarf]], [[Engineer]], [[Explorer]], [[Hiker]], [[Speedy]], [[Streamer]], [[Technomage]], [[Time Shifter]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Structure attack speed +10 | 11 → 21 |
-| Speed +5 | 6 → 11 |
-| Curse stat added | +2 → 4 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Structure attack speed +10 | value | `11 → 21` |
+| Speed +5 | value | `6 → 11` |
+| Curse stat | added | `+2 → 4` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Structure attack speed +10
-  - Speed +5
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | Structure attack speed +10<br>Speed +5 |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

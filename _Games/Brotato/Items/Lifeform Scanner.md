@@ -13,23 +13,25 @@ in_shop: true
 
 # Lifeform Scanner
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Primal Dread
+
+> [!info] Shop
+> **Price** `50` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit · **Danger** [[Danger Levels|2+]]
 
 ## Effects
 - Lifeform scanner
 
-## Shop
-- Base price 50, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-- Only from Danger 2. See [[Danger Levels]].
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Curse stat added | +2 → 4 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Curse stat | added | `+2 → 4` |
 
 ## Mutation
-- Nothing here can be copied by [[Mutation]].
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | nothing |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

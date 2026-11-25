@@ -1,3 +1,2 @@
-.obsidian/plugins/fit/data.json
-.obsidian/plugins/fit/debug.log*
-.obsidian/workspace.json
+# Obsidian settings stay per device; FIT never syncs them either
+.obsidian/

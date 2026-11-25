@@ -15,27 +15,32 @@ dlc: Base game
 
 # Nuclear Launcher
 
-[[Brotato]] › [[Weapons]] · Ranged · classes: [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Heavy|Heavy]]
+[[Brotato]] › [[Weapons]] · **Ranged** · Base game
+
+> [!info] Weapon
+> **Classes** [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Heavy|Heavy]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]]
 
 ## Stats per tier
 | Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
 |---|---|---|---|---|---|---|---|
-| 3 | 144 | 60 | 100% Ranged damage, 100% Elemental damage | 2.12s | 3% ×2 | 800 | – |
-| 4 | 289 | 120 | 100% Ranged damage, 100% Elemental damage | 2.12s | 3% ×2 | 800 | – |
+| 3 | 144 | **60** | 100% Ranged damage, 100% Elemental damage | 2.12s | 3% ×2 | 800 | – |
+| 4 | 289 | **120** | 100% Ranged damage, 100% Elemental damage | 2.12s | 3% ×2 | 800 | – |
+
+Cooldown is the base value with 0 attack speed.
 
 ## Effects per tier
-- **Tier 3:** Explodes on hit (100% chance, explosion size 200%, uses the weapon's damage)
-- **Tier 4:** Explodes on hit (100% chance, explosion size 225%, uses the weapon's damage)
-
-Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Heavy|Heavy]]. Shop odds: [[Weapon Rolls]].
+| Tier | Effect | Details |
+|---|---|---|
+| 3 | **Explodes on hit** | 100% chance · explosion size 200% · uses the weapon's damage |
+| 4 | **Explodes on hit** | 100% chance · explosion size 225% · uses the weapon's damage |
 
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
-|---|---|---|---|---|---|
-| 3 | 66 → 126 | 110% → 210% Ranged damage, 110% → 210% Elemental damage | ×2 → ×2.4 | – | +6 → 12 |
-| 4 | 132 → 252 | 110% → 210% Ranged damage, 110% → 210% Elemental damage | ×2 → ×2.4 | – | +13 → 24 |
+| Tier | Damage | Scaling | Crit damage | Curse stat added |
+|---|---|---|---|---|
+| 3 | `66 → 126` | 110% → 210% Ranged damage, 110% → 210% Elemental damage | ×2 → ×2.4 | `+6 → 12` |
+| 4 | `132 → 252` | 110% → 210% Ranged damage, 110% → 210% Elemental damage | ×2 → ×2.4 | `+13 → 24` |
 
 ## Meca
-- Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].
+Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

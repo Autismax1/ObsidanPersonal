@@ -16,30 +16,31 @@ in_shop: true
 
 # Gentle Alien
 
-[[Brotato]] › [[Items]] › Tier 1
+[[Brotato]] › [[Items]] · **Tier 1** · Base game
+
+> [!info] Shop
+> **Price** `30` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `10` ([[Item Caps]])
+> **Tags** [[Wanted Tags#Max hp|Max hp]], [[Wanted Tags#Percent damage|Percent damage]], [[Wanted Tags#More enemies|More enemies]]
+> **Shows up more often for** [[Chunky]], [[Golem]], [[Lich]], [[Loud]], [[Masochist]], [[Ogre]], [[One Armed]], [[Pacifist]]
 
 ## Effects
 - Max hp +2
 - Percent damage +5
 - Number of enemies +5
 
-## Shop
-- Base price 30, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 10. See [[Item Caps]].
-- Tags: [[Wanted Tags#Max hp|Max hp]], [[Wanted Tags#Percent damage|Percent damage]], [[Wanted Tags#More enemies|More enemies]]
-- Shows up a bit more often for: [[Chunky]], [[Golem]], [[Lich]], [[Loud]], [[Masochist]], [[Ogre]], [[One Armed]], [[Pacifist]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Max hp +2 | 3 → 5 |
-| Percent damage +5 | 6 → 11 |
-| Curse stat added | +1 → 3 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Max hp +2 | value | `3 → 5` |
+| Percent damage +5 | value | `6 → 11` |
+| Curse stat | added | `+1 → 3` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Max hp +2
-  - Percent damage +5
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | Max hp +2<br>Percent damage +5 |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

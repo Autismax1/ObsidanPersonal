@@ -14,7 +14,12 @@ in_shop: true
 
 # Dino Egg
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Primal Dread
+
+> [!info] Shop
+> **Price** `65` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `1` ([[Item Caps]])
+> **Tags** [[Wanted Tags#Pet|Pet]]
+> **Shows up more often for** [[Beast Master]]
 
 ## Effects
 - Dino egg 3
@@ -24,21 +29,19 @@ in_shop: true
 - If it's destroyed during a wave, it doesn't advance that wave.
 - **Cursed:** it skips a stage, so it hatches one wave sooner, and the Ammosaurus comes out cursed.
 
-## Shop
-- Base price 65, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 1. See [[Item Caps]].
-- Tags: [[Wanted Tags#Pet|Pet]]
-- Shows up a bit more often for: [[Beast Master]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Dino egg 3 | skips a stage: hatches one wave sooner, the Ammosaurus comes out cursed |
-| Curse stat added | +3 → 5 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Dino egg 3 |  | skips a stage: hatches one wave sooner |
+|  |  | the Ammosaurus comes out cursed |
+| Curse stat | added | `+3 → 5` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Dino egg 3 (only from scale 0.7, about −63 evolution)
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | Dino egg 3 *(only from scale 0.7, about −63 evolution)* |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

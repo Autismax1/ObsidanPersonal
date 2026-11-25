@@ -13,24 +13,27 @@ in_shop: true
 
 # Smelly Rafflesia
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Primal Dread
+
+> [!info] Shop
+> **Price** `80` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `4` ([[Item Caps]])
 
 ## Effects
-- Enemies hit take +25% damage (25% chance, 5s, up to 1 stacks)
-
-## Shop
-- Base price 80, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 4. See [[Item Caps]].
+- **Enemies hit take +25% damage**
+  - 25% chance · 5s · up to 1 stacks
 
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Enemies hit take +25% damage (25% chance, 5s, up to 1 stacks) | 28 → 53 |
-| Curse stat added | +4 → 7 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Enemies hit take +25% damage | value | `28 → 53` |
+| Curse stat | added | `+4 → 7` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Enemies hit take +25% damage (25% chance, 5s, up to 1 stacks)
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | Enemies hit take +25% damage (25% chance, 5s, up to 1 stacks) |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

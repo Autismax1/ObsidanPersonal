@@ -16,7 +16,12 @@ in_shop: true
 
 # Wheat
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Base game
+
+> [!info] Shop
+> **Price** `85` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
+> **Tags** [[Wanted Tags#Melee damage|Melee damage]], [[Wanted Tags#Ranged damage|Ranged damage]], [[Wanted Tags#Harvesting|Harvesting]]
+> **Shows up more often for** [[Brawler]], [[Crazy]], [[Cyborg]], [[Diver]], [[Entrepreneur]], [[Farmer]], [[Generalist]], [[Gladiator]], [[Glutton]], [[Ogre]], [[Ranger]]
 
 ## Effects
 - Melee damage +4
@@ -24,26 +29,21 @@ in_shop: true
 - Harvesting +10
 - Elemental damage -2
 
-## Shop
-- Base price 85, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-- Tags: [[Wanted Tags#Melee damage|Melee damage]], [[Wanted Tags#Ranged damage|Ranged damage]], [[Wanted Tags#Harvesting|Harvesting]]
-- Shows up a bit more often for: [[Brawler]], [[Crazy]], [[Cyborg]], [[Diver]], [[Entrepreneur]], [[Farmer]], [[Generalist]], [[Gladiator]], [[Glutton]], [[Ogre]], [[Ranger]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Melee damage +4 | 5 → 9 |
-| Ranged damage +2 | 3 → 5 |
-| Harvesting +10 | 11 → 21 |
-| Elemental damage -2 | -1 |
-| Curse stat added | +4 → 7 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Melee damage +4 | value | `5 → 9` |
+| Ranged damage +2 | value | `3 → 5` |
+| Harvesting +10 | value | `11 → 21` |
+| Elemental damage -2 | value | `-1` |
+| Curse stat | added | `+4 → 7` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Melee damage +4
-  - Ranged damage +2
-  - Harvesting +10
-- **Mutation can remove:** Elemental damage -2. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Melee damage +4<br>Ranged damage +2<br>Harvesting +10 |
+| **Can be removed** | Elemental damage -2 |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

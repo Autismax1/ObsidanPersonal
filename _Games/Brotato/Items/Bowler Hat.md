@@ -15,7 +15,12 @@ in_shop: true
 
 # Bowler Hat
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Base game
+
+> [!info] Shop
+> **Price** `75` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
+> **Tags** [[Wanted Tags#Luck|Luck]], [[Wanted Tags#Harvesting|Harvesting]]
+> **Shows up more often for** [[Chunky]], [[Curious]], [[Druid]], [[Entrepreneur]], [[Farmer]], [[Lucky]]
 
 ## Effects
 - Luck +15
@@ -23,25 +28,21 @@ in_shop: true
 - Attack speed -5
 - Crit chance -3
 
-## Shop
-- Base price 75, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-- Tags: [[Wanted Tags#Luck|Luck]], [[Wanted Tags#Harvesting|Harvesting]]
-- Shows up a bit more often for: [[Chunky]], [[Curious]], [[Druid]], [[Entrepreneur]], [[Farmer]], [[Lucky]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Luck +15 | 17 → 32 |
-| Harvesting +18 | 20 → 38 |
-| Attack speed -5 | -4 → -2 |
-| Crit chance -3 | -2 → -1 |
-| Curse stat added | +3 → 6 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Luck +15 | value | `17 → 32` |
+| Harvesting +18 | value | `20 → 38` |
+| Attack speed -5 | value | `-4 → -2` |
+| Crit chance -3 | value | `-2 → -1` |
+| Curse stat | added | `+3 → 6` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Luck +15
-  - Harvesting +18
-- **Mutation can remove:** Attack speed -5; Crit chance -3. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Luck +15<br>Harvesting +18 |
+| **Can be removed** | Attack speed -5<br>Crit chance -3 |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

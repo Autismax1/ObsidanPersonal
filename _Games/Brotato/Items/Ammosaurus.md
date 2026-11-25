@@ -14,24 +14,29 @@ in_shop: false
 
 # Ammosaurus
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Primal Dread
+
+> [!info] Not in the shop
+> Not sold in the shop or crates. Created by another effect.
 
 ## Effects
-- Pet ammosaurus
+- Pet: Ammosaurus
 
 ## How it works
 - **Copies your best weapon:** the highest tier, and among those the highest DPS. Without weapons it uses a tier 1 SMG.
 - Moves at **half speed** while holding a ranged weapon.
 - A cursed Ammosaurus also curses the weapon copy (at least its own curse level).
-- Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
 
-## Shop
-- **Not sold in the shop or crates.** Created by another effect.
+> [!note] Pet stats
+> Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
 
 ## Cursed
-- Not sold in the shop, so it only gets cursed through special effects.
+Not sold in the shop, so it only gets cursed through special effects.
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Pet ammosaurus (only from scale 0.7, about −63 evolution)
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | Pet ammosaurus *(only from scale 0.7, about −63 evolution)* |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

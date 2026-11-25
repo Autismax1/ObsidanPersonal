@@ -14,27 +14,29 @@ in_shop: true
 
 # Eldritch Figurine
 
-[[Brotato]] › [[Items]] › Tier 2
+[[Brotato]] › [[Items]] · **Tier 2** · Primal Dread
+
+> [!info] Shop
+> **Price** `30` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `2` ([[Item Caps]])
+> **Tags** [[Wanted Tags#Evolution|Evolution]]
 
 ## Effects
 - Evolution -5
 - Heal on mutant kill (+50)
 
-## Shop
-- Base price 30, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 2. See [[Item Caps]].
-- Tags: [[Wanted Tags#Evolution|Evolution]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Evolution -5 | -6 → -11 |
-| Heal on mutant kill (+50) | 56 → 105 |
-| Curse stat added | +1 → 3 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Evolution -5 | value | `-6 → -11` |
+| Heal on mutant kill (+50) | value | `56 → 105` |
+| Curse stat | added | `+1 → 3` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Heal on mutant kill (+50)
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | Heal on mutant kill (+50) |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

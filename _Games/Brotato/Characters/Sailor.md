@@ -18,7 +18,13 @@ hidden_effect: false
 
 # Sailor
 
-[[Brotato]] › [[Characters]] · during a run: [[Run Cheat Sheet]]
+[[Brotato]] › [[Characters]] · Abyssal Terrors · during a run: [[Run Cheat Sheet]]
+
+> [!summary] At a glance
+> **Wanted tags** [[Wanted Tags#Curse|Curse]]
+> **Never in the shop** [[Item Groups#Harvesting|Harvesting]], [[Item Groups#Dodge|Dodge]], 2 items
+> **Evolution** normal · **Meca stats** all except Harvesting
+> **Hidden effects** none
 
 ## Starting effects
 - Bonus class damage against cursed enemies (+200)
@@ -28,24 +34,33 @@ hidden_effect: false
 - Dodge cap (+20)
 - -100% gains of Harvesting
 
-**Starting weapon choices:** [[Anchor]], [[Trident]], [[Blunderbuss]]
+**Starting weapons** [[Anchor]] · [[Trident]] · [[Blunderbuss]]
 
 ## Shop
-- **Wanted tags:** [[Wanted Tags#Curse|Curse]]
-  On 5% of item rolls the shop only offers items with one of these tags. See [[Shop Item Rolls#Wanted tags]].
-- **Banned item groups:** [[Item Groups#Harvesting|Harvesting]] ([[Blood Donation]], [[Crown]], [[Fertilizer]], [[Tractor]], [[Wheelbarrow]], [[Lost Organ]]); [[Item Groups#Dodge|Dodge]] ([[Adrenaline]], [[Chameleon]], [[Gambling Token]], [[Ghost Outfit]])
-- **Banned items (2):** [[Peaceful Bee]], [[Ghost Outfit]]
-- Bans stop after the last wave: in endless these items can appear. See [[Shop Item Rolls#Character bans]].
+| Rule | Details |
+|---|---|
+| Wanted tags | [[Wanted Tags#Curse\|Curse]]<br>On `5%` of item rolls the shop only offers items with one of these tags. [[Shop Item Rolls#Wanted tags]] |
+| Banned group: [[Item Groups#Harvesting\|Harvesting]] | [[Blood Donation]], [[Crown]], [[Fertilizer]], [[Tractor]], [[Wheelbarrow]], [[Lost Organ]] |
+| Banned group: [[Item Groups#Dodge\|Dodge]] | [[Adrenaline]], [[Chameleon]], [[Gambling Token]], [[Ghost Outfit]] |
+| Banned items (2) | [[Peaceful Bee]], [[Ghost Outfit]] |
+| In endless | bans stop after the last wave, so these items can appear. [[Shop Item Rolls#Character bans]] |
 
 ## Level-ups
-- **Never offered:** Harvesting
-- Level-up rarity follows your level, see [[Rarity Odds#Level-ups]].
+| Rule | Details |
+|---|---|
+| Never offered | Harvesting |
+| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
 
 ## Evolution and curse
-- **[[Meca]] never offers:** Harvesting. See [[Meca#The four stat groups]].
-- Curse chances: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
+| Topic | Details |
+|---|---|
+| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
+| [[Meca]] offers | every stat except Harvesting. [[Meca#The four stat groups]] |
+| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
 
-## Mutation (character as the picked item)
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Bonus class damage against cursed enemies (+200)
-- Not if that stat is already at its cap.
+## Mutation
+| | |
+|---|---|
+| **Copied into the Tumor** | Bonus class damage against cursed enemies (+200) |
+
+Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.

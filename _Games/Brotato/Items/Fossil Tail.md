@@ -14,7 +14,12 @@ in_shop: true
 
 # Fossil Tail
 
-[[Brotato]] › [[Items]] › Tier 2
+[[Brotato]] › [[Items]] · **Tier 2** · Primal Dread
+
+> [!info] Shop
+> **Price** `45` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `1` ([[Item Caps]])
+> **Tags** [[Wanted Tags#Harvesting|Harvesting]]
+> **Shows up more often for** [[Entrepreneur]], [[Farmer]]
 
 ## Effects
 - Harvesting +5
@@ -22,25 +27,20 @@ in_shop: true
 - +3 Harvesting for every Fossil count
 - Fossil count ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
 
-## Shop
-- Base price 45, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 1. See [[Item Caps]].
-- Tags: [[Wanted Tags#Harvesting|Harvesting]]
-- Shows up a bit more often for: [[Entrepreneur]], [[Farmer]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Harvesting +5 | 6 → 11 |
-| Max hp -3 | -2 → -1 |
-| +3 Harvesting for every Fossil count | 4 → 7 |
-| Curse stat added | +2 → 4 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Harvesting +5 | value | `6 → 11` |
+| Max hp -3 | value | `-2 → -1` |
+| +3 Harvesting for every Fossil count | value | `4 → 7` |
+| Curse stat | added | `+2 → 4` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Harvesting +5
-  - +3 Harvesting for every Fossil count
-  - Fossil count ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
-- **Mutation can remove:** Max hp -3. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Harvesting +5<br>+3 Harvesting for every Fossil count<br>Fossil count ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]]) |
+| **Can be removed** | Max hp -3 |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

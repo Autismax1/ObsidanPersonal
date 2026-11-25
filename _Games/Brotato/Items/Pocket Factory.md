@@ -16,29 +16,30 @@ in_shop: true
 
 # Pocket Factory
 
-[[Brotato]] › [[Items]] › Tier 2
+[[Brotato]] › [[Items]] · **Tier 2** · Base game
+
+> [!info] Shop
+> **Price** `75` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `1` ([[Item Caps]])
+> **Tags** [[Wanted Tags#Engineering|Engineering]], [[Wanted Tags#Exploration|Exploration]], [[Wanted Tags#Structure|Structure]]
+> **Shows up more often for** [[Builder]], [[Cryptid]], [[Cyborg]], [[Dwarf]], [[Engineer]], [[Explorer]], [[Lucky]], [[Streamer]], [[Technomage]]
 
 ## Effects
 - Engineering +2
 - Tree turret
 
-## Shop
-- Base price 75, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 1. See [[Item Caps]].
-- Tags: [[Wanted Tags#Engineering|Engineering]], [[Wanted Tags#Exploration|Exploration]], [[Wanted Tags#Structure|Structure]]
-- Shows up a bit more often for: [[Builder]], [[Cryptid]], [[Cyborg]], [[Dwarf]], [[Engineer]], [[Explorer]], [[Lucky]], [[Streamer]], [[Technomage]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Engineering +2 | 3 → 9 (×3 boost for this item) |
-| Tree turret | adds +1 tree |
-| Curse stat added | +3 → 6 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Engineering +2 | value | `3 → 9 (×3 boost for this item)` |
+| Tree turret | adds | `+1 tree` |
+| Curse stat | added | `+3 → 6` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Engineering +2
-  - Tree turret
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | Engineering +2<br>Tree turret |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

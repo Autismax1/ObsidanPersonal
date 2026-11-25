@@ -16,7 +16,12 @@ in_shop: true
 
 # Mammoth
 
-[[Brotato]] › [[Items]] › Tier 4
+[[Brotato]] › [[Items]] · **Tier 4** · Base game
+
+> [!info] Shop
+> **Price** `110` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
+> **Tags** [[Wanted Tags#Melee damage|Melee damage]], [[Wanted Tags#Hp regeneration|Hp regeneration]], [[Wanted Tags#Knockback|Knockback]]
+> **Shows up more often for** [[Brawler]], [[Bull]], [[Crazy]], [[Diver]], [[Doctor]], [[Generalist]], [[Gladiator]], [[Glutton]], [[Lich]], [[Masochist]], [[Ogre]], [[Pacifist]]
 
 ## Effects
 - Melee damage +20
@@ -25,27 +30,22 @@ in_shop: true
 - Percent damage -8
 - Speed -3
 
-## Shop
-- Base price 110, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-- Tags: [[Wanted Tags#Melee damage|Melee damage]], [[Wanted Tags#Hp regeneration|Hp regeneration]], [[Wanted Tags#Knockback|Knockback]]
-- Shows up a bit more often for: [[Brawler]], [[Bull]], [[Crazy]], [[Diver]], [[Doctor]], [[Generalist]], [[Gladiator]], [[Glutton]], [[Lich]], [[Masochist]], [[Ogre]], [[Pacifist]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Melee damage +20 | 22 → 42 |
-| Hp regeneration +5 | 6 → 11 |
-| Knockback (+5) | 6 → 11 |
-| Percent damage -8 | -7 → -3 |
-| Speed -3 | -2 → -1 |
-| Curse stat added | +5 → 9 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Melee damage +20 | value | `22 → 42` |
+| Hp regeneration +5 | value | `6 → 11` |
+| Knockback (+5) | value | `6 → 11` |
+| Percent damage -8 | value | `-7 → -3` |
+| Speed -3 | value | `-2 → -1` |
+| Curse stat | added | `+5 → 9` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Melee damage +20
-  - Hp regeneration +5
-  - Knockback (+5)
-- **Mutation can remove:** Percent damage -8; Speed -3. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Melee damage +20<br>Hp regeneration +5<br>Knockback (+5) |
+| **Can be removed** | Percent damage -8<br>Speed -3 |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

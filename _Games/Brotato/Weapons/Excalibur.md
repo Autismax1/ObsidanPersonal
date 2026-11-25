@@ -15,24 +15,35 @@ dlc: Base game
 
 # Excalibur
 
-[[Brotato]] › [[Weapons]] · Melee · classes: [[Weapon Classes#Blade|Blade]], [[Weapon Classes#Legendary|Legendary]]
+[[Brotato]] › [[Weapons]] · **Melee** · Base game
+
+> [!info] Weapon
+> **Classes** [[Weapon Classes#Blade|Blade]], [[Weapon Classes#Legendary|Legendary]] · **Tiers** 4–4 · shop odds: [[Weapon Rolls]]
 
 ## Stats per tier
 | Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
 |---|---|---|---|---|---|---|---|
-| 4 | 230 | 200 | 200% Melee damage, 200% Max hp | 0.66s | 10% ×2.5 | 200 | – |
+| 4 | 230 | **200** | 200% Melee damage, 200% Max hp | 0.66s | 10% ×2.5 | 200 | – |
+
+Cooldown is the base value with 0 attack speed.
 
 ## Effects per tier
-- **Tier 4:** Additional bonus (-2)
-
-Cooldown is the base value with 0 attack speed. Sets and class bonuses: [[Weapon Classes#Blade|Blade]], [[Weapon Classes#Legendary|Legendary]]. Shop odds: [[Weapon Rolls]].
+| Tier | Effect | Details |
+|---|---|---|
+| 4 | **Additional bonus (-2)** | – |
 
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Tier | Damage | Scaling | Crit damage | Other | Curse stat added |
-|---|---|---|---|---|---|
-| 4 | 221 → 420 | 220% → 420% Melee damage, 220% → 420% Max hp | ×2.5 → ×3 | Additional bonus: -1 | +10 → 19 |
+| Tier | Damage | Scaling | Crit damage | Curse stat added |
+|---|---|---|---|---|
+| 4 | `221 → 420` | 220% → 420% Melee damage, 220% → 420% Max hp | ×2.5 → ×3 | `+10 → 19` |
+
+**Effects when cursed**
+
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Tier 4: Additional bonus (-2) | value | `-1` |
 
 ## Meca
-- Can be mechanized unless cursed or mutant: +3% damage per meca power and a stat choice per rank. See [[Meca]].
+Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

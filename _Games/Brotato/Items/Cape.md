@@ -15,7 +15,12 @@ in_shop: true
 
 # Cape
 
-[[Brotato]] › [[Items]] › Tier 4
+[[Brotato]] › [[Items]] · **Tier 4** · Base game
+
+> [!info] Shop
+> **Price** `110` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
+> **Tags** [[Wanted Tags#Lifesteal|Lifesteal]], [[Wanted Tags#Dodge|Dodge]]
+> **Shows up more often for** [[Cryptid]], [[Ghost]], [[Lich]], [[Masochist]], [[Sick]], [[Vampire]]
 
 ## Effects
 - Lifesteal +5
@@ -24,26 +29,22 @@ in_shop: true
 - Ranged damage -2
 - Elemental damage -2
 
-## Shop
-- Base price 110, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-- Tags: [[Wanted Tags#Lifesteal|Lifesteal]], [[Wanted Tags#Dodge|Dodge]]
-- Shows up a bit more often for: [[Cryptid]], [[Ghost]], [[Lich]], [[Masochist]], [[Sick]], [[Vampire]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Lifesteal +5 | 6 → 11 |
-| Dodge +20 | 22 → 42 |
-| Melee damage -2 | -1 |
-| Ranged damage -2 | -1 |
-| Elemental damage -2 | -1 |
-| Curse stat added | +5 → 9 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Lifesteal +5 | value | `6 → 11` |
+| Dodge +20 | value | `22 → 42` |
+| Melee damage -2 | value | `-1` |
+| Ranged damage -2 | value | `-1` |
+| Elemental damage -2 | value | `-1` |
+| Curse stat | added | `+5 → 9` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Lifesteal +5
-  - Dodge +20
-- **Mutation can remove:** Melee damage -2; Ranged damage -2; Elemental damage -2. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Lifesteal +5<br>Dodge +20 |
+| **Can be removed** | Melee damage -2<br>Ranged damage -2<br>Elemental damage -2 |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

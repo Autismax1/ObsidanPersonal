@@ -14,26 +14,28 @@ in_shop: true
 
 # Plastic Explosive
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Base game
+
+> [!info] Shop
+> **Price** `60` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
+> **Tags** [[Wanted Tags#Explosive|Explosive]]
+> **Shows up more often for** [[Arsonist]], [[Artificer]], [[Bull]], [[Glutton]], [[Ogre]]
 
 ## Effects
 - Explosion size +25
 
-## Shop
-- Base price 60, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-- Tags: [[Wanted Tags#Explosive|Explosive]]
-- Shows up a bit more often for: [[Arsonist]], [[Artificer]], [[Bull]], [[Glutton]], [[Ogre]]
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Explosion size +25 | 28 → 53 |
-| Curse stat added | +3 → 5 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Explosion size +25 | value | `28 → 53` |
+| Curse stat | added | `+3 → 5` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Explosion size +25
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | Explosion size +25 |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

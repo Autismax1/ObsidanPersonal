@@ -13,24 +13,26 @@ in_shop: true
 
 # Chimera Cells
 
-[[Brotato]] › [[Items]] › Tier 2
+[[Brotato]] › [[Items]] · **Tier 2** · Primal Dread
+
+> [!info] Shop
+> **Price** `30` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `4` ([[Item Caps]])
 
 ## Effects
 - Mutate on equip chance (+15)
 
-## Shop
-- Base price 30, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 4. See [[Item Caps]].
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Mutate on equip chance (+15) | 17 → 32 |
-| Curse stat added | +1 → 3 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Mutate on equip chance (+15) | value | `17 → 32` |
+| Curse stat | added | `+1 → 3` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Mutate on equip chance (+15) (only from scale 0.7, about −63 evolution)
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | Mutate on equip chance (+15) *(only from scale 0.7, about −63 evolution)* |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

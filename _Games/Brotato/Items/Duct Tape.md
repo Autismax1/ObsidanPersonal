@@ -15,32 +15,33 @@ in_shop: true
 
 # Duct Tape
 
-[[Brotato]] › [[Items]] › Tier 1
+[[Brotato]] › [[Items]] · **Tier 1** · Base game
+
+> [!info] Shop
+> **Price** `20` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
+> **Tags** [[Wanted Tags#Armor|Armor]], [[Wanted Tags#Engineering|Engineering]]
+> **Shows up more often for** [[Builder]], [[Bull]], [[Dwarf]], [[Engineer]], [[Golem]], [[Knight]], [[Masochist]], [[Pacifist]], [[Technomage]]
+> **Never offered to** [[Ghost]] (until endless)
 
 ## Effects
 - Armor +1
 - Engineering +1
 - Max hp -2
 
-## Shop
-- Base price 20, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-- Tags: [[Wanted Tags#Armor|Armor]], [[Wanted Tags#Engineering|Engineering]]
-- Shows up a bit more often for: [[Builder]], [[Bull]], [[Dwarf]], [[Engineer]], [[Golem]], [[Knight]], [[Masochist]], [[Pacifist]], [[Technomage]]
-- **Never offered to:** [[Ghost]] (until endless)
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Armor +1 | 2 → 3 |
-| Engineering +1 | 2 → 3 |
-| Max hp -2 | -1 |
-| Curse stat added | +1 → 2 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Armor +1 | value | `2 → 3` |
+| Engineering +1 | value | `2 → 3` |
+| Max hp -2 | value | `-1` |
+| Curse stat | added | `+1 → 2` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Armor +1
-  - Engineering +1
-- **Mutation can remove:** Max hp -2. See [[Mutation#Step 3: remove or copy]].
+| | |
+|---|---|
+| **Copied into the Tumor** | Armor +1<br>Engineering +1 |
+| **Can be removed** | Max hp -2 |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

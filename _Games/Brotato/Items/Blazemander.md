@@ -15,31 +15,40 @@ in_shop: true
 
 # Blazemander
 
-[[Brotato]] › [[Items]] › Tier 2
+[[Brotato]] › [[Items]] · **Tier 2** · Base game
+
+> [!info] Shop
+> **Price** `40` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
+> **Tags** [[Wanted Tags#Elemental damage|Elemental damage]], [[Wanted Tags#Pet|Pet]]
+> **Shows up more often for** [[Arsonist]], [[Beast Master]], [[Mage]], [[Technomage]]
 
 ## Effects
-- Pet blazemander: Burning 3×5 (50% Elemental damage) (1 damage (1% Elemental damage), cooldown 0.37s, range 150, ranged attack: 1 damage (1% Elemental damage), cooldown 4.00s, range 300, piercing 99)
+- **Pet blazemander: Burning 3×5 (50% Elemental damage)**
+  - `1` damage (1% Elemental damage) · cooldown `0.37s` · range `150`
+  - ranged attack: `1` damage (1% Elemental damage) · cooldown `4.00s` · range `300` · piercing 99
 
 ## How it works
 - Bites: 1 damage (1% Elemental damage), cooldown 0.37s. Its attacks set enemies on fire: burning 3×5 (50% Elemental damage).
 - Every 4s it shoots a **circle of 6 fire projectiles** that pierce (almost) everything and burn.
 - Its value is the burn: damage comes almost entirely from Elemental damage.
-- Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
 
-## Shop
-- Base price 40, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- No copy limit.
-- Tags: [[Wanted Tags#Elemental damage|Elemental damage]], [[Wanted Tags#Pet|Pet]]
-- Shows up a bit more often for: [[Arsonist]], [[Beast Master]], [[Mage]], [[Technomage]]
+> [!note] Pet stats
+> Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
 
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Pet blazemander: Burning 3×5 (50% Elemental damage) (1 damage (1% Elemental damage), cooldown 0.37s, range 150, ranged attack: 1 damage (1% Elemental damage), cooldown 4.00s, range 300, piercing 99) | burn scaling ×1.10 → ×2.10, ranged attack twice as fast, ranged attack range ÷1.10 → ÷2.10 |
-| Curse stat added | +2 → 3 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Pet blazemander: Burning 3×5 (50% Elemental damage) | burn scaling | `×1.10 → ×2.10` |
+|  |  | ranged attack twice as fast |
+|  | ranged attack range | `÷1.10 → ÷2.10` |
+| Curse stat | added | `+2 → 3` |
 
 ## Mutation
-- Nothing here can be copied by [[Mutation]].
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | nothing |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

@@ -14,27 +14,34 @@ in_shop: true
 
 # Sunken Bell
 
-[[Brotato]] › [[Items]] › Tier 3
+[[Brotato]] › [[Items]] · **Tier 3** · Abyssal Terrors
+
+> [!info] Shop
+> **Price** `50` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `1` ([[Item Caps]])
+> **Tags** [[Wanted Tags#Explosive|Explosive]]
+> **Shows up more often for** [[Arsonist]], [[Artificer]], [[Bull]], [[Glutton]], [[Ogre]]
+> **Never offered to** [[Droid]], [[Wounded]] (until endless)
 
 ## Effects
-- Explode when below hp (100% chance, explosion size 600%, below 40% HP, 100 damage (500% Melee damage, 500% Ranged damage, 500% Elemental damage, 500% Engineering), every 1.56s, range 150, crit 3% ×1.5)
-
-## Shop
-- Base price 50, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 1. See [[Item Caps]].
-- Tags: [[Wanted Tags#Explosive|Explosive]]
-- Shows up a bit more often for: [[Arsonist]], [[Artificer]], [[Bull]], [[Glutton]], [[Ogre]]
-- **Never offered to:** [[Droid]], [[Wounded]] (until endless)
+- **Explode when below hp**
+  - 100% chance
+  - explosion size 600%
+  - below 40% HP
+  - `100` damage (500% Melee damage, 500% Ranged damage, 500% Elemental damage, 500% Engineering) · every `1.56s` · range `150` · crit 3% ×1.5
 
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Explode when below hp (100% chance, explosion size 600%, below 40% HP, 100 damage (500% Melee damage, 500% Ranged damage, 500% Elemental damage, 500% Engineering), every 1.56s, range 150, crit 3% ×1.5) | damage 111 → 210, scaling ×1.10 → ×2.10 |
-| Curse stat added | +2 → 4 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Explode when below hp | damage | `111 → 210` |
+|  | scaling | `×1.10 → ×2.10` |
+| Curse stat | added | `+2 → 4` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Explode when below hp (100% chance, explosion size 600%, below 40% HP, 100 damage (500% Melee damage, 500% Ranged damage, 500% Elemental damage, 500% Engineering), every 1.56s, range 150, crit 3% ×1.5)
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | Explode when below hp (100% chance, explosion size 600%, below 40% HP, `100` damage (500% Melee damage, 500% Ranged damage, 500% Elemental damage, 500% Engineering) · every `1.56s` · range `150` · crit 3% ×1.5) |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

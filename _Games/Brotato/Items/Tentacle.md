@@ -14,30 +14,31 @@ in_shop: true
 
 # Tentacle
 
-[[Brotato]] › [[Items]] › Tier 2
+[[Brotato]] › [[Items]] · **Tier 2** · Base game
+
+> [!info] Shop
+> **Price** `35` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `5` ([[Item Caps]])
+> **Tags** [[Wanted Tags#Crit chance|Crit chance]]
+> **Shows up more often for** [[Crazy]], [[Diver]], [[Hunter]]
+> **Never offered to** [[Golem]] (until endless)
 
 ## Effects
 - Crit chance +3
 - Heal on crit kill (+20)
 
-## Shop
-- Base price 35, real price grows with the wave. See [[Prices and Rerolls#Item price]].
-- Max copies: 5. See [[Item Caps]].
-- Tags: [[Wanted Tags#Crit chance|Crit chance]]
-- Shows up a bit more often for: [[Crazy]], [[Diver]], [[Hunter]]
-- **Never offered to:** [[Golem]] (until endless)
-
 ## Cursed
-Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on its own. See [[Curse#Curse strength]].
+Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
-| Effect | Cursed |
-|---|---|
-| Crit chance +3 | 4 → 7 |
-| Heal on crit kill (+20) | 22 → 42 |
-| Curse stat added | +2 → 3 |
+| Effect | What changes | Cursed (worst → best) |
+|---|---|---|
+| Crit chance +3 | value | `4 → 7` |
+| Heal on crit kill (+20) | value | `22 → 42` |
+| Curse stat | added | `+2 → 3` |
 
 ## Mutation
-- **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
-  - Crit chance +3
-  - Heal on crit kill (+20)
-- No downside a mutation could remove.
+| | |
+|---|---|
+| **Copied into the Tumor** | Crit chance +3<br>Heal on crit kill (+20) |
+| **Can be removed** | nothing |
+
+Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
