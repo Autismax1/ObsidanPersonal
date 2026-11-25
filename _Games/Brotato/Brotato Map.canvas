@@ -1,47 +1,391 @@
 {
-	"nodes":[
-		{"id":"g_shop","type":"group","x":-1080,"y":60,"width":420,"height":472,"color":"3","label":"Shop"},
-		{"id":"g_pd","type":"group","x":700,"y":-520,"width":420,"height":472,"color":"4","label":"Primal Dread"},
-		{"id":"g_chars","type":"group","x":-1080,"y":-520,"width":420,"height":388,"color":"6","label":"Characters"},
-		{"id":"g_at","type":"group","x":700,"y":140,"width":420,"height":304,"color":"1","label":"Abyssal Terrors"},
-		{"id":"g_iw","type":"group","x":-190,"y":620,"width":420,"height":304,"color":"2","label":"Items & Weapons"},
-		{"id":"g_tips","type":"group","x":-190,"y":-720,"width":420,"height":220,"color":"5","label":"Tips"},
-		{"id":"g_drops","type":"group","x":-190,"y":330,"width":420,"height":220,"color":"2","label":"Drops"},
-		{"id":"hub","type":"text","text":"# [[Brotato]]\nStart page. During a run: [[Run Cheat Sheet]] and your character in [[Characters]].","x":-190,"y":-110,"width":380,"height":150},
-		{"id":"cheat","type":"text","text":"## [[Run Cheat Sheet]]\nevery key number on one page","x":-190,"y":-330,"width":380,"height":90,"color":"3"},
-		{"id":"g_tips_0","type":"text","text":"**[[Tips]]**\nstrategy tips, one note each","x":-170,"y":-674,"width":380,"height":70,"color":"5"},
-		{"id":"g_tips_1","type":"text","text":"**[[Healing]]**\nlifesteal and HP regen numbers","x":-170,"y":-590,"width":380,"height":70,"color":"5"},
-		{"id":"g_chars_0","type":"text","text":"**[[Characters]]**\nall 74, sortable table","x":-1060,"y":-474,"width":380,"height":70,"color":"6"},
-		{"id":"g_chars_1","type":"text","text":"**[[Wanted Tags]]**\nitems per tag, who wants them","x":-1060,"y":-390,"width":380,"height":70,"color":"6"},
-		{"id":"g_chars_2","type":"text","text":"**[[Item Groups]]**\nfixed ban lists","x":-1060,"y":-306,"width":380,"height":70,"color":"6"},
-		{"id":"g_chars_3","type":"text","text":"**[[Hidden Effects]]**\neffects the tooltip hides","x":-1060,"y":-222,"width":380,"height":70,"color":"6"},
-		{"id":"g_shop_0","type":"text","text":"**[[Shop Item Rolls]]**\nhow one slot is filled","x":-1060,"y":106,"width":380,"height":70,"color":"3"},
-		{"id":"g_shop_1","type":"text","text":"**[[Rarity Odds]]**\ntier chances by wave and luck","x":-1060,"y":190,"width":380,"height":70,"color":"3"},
-		{"id":"g_shop_2","type":"text","text":"**[[Weapon Rolls]]**\nhow many weapons, which ones","x":-1060,"y":274,"width":380,"height":70,"color":"3"},
-		{"id":"g_shop_3","type":"text","text":"**[[Prices and Rerolls]]**\nprice, reroll, recycling","x":-1060,"y":358,"width":380,"height":70,"color":"3"},
-		{"id":"g_shop_4","type":"text","text":"**[[Item Caps]]**\nmax copies per item","x":-1060,"y":442,"width":380,"height":70,"color":"3"},
-		{"id":"g_pd_0","type":"text","text":"**[[Evolution]]**\nthe evolution stat and ±2 lock","x":720,"y":-474,"width":380,"height":70,"color":"4"},
-		{"id":"g_pd_1","type":"text","text":"**[[Mutation]]**\nremove or copy, the Tumor","x":720,"y":-390,"width":380,"height":70,"color":"4"},
-		{"id":"g_pd_2","type":"text","text":"**[[Meca]]**\nmechanizing, stat groups, ranks","x":720,"y":-306,"width":380,"height":70,"color":"4"},
-		{"id":"g_pd_3","type":"text","text":"**[[Evolved Enemies]]**\nmeca and mutant enemies","x":720,"y":-222,"width":380,"height":70,"color":"4"},
-		{"id":"g_pd_4","type":"text","text":"**[[Evolution Flow.canvas|Evolution Flow]]**\ndecision flowchart","x":720,"y":-138,"width":380,"height":70,"color":"4"},
-		{"id":"g_at_0","type":"text","text":"**[[Curse]]**\ncurse chance and strength","x":720,"y":186,"width":380,"height":70,"color":"1"},
-		{"id":"g_at_1","type":"text","text":"**[[Cursed Enemies]]**\ncursed enemy stats","x":720,"y":270,"width":380,"height":70,"color":"1"},
-		{"id":"g_at_2","type":"text","text":"**[[Danger Levels]]**\ndanger 0–6","x":720,"y":354,"width":380,"height":70,"color":"1"},
-		{"id":"g_drops_0","type":"text","text":"**[[Materials and Crates]]**\nmaterials, crates, fruit","x":-170,"y":376,"width":380,"height":70,"color":"2"},
-		{"id":"g_drops_1","type":"text","text":"**[[Evolution Drops]]**\nfruit, mutation fruit, meca parts","x":-170,"y":460,"width":380,"height":70,"color":"2"},
-		{"id":"g_iw_1","type":"text","text":"**[[Weapons]]**\nall 96 weapons, stats per tier","x":-170,"y":750,"width":380,"height":70,"color":"2"},
-		{"id":"g_iw_2","type":"text","text":"**[[Weapon Classes]]**\nset bonuses for 2–6 weapons","x":-170,"y":834,"width":380,"height":70,"color":"2"},
-		{"id":"g_iw_0","type":"text","text":"**[[Items]]**\nall 294 items with cursed values","x":-170,"y":666,"width":380,"height":70,"color":"2"}
+	"nodes": [
+		{
+			"id": "g_shop",
+			"type": "group",
+			"x": -1080,
+			"y": 60,
+			"width": 420,
+			"height": 472,
+			"color": "3",
+			"label": "Shop"
+		},
+		{
+			"id": "g_pd",
+			"type": "group",
+			"x": 700,
+			"y": -520,
+			"width": 420,
+			"height": 472,
+			"color": "4",
+			"label": "Primal Dread"
+		},
+		{
+			"id": "g_chars",
+			"type": "group",
+			"x": -1080,
+			"y": -520,
+			"width": 420,
+			"height": 388,
+			"color": "6",
+			"label": "Characters"
+		},
+		{
+			"id": "g_at",
+			"type": "group",
+			"x": 700,
+			"y": 140,
+			"width": 420,
+			"height": 304,
+			"color": "1",
+			"label": "Abyssal Terrors"
+		},
+		{
+			"id": "g_iw",
+			"type": "group",
+			"x": -190,
+			"y": 620,
+			"width": 420,
+			"height": 304,
+			"color": "2",
+			"label": "Items & Weapons"
+		},
+		{
+			"id": "g_tips",
+			"type": "group",
+			"x": -190,
+			"y": -720,
+			"width": 420,
+			"height": 220,
+			"color": "5",
+			"label": "Tips"
+		},
+		{
+			"id": "g_drops",
+			"type": "group",
+			"x": -190,
+			"y": 330,
+			"width": 420,
+			"height": 220,
+			"color": "2",
+			"label": "Drops"
+		},
+		{
+			"id": "hub",
+			"type": "text",
+			"text": "# [[Brotato]]\nStart page. During a run: [[Run Cheat Sheet]] and your character in [[Characters]].",
+			"x": -190,
+			"y": -110,
+			"width": 380,
+			"height": 150
+		},
+		{
+			"id": "cheat",
+			"type": "text",
+			"text": "## [[Run Cheat Sheet]]\nevery key number on one page",
+			"x": -190,
+			"y": -330,
+			"width": 380,
+			"height": 90,
+			"color": "3"
+		},
+		{
+			"id": "g_tips_0",
+			"type": "text",
+			"text": "**[[Tips]]**\nstrategy tips, one note each",
+			"x": -170,
+			"y": -674,
+			"width": 380,
+			"height": 70,
+			"color": "5"
+		},
+		{
+			"id": "g_tips_1",
+			"type": "text",
+			"text": "**[[Healing]]**\nlifesteal and HP regen numbers",
+			"x": -170,
+			"y": -590,
+			"width": 380,
+			"height": 70,
+			"color": "5"
+		},
+		{
+			"id": "g_chars_0",
+			"type": "text",
+			"text": "**[[Characters]]**\nall 74, sortable table",
+			"x": -1060,
+			"y": -474,
+			"width": 380,
+			"height": 70,
+			"color": "6"
+		},
+		{
+			"id": "g_chars_1",
+			"type": "text",
+			"text": "**[[Wanted Tags]]**\nitems per tag, who wants them",
+			"x": -1060,
+			"y": -390,
+			"width": 380,
+			"height": 70,
+			"color": "6"
+		},
+		{
+			"id": "g_chars_2",
+			"type": "text",
+			"text": "**[[Item Groups]]**\nfixed ban lists",
+			"x": -1060,
+			"y": -306,
+			"width": 380,
+			"height": 70,
+			"color": "6"
+		},
+		{
+			"id": "g_chars_3",
+			"type": "text",
+			"text": "**[[Hidden Effects]]**\neffects the tooltip hides",
+			"x": -1060,
+			"y": -222,
+			"width": 380,
+			"height": 70,
+			"color": "6"
+		},
+		{
+			"id": "g_shop_0",
+			"type": "text",
+			"text": "**[[Shop Item Rolls]]**\nhow one slot is filled",
+			"x": -1060,
+			"y": 106,
+			"width": 380,
+			"height": 70,
+			"color": "3"
+		},
+		{
+			"id": "g_shop_1",
+			"type": "text",
+			"text": "**[[Rarity Odds]]**\ntier chances by wave and luck",
+			"x": -1060,
+			"y": 190,
+			"width": 380,
+			"height": 70,
+			"color": "3"
+		},
+		{
+			"id": "g_shop_2",
+			"type": "text",
+			"text": "**[[Weapon Rolls]]**\nhow many weapons, which ones",
+			"x": -1060,
+			"y": 274,
+			"width": 380,
+			"height": 70,
+			"color": "3"
+		},
+		{
+			"id": "g_shop_3",
+			"type": "text",
+			"text": "**[[Prices and Rerolls]]**\nprice, reroll, recycling",
+			"x": -1060,
+			"y": 358,
+			"width": 380,
+			"height": 70,
+			"color": "3"
+		},
+		{
+			"id": "g_shop_4",
+			"type": "text",
+			"text": "**[[Item Caps]]**\nmax copies per item",
+			"x": -1060,
+			"y": 442,
+			"width": 380,
+			"height": 70,
+			"color": "3"
+		},
+		{
+			"id": "g_pd_0",
+			"type": "text",
+			"text": "**[[Evolution]]**\nthe evolution stat and \u00b12 lock",
+			"x": 720,
+			"y": -474,
+			"width": 380,
+			"height": 70,
+			"color": "4"
+		},
+		{
+			"id": "g_pd_1",
+			"type": "text",
+			"text": "**[[Mutation]]**\nremove or copy, the Tumor",
+			"x": 720,
+			"y": -390,
+			"width": 380,
+			"height": 70,
+			"color": "4"
+		},
+		{
+			"id": "g_pd_2",
+			"type": "text",
+			"text": "**[[Meca]]**\nmechanizing, stat groups, ranks",
+			"x": 720,
+			"y": -306,
+			"width": 380,
+			"height": 70,
+			"color": "4"
+		},
+		{
+			"id": "g_pd_3",
+			"type": "text",
+			"text": "**[[Evolved Enemies]]**\nmeca and mutant enemies",
+			"x": 720,
+			"y": -222,
+			"width": 380,
+			"height": 70,
+			"color": "4"
+		},
+		{
+			"id": "g_pd_4",
+			"type": "text",
+			"text": "**[[Evolution Flow.canvas|Evolution Flow]]**\ndecision flowchart",
+			"x": 720,
+			"y": -138,
+			"width": 380,
+			"height": 70,
+			"color": "4"
+		},
+		{
+			"id": "g_at_0",
+			"type": "text",
+			"text": "**[[Curse]]**\ncurse chance and strength",
+			"x": 720,
+			"y": 186,
+			"width": 380,
+			"height": 70,
+			"color": "1"
+		},
+		{
+			"id": "g_at_1",
+			"type": "text",
+			"text": "**[[Cursed Enemies]]**\ncursed enemy stats",
+			"x": 720,
+			"y": 270,
+			"width": 380,
+			"height": 70,
+			"color": "1"
+		},
+		{
+			"id": "g_at_2",
+			"type": "text",
+			"text": "**[[Danger Levels]]**\ndanger 0\u20136",
+			"x": 720,
+			"y": 354,
+			"width": 380,
+			"height": 70,
+			"color": "1"
+		},
+		{
+			"id": "g_drops_0",
+			"type": "text",
+			"text": "**[[Materials and Crates]]**\nmaterials, crates, fruit",
+			"x": -170,
+			"y": 376,
+			"width": 380,
+			"height": 70,
+			"color": "2"
+		},
+		{
+			"id": "g_drops_1",
+			"type": "text",
+			"text": "**[[Evolution Drops]]**\nfruit, mutation fruit, meca parts",
+			"x": -170,
+			"y": 460,
+			"width": 380,
+			"height": 70,
+			"color": "2"
+		},
+		{
+			"id": "g_iw_1",
+			"type": "text",
+			"text": "**[[Weapons]]**\nall 95 weapons, stats per tier",
+			"x": -170,
+			"y": 750,
+			"width": 380,
+			"height": 70,
+			"color": "2"
+		},
+		{
+			"id": "g_iw_2",
+			"type": "text",
+			"text": "**[[Weapon Classes]]**\nset bonuses for 2\u20136 weapons",
+			"x": -170,
+			"y": 834,
+			"width": 380,
+			"height": 70,
+			"color": "2"
+		},
+		{
+			"id": "g_iw_0",
+			"type": "text",
+			"text": "**[[Items]]**\nall 294 items with cursed values",
+			"x": -170,
+			"y": 666,
+			"width": 380,
+			"height": 70,
+			"color": "2"
+		}
 	],
-	"edges":[
-		{"id":"e_cheat","fromNode":"hub","fromSide":"top","toNode":"cheat","toSide":"bottom"},
-		{"id":"e_tips","fromNode":"cheat","fromSide":"top","toNode":"g_tips","toSide":"bottom"},
-		{"id":"e_g_chars","fromNode":"hub","fromSide":"left","toNode":"g_chars","toSide":"right"},
-		{"id":"e_g_shop","fromNode":"hub","fromSide":"left","toNode":"g_shop","toSide":"right"},
-		{"id":"e_g_pd","fromNode":"hub","fromSide":"right","toNode":"g_pd","toSide":"left"},
-		{"id":"e_g_at","fromNode":"hub","fromSide":"right","toNode":"g_at","toSide":"left"},
-		{"id":"e_g_drops","fromNode":"hub","fromSide":"bottom","toNode":"g_drops","toSide":"top"},
-		{"id":"e_g_iw","fromNode":"g_drops","fromSide":"bottom","toNode":"g_iw","toSide":"top"}
+	"edges": [
+		{
+			"id": "e_cheat",
+			"fromNode": "hub",
+			"fromSide": "top",
+			"toNode": "cheat",
+			"toSide": "bottom"
+		},
+		{
+			"id": "e_tips",
+			"fromNode": "cheat",
+			"fromSide": "top",
+			"toNode": "g_tips",
+			"toSide": "bottom"
+		},
+		{
+			"id": "e_g_chars",
+			"fromNode": "hub",
+			"fromSide": "left",
+			"toNode": "g_chars",
+			"toSide": "right"
+		},
+		{
+			"id": "e_g_shop",
+			"fromNode": "hub",
+			"fromSide": "left",
+			"toNode": "g_shop",
+			"toSide": "right"
+		},
+		{
+			"id": "e_g_pd",
+			"fromNode": "hub",
+			"fromSide": "right",
+			"toNode": "g_pd",
+			"toSide": "left"
+		},
+		{
+			"id": "e_g_at",
+			"fromNode": "hub",
+			"fromSide": "right",
+			"toNode": "g_at",
+			"toSide": "left"
+		},
+		{
+			"id": "e_g_drops",
+			"fromNode": "hub",
+			"fromSide": "bottom",
+			"toNode": "g_drops",
+			"toSide": "top"
+		},
+		{
+			"id": "e_g_iw",
+			"fromNode": "g_drops",
+			"fromSide": "bottom",
+			"toNode": "g_iw",
+			"toSide": "top"
+		}
 	]
 }

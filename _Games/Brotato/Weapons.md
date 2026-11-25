@@ -6,9 +6,9 @@ tags:
 
 [[Brotato]] › Weapons · also: [[Weapon Classes]], [[Weapon Rolls]], [[Items]]
 
-> [!summary] 96 weapons, one note each
+> [!summary] 95 weapons, one note each
 > Each note has stats per tier, effects, cursed values and class bonuses.
-> Melee: `56` · Ranged: `40` · sortable: [[Weapons.base]] · cooldowns are base values with 0 attack speed
+> Melee: `55` · Ranged: `40` · sortable: [[Weapons.base]] · cooldowns are base values with 0 attack speed
 
 **Jump to** [[#Melee]] · [[#Ranged]]
 
@@ -17,7 +17,6 @@ tags:
 ## Melee
 | Weapon | Classes | Tiers | Damage (lowest tier) | Cooldown | DLC |
 |---|---|---|---|---|---|
-| [[]] |  | 2–2 | `10` | `0.89s` | Base game |
 | [[Anchor]] | Heavy, Naval | 2–4 | `45` | `1.92s` | Abyssal Terrors |
 | [[Awl]] | Tool | 1–4 | `10` | `1.06s` | Primal Dread |
 | [[Bloody Vorpal]] | Blade, Medieval | 2–4 | `20` | `1.11s` | Base game |

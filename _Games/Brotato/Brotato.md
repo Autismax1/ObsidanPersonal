@@ -26,7 +26,7 @@ Hidden values and rules read from the game's own scripts. Start at **[[Run Cheat
 
 ## Items and weapons
 - [[Items]]: all 294 items by tier, each with effects, cursed values (worst → best roll) and mutation info
-- [[Weapons]]: all 96 weapons, stats per tier, cooldowns, cursed values
+- [[Weapons]]: all 95 weapons, stats per tier, cooldowns, cursed values
 - [[Weapon Classes]]: set bonuses for 2–6 weapons and which weapons belong to each class
 - [[Structures and Pets]]: which stats turrets and pets use, and why attack speed doesn't speed up pets
 
