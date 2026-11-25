@@ -1,2 +1,4 @@
 # Obsidian settings stay per device; FIT never syncs them either
 .obsidian/
+# FIT conflict copies, never synced
+_fit/
