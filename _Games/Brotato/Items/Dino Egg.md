@@ -19,6 +19,11 @@ in_shop: true
 ## Effects
 - Dino egg 3
 
+## How it works
+- An egg with **40 HP** that enemies can attack. Each wave it survives it advances one stage: [[Dino Egg]] → [[Dino Egg 2]] → [[Dino Egg 1]] → [[Ammosaurus]].
+- If it's destroyed during a wave, it doesn't advance that wave.
+- **Cursed:** it skips a stage, so it hatches one wave sooner, and the Ammosaurus comes out cursed.
+
 ## Shop
 - Base price 65, real price grows with the wave. See [[Prices and Rerolls#Item price]].
 - Max copies: 1. See [[Item Caps]].
@@ -30,7 +35,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Dino egg 3 | pet becomes cursed: effect strength ×1.10 → ×2.10 |
+| Dino egg 3 | skips a stage: hatches one wave sooner, the Ammosaurus comes out cursed |
 | Curse stat added | +3 → 5 |
 
 ## Mutation

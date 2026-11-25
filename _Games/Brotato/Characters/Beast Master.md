@@ -42,6 +42,5 @@ hidden_effect: true
 ## Mutation (character as the picked item)
 - **Can be copied into the Tumor** (scaled down, see [[Mutation#Copy strength]]):
   - +2 Speed for every Pet
-  - Beast master effect
   - Luck +10
 - Not if that stat is already at its cap.

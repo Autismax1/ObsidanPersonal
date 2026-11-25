@@ -21,6 +21,10 @@ in_shop: true
 ## Effects
 - Wandering bot (1 damage (0% Engineering), every 16666666.85s)
 
+## How it works
+- A bot that circles you at a random 100–200 distance. Enemies it touches are **slowed by 250 speed** (wears off over time).
+- Cursed: also gives you extra speed.
+
 ## Shop
 - Base price 60, real price grows with the wave. See [[Prices and Rerolls#Item price]].
 - No copy limit.

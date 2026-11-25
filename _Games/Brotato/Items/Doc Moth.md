@@ -21,6 +21,10 @@ in_shop: true
 ## Effects
 - Pet doc moth
 
+## How it works
+- Creates a zone. **While you stand in it:** HP regeneration heals twice as much (while below full HP), and every lifesteal proc heals 2 HP instead of 1. See [[Healing]].
+- Zone size ×1 (×1.10 → ×2.10 when cursed).
+
 ## Shop
 - Base price 55, real price grows with the wave. See [[Prices and Rerolls#Item price]].
 - Max copies: 4. See [[Item Caps]].

@@ -18,7 +18,12 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 2
 
 ## Effects
-- Pet catling gun (10 damage (60% Ranged damage), every 1.02s, range 500)
+- Pet catling gun (10 damage (60% Ranged damage), cooldown 0.92s, range 500)
+
+## How it works
+- Two guns that take turns: 10 damage (60% Ranged damage) each, range 500. With a 0.92s cooldown and alternating guns that is **a shot every 0.46s**.
+- **Mad mode:** while you stand next to it, it stops moving and attacks **twice as fast** (a shot every 0.23s).
+- Pets get your % Damage and Crit chance, but **not your Attack speed**: their attack cooldowns never change.
 
 ## Shop
 - Base price 34, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -31,7 +36,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Pet catling gun (10 damage (60% Ranged damage), every 1.02s, range 500) | damage 11 → 21, scaling ×1.10 → ×2.10 |
+| Pet catling gun (10 damage (60% Ranged damage), cooldown 0.92s, range 500) | damage 11 → 21, scaling ×1.10 → ×2.10 |
 | Curse stat added | +1 → 3 |
 
 ## Mutation

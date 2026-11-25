@@ -21,6 +21,10 @@ in_shop: true
 ## Effects
 - Pet lootworm (10% double chance)
 
+## How it works
+- Collects materials for you: **10% chance to double** each material it picks up.
+- Attacks trees: each hit deals at least 1/5 of the tree's max HP, so it fells a tree in about 5 hits.
+
 ## Shop
 - Base price 30, real price grows with the wave. See [[Prices and Rerolls#Item price]].
 - Max copies: 1. See [[Item Caps]].

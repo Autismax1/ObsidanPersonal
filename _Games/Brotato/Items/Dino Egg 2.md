@@ -19,6 +19,9 @@ in_shop: false
 ## Effects
 - Dino egg 2
 
+## How it works
+- Second stage of the [[Dino Egg]]: 40 HP, hatches into [[Dino Egg 1]] if it survives the wave.
+
 ## Shop
 - **Not sold in the shop or crates.** Created by another effect.
 

@@ -18,7 +18,13 @@ in_shop: true
 [[Brotato]] › [[Items]] › Tier 2
 
 ## Effects
-- Pet blazemander: Burning 3×5 (50% Elemental damage) (1 damage (1% Elemental damage), every 0.93s, range 150, ranged attack: 1 damage (1% Elemental damage), every 4.04s, range 300, piercing 99)
+- Pet blazemander: Burning 3×5 (50% Elemental damage) (1 damage (1% Elemental damage), cooldown 0.37s, range 150, ranged attack: 1 damage (1% Elemental damage), cooldown 4.00s, range 300, piercing 99)
+
+## How it works
+- Bites: 1 damage (1% Elemental damage), cooldown 0.37s. Its attacks set enemies on fire: burning 3×5 (50% Elemental damage).
+- Every 4s it shoots a **circle of 6 fire projectiles** that pierce (almost) everything and burn.
+- Its value is the burn: damage comes almost entirely from Elemental damage.
+- Pets get your % Damage and Crit chance, but **not your Attack speed**: their attack cooldowns never change.
 
 ## Shop
 - Base price 40, real price grows with the wave. See [[Prices and Rerolls#Item price]].
@@ -31,7 +37,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Pet blazemander: Burning 3×5 (50% Elemental damage) (1 damage (1% Elemental damage), every 0.93s, range 150, ranged attack: 1 damage (1% Elemental damage), every 4.04s, range 300, piercing 99) | burn scaling ×1.10 → ×2.10, ranged attack twice as fast, ranged attack range ÷1.10 → ÷2.10 |
+| Pet blazemander: Burning 3×5 (50% Elemental damage) (1 damage (1% Elemental damage), cooldown 0.37s, range 150, ranged attack: 1 damage (1% Elemental damage), cooldown 4.00s, range 300, piercing 99) | burn scaling ×1.10 → ×2.10, ranged attack twice as fast, ranged attack range ÷1.10 → ÷2.10 |
 | Curse stat added | +2 → 3 |
 
 ## Mutation

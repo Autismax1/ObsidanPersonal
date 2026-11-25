@@ -19,6 +19,10 @@ in_shop: true
 ## Effects
 - Pet scapegoat (revive after 2s)
 
+## How it works
+- A decoy with **40 HP** that enemies target instead of you.
+- When it dies it comes back, regaining full HP over **2s**.
+
 ## Shop
 - Base price 110, real price grows with the wave. See [[Prices and Rerolls#Item price]].
 - Max copies: 1. See [[Item Caps]].
@@ -30,7 +34,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Pet scapegoat (revive after 2s) | revive after 1.82s → 0.95s, more HP on revive |
+| Pet scapegoat (revive after 2s) | HP 44 → 84, revives in 1.82s → 0.95s |
 | Curse stat added | +5 → 9 |
 
 ## Mutation

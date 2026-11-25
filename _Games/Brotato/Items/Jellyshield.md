@@ -19,6 +19,10 @@ in_shop: true
 ## Effects
 - Pet jellyshield
 
+## How it works
+- A jelly that circles you (radius 100, about 1 turn every 6s) and **blocks enemy attacks and projectiles** that touch it. It has no HP and never breaks.
+- Each copy adds one more jelly, evenly spaced. Max 3.
+
 ## Shop
 - Base price 50, real price grows with the wave. See [[Prices and Rerolls#Item price]].
 - Max copies: 3. See [[Item Caps]].
@@ -30,7 +34,7 @@ Worst roll (+10%, wave 1) → best roll (+110%, wave 21+). Each effect rolls on 
 
 | Effect | Cursed |
 |---|---|
-| Pet jellyshield | 2 → 3 |
+| Pet jellyshield | adds armor 2 → 3 |
 | Curse stat added | +2 → 4 |
 
 ## Mutation

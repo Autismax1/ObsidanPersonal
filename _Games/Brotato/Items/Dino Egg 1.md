@@ -19,6 +19,9 @@ in_shop: false
 ## Effects
 - Dino egg 1
 
+## How it works
+- Last stage of the [[Dino Egg]]: 40 HP, hatches into [[Ammosaurus]] if it survives the wave.
+
 ## Shop
 - **Not sold in the shop or crates.** Created by another effect.
 
