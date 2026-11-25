@@ -2,17 +2,18 @@
 tags:
   - brotato/tip
   - brotato/tip/TOPIC
-topic: TOPIC
+topic:
 applies_to: []
 verified: tested
 added: 2026-11-25
 ---
-# Checking if 
+# Calculating current weapon shop price
 
 [[Brotato]] › [[Tips]]
 
 > [!tip]
-> Weapon recycle value  x 4 = current shop price
+>  Calculat the current weapon price with `Weapon recycle value  x 4 = current shop` before a reroll to check if it can be bought after reroll.
+
 
 ## Why
 - Calculating before rerolling Checks if the weapon, when available after reroll, can be bought or not.
