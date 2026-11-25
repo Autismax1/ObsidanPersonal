@@ -7,18 +7,20 @@ applies_to: []
 verified: tested
 added: 2026-11-25
 ---
-# Untitled
+# Checking if 
 
 [[Brotato]] › [[Tips]]
 
 > [!tip]
-> recycle value  x 4 = current shop price
+> Weapon recycle value  x 4 = current shop price
 
 ## Why
-- The reason, with a link to the mechanic note, e.g. [[Healing]], [[Mutation]], [[Shop Item Rolls]].
+- Calculating before rerolling Checks if the weapon, when available after reroll, can be bought or not.
+- [[Shop Item Rolls]].
 
 ## Good with
-- Characters (as links, so the tip shows in their backlinks), weapons, items
+-  weapons
+- items (if item recycle mod is installed and working)
 
 ## Bad with
 - 
