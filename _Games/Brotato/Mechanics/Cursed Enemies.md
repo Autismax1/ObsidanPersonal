@@ -8,6 +8,10 @@ tags:
 
 [[Brotato]] › [[Curse]] › Cursed Enemies · other variants: [[Evolved Enemies]]
 
+> [!summary] At a glance
+> - Chance per spawn: `50%·(1 − 1/(1 + curse/50))`. Bosses, elites and loot aliens never.
+> - Stats: **+150% HP** (+2% per team curse), **+25% damage**, **+15% speed**, +33% materials.
+
 ## Chance per spawn
 ```
 chance = 50% × (1 − 1/(1 + curse/50))

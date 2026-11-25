@@ -6,6 +6,10 @@ tags:
 
 [[Brotato]] › Healing · tips: [[Lifesteal vs HP Regen]]
 
+> [!summary] At a glance
+> - **Lifesteal**: each hit has a lifesteal % chance to heal `1` HP. Max `10` HP/s. Damage doesn't matter.
+> - **HP regen**: `1` HP every `5s / (1 + (regen − 1)/2.25)`. `10` regen = `1` HP/s.
+
 ## Lifesteal
 - **Every hit** rolls your lifesteal % as a chance to heal **1 HP**.
 - Damage doesn't matter: a 5-damage hit and a 500-damage hit heal the same.

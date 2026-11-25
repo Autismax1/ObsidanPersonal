@@ -20,11 +20,17 @@ in_shop: false
 
 ## Effects
 - **Builder turret alt**
-  - `10` damage (80% Engineering) · every `0.73s` · range `300`
+  - `10` damage (80% Engineering) · about every `0.53s` (random `0.37–0.69s`) · range `300`
 - Builder turret upgrade
 
 > [!note] Structure
 > Uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
+## How it works
+- [[Builder]]'s turret. It **copies your best ranged weapon** (highest price, then damage). All its scaling becomes Engineering (range scaling counts ×5). Without a ranged weapon: 10 damage (80% Engineering).
+- Copies the weapon's burning, projectiles-on-hit, stat-per-kill and no-hit effects too.
+- **Levels up with structure range:** level 1 at `30`, level 2 at `150`, level 3 at `300` structure range. Each level adds **+1 projectile** (more spread) and gives +1 structure % damage. It also grows in size up to 300.
+- Cooldown is clamped between `0.13s` and `1.67s` (8–100 ticks). It never dies.
 
 ## Cursed
 Not sold in the shop, so it only gets cursed through special effects.

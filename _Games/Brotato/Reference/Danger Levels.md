@@ -6,6 +6,10 @@ tags:
 
 [[Brotato]] › Danger Levels
 
+> [!summary] At a glance
+> - Enemy HP and damage: `+12%` (D3), `+26%` (D4), `+40%` (D5), `+60%` (D6).
+> - D5 adds a double boss. D6 adds `+10%` speed, bullet hell, fog and hidden price inflation.
+
 | Danger | New enemies | Elites | Enemy HP & damage | Other |
 |---|---|---|---|---|
 | 0 | – | – | – | no modifiers |

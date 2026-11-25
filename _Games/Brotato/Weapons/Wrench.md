@@ -33,10 +33,10 @@ Cooldown is the base value with 0 attack speed.
 ## Effects per tier
 | Tier | Effect | Details |
 |---|---|---|
-| 1 | **Turret** | `10` damage (80% Engineering) · every `0.73s` · range `300` |
-| 2 | **Turret flame** | `1` damage · every `0.45s` · range `300` · piercing 99<br>Burning 5×8 (33% Engineering) |
-| 3 | **Turret laser** | `20` damage (125% Engineering) · every `0.87s` · range `400` · piercing 3 |
-| 4 | **Turret rocket** | `25` damage (150% Engineering) · every `0.87s` · range `500`<br>Explodes on hit (100% chance, explosion size 100%, uses the weapon's damage) |
+| 1 | **Turret** | `10` damage (80% Engineering) · about every `0.53s` (random `0.37–0.69s`) · range `300` |
+| 2 | **Turret flame** | `1` damage · about every `0.25s` (random `0.17–0.33s`) · range `300` · piercing 99<br>Burning 5×8 (33% Engineering) |
+| 3 | **Turret laser** | `20` damage (125% Engineering) · about every `0.67s` (random `0.47–0.87s`) · range `400` · piercing 3 |
+| 4 | **Turret rocket** | `25` damage (150% Engineering) · about every `0.67s` (random `0.47–0.87s`) · range `500`<br>Explodes on hit (100% chance, explosion size 100%, uses the weapon's damage) |
 
 > [!note] Structures
 > Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].
@@ -57,8 +57,7 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 |---|---|---|
 | Tier 1: Turret | damage | `11 → 21` |
 |  | scaling | `×1.10 → ×2.10` |
-| Tier 2: Turret flame | damage | `2 → 3` |
-|  | scaling | `×1.10 → ×2.10` |
+| Tier 2: Turret flame | burn scaling | `×1.10 → ×2.10` |
 | Tier 3: Turret laser | damage | `22 → 42` |
 |  | scaling | `×1.10 → ×2.10` |
 | Tier 4: Turret rocket | damage | `28 → 53` |

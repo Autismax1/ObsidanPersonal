@@ -6,6 +6,11 @@ tags:
 
 [[Brotato]] › [[Shop Item Rolls]] › Rarity Odds
 
+> [!summary] At a glance
+> - Common never below `40%`, legendary never above `8%`.
+> - Luck only multiplies the per-wave part. Late in a run it turns rares into legendaries.
+> - Level-ups use your **level** instead of the wave. Levels 5/10/15/20 have fixed tiers.
+
 ## Formula
 One random number per slot, checked from Legendary down:
 

@@ -25,18 +25,21 @@ in_shop: true
 
 ## Effects
 - **Garden**
-  - `0` damage · every `15.20s` · range `150`
+  - about every `15.00s` (random `10.50–19.50s`) · range `150`
 
 > [!note] Structure
 > Uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
+## How it works
+- Grows a **fruit** about every `15s` (random `10.5–19.5s`). Structure attack speed makes it faster.
+- Cursed: fruit every `13s` → `7s` instead (it has no damage to boost).
 
 ## Cursed
 Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
 | Effect | What changes | Cursed (worst → best) |
 |---|---|---|
-| Garden | damage | `0 → 0` |
-|  | scaling | `×1.10 → ×2.10` |
+| Garden | interval | `13s → 7s` |
 | Curse stat | added | `+2 → 4` |
 
 ## Mutation

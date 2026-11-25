@@ -7,6 +7,11 @@ tags:
 
 [[Brotato]] › Abyssal Terrors · enemies: [[Cursed Enemies]]
 
+> [!summary] At a glance
+> - **Chance** an item is cursed: `15%·(1 − 1/(1 + curse/50))`. `0` curse = no cursed items.
+> - **Strength**: `40% + 2%·min(20, wave − 1) ± 30%`, so `10–70%` at wave 1 and `50–110%` from wave 21.
+> - Good values ×(1 + strength), bad values ÷(1 + strength). Each effect rolls separately.
+
 A cursed item multiplies its good values and divides its bad values by the same random modifier. **Your curse stat only decides whether things get cursed.** Strength depends on the wave and the roll.
 
 ## Curse chance

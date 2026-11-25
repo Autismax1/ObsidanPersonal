@@ -33,10 +33,10 @@ Cooldown is the base value with 0 attack speed.
 ## Effects per tier
 | Tier | Effect | Details |
 |---|---|---|
-| 1 | **Dart trap** | 6 darts<br>spawns every 6s<br>`8` damage (100% Engineering) · every `0.23s` · range `10000` |
-| 2 | **Dart trap** | 9 darts<br>spawns every 6s<br>`8` damage (100% Engineering) · every `0.23s` · range `10000` |
-| 3 | **Dart trap** | 12 darts<br>spawns every 6s<br>`8` damage (100% Engineering) · every `0.23s` · range `10000` |
-| 4 | **Dart trap** | 15 darts<br>spawns every 6s<br>`8` damage (100% Engineering) · every `0.23s` · range `10000` |
+| 1 | **Dart trap** | 6 darts · spawns every 6s · `8` damage (100% Engineering) · range `10000` |
+| 2 | **Dart trap** | 9 darts · spawns every 6s · `8` damage (100% Engineering) · range `10000` |
+| 3 | **Dart trap** | 12 darts · spawns every 6s · `8` damage (100% Engineering) · range `10000` |
+| 4 | **Dart trap** | 15 darts · spawns every 6s · `8` damage (100% Engineering) · range `10000` |
 
 > [!note] Structures
 > Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].
@@ -55,18 +55,18 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 | Effect | What changes | Cursed (worst → best) |
 |---|---|---|
-| Tier 1: Dart trap | damage | `9 → 17` |
+| Tier 1: Dart trap | spawn interval | `5s → 2s` |
+|  | damage | `9 → 17` |
 |  | scaling | `×1.10 → ×2.10` |
-|  |  | spawns faster |
-| Tier 2: Dart trap | damage | `9 → 17` |
+| Tier 2: Dart trap | spawn interval | `5s → 2s` |
+|  | damage | `9 → 17` |
 |  | scaling | `×1.10 → ×2.10` |
-|  |  | spawns faster |
-| Tier 3: Dart trap | damage | `9 → 17` |
+| Tier 3: Dart trap | spawn interval | `5s → 2s` |
+|  | damage | `9 → 17` |
 |  | scaling | `×1.10 → ×2.10` |
-|  |  | spawns faster |
-| Tier 4: Dart trap | damage | `9 → 17` |
+| Tier 4: Dart trap | spawn interval | `5s → 2s` |
+|  | damage | `9 → 17` |
 |  | scaling | `×1.10 → ×2.10` |
-|  |  | spawns faster |
 
 ## Meca
 Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

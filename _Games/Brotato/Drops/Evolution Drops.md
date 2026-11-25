@@ -7,6 +7,11 @@ tags:
 
 [[Brotato]] › Drops · [[Evolution]] · related: [[Materials and Crates]]
 
+> [!summary] At a glance
+> - Meca/mutant fruit: `2%` per normal kill, your side only past `±2`.
+> - Mutation fruit: `4%` per mutant kill. Meca parts (`+2`): `2.5%` per meca kill. Both have pity.
+> - Each extra drop in the same wave makes the next one rarer: `÷(1 + 0.5 × dropped)`.
+
 Four Primal Dread consumables. All four rolls happen on every kill that can drop consumables.
 
 ## Meca and mutant fruit

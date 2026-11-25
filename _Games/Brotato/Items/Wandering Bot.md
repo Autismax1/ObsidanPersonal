@@ -25,7 +25,7 @@ in_shop: true
 
 ## Effects
 - **Wandering bot**
-  - `1` damage (0% Engineering) · every `16666666.85s`
+  - `1` contact damage (0% Engineering)
 
 ## How it works
 - A bot that circles you at a random 100–200 distance. Enemies it touches are **slowed by 250 speed** (wears off over time).
@@ -36,14 +36,13 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 | Effect | What changes | Cursed (worst → best) |
 |---|---|---|
-| Wandering bot | damage | `2 → 3` |
-|  | scaling | `×1.10 → ×2.10` |
+| Wandering bot | adds speed | `6 → 11` |
 | Curse stat | added | `+3 → 5` |
 
 ## Mutation
 | | |
 |---|---|
-| **Copied into the Tumor** | Wandering bot (`1` damage (0% Engineering) · every `16666666.85s`) |
+| **Copied into the Tumor** | Wandering bot (`1` contact damage (0% Engineering)) |
 | **Can be removed** | nothing |
 
 Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

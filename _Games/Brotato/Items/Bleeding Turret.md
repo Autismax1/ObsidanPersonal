@@ -24,11 +24,15 @@ in_shop: true
 
 ## Effects
 - **Turret damage taken**
-  - `8` damage (80% Engineering) · every `0.73s` · range `300`
+  - `8` damage (80% Engineering) · about every `0.53s` (random `0.37–0.69s`) · range `300`
   - Enemies hit take +10% damage (5s, up to 3 stacks)
 
 > [!note] Structure
 > Uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
+## How it works
+- Shoots like a [[Turret]] (8 damage, 80% Engineering, about every `0.53s`).
+- Enemies it hits take **+10% damage for 5s**, stacking up to 3 times (+30%).
 
 ## Cursed
 Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].

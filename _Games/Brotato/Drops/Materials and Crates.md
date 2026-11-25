@@ -6,6 +6,11 @@ tags:
 
 [[Brotato]] › Drops · related: [[Evolution Drops]]
 
+> [!summary] At a glance
+> - Materials: `100%` until wave 4, then `1 − 1.5%·wave` (floor `50%`). Horde waves `×0.65`.
+> - Crate chance is divided by `1 + crates already dropped this wave`.
+> - Luck counts **added up across players** in co-op.
+
 ## Materials
 ```
 waves 1–4:  100%

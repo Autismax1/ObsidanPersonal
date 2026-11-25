@@ -8,6 +8,11 @@ tags:
 
 [[Brotato]] › [[Evolution]] › Evolved Enemies · other variant: [[Cursed Enemies]]
 
+> [!summary] At a glance
+> - Chance per normal enemy: `50%·(1 − 1/(1 + |evo|/50))`. About `8%` at ±10, `25%` at ±50.
+> - Bosses are always evolved past `±30` team evolution. Elites get `4×` the chance.
+> - Meca enemies drop **meca parts** (`2.5%`), mutant enemies drop **mutation fruit** (`4%`).
+
 Meca and mutant enemies. Both come from one shared roll.
 
 ## Chance per normal enemy

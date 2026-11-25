@@ -24,21 +24,23 @@ in_shop: true
 
 ## Effects
 - **Dart trap**
-  - 6 darts
-  - spawns every 6s
-  - `8` damage (100% Engineering) · every `0.23s` · range `10000`
+  - 6 darts · spawns every 6s · `8` damage (100% Engineering) · range `10000`
 
 > [!note] Structure
 > Uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
+## How it works
+- Places a dart trap every `6s`, and one at the start of each wave. Structure attack speed shortens the timer.
+- When an enemy steps on it and walks off, it fires **6 darts in a circle**: 8 damage each (100% Engineering). Then it's used up.
 
 ## Cursed
 Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 
 | Effect | What changes | Cursed (worst → best) |
 |---|---|---|
-| Dart trap | damage | `9 → 17` |
+| Dart trap | spawn interval | `5s → 2s` |
+|  | damage | `9 → 17` |
 |  | scaling | `×1.10 → ×2.10` |
-|  |  | spawns faster |
 | Curse stat | added | `+1` |
 
 ## Mutation

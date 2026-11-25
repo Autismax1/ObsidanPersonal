@@ -34,13 +34,13 @@ Cooldown is the base value with 0 attack speed.
 | Tier | Effect | Details |
 |---|---|---|
 | 1 | **Spawn turret every killed enemies (+16)** | structure: `8` damage (80% Engineering) · every `0.73s` · range `300` · Enemies hit take +10% damage (5s, up to 3 stacks) |
-| 1 | **Turret damage taken** | `8` damage (80% Engineering) · every `0.73s` · range `300`<br>Enemies hit take +10% damage (5s, up to 3 stacks) |
+| 1 | **Turret damage taken** | `8` damage (80% Engineering) · about every `0.53s` (random `0.37–0.69s`) · range `300`<br>Enemies hit take +10% damage (5s, up to 3 stacks) |
 | 2 | **Spawn turret every killed enemies (+14)** | structure: `8` damage (80% Engineering) · every `0.73s` · range `300` · Enemies hit take +10% damage (5s, up to 3 stacks) |
-| 2 | **Turret damage taken** | `8` damage (80% Engineering) · every `0.73s` · range `300`<br>Enemies hit take +10% damage (5s, up to 3 stacks) |
+| 2 | **Turret damage taken** | `8` damage (80% Engineering) · about every `0.53s` (random `0.37–0.69s`) · range `300`<br>Enemies hit take +10% damage (5s, up to 3 stacks) |
 | 3 | **Spawn turret every killed enemies (+12)** | structure: `8` damage (80% Engineering) · every `0.73s` · range `300` · Enemies hit take +10% damage (5s, up to 3 stacks) |
-| 3 | **Turret damage taken** | `8` damage (80% Engineering) · every `0.73s` · range `300`<br>Enemies hit take +10% damage (5s, up to 3 stacks) |
+| 3 | **Turret damage taken** | `8` damage (80% Engineering) · about every `0.53s` (random `0.37–0.69s`) · range `300`<br>Enemies hit take +10% damage (5s, up to 3 stacks) |
 | 4 | **Spawn turret every killed enemies (+10)** | structure: `8` damage (80% Engineering) · every `0.73s` · range `300` · Enemies hit take +10% damage (5s, up to 3 stacks) |
-| 4 | **Turret damage taken** | `8` damage (80% Engineering) · every `0.73s` · range `300`<br>Enemies hit take +10% damage (5s, up to 3 stacks) |
+| 4 | **Turret damage taken** | `8` damage (80% Engineering) · about every `0.53s` (random `0.37–0.69s`) · range `300`<br>Enemies hit take +10% damage (5s, up to 3 stacks) |
 
 > [!note] Structures
 > Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].

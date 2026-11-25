@@ -6,6 +6,10 @@ tags:
 
 [[Brotato]] › [[Shop Item Rolls]] › Weapon Rolls
 
+> [!summary] At a glance
+> - Waves 1–2: `2` weapons guaranteed, waves 3–5: `1`, then `35%` per slot.
+> - Each weapon slot: `23%`+ same weapon, then same class, else only new weapons.
+
 ## How many weapons
 - Waves 1–2: **2 weapons guaranteed** (locked weapons count).
 - Waves 3–5: **1 weapon guaranteed**.

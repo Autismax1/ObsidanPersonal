@@ -25,10 +25,13 @@ in_shop: true
 
 ## Effects
 - **Tyler**
-  - `12 ×10` damage (90% Engineering, 90% Elemental damage) · every `2.20s` · range `235` · piercing 2
+  - `12 ×10` damage (90% Engineering, 90% Elemental damage) · about every `2.00s` (random `1.40–2.60s`) · range `235` · piercing 2
 
 > [!note] Structure
 > Uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
+## How it works
+- Every `2s` (about) it fires **10 projectiles in a half circle**: 12 damage each (90% Engineering + 90% Elemental damage), piercing 2, range 235.
 
 ## Cursed
 Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].

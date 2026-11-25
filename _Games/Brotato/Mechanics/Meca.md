@@ -7,6 +7,11 @@ tags:
 
 [[Brotato]] › [[Evolution]] › Meca · flowchart: [[Evolution Flow.canvas|Evolution Flow]]
 
+> [!summary] At a glance
+> - Mechanize a weapon for `rank + 1` parts. Pick **1 of 2 stats** from two different groups.
+> - Each rank adds meca power: `+3%` damage per power (1, 3, 6, 10…).
+> - Same 4 stat groups for every weapon. Build damage always offers **your highest** damage stat.
+
 Mechanizing spends [[Evolution Drops#Meca parts|meca parts]] to rank up a weapon. Each rank raises the weapon's own damage and lets you **pick one of two stat bonuses** that count toward your stats while you hold the weapon.
 
 ## One mechanize

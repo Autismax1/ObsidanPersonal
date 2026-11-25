@@ -6,6 +6,10 @@ tags:
 
 [[Brotato]] › Shop · related: [[Rarity Odds]], [[Weapon Rolls]], [[Item Caps]]
 
+> [!summary] At a glance
+> - Slot → rarity → pool → bans and caps removed → `5%` wanted-tag filter → random pick → curse/meca roll.
+> - Character bans stop in endless. Endless bans Piggy Bank and Crown.
+
 How one shop slot (or a crate) picks its item. Same logic for every slot.
 
 ## Order of operations

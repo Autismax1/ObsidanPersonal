@@ -6,6 +6,11 @@ tags:
 
 [[Brotato]] › Structures and Pets · related: [[Items]], [[Weapons]]
 
+> [!summary] At a glance
+> - Pets are **not** structures. **Nothing** changes a pet's attack speed.
+> - Structures use **structure attack speed**. [[Improved Tools]] adds `50%` of your attack speed to it.
+> - Turrets shoot every `70–130%` of their cooldown (random).
+
 Pets are **not** structures. The game builds their stats differently, and attack speed is where it matters most.
 
 ## Which stats they get

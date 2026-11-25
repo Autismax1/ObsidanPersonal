@@ -33,10 +33,10 @@ Cooldown is the base value with 0 attack speed.
 ## Effects per tier
 | Tier | Effect | Details |
 |---|---|---|
-| 1 | **Garden** | `0` damage · every `15.20s` · range `150` |
-| 2 | **Garden** | `0` damage · every `14.20s` · range `150` |
-| 3 | **Garden** | `0` damage · every `12.20s` · range `150` |
-| 4 | **Garden** | `0` damage · every `10.20s` · range `150` |
+| 1 | **Garden** | about every `15.00s` (random `10.50–19.50s`) · range `150` |
+| 2 | **Garden** | about every `14.00s` (random `9.80–18.20s`) · range `150` |
+| 3 | **Garden** | about every `12.00s` (random `8.40–15.60s`) · range `150` |
+| 4 | **Garden** | about every `10.00s` (random `7.00–13.00s`) · range `150` |
 
 > [!note] Structures
 > Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].
@@ -55,14 +55,10 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 | Effect | What changes | Cursed (worst → best) |
 |---|---|---|
-| Tier 1: Garden | damage | `0 → 0` |
-|  | scaling | `×1.10 → ×2.10` |
-| Tier 2: Garden | damage | `0 → 0` |
-|  | scaling | `×1.10 → ×2.10` |
-| Tier 3: Garden | damage | `0 → 0` |
-|  | scaling | `×1.10 → ×2.10` |
-| Tier 4: Garden | damage | `0 → 0` |
-|  | scaling | `×1.10 → ×2.10` |
+| Tier 1: Garden | interval | `13s → 7s` |
+| Tier 2: Garden | interval | `12s → 6s` |
+| Tier 3: Garden | interval | `10s → 5s` |
+| Tier 4: Garden | interval | `9s → 4s` |
 
 ## Meca
 Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

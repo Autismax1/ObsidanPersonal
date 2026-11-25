@@ -6,6 +6,11 @@ tags:
 
 [[Brotato]] › [[Shop Item Rolls]] › Prices and Rerolls
 
+> [!summary] At a glance
+> - Price: `(base + wave + base × wave × 0.1) × (1 + price%)`.
+> - Reroll: `int(0.75·wave) + d·(rerolls + 1)`, with `d = max(1, int(0.4·wave))`.
+> - Recycling gives `25%` of the price, plus recycling gains.
+
 ## Item price
 ```
 price = (base + wave + base × wave × 0.1) × (1 + items price %)

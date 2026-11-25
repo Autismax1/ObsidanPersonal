@@ -15,6 +15,9 @@ added: 2026-11-25
 
 [[Brotato]] › [[Tips]]
 
+> [!summary] At a glance
+> - Many hits → **lifesteal**. Few big hits → **HP regen**.
+
 > [!tip]
 > **Lifesteal** on builds that hit very often: fast weapons, many projectiles, bounces, piercing.
 > **HP regen** on builds that hit rarely but hard.

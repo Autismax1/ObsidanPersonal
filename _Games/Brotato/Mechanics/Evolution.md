@@ -7,6 +7,11 @@ tags:
 
 [[Brotato]] › Primal Dread · flowchart: [[Evolution Flow.canvas|Evolution Flow]]
 
+> [!summary] At a glance
+> - Evolution **> 0 = meca**, **< 0 = mutant**.
+> - Past `±2` you're locked to a side: only your fruit drops and your side's items join the shop.
+> - Meca fruit `+1`, mutant fruit `−1`, every mutation `−1`, first mechanize `+1`.
+
 The evolution stat decides your side. **Positive = meca, negative = mutant.**
 
 ## How evolution changes

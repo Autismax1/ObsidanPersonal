@@ -6,6 +6,9 @@ tags:
 
 [[Brotato]] › Hidden Effects
 
+> [!summary] At a glance
+> - Effects the tooltip never shows, for example [[Mad Scientist]]'s `+100%` mutation fruit chance and [[Beast Master]]'s `10%` wanted tags.
+
 Effects marked `[EMPTY]` in the game data. They work, but the tooltip doesn't show them.
 
 ## Characters

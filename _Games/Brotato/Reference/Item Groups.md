@@ -7,56 +7,71 @@ tags:
 
 [[Brotato]] › [[Shop Item Rolls]] › Item Groups
 
-Fixed lists in the game code. A character that bans a group never sees these items in the shop or crates until endless. See [[Shop Item Rolls#Character bans]].
+> [!summary] Fixed ban lists in the game code
+> A character that bans a group never sees these items in the shop or crates, until endless. See [[Shop Item Rolls#Character bans]].
+
 
 ## Harvesting
-- Items: [[Blood Donation]], [[Crown]], [[Fertilizer]], [[Tractor]], [[Wheelbarrow]], [[Lost Organ]]
-- Banned by: [[Hunter]], [[Knight]], [[Sailor]]
+| Items | Banned by |
+|---|---|
+| [[Blood Donation]], [[Crown]], [[Fertilizer]], [[Tractor]], [[Wheelbarrow]], [[Lost Organ]] | [[Hunter]], [[Knight]], [[Sailor]] |
 
 ## Melee damage
-- Items: [[Mastery]], [[Goat Skull]], [[Riposte]]
-- Banned by: [[Arsonist]], [[Cyborg]], [[Mage]], [[Ranger]], [[Technomage]]
+| Items | Banned by |
+|---|---|
+| [[Mastery]], [[Goat Skull]], [[Riposte]] | [[Arsonist]], [[Cyborg]], [[Mage]], [[Ranger]], [[Technomage]] |
 
 ## Ranged damage
-- Items: [[Lens]]
-- Banned by: [[Arsonist]], [[Brawler]], [[Diver]], [[Gladiator]], [[Knight]], [[Mage]], [[Technomage]]
+| Items | Banned by |
+|---|---|
+| [[Lens]] | [[Arsonist]], [[Brawler]], [[Diver]], [[Gladiator]], [[Knight]], [[Mage]], [[Technomage]] |
 
 ## Melee and ranged damage
-- Items: [[Big Arms]], [[Hedgehog]]
-- Banned by: [[Arsonist]], [[Mage]], [[Technomage]]
+| Items | Banned by |
+|---|---|
+| [[Big Arms]], [[Hedgehog]] | [[Arsonist]], [[Mage]], [[Technomage]] |
 
 ## Lifesteal
-- Items: [[Butterfly]], [[Bat]], [[Whetstone]], [[Decomposing Flesh]], [[Bloody Hand]], [[Fresh Meat]]
-- Banned by: [[Bull]], [[Chunky]], [[Cryptid]], [[Druid]], [[Golem]], [[Veteran]]
+| Items | Banned by |
+|---|---|
+| [[Butterfly]], [[Bat]], [[Whetstone]], [[Decomposing Flesh]], [[Bloody Hand]], [[Fresh Meat]] | [[Bull]], [[Chunky]], [[Cryptid]], [[Druid]], [[Golem]], [[Veteran]] |
 
 ## Lifesteal and hp regeneration
-- Items: [[Blood Leech]]
-- Banned by: [[Chunky]], [[Druid]], [[Golem]], [[Veteran]]
+| Items | Banned by |
+|---|---|
+| [[Blood Leech]] | [[Chunky]], [[Druid]], [[Golem]], [[Veteran]] |
 
 ## Hp regeneration
-- Items: [[Mushroom]], [[Plant]], [[Sad Tomato]], [[Medikit]], [[Fairy]], [[Potion]], [[Fried Rice]], [[Baby Squid]], [[Coral]], [[Penguin]]
-- Banned by: [[Druid]], [[Golem]], [[Sick]], [[Vampire]], [[Veteran]]
+| Items | Banned by |
+|---|---|
+| [[Mushroom]], [[Plant]], [[Sad Tomato]], [[Medikit]], [[Fairy]], [[Potion]], [[Fried Rice]], [[Baby Squid]], [[Coral]], [[Penguin]] | [[Druid]], [[Golem]], [[Sick]], [[Vampire]], [[Veteran]] |
 
 ## Consumable heal
-- Items: [[Jerky]], [[Weird Food]], [[Lemonade]], [[Fruit Basket]]
-- Banned by: [[Golem]], [[Vampire]]
+| Items | Banned by |
+|---|---|
+| [[Jerky]], [[Weird Food]], [[Lemonade]], [[Fruit Basket]] | [[Golem]], [[Vampire]] |
 
 ## Speed
-- Items: [[Terrified Onion]], [[Beanie]], [[Power Generator]]
-- Banned by: [[Chunky]]
+| Items | Banned by |
+|---|---|
+| [[Terrified Onion]], [[Beanie]], [[Power Generator]] | [[Chunky]] |
 
 ## Engineering
-- Items: [[Lighthouse]], [[Cog]], [[Nail]], [[Toolbox]], [[Book]], [[Pencil]]
-- Banned by: [[Pacifist]]
+| Items | Banned by |
+|---|---|
+| [[Lighthouse]], [[Cog]], [[Nail]], [[Toolbox]], [[Book]], [[Pencil]] | [[Pacifist]] |
 
 ## Elemental damage
-- Items: [[Strange Book]], [[Frozen Heart]], [[Boiling Water]], [[Snowball]], [[Toxic Sludge]], [[Fuel Tank]], [[Will O The Wisp]]
-- Banned by: [[Chef]], [[Cyborg]]
+| Items | Banned by |
+|---|---|
+| [[Strange Book]], [[Frozen Heart]], [[Boiling Water]], [[Snowball]], [[Toxic Sludge]], [[Fuel Tank]], [[Will O The Wisp]] | [[Chef]], [[Cyborg]] |
 
 ## Armor
-- Items: [[Stone Skin]], [[Helmet]], [[Metal Plate]]
-- Banned by: [[Ghost]]
+| Items | Banned by |
+|---|---|
+| [[Stone Skin]], [[Helmet]], [[Metal Plate]] | [[Ghost]] |
 
 ## Dodge
-- Items: [[Adrenaline]], [[Chameleon]], [[Gambling Token]], [[Ghost Outfit]]
-- Banned by: [[Sailor]]
+| Items | Banned by |
+|---|---|
+| [[Adrenaline]], [[Chameleon]], [[Gambling Token]], [[Ghost Outfit]] | [[Sailor]] |

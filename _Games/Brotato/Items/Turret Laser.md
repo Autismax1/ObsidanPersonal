@@ -24,10 +24,13 @@ in_shop: true
 
 ## Effects
 - **Turret laser**
-  - `20` damage (125% Engineering) · every `0.87s` · range `400` · piercing 3
+  - `20` damage (125% Engineering) · about every `0.67s` (random `0.47–0.87s`) · range `400` · piercing 3
 
 > [!note] Structure
 > Uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
+## How it works
+- Shoots a laser: 20 damage (125% Engineering), about every `0.67s`, range 400, **pierces 3** enemies.
 
 ## Cursed
 Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].

@@ -20,11 +20,14 @@ in_shop: false
 
 ## Effects
 - **Builder turret alt**
-  - `10` damage (80% Engineering) · every `0.73s` · range `300`
+  - `10` damage (80% Engineering) · about every `0.53s` (random `0.37–0.69s`) · range `300`
 - Projectiles (+3)
 
 > [!note] Structure
 > Uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
+## How it works
+- Level 3 of the [[Builder]] turret: +3 projectiles. How it works: [[Builder Turret 0]].
 
 ## Cursed
 Not sold in the shop, so it only gets cursed through special effects.

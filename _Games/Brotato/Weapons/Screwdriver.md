@@ -33,10 +33,10 @@ Cooldown is the base value with 0 attack speed.
 ## Effects per tier
 | Tier | Effect | Details |
 |---|---|---|
-| 1 | **Landmines** | spawns every 12s<br>`10` damage (100% Engineering) · every `0.23s`<br>Explodes on hit (100% chance, explosion size 175%) |
-| 2 | **Landmines** | spawns every 9s<br>`10` damage (100% Engineering) · every `0.23s`<br>Explodes on hit (100% chance, explosion size 175%) |
-| 3 | **Landmines** | spawns every 6s<br>`10` damage (100% Engineering) · every `0.23s`<br>Explodes on hit (100% chance, explosion size 175%) |
-| 4 | **Landmines** | spawns every 3s<br>`10` damage (100% Engineering) · every `0.23s`<br>Explodes on hit (100% chance, explosion size 175%) |
+| 1 | **Landmines** | spawns every 12s<br>`10` damage (100% Engineering)<br>Explodes on hit (100% chance, explosion size 175%) |
+| 2 | **Landmines** | spawns every 9s<br>`10` damage (100% Engineering)<br>Explodes on hit (100% chance, explosion size 175%) |
+| 3 | **Landmines** | spawns every 6s<br>`10` damage (100% Engineering)<br>Explodes on hit (100% chance, explosion size 175%) |
+| 4 | **Landmines** | spawns every 3s<br>`10` damage (100% Engineering)<br>Explodes on hit (100% chance, explosion size 175%) |
 
 > [!note] Structures
 > Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].
@@ -55,18 +55,18 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 | Effect | What changes | Cursed (worst → best) |
 |---|---|---|
-| Tier 1: Landmines | damage | `11 → 21` |
+| Tier 1: Landmines | spawn interval | `10s → 5s` |
+|  | damage | `11 → 21` |
 |  | scaling | `×1.10 → ×2.10` |
-|  |  | spawns faster |
-| Tier 2: Landmines | damage | `11 → 21` |
+| Tier 2: Landmines | spawn interval | `8s → 4s` |
+|  | damage | `11 → 21` |
 |  | scaling | `×1.10 → ×2.10` |
-|  |  | spawns faster |
-| Tier 3: Landmines | damage | `11 → 21` |
+| Tier 3: Landmines | spawn interval | `5s → 2s` |
+|  | damage | `11 → 21` |
 |  | scaling | `×1.10 → ×2.10` |
-|  |  | spawns faster |
-| Tier 4: Landmines | damage | `11 → 21` |
+| Tier 4: Landmines | spawn interval | `2s → 1s` |
+|  | damage | `11 → 21` |
 |  | scaling | `×1.10 → ×2.10` |
-|  |  | spawns faster |
 
 ## Meca
 Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

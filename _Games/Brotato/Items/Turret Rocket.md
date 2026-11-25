@@ -24,11 +24,14 @@ in_shop: true
 
 ## Effects
 - **Turret rocket**
-  - `25` damage (150% Engineering) · every `0.87s` · range `500`
+  - `25` damage (150% Engineering) · about every `0.67s` (random `0.47–0.87s`) · range `500`
   - Explodes on hit (100% chance, explosion size 100%, uses the weapon's damage)
 
 > [!note] Structure
 > Uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
+
+## How it works
+- Fires rockets: 25 damage (150% Engineering), about every `0.67s`, range 500. Each rocket explodes on hit.
 
 ## Cursed
 Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].

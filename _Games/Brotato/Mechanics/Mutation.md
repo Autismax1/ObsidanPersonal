@@ -7,6 +7,12 @@ tags:
 
 [[Brotato]] › [[Evolution]] › Mutation · flowchart: [[Evolution Flow.canvas|Evolution Flow]]
 
+> [!summary] At a glance
+> - Needs **evolution < 0**. One mutation per mutation fruit, at **wave end**.
+> - Picks a **random item** (your character counts, weapons never).
+> - Coin flip: **delete a downside** of that item, or **copy a good effect** into the Tumor.
+> - Copies scale with evolution: `0.1 + 0.9·√(|evo|/130)`. The Tumor always gets `−1` evolution.
+
 A mutation picks one of your items and either **deletes one of its downsides** or **copies a good effect from your build into the Tumor**. The Tumor grows every time.
 
 ## When it happens
