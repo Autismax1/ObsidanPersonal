@@ -31,6 +31,15 @@ dlc: Base game
 
 Cooldown is the base value with 0 attack speed.
 
+**More stats per tier**
+
+| Tier | Knockback | Accuracy | Other |
+|---|---|---|---|
+| 1 | 0 | 100% | no damage loss on pierce · projectile speed 2500 · on-hit effect size ×0.5 |
+| 2 | 0 | 100% | no damage loss on pierce · on-hit effect size ×0.5 |
+| 3 | 0 | 100% | no damage loss on pierce · on-hit effect size ×0.5 |
+| 4 | 0 | 100% | no damage loss on pierce · on-hit effect size ×0.5 |
+
 ## Effects per tier
 | Tier | Effect | Details |
 |---|---|---|

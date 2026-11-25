@@ -28,6 +28,13 @@ dlc: Abyssal Terrors
 
 Cooldown is the base value with 0 attack speed.
 
+**More stats per tier**
+
+| Tier | Knockback | Accuracy | Other |
+|---|---|---|---|
+| 3 | 20 | 100% | Sweep |
+| 4 | 25 | 100% | Sweep |
+
 ## Effects per tier
 | Tier | Effect | Details |
 |---|---|---|

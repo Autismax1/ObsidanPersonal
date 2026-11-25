@@ -30,6 +30,15 @@ dlc: Base game
 
 Cooldown is the base value with 0 attack speed.
 
+**More stats per tier**
+
+| Tier | Knockback | Accuracy | Other |
+|---|---|---|---|
+| 1 | 5 | 100% | no damage loss on bounce · projectile speed 2000 |
+| 2 | 5 | 100% | no damage loss on bounce · projectile speed 2000 |
+| 3 | 5 | 100% | no damage loss on bounce · projectile speed 2000 |
+| 4 | 5 | 100% | no damage loss on bounce · projectile speed 2000 |
+
 ## Cursed
 Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 

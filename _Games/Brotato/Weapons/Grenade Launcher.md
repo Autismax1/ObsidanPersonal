@@ -30,6 +30,14 @@ dlc: Abyssal Terrors
 
 Cooldown is the base value with 0 attack speed.
 
+**More stats per tier**
+
+| Tier | Knockback | Accuracy | Other |
+|---|---|---|---|
+| 2 | 0 | 80% | no damage loss on bounce · projectile speed 2000 · **reload** every `2` shots: `3.5s` (cooldown ×21) |
+| 3 | 0 | 80% | no damage loss on bounce · projectile speed 2000 · **reload** every `3` shots: `3.0s` (cooldown ×18) |
+| 4 | 0 | 80% | no damage loss on bounce · projectile speed 2000 · **reload** every `4` shots: `2.5s` (cooldown ×15) |
+
 ## Effects per tier
 | Tier | Effect | Details |
 |---|---|---|

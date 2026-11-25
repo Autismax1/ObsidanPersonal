@@ -30,6 +30,14 @@ dlc: Base game
 
 Cooldown is the base value with 0 attack speed.
 
+**More stats per tier**
+
+| Tier | Knockback | Accuracy | Other |
+|---|---|---|---|
+| 2 | 30 | 100% | Sweep · ignores 10% knockback resistance |
+| 3 | 40 | 100% | Sweep · ignores 15% knockback resistance |
+| 4 | 50 | 100% | Sweep · ignores 20% knockback resistance |
+
 ## Effects per tier
 | Tier | Effect | Details |
 |---|---|---|

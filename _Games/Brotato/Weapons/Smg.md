@@ -30,6 +30,15 @@ dlc: Base game
 
 Cooldown is the base value with 0 attack speed.
 
+**More stats per tier**
+
+| Tier | Knockback | Accuracy | Other |
+|---|---|---|---|
+| 1 | 0 | 70% | on-hit effect size ×0.2 |
+| 2 | 0 | 75% | on-hit effect size ×0.2 |
+| 3 | 0 | 80% | on-hit effect size ×0.2 |
+| 4 | 0 | 85% | on-hit effect size ×0.2 |
+
 ## Cursed
 Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 

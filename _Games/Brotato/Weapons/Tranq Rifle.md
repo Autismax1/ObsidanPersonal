@@ -30,6 +30,14 @@ dlc: Primal Dread
 
 Cooldown is the base value with 0 attack speed.
 
+**More stats per tier**
+
+| Tier | Knockback | Accuracy | Other |
+|---|---|---|---|
+| 2 | 10 | 100% | can't gain bounces |
+| 3 | 10 | 100% | can't gain bounces |
+| 4 | 10 | 100% | can't gain bounces |
+
 ## Effects per tier
 | Tier | Effect | Details |
 |---|---|---|

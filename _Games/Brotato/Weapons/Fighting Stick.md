@@ -31,6 +31,15 @@ dlc: Base game
 
 Cooldown is the base value with 0 attack speed.
 
+**More stats per tier**
+
+| Tier | Knockback | Accuracy | Other |
+|---|---|---|---|
+| 1 | 0 | 100% | Thrust · alternates thrust and sweep |
+| 2 | 0 | 100% | Thrust · alternates thrust and sweep |
+| 3 | 0 | 100% | Thrust · alternates thrust and sweep |
+| 4 | 0 | 100% | Thrust · alternates thrust and sweep |
+
 ## Effects per tier
 | Tier | Effect | Details |
 |---|---|---|

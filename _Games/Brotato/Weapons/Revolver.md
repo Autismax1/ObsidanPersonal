@@ -30,6 +30,15 @@ dlc: Base game
 
 Cooldown is the base value with 0 attack speed.
 
+**More stats per tier**
+
+| Tier | Knockback | Accuracy | Other |
+|---|---|---|---|
+| 1 | 15 | 90% | **reload** every `6` shots: `1.9s` (cooldown ×8) |
+| 2 | 15 | 90% | **reload** every `6` shots: `1.7s` (cooldown ×8) |
+| 3 | 15 | 90% | **reload** every `6` shots: `1.6s` (cooldown ×8) |
+| 4 | 15 | 90% | **reload** every `6` shots: `1.5s` (cooldown ×8) |
+
 ## Cursed
 Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 

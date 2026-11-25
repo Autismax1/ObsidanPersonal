@@ -31,6 +31,15 @@ dlc: Primal Dread
 
 Cooldown is the base value with 0 attack speed.
 
+**More stats per tier**
+
+| Tier | Knockback | Accuracy | Other |
+|---|---|---|---|
+| 1 | 3 | 80% | **reload** every `60` shots: `2.0s` (cooldown ×40) · shoots without a target · on-hit effect size ×0.1 |
+| 2 | 3 | 83% | −50% damage per pierce · **reload** every `70` shots: `1.8s` (cooldown ×36) · shoots without a target · on-hit effect size ×0.1 |
+| 3 | 3 | 86% | −50% damage per pierce · **reload** every `80` shots: `1.6s` (cooldown ×32) · shoots without a target · on-hit effect size ×0.1 |
+| 4 | 3 | 90% | −50% damage per pierce · **reload** every `90` shots: `1.4s` (cooldown ×42) · shoots without a target · on-hit effect size ×0.1 |
+
 ## Effects per tier
 | Tier | Effect | Details |
 |---|---|---|

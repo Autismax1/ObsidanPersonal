@@ -30,6 +30,15 @@ dlc: Base game
 
 Cooldown is the base value with 0 attack speed.
 
+**More stats per tier**
+
+| Tier | Knockback | Accuracy | Other |
+|---|---|---|---|
+| 1 | 8 | 90% | −30% damage per pierce · spread 29° |
+| 2 | 8 | 95% | −30% damage per pierce · spread 29° |
+| 3 | 8 | 100% | −30% damage per pierce · spread 29° |
+| 4 | 8 | 100% | −30% damage per pierce · spread 29° |
+
 ## Cursed
 Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 

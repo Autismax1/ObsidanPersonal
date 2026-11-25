@@ -30,6 +30,14 @@ dlc: Abyssal Terrors
 
 Cooldown is the base value with 0 attack speed.
 
+**More stats per tier**
+
+| Tier | Knockback | Accuracy | Other |
+|---|---|---|---|
+| 2 | 10 | 100% | Sweep |
+| 3 | 10 | 100% | Sweep |
+| 4 | 10 | 100% | Sweep |
+
 ## Cursed
 Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 

@@ -29,6 +29,14 @@ dlc: Primal Dread
 
 Cooldown is the base value with 0 attack speed.
 
+**More stats per tier**
+
+| Tier | Knockback | Accuracy | Other |
+|---|---|---|---|
+| 2 | 8 | 85% | −30% damage per pierce · spread 29° · **reload** every `5` shots: `1.8s` (cooldown ×5.2) |
+| 3 | 8 | 85% | −30% damage per pierce · spread 29° · **reload** every `5` shots: `1.7s` (cooldown ×5.07) |
+| 4 | 8 | 85% | −30% damage per pierce · spread 29° · **reload** every `5` shots: `1.6s` (cooldown ×5.2) |
+
 ## Cursed
 Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 

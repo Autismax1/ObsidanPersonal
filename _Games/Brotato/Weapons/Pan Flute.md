@@ -30,6 +30,15 @@ dlc: Primal Dread
 
 Cooldown is the base value with 0 attack speed.
 
+**More stats per tier**
+
+| Tier | Knockback | Accuracy | Other |
+|---|---|---|---|
+| 1 | 0 | 90% | spread 29° · projectile speed 2000 |
+| 2 | 0 | 90% | spread 29° · projectile speed 2000 |
+| 3 | 0 | 90% | spread 26° · projectile speed 2000 |
+| 4 | 0 | 90% | spread 23° · projectile speed 2000 |
+
 ## Cursed
 Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
 

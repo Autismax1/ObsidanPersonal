@@ -29,6 +29,14 @@ dlc: Abyssal Terrors
 
 Cooldown is the base value with 0 attack speed.
 
+**More stats per tier**
+
+| Tier | Knockback | Accuracy | Other |
+|---|---|---|---|
+| 2 | -30 | 100% | −25% damage per pierce · **min range 300** (can't hit closer enemies) · ignores 90% knockback resistance · knockback can pull enemies · no knockback from stats |
+| 3 | -30 | 100% | −25% damage per pierce · **min range 300** (can't hit closer enemies) · ignores 90% knockback resistance · knockback can pull enemies · no knockback from stats |
+| 4 | -30 | 100% | −25% damage per pierce · **min range 300** (can't hit closer enemies) · ignores 90% knockback resistance · knockback can pull enemies · no knockback from stats |
+
 ## Effects per tier
 | Tier | Effect | Details |
 |---|---|---|
