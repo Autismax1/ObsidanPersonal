@@ -17,46 +17,26 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · Abyssal Terrors · during a run: [[Run Cheat Sheet]]
 
 > [!summary] At a glance
-> **Wanted tags** none
-> **Never in the shop** [[Item Groups#Elemental damage|Elemental damage]]
-> **Evolution** normal · **Meca stats** all
+> **Wanted tags** none, item rolls are fully random ([[Shop Item Rolls]])
+> **Never in the shop** [[Item Groups#Elemental damage|Elemental damage]] ([[Shop Item Rolls#Character bans|until endless]])
+> **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all
 > **Hidden effects** none
 
 ## Starting effects
-- Luck +35
-- Bonus non elemental damage against burning targets (+200)
-- **Explode and burn on consumable**
+- Luck +35 🧬
+- Bonus non elemental damage against burning targets (+200) 🧬
+- **Explode and burn on consumable** (100% chance) 🧬
   - 100% chance
 - Enemy health +100
 - -75% gains of Elemental damage
+
+🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
 **Starting weapons** [[Spoon]] · [[Chopper]] · [[Fist]] · [[Knife]] · [[Hatchet]] · [[Stick]] · [[Torch]] · [[Screwdriver]] · [[Wrench]] · [[Pruner]] · [[Cacti Club]] · [[Wand]] · [[Meat Tenderizer]] · [[Awl]] · [[Whip]] · [[Blowgun]] · [[Flail]] · [[Shovel]] · [[Molotov]]
 
 **Starting items** [[Scared Sausage]]
 
-## Shop
-| Rule | Details |
-|---|---|
-| Wanted tags | none, item rolls are fully random. [[Shop Item Rolls]] |
-| Banned group: [[Item Groups#Elemental damage\|Elemental damage]] | [[Strange Book]], [[Frozen Heart]], [[Boiling Water]], [[Snowball]], [[Toxic Sludge]], [[Fuel Tank]], [[Will O The Wisp]] |
-| In endless | bans stop after the last wave, so these items can appear. [[Shop Item Rolls#Character bans]] |
+## Banned items
+- [[Item Groups#Elemental damage|Elemental damage]]: [[Strange Book]], [[Frozen Heart]], [[Boiling Water]], [[Snowball]], [[Toxic Sludge]], [[Fuel Tank]], [[Will O The Wisp]]
 
-## Level-ups
-| Rule | Details |
-|---|---|
-| Never offered | nothing |
-| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
-
-## Evolution and curse
-| Topic | Details |
-|---|---|
-| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
-| [[Meca]] offers | every stat. [[Meca#The four stat groups]] |
-| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Luck +35<br>Bonus non elemental damage against burning targets (+200)<br>Explode and burn on consumable (100% chance) |
-
-Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.
+Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

@@ -19,43 +19,23 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · Base game · during a run: [[Run Cheat Sheet]]
 
 > [!summary] At a glance
-> **Wanted tags** [[Wanted Tags#Dodge|Dodge]]
-> **Never in the shop** [[Item Groups#Armor|Armor]], 2 items
-> **Evolution** normal · **Meca stats** all except Armor
+> **Wanted tags** [[Wanted Tags#Dodge|Dodge]] ([[Shop Item Rolls#Wanted tags|5% of item rolls]])
+> **Never in the shop** [[Item Groups#Armor|Armor]], 2 items ([[Shop Item Rolls#Character bans|until endless]])
+> **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all except Armor
 > **Hidden effects** none
 
 ## Starting effects
-- Ethereal weapons: +10% Damage
-- Dodge +30
+- Ethereal weapons: +10% Damage 🧬
+- Dodge +30 🧬
 - Dodge cap (+90)
 - Armor -100
 
+🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
+
 **Starting weapons** [[Ghost Flint]] · [[Ghost Axe]] · [[Ghost Scepter]] · [[Rail Gun]]
 
-## Shop
-| Rule | Details |
-|---|---|
-| Wanted tags | [[Wanted Tags#Dodge\|Dodge]]<br>On `5%` of item rolls the shop only offers items with one of these tags. [[Shop Item Rolls#Wanted tags]] |
-| Banned group: [[Item Groups#Armor\|Armor]] | [[Stone Skin]], [[Helmet]], [[Metal Plate]] |
-| Banned items (2) | [[Duct Tape]], [[Ghost Outfit]] |
-| In endless | bans stop after the last wave, so these items can appear. [[Shop Item Rolls#Character bans]] |
+## Banned items
+- [[Item Groups#Armor|Armor]]: [[Stone Skin]], [[Helmet]], [[Metal Plate]]
+- Single items (2): [[Duct Tape]], [[Ghost Outfit]]
 
-## Level-ups
-| Rule | Details |
-|---|---|
-| Never offered | nothing |
-| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
-
-## Evolution and curse
-| Topic | Details |
-|---|---|
-| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
-| [[Meca]] offers | every stat except Armor. [[Meca#The four stat groups]] |
-| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Ethereal weapons: +10% Damage<br>Dodge +30 |
-
-Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.
+Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

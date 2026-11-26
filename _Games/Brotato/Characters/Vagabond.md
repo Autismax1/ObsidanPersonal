@@ -16,9 +16,9 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · Base game · during a run: [[Run Cheat Sheet]]
 
 > [!summary] At a glance
-> **Wanted tags** none
+> **Wanted tags** none, item rolls are fully random ([[Shop Item Rolls]])
 > **Never in the shop** nothing banned
-> **Evolution** normal · **Meca stats** all
+> **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all
 > **Hidden effects** none
 
 ## Starting effects
@@ -29,29 +29,8 @@ hidden_effect: false
 - -50% gains of Luck
 - -50% gains of Harvesting
 
+Nothing from this character is copied into the Tumor ([[Mutation#Copy strength]]).
+
 **Starting weapons** [[Cacti Club]] · [[Chopper]] · [[Dagger]] · [[Spear]] · [[Sharp Tooth]] · [[Hand]] · [[Claw]] · [[Fighting Stick]] · [[Hatchet]] · [[Plank]] · [[Ghost Flint]] · [[Spiky Shield]] · [[Lightning Shiv]] · [[Torch]] · [[Shuriken]] · [[Crossbow]] · [[Revolver]] · [[Laser Gun]] · [[Rail Gun]] · [[Lute]] · [[Crowbar]] · [[Shovel]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Meat Tenderizer]] · [[Boomerang]]
 
-## Shop
-| Rule | Details |
-|---|---|
-| Wanted tags | none, item rolls are fully random. [[Shop Item Rolls]] |
-
-## Level-ups
-| Rule | Details |
-|---|---|
-| Never offered | nothing |
-| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
-
-## Evolution and curse
-| Topic | Details |
-|---|---|
-| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
-| [[Meca]] offers | every stat. [[Meca#The four stat groups]] |
-| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-
-Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.
+Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

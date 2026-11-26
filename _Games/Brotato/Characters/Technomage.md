@@ -26,47 +26,28 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · Base game · during a run: [[Run Cheat Sheet]]
 
 > [!summary] At a glance
-> **Wanted tags** [[Wanted Tags#Elemental damage|Elemental damage]], [[Wanted Tags#Engineering|Engineering]], [[Wanted Tags#Structure|Structure]]
-> **Never in the shop** [[Item Groups#Melee damage|Melee damage]], [[Item Groups#Ranged damage|Ranged damage]], [[Item Groups#Melee and ranged damage|Melee and ranged damage]]
-> **Evolution** normal · **Meca stats** all except Melee damage, Ranged damage
+> **Wanted tags** [[Wanted Tags#Elemental damage|Elemental damage]], [[Wanted Tags#Engineering|Engineering]], [[Wanted Tags#Structure|Structure]] ([[Shop Item Rolls#Wanted tags|5% of item rolls]])
+> **Never in the shop** [[Item Groups#Melee damage|Melee damage]], [[Item Groups#Ranged damage|Ranged damage]], [[Item Groups#Melee and ranged damage|Melee and ranged damage]] ([[Shop Item Rolls#Character bans|until endless]])
+> **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all except Melee damage, Ranged damage
+> **Never offered as level-ups** Melee damage, Ranged damage
 > **Hidden effects** none
 
 ## Starting effects
-- +5 Structure attack speed for every Elemental damage
-- +2 Elemental damage for every Structure
+- +5 Structure attack speed for every Elemental damage 🧬
+- +2 Elemental damage for every Structure 🧬
 - Next level xp needed +75
 - -100% gains of Melee damage
 - -100% gains of Ranged damage
+
+🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
 **Starting weapons** [[Wrench]] · [[Screwdriver]] · [[Plank]] · [[Torch]] · [[Lightning Shiv]] · [[Pruner]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Awl]] · [[Molotov]] · [[Carbon Bow]]
 
 **Starting items** [[Turret]]
 
-## Shop
-| Rule | Details |
-|---|---|
-| Wanted tags | [[Wanted Tags#Elemental damage\|Elemental damage]], [[Wanted Tags#Engineering\|Engineering]], [[Wanted Tags#Structure\|Structure]]<br>On `5%` of item rolls the shop only offers items with one of these tags. [[Shop Item Rolls#Wanted tags]] |
-| Banned group: [[Item Groups#Melee damage\|Melee damage]] | [[Mastery]], [[Goat Skull]], [[Riposte]] |
-| Banned group: [[Item Groups#Ranged damage\|Ranged damage]] | [[Lens]] |
-| Banned group: [[Item Groups#Melee and ranged damage\|Melee and ranged damage]] | [[Big Arms]], [[Hedgehog]] |
-| In endless | bans stop after the last wave, so these items can appear. [[Shop Item Rolls#Character bans]] |
+## Banned items
+- [[Item Groups#Melee damage|Melee damage]]: [[Mastery]], [[Goat Skull]], [[Riposte]]
+- [[Item Groups#Ranged damage|Ranged damage]]: [[Lens]]
+- [[Item Groups#Melee and ranged damage|Melee and ranged damage]]: [[Big Arms]], [[Hedgehog]]
 
-## Level-ups
-| Rule | Details |
-|---|---|
-| Never offered | Melee damage, Ranged damage |
-| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
-
-## Evolution and curse
-| Topic | Details |
-|---|---|
-| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
-| [[Meca]] offers | every stat except Melee damage, Ranged damage. [[Meca#The four stat groups]] |
-| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | +5 Structure attack speed for every Elemental damage<br>+2 Elemental damage for every Structure |
-
-Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.
+Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

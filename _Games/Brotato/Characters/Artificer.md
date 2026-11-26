@@ -17,41 +17,20 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · Base game · during a run: [[Run Cheat Sheet]]
 
 > [!summary] At a glance
-> **Wanted tags** [[Wanted Tags#Explosive|Explosive]]
+> **Wanted tags** [[Wanted Tags#Explosive|Explosive]] ([[Shop Item Rolls#Wanted tags|5% of item rolls]])
 > **Never in the shop** nothing banned
-> **Evolution** normal · **Meca stats** all
+> **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all
 > **Hidden effects** none
 
 ## Starting effects
-- Explosion damage +175
-- +4 Explosion size for every Elemental damage
-- Effect class bonus +100
+- Explosion damage +175 🧬
+- +4 Explosion size for every Elemental damage 🧬
+- Effect class bonus +100 🧬
 - Percent damage -100
 - -50% gains of Armor
 
+🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
+
 **Starting weapons** [[Plank]] · [[Screwdriver]] · [[Wrench]] · [[Shredder]] · [[Sticky Grenade]]
 
-## Shop
-| Rule | Details |
-|---|---|
-| Wanted tags | [[Wanted Tags#Explosive\|Explosive]]<br>On `5%` of item rolls the shop only offers items with one of these tags. [[Shop Item Rolls#Wanted tags]] |
-
-## Level-ups
-| Rule | Details |
-|---|---|
-| Never offered | nothing |
-| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
-
-## Evolution and curse
-| Topic | Details |
-|---|---|
-| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
-| [[Meca]] offers | every stat. [[Meca#The four stat groups]] |
-| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Explosion damage +175<br>+4 Explosion size for every Elemental damage<br>Effect class bonus +100 |
-
-Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.
+Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

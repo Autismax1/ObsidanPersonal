@@ -17,42 +17,21 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · Base game · during a run: [[Run Cheat Sheet]]
 
 > [!summary] At a glance
-> **Wanted tags** [[Wanted Tags#Hp regeneration|Hp regeneration]]
+> **Wanted tags** [[Wanted Tags#Hp regeneration|Hp regeneration]] ([[Shop Item Rolls#Wanted tags|5% of item rolls]])
 > **Never in the shop** nothing banned
-> **Evolution** normal · **Meca stats** all
+> **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all
 > **Hidden effects** none
 
 ## Starting effects
-- Medical weapons: +200% Attack speed
-- Hp regeneration +5
-- Harvesting +5
-- +100% gains of Hp regeneration
+- Medical weapons: +200% Attack speed 🧬
+- Hp regeneration +5 🧬
+- Harvesting +5 🧬
+- +100% gains of Hp regeneration 🧬
 - Attack speed -100
 - -50% gains of Armor
 
+🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
+
 **Starting weapons** [[Scissors]] · [[Medical Gun]] · [[Meat Tenderizer]]
 
-## Shop
-| Rule | Details |
-|---|---|
-| Wanted tags | [[Wanted Tags#Hp regeneration\|Hp regeneration]]<br>On `5%` of item rolls the shop only offers items with one of these tags. [[Shop Item Rolls#Wanted tags]] |
-
-## Level-ups
-| Rule | Details |
-|---|---|
-| Never offered | nothing |
-| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
-
-## Evolution and curse
-| Topic | Details |
-|---|---|
-| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
-| [[Meca]] offers | every stat. [[Meca#The four stat groups]] |
-| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Medical weapons: +200% Attack speed<br>Hp regeneration +5<br>Harvesting +5<br>+100% gains of Hp regeneration |
-
-Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.
+Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

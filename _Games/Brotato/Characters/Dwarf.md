@@ -19,42 +19,21 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · Abyssal Terrors · during a run: [[Run Cheat Sheet]]
 
 > [!summary] At a glance
-> **Wanted tags** [[Wanted Tags#Engineering|Engineering]], [[Wanted Tags#Structure|Structure]]
+> **Wanted tags** [[Wanted Tags#Engineering|Engineering]], [[Wanted Tags#Structure|Structure]] ([[Shop Item Rolls#Wanted tags|5% of item rolls]])
 > **Never in the shop** nothing banned
-> **Evolution** normal · **Meca stats** all except Ranged damage
+> **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all except Ranged damage
 > **Hidden effects** none
 
 ## Starting effects
-- Gain when attack killed enemies: +1 Engineering (5)
-- +1 Melee damage for every 2 Engineering
+- Gain when attack killed enemies: +1 Engineering (5) 🧬
+- +1 Melee damage for every 2 Engineering 🧬
 - No ranged weapons
 - Dodge -20
 - Attack speed -100
 - -50% gains of Attack speed
 
+🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
+
 **Starting weapons** [[Hammer]] · [[Wrench]] · [[Brick]] · [[Mace]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Cestus]] · [[Meat Tenderizer]] · [[Flail]]
 
-## Shop
-| Rule | Details |
-|---|---|
-| Wanted tags | [[Wanted Tags#Engineering\|Engineering]], [[Wanted Tags#Structure\|Structure]]<br>On `5%` of item rolls the shop only offers items with one of these tags. [[Shop Item Rolls#Wanted tags]] |
-
-## Level-ups
-| Rule | Details |
-|---|---|
-| Never offered | nothing |
-| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
-
-## Evolution and curse
-| Topic | Details |
-|---|---|
-| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
-| [[Meca]] offers | every stat except Ranged damage. [[Meca#The four stat groups]] |
-| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Gain when attack killed enemies: +1 Engineering (5)<br>+1 Melee damage for every 2 Engineering |
-
-Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.
+Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

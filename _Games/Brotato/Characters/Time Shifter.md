@@ -19,40 +19,20 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · Primal Dread · during a run: [[Run Cheat Sheet]]
 
 > [!summary] At a glance
-> **Wanted tags** [[Wanted Tags#Speed|Speed]]
+> **Wanted tags** [[Wanted Tags#Speed|Speed]] ([[Shop Item Rolls#Wanted tags|5% of item rolls]])
 > **Never in the shop** nothing banned
-> **Evolution** normal · **Meca stats** all except Dodge
+> **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all except Dodge
+> **Never offered as level-ups** Dodge
 > **Hidden effects** none
 
 ## Starting effects
 - Time shift on hit (+75)
 - Mixing up wave
-- Speed +5
+- Speed +5 🧬
 - -100% gains of Dodge
+
+🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
 **Starting weapons** [[Fist]] · [[Claw]] · [[Knife]] · [[Dagger]] · [[Stick]] · [[Spear]] · [[Fighting Stick]] · [[Jousting Lance]] · [[Screwdriver]] · [[Ghost Flint]] · [[Pruner]] · [[Shuriken]] · [[Hiking Stick]] · [[Javelin]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Flail]] · [[Carbon Bow]] · [[Machinegun]]
 
-## Shop
-| Rule | Details |
-|---|---|
-| Wanted tags | [[Wanted Tags#Speed\|Speed]]<br>On `5%` of item rolls the shop only offers items with one of these tags. [[Shop Item Rolls#Wanted tags]] |
-
-## Level-ups
-| Rule | Details |
-|---|---|
-| Never offered | Dodge |
-| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
-
-## Evolution and curse
-| Topic | Details |
-|---|---|
-| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
-| [[Meca]] offers | every stat except Dodge. [[Meca#The four stat groups]] |
-| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Speed +5 |
-
-Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.
+Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

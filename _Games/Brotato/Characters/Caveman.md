@@ -17,40 +17,19 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · Primal Dread · during a run: [[Run Cheat Sheet]]
 
 > [!summary] At a glance
-> **Wanted tags** none
+> **Wanted tags** none, item rolls are fully random ([[Shop Item Rolls]])
 > **Never in the shop** nothing banned
-> **Evolution** normal · **Meca stats** all except Ranged damage
+> **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all except Ranged damage
 > **Hidden effects** none
 
 ## Starting effects
 - Fog of war permanent
 - Burn weapon
 - No ranged weapons
-- Burn give primitive bonus
+- Burn give primitive bonus 🧬
+
+🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
 **Starting weapons** [[Cacti Club]] · [[Hatchet]] · [[Rock]] · [[Sharp Tooth]] · [[Spear]] · [[Fighting Stick]] · [[Stick]] · [[Torch]]
 
-## Shop
-| Rule | Details |
-|---|---|
-| Wanted tags | none, item rolls are fully random. [[Shop Item Rolls]] |
-
-## Level-ups
-| Rule | Details |
-|---|---|
-| Never offered | nothing |
-| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
-
-## Evolution and curse
-| Topic | Details |
-|---|---|
-| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
-| [[Meca]] offers | every stat except Ranged damage. [[Meca#The four stat groups]] |
-| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Burn give primitive bonus |
-
-Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.
+Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

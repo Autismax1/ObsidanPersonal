@@ -17,40 +17,19 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · Base game · during a run: [[Run Cheat Sheet]]
 
 > [!summary] At a glance
-> **Wanted tags** [[Wanted Tags#Speed|Speed]]
+> **Wanted tags** [[Wanted Tags#Speed|Speed]] ([[Shop Item Rolls#Wanted tags|5% of item rolls]])
 > **Never in the shop** nothing banned
-> **Evolution** normal · **Meca stats** all
+> **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all
 > **Hidden effects** none
 
 ## Starting effects
-- Speed +30
-- +1 Melee damage for every 2 Speed
+- Speed +30 🧬
+- +1 Melee damage for every 2 Speed 🧬
 - While not moving (-100)
 - Armor -3
 
+🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
+
 **Starting weapons** [[Fist]] · [[Claw]] · [[Knife]] · [[Dagger]] · [[Stick]] · [[Spear]] · [[Fighting Stick]] · [[Jousting Lance]] · [[Screwdriver]] · [[Ghost Flint]] · [[Pruner]] · [[Shuriken]] · [[Hiking Stick]] · [[Javelin]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Flail]] · [[Boomerang]]
 
-## Shop
-| Rule | Details |
-|---|---|
-| Wanted tags | [[Wanted Tags#Speed\|Speed]]<br>On `5%` of item rolls the shop only offers items with one of these tags. [[Shop Item Rolls#Wanted tags]] |
-
-## Level-ups
-| Rule | Details |
-|---|---|
-| Never offered | nothing |
-| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
-
-## Evolution and curse
-| Topic | Details |
-|---|---|
-| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
-| [[Meca]] offers | every stat. [[Meca#The four stat groups]] |
-| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Speed +30<br>+1 Melee damage for every 2 Speed |
-
-Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.
+Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

@@ -16,43 +16,22 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · Base game · during a run: [[Run Cheat Sheet]]
 
 > [!summary] At a glance
-> **Wanted tags** none
+> **Wanted tags** none, item rolls are fully random ([[Shop Item Rolls]])
 > **Never in the shop** nothing banned
-> **Evolution** normal · **Meca stats** all
+> **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all
 > **Hidden effects** none
 
 ## Starting effects
 - Weapons price -95
-- Harvesting +30
-- +33% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Explosion damage, Piercing damage, Bounce damage, Damage against bosses
+- Harvesting +30 🧬
+- +33% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Explosion damage, Piercing damage, Bounce damage, Damage against bosses 🧬
 - Minimum in shop
 - Destroy weapons
+
+🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
 **Starting weapons** [[Pistol]]
 
 **Starting items** [[Dangerous Bunny]]
 
-## Shop
-| Rule | Details |
-|---|---|
-| Wanted tags | none, item rolls are fully random. [[Shop Item Rolls]] |
-
-## Level-ups
-| Rule | Details |
-|---|---|
-| Never offered | nothing |
-| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
-
-## Evolution and curse
-| Topic | Details |
-|---|---|
-| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
-| [[Meca]] offers | every stat. [[Meca#The four stat groups]] |
-| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Harvesting +30<br>+33% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Explosion damage, Piercing damage, Bounce damage, Damage against bosses |
-
-Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.
+Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

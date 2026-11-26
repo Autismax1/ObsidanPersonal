@@ -19,42 +19,21 @@ hidden_effect: false
 [[Brotato]] › [[Characters]] · Base game · during a run: [[Run Cheat Sheet]]
 
 > [!summary] At a glance
-> **Wanted tags** [[Wanted Tags#Explosive|Explosive]], [[Wanted Tags#Melee damage|Melee damage]], [[Wanted Tags#Consumable|Consumable]]
+> **Wanted tags** [[Wanted Tags#Explosive|Explosive]], [[Wanted Tags#Melee damage|Melee damage]], [[Wanted Tags#Consumable|Consumable]] ([[Shop Item Rolls#Wanted tags|5% of item rolls]])
 > **Never in the shop** nothing banned
-> **Evolution** normal · **Meca stats** all
+> **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all
 > **Hidden effects** none
 
 ## Starting effects
-- Luck +50
-- Consumable while max
-- **Explode on consumable**
+- Luck +50 🧬
+- Consumable while max *(only from scale 0.7, about −63 evolution)* 🧬
+- **Explode on consumable** (100% chance) 🧬
   - 100% chance
 - Items price +25
 - Xp gain -25
 
+🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
+
 **Starting weapons** [[Pruner]] · [[Chopper]] · [[Dagger]] · [[Fist]] · [[Jousting Lance]] · [[Screwdriver]] · [[Plank]] · [[Shredder]] · [[Lute]] · [[Spoon]] · [[Flute]] · [[Meat Tenderizer]] · [[Shovel]] · [[Whip]] · [[Sticky Grenade]] · [[Carbon Bow]] · [[Pan Flute]]
 
-## Shop
-| Rule | Details |
-|---|---|
-| Wanted tags | [[Wanted Tags#Explosive\|Explosive]], [[Wanted Tags#Melee damage\|Melee damage]], [[Wanted Tags#Consumable\|Consumable]]<br>On `5%` of item rolls the shop only offers items with one of these tags. [[Shop Item Rolls#Wanted tags]] |
-
-## Level-ups
-| Rule | Details |
-|---|---|
-| Never offered | nothing |
-| Rarity | follows your level. [[Rarity Odds#Level-ups]] |
-
-## Evolution and curse
-| Topic | Details |
-|---|---|
-| Evolution | normal: your side follows your evolution stat. [[Evolution]] |
-| [[Meca]] offers | every stat. [[Meca#The four stat groups]] |
-| Curse | [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]] |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Luck +50<br>Explode on consumable (100% chance)<br>Consumable while max *(only from scale 0.7, about −63 evolution)* |
-
-Your character can be the picked item. Copies are scaled down, see [[Mutation#Copy strength]]. Not if that stat is already at its cap.
+Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]
