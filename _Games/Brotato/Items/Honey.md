@@ -23,28 +23,11 @@ in_shop: true
 > **Shows up more often for** [[Arsonist]], [[Artificer]], [[Bull]], [[Cyborg]], [[Generalist]], [[Glutton]], [[Ogre]], [[Ranger]]
 
 ## Effects
-- Ranged damage +3
-- Explosion damage +10
-- Explosion size +5
-- Speed -3
-- Dodge -3
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Ranged damage +3 | value | `4 → 7` |
-| Explosion damage +10 | value | `11 → 21` |
-| Explosion size +5 | value | `6 → 11` |
-| Speed -3 | value | `-2 → -1` |
-| Dodge -3 | value | `-2 → -1` |
-| Curse stat | added | `+3 → 6` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Ranged damage +3<br>Explosion damage +10<br>Explosion size +5 |
-| **Can be removed** | Speed -3<br>Dodge -3 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Ranged damage +3 | `4 → 7` | copied |
+| Explosion damage +10 | `11 → 21` | copied |
+| Explosion size +5 | `6 → 11` | copied |
+| Speed -3 | `-2 → -1` | removable |
+| Dodge -3 | `-2 → -1` | removable |
+| Curse stat | added `+3 → 6` | |

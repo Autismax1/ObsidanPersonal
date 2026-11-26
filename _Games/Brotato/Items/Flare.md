@@ -24,25 +24,10 @@ in_shop: true
 > **Shows up more often for** [[Lich]], [[Loud]], [[Masochist]], [[Sick]], [[Vampire]]
 
 ## Effects
-- Material on evolved enemy kill
-- Lifesteal +3
-- Enemy damage +20
-- Number of enemies +10
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Material on evolved enemy kill | value | `2 → 3` |
-| Lifesteal +3 | value | `4 → 7` |
-| Enemy damage +20 | value | `18 → 9` |
-| Curse stat | added | `+3 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Material on evolved enemy kill<br>Lifesteal +3 |
-| **Can be removed** | Enemy damage +20 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Material on evolved enemy kill (+1) | `2 → 3` | copied |
+| Lifesteal +3 | `4 → 7` | copied |
+| Enemy damage +20 | `18 → 9` | removable |
+| Number of enemies +10 | `10` (unchanged) | – |
+| Curse stat | added `+3 → 5` | |

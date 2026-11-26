@@ -25,27 +25,8 @@ in_shop: true
 > **Never offered to** [[Wounded]] (until endless)
 
 ## Effects
-- **Chance explode on hit**
-  - 50% chance
-  - explosion size 150%
-  - `10` damage (500% Curse) · every `1.56s` · range `150` · crit 3% ×1.5
-- Max hp +15
-- Curse +15
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Chance explode on hit | damage | `11 → 21` |
-|  | scaling | `×1.10 → ×2.10` |
-| Max hp +15 | value | `17 → 32` |
-| Curse +15 | value | `17 → 32` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Chance explode on hit (50% chance, explosion size 150%, `10` damage (500% Curse) · every `1.56s` · range `150` · crit 3% ×1.5)<br>Max hp +15 |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| **Chance explode on hit**<br>· 50% chance<br>· explosion size 150%<br>· `10` damage (500% Curse) · every `1.56s` · range `150` · crit 3% ×1.5 | damage `11 → 21`<br>scaling `×1.10 → ×2.10` | copied |
+| Max hp +15 | `17 → 32` | copied |
+| Curse +15 | `17 → 32` | – |

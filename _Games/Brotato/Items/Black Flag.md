@@ -23,26 +23,10 @@ in_shop: true
 > **Shows up more often for** [[Creature]], [[Loud]], [[Sailor]]
 
 ## Effects
-- Gold on cursed enemy kill
-- Number of enemies +10
-- Enemy health +10
-- Enemy damage +10
-- Curse +5
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Gold on cursed enemy kill | value | `2 → 3` |
-| Enemy health +10 | value | `9 → 4` |
-| Enemy damage +10 | value | `9 → 4` |
-| Curse +5 | value | `6 → 11` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Gold on cursed enemy kill |
-| **Can be removed** | Enemy health +10<br>Enemy damage +10 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Gold on cursed enemy kill (+1) | `2 → 3` | copied |
+| Number of enemies +10 | `10` (unchanged) | – |
+| Enemy health +10 | `9 → 4` | removable |
+| Enemy damage +10 | `9 → 4` | removable |
+| Curse +5 | `6 → 11` | – |

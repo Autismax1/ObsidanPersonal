@@ -7,13 +7,13 @@ tags:
 [[Brotato]] › Healing · tips: [[Lifesteal vs HP Regen]]
 
 > [!summary] At a glance
-> - **Lifesteal**: each hit has a lifesteal % chance to heal `1` HP. Max `10` HP/s. Damage doesn't matter.
-> - **HP regen**: `1` HP every `5s / (1 + (regen − 1)/2.25)`. `10` regen = `1` HP/s.
+> - **Lifesteal**: each hit has a lifesteal % chance to heal `1` HP (`2` while standing in a [[Doc Moth]] zone). Cooldown `0.1 s`, so max `10` HP/s. Damage doesn't matter.
+> - **HP regen**: `1` HP every `5s / (1 + (regen − 1)/2.25)`, whether you hit anything or not. `10` regen = `1` HP/s.
+
+^glance
 
 ## Lifesteal
-- **Every hit** rolls your lifesteal % as a chance to heal **1 HP**.
-- Damage doesn't matter: a 5-damage hit and a 500-damage hit heal the same.
-- **Cooldown 0.1 s**, so lifesteal heals at most **10 HP per second**.
+- Example: a 5-damage hit and a 500-damage hit heal the same.
 - Expected healing: `hits per second × lifesteal %`, capped at 10 HP/s.
 - Counts every weapon hit, so fast weapons, multiple projectiles, bounces and piercing all add rolls.
 
@@ -24,11 +24,6 @@ tags:
 | 30 | 3 HP/s | 6 HP/s | 10 HP/s (cap) |
 
 ## HP regeneration
-- Heals **1 HP** every time a timer runs out, whether you hit anything or not.
-```
-timer = 5 s / (1 + (regen − 1) / 2.25)
-```
-
 | HP regen | 1 | 5 | 10 | 15 | 20 | 30 | 50 |
 |---|---|---|---|---|---|---|---|
 | Seconds per HP | 5.0 | 1.8 | 1.0 | 0.69 | 0.53 | 0.36 | 0.22 |

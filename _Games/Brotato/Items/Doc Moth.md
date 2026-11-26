@@ -25,24 +25,11 @@ in_shop: true
 > **Never offered to** [[Droid]], [[Druid]], [[Golem]], [[Wounded]] (until endless)
 
 ## Effects
-- Pet: Doc Moth
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
+|---|---|---|
+| Pet: Doc Moth | boost zone `×1.10 → ×2.10 bigger` | – |
+| Curse stat | added `+2 → 5` | |
 
 ## How it works
 - Creates a zone. **While you stand in it:** HP regeneration heals twice as much (while below full HP), and every lifesteal proc heals 2 HP instead of 1. See [[Healing]].
 - Zone size ×1 (×1.10 → ×2.10 when cursed).
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Pet: Doc Moth | boost zone | `×1.10 → ×2.10 bigger` |
-| Curse stat | added | `+2 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

@@ -23,23 +23,8 @@ in_shop: true
 > **Never offered to** [[Bull]], [[Gladiator]], [[Knight]], [[Ogre]] (until endless)
 
 ## Effects
-- **Modify every x projectile (+5)**
-  - Projectiles (+3)
-- Percent damage -10
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Modify every x projectile (+5) | value | `4 → 2` |
-| Percent damage -10 | value | `-9 → -4` |
-| Curse stat | added | `+4 → 8` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | Percent damage -10 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| **Modify every x projectile (+5)**<br>· Projectiles (+3) | `4 → 2` | – |
+| Percent damage -10 | `-9 → -4` | removable |
+| Curse stat | added `+4 → 8` | |

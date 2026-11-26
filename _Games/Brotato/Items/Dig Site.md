@@ -22,22 +22,8 @@ in_shop: true
 > **Shows up more often for** [[Chunky]], [[Curious]], [[Druid]], [[Lucky]]
 
 ## Effects
-- Dig sites every x waves: +1 Dig sites every x waves (3)
-- Luck -3
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Dig sites every x waves: +1 Dig sites every x waves (3) | dig site every | `2 waves` |
-| Luck -3 | value | `-2 → -1` |
-| Curse stat | added | `+2 → 4` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Dig sites every x waves: +1 Dig sites every x waves (3) *(only from scale 0.7, about −63 evolution)* |
-| **Can be removed** | Luck -3 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Dig sites every x waves: +1 Dig sites every x waves (3) | dig site every `2 waves` | copied *(only from scale 0.7, about −58 evolution)* |
+| Luck -3 | `-2 → -1` | removable |
+| Curse stat | added `+2 → 4` | |

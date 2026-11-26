@@ -23,24 +23,9 @@ in_shop: true
 > **Shows up more often for** [[Hunter]], [[Ranger]]
 
 ## Effects
-- Range +20
-- Attack speed +10
-- Knockback (-5)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Range +20 | value | `22 → 42` |
-| Attack speed +10 | value | `11 → 21` |
-| Knockback (-5) | value | `-4 → -2` |
-| Curse stat | added | `+2 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Range +20<br>Attack speed +10 |
-| **Can be removed** | Knockback (-5) |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Range +20 | `22 → 42` | copied |
+| Attack speed +10 | `11 → 21` | copied |
+| Knockback (-5) | `-4 → -2` | removable |
+| Curse stat | added `+2 → 5` | |

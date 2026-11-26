@@ -25,24 +25,9 @@ in_shop: true
 > **Never offered to** [[Sailor]] (until endless)
 
 ## Effects
-- Dodge +3
-- While not moving (+20)
-- Percent damage -4
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Dodge +3 | value | `4 → 7` |
-| While not moving (+20) | value | `22 → 42` |
-| Percent damage -4 | value | `-3 → -1` |
-| Curse stat | added | `+3 → 6` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Dodge +3<br>While not moving (+20) |
-| **Can be removed** | Percent damage -4 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Dodge +3 | `4 → 7` | copied |
+| While not moving: Dodge (+20) | `22 → 42` | copied |
+| Percent damage -4 | `-3 → -1` | removable |
+| Curse stat | added `+3 → 6` | |

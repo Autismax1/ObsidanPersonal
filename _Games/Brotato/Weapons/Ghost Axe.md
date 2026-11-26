@@ -17,38 +17,26 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Ethereal|Ethereal]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Apprentice]], [[Captain]], [[Cryptid]], [[Curious]], [[Demon]], [[Explorer]], [[Generalist]], [[Ghost]], [[Gladiator]], [[Golem]], [[King]], [[Loud]], [[Masochist]], [[Multitasker]], [[Mutant]], [[One Armed]], [[Streamer]]
+> **Classes** [[Weapon Classes#Ethereal|Ethereal]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Apprentice]], [[Captain]], [[Cryptid]], [[Curious]], [[Demon]], [[Explorer]], [[Generalist]], [[Ghost]], [[Gladiator]], [[Golem]], [[King]] (tier 2), [[Loud]], [[Masochist]], [[Multitasker]], [[Mutant]], [[One Armed]], [[Streamer]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 20 | **12** | 100% Melee damage | 1.73s | 3% ×2 | 200 | – |
-| 2 | 39 | **18** | 100% Melee damage | 1.66s | 3% ×2 | 200 | – |
-| 3 | 74 | **24** | 100% Melee damage | 1.58s | 3% ×2 | 200 | – |
-| 4 | 149 | **40** | 100% Melee damage | 1.51s | 3% ×2 | 200 | – |
+**All tiers** Scaling 100% Melee damage · Crit 3% ×2 · Range 200 · Knockback 2 · Accuracy 100% · Other Sweep
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
+| Tier | Price | Damage | Cooldown (0 attack speed) |
 |---|---|---|---|
-| 1 | 2 | 100% | Sweep |
-| 2 | 2 | 100% | Sweep |
-| 3 | 2 | 100% | Sweep |
-| 4 | 2 | 100% | Sweep |
+| 1 | 20 | **12** | 1.73s |
+| 2 | 39 | **18** | 1.66s |
+| 3 | 74 | **24** | 1.58s |
+| 4 | 149 | **40** | 1.51s |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **+1 Percent damage every 20 kills** | – |
-| 2 | **+1 Percent damage every 18 kills** | – |
-| 3 | **+1 Percent damage every 16 kills** | – |
-| 4 | **+1 Percent damage every 12 kills** | – |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **+1 Percent damage every … kills** | 20 | 18 | 16 | 12 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -59,12 +47,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: +1 Percent damage every 20 kills | kills needed | `18 → 9` |
-| Tier 2: +1 Percent damage every 18 kills | kills needed | `16 → 8` |
-| Tier 3: +1 Percent damage every 16 kills | kills needed | `14 → 7` |
-| Tier 4: +1 Percent damage every 12 kills | kills needed | `10 → 5` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| +1 Percent damage every … kills · kills needed | `18 → 9` | `16 → 8` | `14 → 7` | `10 → 5` |

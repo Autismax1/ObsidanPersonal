@@ -18,20 +18,12 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Ethereal|Ethereal]], [[Weapon Classes#Legendary|Legendary]] · **Tiers** 4–4 · shop odds: [[Weapon Rolls]]
+> **Classes** [[Weapon Classes#Ethereal|Ethereal]], [[Weapon Classes#Legendary|Legendary]] · **Tiers** 4–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 4 | 285 | **150** | 100% Melee damage, 100% Lifesteal | 0.72s | 3% ×2 | 250 | Lifesteal 100% |
-
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 4 | 2 | 100% | Sweep |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Crit | Range | Extra | Knockback | Accuracy | Other |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 285 | **150** | 100% Melee damage, 100% Lifesteal | 0.72s | 3% ×2 | 250 | Lifesteal 100% | 2 | 100% | Sweep |
 
 ## Effects per tier
 | Tier | Effect | Details |
@@ -40,7 +32,7 @@ Cooldown is the base value with 0 attack speed.
 | 4 | **On hit (+3)** | – |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -53,6 +45,3 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 | Tier 4: weapon | Lifesteal | `110% → 210%` |
 | Tier 4: Lose hp per second (+3) | value | `2 → 1` |
 | Tier 4: On hit (+3) | value | `4 → 7` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

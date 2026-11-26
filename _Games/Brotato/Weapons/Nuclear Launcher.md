@@ -18,36 +18,25 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Ranged** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Heavy|Heavy]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]]
+> **Classes** [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Heavy|Heavy]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 3 | 144 | **60** | 100% Ranged damage, 100% Elemental damage | 2.12s | 3% ×2 | 800 | – |
-| 4 | 289 | **120** | 100% Ranged damage, 100% Elemental damage | 2.12s | 3% ×2 | 800 | – |
+**All tiers** Scaling 100% Ranged damage, 100% Elemental damage · Crit 3% ×2 · Range 800 · Knockback 15 · Accuracy 100%
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
+| Tier | Price | Damage | Cooldown (0 attack speed) |
 |---|---|---|---|
-| 3 | 15 | 100% | – |
-| 4 | 15 | 100% | – |
+| 3 | 144 | **60** | 2.12s |
+| 4 | 289 | **120** | 2.12s |
 
 ## Effects per tier
-| Tier | Effect | Details |
+| Effect | Tier 3 | Tier 4 |
 |---|---|---|
-| 3 | **Explodes on hit** | 100% chance · explosion size 200% · uses the weapon's damage |
-| 4 | **Explodes on hit** | 100% chance · explosion size 225% · uses the weapon's damage |
+| **Explodes on hit** | 100% chance · explosion size 200% · uses the weapon's damage | 100% chance · explosion size 225% · uses the weapon's damage |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
 | 3 | `66 → 126` | 110% → 210% Ranged damage, 110% → 210% Elemental damage | ×2 → ×2.4 | `+6 → 12` |
 | 4 | `132 → 252` | 110% → 210% Ranged damage, 110% → 210% Elemental damage | ×2 → ×2.4 | `+13 → 24` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

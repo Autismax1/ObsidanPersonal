@@ -18,30 +18,21 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Ranged** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Elemental|Elemental]], [[Weapon Classes#Precise|Precise]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Apprentice]], [[Baby]], [[Buccaneer]], [[Crazy]], [[Creature]], [[Curious]], [[Demon]], [[Druid]], [[Entrepreneur]], [[Fisherman]], [[Hunter]], [[Jack]], [[Lich]], [[Loud]], [[Lucky]], [[Mad Scientist]], [[Mage]], [[Masochist]], [[Multitasker]], [[Mutant]], [[Old]], [[One Armed]], [[Renegade]], [[Saver]], [[Soldier]], [[Streamer]], [[Survivor]], [[Technomage]], [[Variant]], [[Well Rounded]], [[Wounded]]
+> **Classes** [[Weapon Classes#Elemental|Elemental]], [[Weapon Classes#Precise|Precise]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Apprentice]], [[Baby]], [[Buccaneer]], [[Crazy]], [[Creature]], [[Curious]], [[Demon]], [[Druid]], [[Entrepreneur]], [[Fisherman]], [[Hunter]], [[Jack]], [[Lich]], [[Loud]], [[Lucky]], [[Mad Scientist]], [[Mage]], [[Masochist]], [[Multitasker]], [[Mutant]], [[Old]], [[One Armed]], [[Renegade]], [[Saver]], [[Soldier]], [[Streamer]], [[Survivor]], [[Technomage]], [[Variant]], [[Well Rounded]], [[Wounded]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 18 | **10** | 100% Elemental damage | 1.03s | 5% ×2 | 400 | Piercing 1 |
-| 2 | 36 | **20** | 100% Elemental damage | 0.95s | 10% ×2 | 400 | Piercing 1 |
-| 3 | 66 | **30** | 100% Elemental damage | 0.87s | 15% ×2.5 | 400 | Piercing 1 |
-| 4 | 140 | **40** | 100% Elemental damage | 0.70s | 20% ×3 | 400 | Piercing 1 |
+**All tiers** Scaling 100% Elemental damage · Range 400 · Extra Piercing 1 · Knockback 5 · Other −50% damage per pierce · projectile speed 2000
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 5 | 85% | −50% damage per pierce · projectile speed 2000 |
-| 2 | 5 | 90% | −50% damage per pierce · projectile speed 2000 |
-| 3 | 5 | 95% | −50% damage per pierce · projectile speed 2000 |
-| 4 | 5 | 100% | −50% damage per pierce · projectile speed 2000 |
+| Tier | Price | Damage | Cooldown (0 attack speed) | Crit | Accuracy |
+|---|---|---|---|---|---|
+| 1 | 18 | **10** | 1.03s | 5% ×2 | 85% |
+| 2 | 36 | **20** | 0.95s | 10% ×2 | 90% |
+| 3 | 66 | **30** | 0.87s | 15% ×2.5 | 95% |
+| 4 | 140 | **40** | 0.70s | 20% ×3 | 100% |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -52,12 +43,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: weapon | Piercing | `2 → 2` |
-| Tier 2: weapon | Piercing | `2 → 2` |
-| Tier 3: weapon | Piercing | `2 → 2` |
-| Tier 4: weapon | Piercing | `2 → 2` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| weapon · Piercing | `2 → 2` | `2 → 2` | `2 → 2` | `2 → 2` |

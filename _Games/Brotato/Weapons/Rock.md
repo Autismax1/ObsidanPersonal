@@ -18,27 +18,18 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Blunt|Blunt]], [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Baby]], [[Buccaneer]], [[Caveman]], [[Chunky]], [[Creature]], [[Cryptid]], [[Curious]], [[Druid]], [[Fisherman]], [[Golem]], [[Knight]], [[Lich]], [[Loud]], [[Lucky]], [[Masochist]], [[Multitasker]], [[Mutant]], [[Ogre]], [[Old]], [[Wildling]]
+> **Classes** [[Weapon Classes#Blunt|Blunt]], [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Baby]], [[Buccaneer]], [[Caveman]], [[Chunky]], [[Creature]], [[Cryptid]], [[Curious]], [[Druid]], [[Fisherman]], [[Golem]], [[Knight]] (tier 2), [[Lich]], [[Loud]], [[Lucky]], [[Masochist]], [[Multitasker]], [[Mutant]], [[Ogre]], [[Old]], [[Wildling]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 10 | **20** | 100% Melee damage | 1.68s | 10% ×1.5 | 150 | – |
-| 2 | 22 | **35** | 100% Melee damage | 1.61s | 15% ×1.5 | 150 | – |
-| 3 | 45 | **50** | 100% Melee damage | 1.53s | 20% ×1.5 | 150 | – |
-| 4 | 91 | **70** | 100% Melee damage | 1.46s | 25% ×1.5 | 150 | – |
+**All tiers** Scaling 100% Melee damage · Range 150 · Knockback 5 · Accuracy 100% · Other Thrust
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 5 | 100% | Thrust |
-| 2 | 5 | 100% | Thrust |
-| 3 | 5 | 100% | Thrust |
-| 4 | 5 | 100% | Thrust |
+| Tier | Price | Damage | Cooldown (0 attack speed) | Crit |
+|---|---|---|---|---|
+| 1 | 10 | **20** | 1.68s | 10% ×1.5 |
+| 2 | 22 | **35** | 1.61s | 15% ×1.5 |
+| 3 | 45 | **50** | 1.53s | 20% ×1.5 |
+| 4 | 91 | **70** | 1.46s | 25% ×1.5 |
 
 ## Effects per tier
 | Tier | Effect | Details |
@@ -50,7 +41,7 @@ Cooldown is the base value with 0 attack speed.
 | 4 | **Max hp +2** | – |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -68,6 +59,3 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 | Tier 3: Max hp +2 | value | `3 → 5` |
 | Tier 4: Armor +2 | value | `3 → 5` |
 | Tier 4: Max hp +2 | value | `3 → 5` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

@@ -24,20 +24,7 @@ in_shop: true
 > **Never offered to** [[Droid]], [[Golem]], [[Wounded]] (until endless)
 
 ## Effects
-- Consumable while max limited: +1 Max hp (8)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Consumable while max limited: +1 Max hp (8) | value | `2 → 3` |
-| Curse stat | added | `+4 → 8` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Consumable while max limited: +1 Max hp (8) *(only from scale 0.7, about −63 evolution)* |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Consumable while max limited: +1 Max hp (8) | `2 → 3` | copied *(only from scale 0.7, about −58 evolution)* |
+| Curse stat | added `+4 → 8` | |

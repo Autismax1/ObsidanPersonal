@@ -23,21 +23,8 @@ in_shop: true
 > **Never offered to** [[Droid]], [[Golem]], [[Wounded]] (until endless)
 
 ## Effects
-- Heal when pickup gold (+8)
-- Ranged damage -1
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Heal when pickup gold (+8) | value | `9 → 17` |
-| Curse stat | added | `+1 → 2` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Heal when pickup gold (+8) |
-| **Can be removed** | Ranged damage -1 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Heal when pickup gold (+8) | `9 → 17` | copied |
+| Ranged damage -1 | – | removable |
+| Curse stat | added `+1 → 2` | |

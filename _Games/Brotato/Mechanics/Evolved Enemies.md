@@ -9,11 +9,13 @@ tags:
 [[Brotato]] › [[Evolution]] › Evolved Enemies · other variant: [[Cursed Enemies]]
 
 > [!summary] At a glance
-> - Chance per normal enemy: `50%·(1 − 1/(1 + |evo|/50))`. About `8%` at ±10, `25%` at ±50.
-> - Bosses are always evolved past `±30` team evolution. Elites get `4×` the chance.
+> - Chance per normal enemy: `50%·(1 − 1/(1 + |evo|/50))`. About `8%` at ±10, `17%` at ±25, `25%` at ±50, never above `50%`.
+> - Bosses are always evolved past `±30` team evolution, otherwise the normal chance. Elites get `4×` the chance (max 100%) to be swapped for a meca or mutant elite.
 > - Meca enemies drop **meca parts** (`2.5%`), mutant enemies drop **mutation fruit** (`4%`).
 
-Meca and mutant enemies. Both come from one shared roll.
+^glance
+
+Meca and mutant enemies both come from one shared roll.
 
 ## Chance per normal enemy
 ```
@@ -21,7 +23,6 @@ w      = |evolution| × (1 + enemy evolution chance %)
 chance = 50% × (1 − 1/(1 + w/50))
 ```
 - Averaged over players. Increased in endless.
-- About **8% at ±10**, 17% at ±25, 25% at ±50, never above 50%.
 
 ## Which side
 - Weighted by evolution: meca players' evolution against mutant players' |evolution|.
@@ -29,8 +30,6 @@ chance = 50% × (1 − 1/(1 + w/50))
 - Solo, you only get your own side.
 
 ## Bosses and elites
-- **Bosses:** always evolved once the team's total evolution is past **±30**. Otherwise the normal chance.
-- **Elites:** **4×** the normal chance (max 100%) to swap the wave's elite for a meca or mutant elite.
 - Enemies spawned by an evolved enemy share its side. Loot aliens never evolve.
 
 ## Stats

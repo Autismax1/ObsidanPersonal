@@ -22,14 +22,14 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Dig sites (+4) 🧬
-- Box recycling gains (+75) 🧬
+- 4 dig sites spawn each wave (`Dig sites (+4)`) 🧬
+- +75% materials when recycling items from crates (`Box recycling gains (+75)`) 🧬
 - +3 Xp gain for every Crates collected 🧬
 - Pickup range (+25) 🧬
 - Enemy gold drops (-50)
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Knife]] · [[Stick]] · [[Chopper]] · [[Fighting Stick]] · [[Cacti Club]] · [[Hatchet]] · [[Slingshot]] · [[Taser]] · [[Rail Gun]] · [[Crowbar]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]] · [[Sharp Tooth]] · [[Shovel]]
+**Starting weapon choices** [[Knife]] · [[Stick]] · [[Chopper]] · [[Fighting Stick]] · [[Cacti Club]] · [[Hatchet]] · [[Slingshot]] · [[Taser]] · [[Rail Gun]] · [[Crowbar]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]] · [[Sharp Tooth]] · [[Shovel]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

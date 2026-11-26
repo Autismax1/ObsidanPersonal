@@ -21,12 +21,12 @@ hidden_effect: false
 
 > [!summary] At a glance
 > **Wanted tags** [[Wanted Tags#Max hp|Max hp]], [[Wanted Tags#Melee damage|Melee damage]], [[Wanted Tags#Explosive|Explosive]] ([[Shop Item Rolls#Wanted tags|5% of item rolls]])
-> **Never in the shop** 1 items ([[Shop Item Rolls#Character bans|until endless]])
+> **Never in the shop** 1 item ([[Shop Item Rolls#Character bans|until endless]])
 > **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all except Ranged damage
 > **Hidden effects** none
 
 ## Starting effects
-- **Explode on overkill (+200)** (100% chance) 🧬
+- **Overkill explosion: an enemy killed by a hit of at least 200% of its max HP explodes** (`Explode on overkill (+200)`) (100% chance) 🧬
   - 100% chance
 - Melee damage +10 🧬
 - No ranged weapons
@@ -35,7 +35,7 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Fist]] · [[Brick]] · [[Rock]] · [[Plank]] · [[Cacti Club]] · [[Chopper]] · [[Spoon]] · [[Meat Tenderizer]] · [[Whip]] · [[Flail]]
+**Starting weapon choices** [[Fist]] · [[Brick]] · [[Rock]] · [[Plank]] · [[Cacti Club]] · [[Chopper]] · [[Spoon]] · [[Meat Tenderizer]] · [[Whip]] · [[Flail]]
 
 ## Banned items
 - Single items (1): [[Seashell]]

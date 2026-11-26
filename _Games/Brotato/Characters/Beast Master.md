@@ -20,14 +20,14 @@ hidden_effect: true
 > **Wanted tags** [[Wanted Tags#Pet|Pet]] ([[Shop Item Rolls#Wanted tags|10% of item rolls]], instead of the usual 5%)
 > **Never in the shop** 2 items ([[Shop Item Rolls#Character bans|until endless]])
 > **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all
-> **Hidden effects** Boosted wanted tag
+> **Hidden effects** Pet shop rolls doubled (5% → 10%)
 
 ## Starting effects
 - No weapons
 - +2 Speed for every Pet 🧬
-- Beast master effect
+- Pets scale with all four damage stats: they copy their first scaling ratio to Melee, Ranged, Elemental damage and Engineering (`Beast master effect`)
 - Luck +10 🧬
-- Boosted wanted tag ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
+- Wanted-tag (Pet) shop rolls doubled: 5% → 10% of item rolls (`Boosted wanted tag`) ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 

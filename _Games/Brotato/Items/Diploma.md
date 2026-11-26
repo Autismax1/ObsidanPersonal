@@ -23,24 +23,9 @@ in_shop: true
 > **Shows up more often for** [[Apprentice]], [[Baby]], [[Builder]], [[Captain]], [[Creature]], [[Dwarf]], [[Engineer]], [[Mutant]], [[Technomage]]
 
 ## Effects
-- Engineering +10
-- Xp gain +50
-- Max hp -3
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Engineering +10 | value | `11 → 21` |
-| Xp gain +50 | value | `56 → 105` |
-| Max hp -3 | value | `-2 → -1` |
-| Curse stat | added | `+4 → 8` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Engineering +10<br>Xp gain +50 |
-| **Can be removed** | Max hp -3 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Engineering +10 | `11 → 21` | copied |
+| Xp gain +50 | `56 → 105` | copied |
+| Max hp -3 | `-2 → -1` | removable |
+| Curse stat | added `+4 → 8` | |

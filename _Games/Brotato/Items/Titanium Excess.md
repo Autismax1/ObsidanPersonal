@@ -21,22 +21,8 @@ in_shop: true
 > **Tags** [[Wanted Tags#Evolution|Evolution]]
 
 ## Effects
-- Dismantle price (-25)
-- Dodge -3
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Dismantle price (-25) | value | `-28 → -53` |
-| Dodge -3 | value | `-2 → -1` |
-| Curse stat | added | `+1 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Dismantle price (-25) |
-| **Can be removed** | Dodge -3 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Dismantle price (-25) | `-28 → -53` | copied |
+| Dodge -3 | `-2 → -1` | removable |
+| Curse stat | added `+1 → 3` | |

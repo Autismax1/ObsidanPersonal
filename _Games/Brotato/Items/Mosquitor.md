@@ -23,8 +23,10 @@ in_shop: true
 > **Shows up more often for** [[Beast Master]], [[Cyborg]], [[Generalist]], [[Ranger]]
 
 ## Effects
-- **Pet: Mosquitor**
-  - `5` damage (75% Ranged damage) · cooldown `0.75s` · range `400`
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
+|---|---|---|
+| **Pet: Mosquitor**<br>· `5` damage (75% Ranged damage) · cooldown `0.75s` · range `400` | damage `6 → 11`<br>scaling `×1.10 → ×2.10` | – |
+| Curse stat | added `+2 → 3` | |
 
 ## How it works
 - Shoots: 5 damage (75% Ranged damage), cooldown 0.75s, range 400.
@@ -32,20 +34,3 @@ in_shop: true
 
 > [!note] Pet stats
 > Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Pet: Mosquitor | damage | `6 → 11` |
-|  | scaling | `×1.10 → ×2.10` |
-| Curse stat | added | `+2 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

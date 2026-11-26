@@ -22,9 +22,10 @@ in_shop: true
 > **Shows up more often for** [[Beast Master]]
 
 ## Effects
-- **Pet: Hungry Hungry Dinosaur**
-  - +5 damage per fruit eaten
-  - `12` damage (25% Max hp) · cooldown `0.47s` · range `150`
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
+|---|---|---|
+| **Pet: Hungry Hungry Dinosaur**<br>· +5 damage per fruit eaten<br>· `12` damage (25% Max hp) · cooldown `0.47s` · range `150` | damage `14 → 26`<br>scaling `×1.10 → ×2.10` | – |
+| Curse stat | added `+4 → 7` | |
 
 ## How it works
 - Bites: 12 damage (25% Max HP), cooldown 0.47s.
@@ -32,20 +33,3 @@ in_shop: true
 
 > [!note] Pet stats
 > Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Pet: Hungry Hungry Dinosaur | damage | `14 → 26` |
-|  | scaling | `×1.10 → ×2.10` |
-| Curse stat | added | `+4 → 7` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

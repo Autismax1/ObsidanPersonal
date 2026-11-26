@@ -26,7 +26,7 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- On hit (+5) 🧬
+- When you take damage: +5% Damage for the rest of the wave (`On hit (+5)`) 🧬
 - Max hp +10 🧬
 - Hp regeneration +20 🧬
 - Armor +8 🧬
@@ -34,6 +34,6 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Rock]] · [[Scissors]] · [[Cacti Club]] · [[Ghost Axe]] · [[Spiky Shield]] · [[Sharp Tooth]] · [[Torch]] · [[Double Barrel Shotgun]] · [[Medical Gun]] · [[Wand]] · [[Icicle]] · [[Brick]] · [[Lute]] · [[Sickle]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Carbon Bow]]
+**Starting weapon choices** [[Rock]] · [[Scissors]] · [[Cacti Club]] · [[Ghost Axe]] · [[Spiky Shield]] · [[Sharp Tooth]] · [[Torch]] · [[Double Barrel Shotgun]] · [[Medical Gun]] · [[Wand]] · [[Icicle]] · [[Brick]] · [[Lute]] · [[Sickle]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

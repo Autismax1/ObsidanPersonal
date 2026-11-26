@@ -24,26 +24,10 @@ in_shop: true
 > **Shows up more often for** [[Brawler]], [[Bull]], [[Crazy]], [[Diver]], [[Doctor]], [[Explorer]], [[Generalist]], [[Gladiator]], [[Glutton]], [[Hiker]], [[Lich]], [[Masochist]], [[Ogre]], [[Pacifist]], [[Speedy]], [[Time Shifter]]
 
 ## Effects
-- Hp regeneration +4
-- Melee damage +4
-- Speed +4
-- Next wave (+25)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Hp regeneration +4 | value | `5 → 9` |
-| Melee damage +4 | value | `5 → 9` |
-| Speed +4 | value | `5 → 9` |
-| Next wave (+25) | value | `22 → 11` |
-| Curse stat | added | `+4 → 7` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Hp regeneration +4<br>Melee damage +4<br>Speed +4 |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Hp regeneration +4 | `5 → 9` | copied |
+| Melee damage +4 | `5 → 9` | copied |
+| Speed +4 | `5 → 9` | copied |
+| Next wave: Enemy speed (+25) | `22 → 11` | – |
+| Curse stat | added `+4 → 7` | |

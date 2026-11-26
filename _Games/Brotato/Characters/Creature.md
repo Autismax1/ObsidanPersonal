@@ -24,14 +24,14 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Scaling stats (+35)
-- Cursed starting item
+- All weapons gain +35% Curse scaling (`Scaling stats (+35)`)
+- Start with a cursed Fish Hook (`Cursed starting item`)
 - +1 Curse on every level up
 - -10 Range at the end of every wave
 - -5 Xp gain at the end of every wave
 
 Nothing from this character is copied into the Tumor ([[Mutation#Copy strength]]).
 
-**Starting weapons** [[Fist]] · [[Claw]] · [[Cacti Club]] · [[Sharp Tooth]] · [[Sickle]] · [[Hatchet]] · [[Rock]] · [[Stick]] · [[Spiky Shield]] · [[Chopper]] · [[Torch]] · [[Plank]] · [[Smg]] · [[Shredder]] · [[Icicle]] · [[Ghost Scepter]] · [[Javelin]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Boomerang]] · [[Sticky Grenade]] · [[Machinegun]] · [[Pan Flute]] · [[Flail]]
+**Starting weapon choices** [[Fist]] · [[Claw]] · [[Cacti Club]] · [[Sharp Tooth]] · [[Sickle]] · [[Hatchet]] · [[Rock]] · [[Stick]] · [[Spiky Shield]] · [[Chopper]] · [[Torch]] · [[Plank]] · [[Smg]] · [[Shredder]] · [[Icicle]] · [[Ghost Scepter]] · [[Javelin]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Boomerang]] · [[Sticky Grenade]] · [[Machinegun]] · [[Pan Flute]] · [[Flail]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

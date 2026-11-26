@@ -24,22 +24,8 @@ in_shop: true
 > **Never offered to** [[Droid]], [[Golem]], [[Vampire]], [[Wounded]] (until endless)
 
 ## Effects
-- Enemy fruit drops
-- Hp regeneration -3
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Enemy fruit drops | value | `2 → 3` |
-| Hp regeneration -3 | value | `-2 → -1` |
-| Curse stat | added | `+2 → 4` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Enemy fruit drops |
-| **Can be removed** | Hp regeneration -3 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Enemy fruit drops (+1) | `2 → 3` | copied |
+| Hp regeneration -3 | `-2 → -1` | removable |
+| Curse stat | added `+2 → 4` | |

@@ -22,21 +22,7 @@ in_shop: true
 > **Shows up more often for** [[Chunky]], [[Curious]], [[Druid]], [[Lucky]]
 
 ## Effects
-- **Deal dmg when death (+25)**
-  - 25% chance
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Deal dmg when death (+25) | value | `28 → 53` |
-| Curse stat | added | `+1 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Deal dmg when death (+25) (25% chance) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| **Deal dmg when death: Luck (+25)**<br>· 25% chance | `28 → 53` | copied |
+| Curse stat | added `+1 → 3` | |

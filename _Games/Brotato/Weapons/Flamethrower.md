@@ -18,34 +18,24 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Ranged** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Elemental|Elemental]], [[Weapon Classes#Heavy|Heavy]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]]
+> **Classes** [[Weapon Classes#Elemental|Elemental]], [[Weapon Classes#Heavy|Heavy]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 2 | 56 | **1** | 1% Elemental damage | 0.12s | 0% ×2 | 250 | Piercing 99 |
-| 3 | 103 | **1** | 1% Elemental damage | 0.12s | 0% ×2 | 300 | Piercing 99 |
-| 4 | 207 | **1** | 1% Elemental damage | 0.09s | 0% ×2 | 400 | Piercing 99 |
+**All tiers** Scaling 1% Elemental damage · Crit 0% ×2 · Extra Piercing 99 · Knockback 0 · Accuracy 60%
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 2 | 0 | 60% | −100% damage per pierce · projectile speed 800 · projectiles get faster with range · on-hit effect size ×0.1 |
-| 3 | 0 | 60% | −100% damage per pierce · projectile speed 900 · projectiles get faster with range · on-hit effect size ×0.1 |
-| 4 | 0 | 60% | −100% damage per pierce · projectile speed 1000 · projectiles get faster with range · on-hit effect size ×0.1 |
+| Tier | Price | Damage | Cooldown (0 attack speed) | Range | Other |
+|---|---|---|---|---|---|
+| 2 | 56 | **1** | 0.12s | 250 | −100% damage per pierce · projectile speed 800 · projectiles get faster with range · on-hit effect size ×0.1 |
+| 3 | 103 | **1** | 0.12s | 300 | −100% damage per pierce · projectile speed 900 · projectiles get faster with range · on-hit effect size ×0.1 |
+| 4 | 207 | **1** | 0.09s | 400 | −100% damage per pierce · projectile speed 1000 · projectiles get faster with range · on-hit effect size ×0.1 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 2 | **Burning 1×3 (100% Elemental damage)** | – |
-| 3 | **Burning 3×5 (100% Elemental damage)** | – |
-| 4 | **Burning 5×8 (100% Elemental damage)** | – |
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| **Burning … (100% Elemental damage)** | 1×3 | 3×5 | 5×8 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -55,14 +45,7 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 2: weapon | Piercing | `100 → 100` |
-| Tier 2: Burning 1×3 (100% Elemental damage) | Burning | `2×4 → 3×7` |
-| Tier 3: weapon | Piercing | `100 → 100` |
-| Tier 3: Burning 3×5 (100% Elemental damage) | Burning | `4×6 → 7×11` |
-| Tier 4: weapon | Piercing | `100 → 100` |
-| Tier 4: Burning 5×8 (100% Elemental damage) | Burning | `6×9 → 11×17` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| weapon · Piercing | `100 → 100` | `100 → 100` | `100 → 100` |
+| Burning … (100% Elemental damage) · Burning | `2×4 → 3×7` | `4×6 → 7×11` | `6×9 → 11×17` |

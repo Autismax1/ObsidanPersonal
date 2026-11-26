@@ -17,30 +17,21 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Precise|Precise]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Apprentice]], [[Archaeologist]], [[Baby]], [[Captain]], [[Chef]], [[Crazy]], [[Cryptid]], [[Curious]], [[Diver]], [[Entrepreneur]], [[Fisherman]], [[Gangster]], [[Generalist]], [[Gladiator]], [[Golem]], [[Hunter]], [[Jack]], [[King]], [[Knight]], [[Lich]], [[Multitasker]], [[Poacher]], [[Soldier]], [[Speedy]], [[Survivor]], [[Time Shifter]], [[Vampire]], [[Well Rounded]], [[Wounded]]
+> **Classes** [[Weapon Classes#Precise|Precise]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Apprentice]], [[Archaeologist]], [[Baby]], [[Captain]], [[Chef]], [[Crazy]], [[Cryptid]], [[Curious]], [[Diver]], [[Entrepreneur]], [[Fisherman]], [[Gangster]], [[Generalist]], [[Gladiator]], [[Golem]], [[Hunter]], [[Jack]], [[King]] (tier 2), [[Knight]] (tier 2), [[Lich]], [[Multitasker]], [[Poacher]], [[Soldier]], [[Speedy]], [[Survivor]], [[Time Shifter]], [[Vampire]], [[Well Rounded]], [[Wounded]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 10 | **9** | 80% Melee damage | 0.98s | 20% ×2.5 | 150 | – |
-| 2 | 22 | **13** | 80% Melee damage | 0.91s | 30% ×3 | 150 | – |
-| 3 | 45 | **18** | 80% Melee damage | 0.84s | 40% ×3.5 | 150 | – |
-| 4 | 91 | **25** | 80% Melee damage | 0.76s | 50% ×4 | 150 | – |
+**All tiers** Scaling 80% Melee damage · Range 150 · Knockback 2 · Accuracy 100% · Other Thrust
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 2 | 100% | Thrust |
-| 2 | 2 | 100% | Thrust |
-| 3 | 2 | 100% | Thrust |
-| 4 | 2 | 100% | Thrust |
+| Tier | Price | Damage | Cooldown (0 attack speed) | Crit |
+|---|---|---|---|---|
+| 1 | 10 | **9** | 0.98s | 20% ×2.5 |
+| 2 | 22 | **13** | 0.91s | 30% ×3 |
+| 3 | 45 | **18** | 0.84s | 40% ×3.5 |
+| 4 | 91 | **25** | 0.76s | 50% ×4 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -48,6 +39,3 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 | 2 | `15 → 28` | 88% → 168% Melee damage | ×3.1 → ×3.7 | `+1 → 2` |
 | 3 | `20 → 38` | 88% → 168% Melee damage | ×3.6 → ×4.3 | `+2 → 4` |
 | 4 | `28 → 53` | 88% → 168% Melee damage | ×4.1 → ×4.9 | `+4 → 8` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

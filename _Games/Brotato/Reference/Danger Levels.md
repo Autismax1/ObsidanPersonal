@@ -7,8 +7,9 @@ tags:
 [[Brotato]] › Danger Levels
 
 > [!summary] At a glance
-> - Enemy HP and damage: `+12%` (D3), `+26%` (D4), `+40%` (D5), `+60%` (D6).
-> - D5 adds a double boss. D6 adds `+10%` speed, bullet hell, fog and hidden price inflation.
+> - D6 (Nightmare) is the only level with a **hidden** effect: `+10%` price inflation ([[Hidden Effects]]).
+
+^glance
 
 | Danger | New enemies | Elites | Enemy HP & damage | Other |
 |---|---|---|---|---|
@@ -18,10 +19,7 @@ tags:
 | 3 | yes | yes | +12% | |
 | 4 | yes | more | +26% | |
 | 5 | yes | more | +40% | double boss |
+| 6 (Nightmare) | yes | more | +60% | double boss · enemy speed +10% · bullet hell and fog of war events · hidden +10% price inflation |
 
 ## Danger 6 (Nightmare)
-- Everything from Danger 5.
-- Enemy HP and damage **+60%**, speed +10%.
-- Bullet hell and fog of war events.
-- **Hidden:** +10% inflation on prices. See [[Hidden Effects]].
 - Fog visibility can only be [[Mutation|copied by mutation]] above Danger 5 or with permanent fog.

@@ -21,24 +21,9 @@ in_shop: true
 > **Tags** [[Wanted Tags#Evolution|Evolution]]
 
 ## Effects
-- Multiply value (+2)
-- Evolution +2
-- Instant meca fruit attracting (+50)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Multiply value (+2) | value | `3` |
-| Evolution +2 | value | `3 → 5` |
-| Instant meca fruit attracting (+50) | value | `56 → 105` |
-| Curse stat | added | `+1 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Evolution +2<br>Instant meca fruit attracting (+50) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Evolution ×2 (Multiply value +2) | `3` | – |
+| Evolution +2 | `3 → 5` | copied |
+| Instant meca fruit attracting (+50) | `56 → 105` | copied |
+| Curse stat | added `+1 → 3` | |

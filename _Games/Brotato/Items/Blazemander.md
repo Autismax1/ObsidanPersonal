@@ -23,9 +23,10 @@ in_shop: true
 > **Shows up more often for** [[Arsonist]], [[Beast Master]], [[Mage]], [[Technomage]]
 
 ## Effects
-- **Pet blazemander: Burning 3×5 (50% Elemental damage)**
-  - `1` damage (1% Elemental damage) · cooldown `0.37s` · range `150`
-  - ranged attack: `1` damage (1% Elemental damage) · cooldown `4.00s` · range `300` · piercing 99
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
+|---|---|---|
+| **Pet blazemander: Burning 3×5 (50% Elemental damage)**<br>· `1` damage (1% Elemental damage) · cooldown `0.37s` · range `150`<br>· ranged attack: `1` damage (1% Elemental damage) · cooldown `4.00s` · range `300` · piercing 99 | burn scaling `×1.10 → ×2.10`<br>ranged attack twice as fast<br>ranged attack range `÷1.10 → ÷2.10` | – |
+| Curse stat | added `+2 → 3` | |
 
 ## How it works
 - Bites: 1 damage (1% Elemental damage), cooldown 0.37s. Its attacks set enemies on fire: burning 3×5 (50% Elemental damage).
@@ -34,21 +35,3 @@ in_shop: true
 
 > [!note] Pet stats
 > Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Pet blazemander: Burning 3×5 (50% Elemental damage) | burn scaling | `×1.10 → ×2.10` |
-|  |  | ranged attack twice as fast |
-|  | ranged attack range | `÷1.10 → ÷2.10` |
-| Curse stat | added | `+2 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

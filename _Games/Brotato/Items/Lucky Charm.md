@@ -22,23 +22,9 @@ in_shop: true
 > **Shows up more often for** [[Chunky]], [[Curious]], [[Druid]], [[Lucky]]
 
 ## Effects
-- Luck +30
-- Melee damage -2
-- Ranged damage -1
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Luck +30 | value | `33 → 63` |
-| Melee damage -2 | value | `-1` |
-| Curse stat | added | `+3 → 6` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Luck +30 |
-| **Can be removed** | Melee damage -2<br>Ranged damage -1 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Luck +30 | `33 → 63` | copied |
+| Melee damage -2 | `-1` | removable |
+| Ranged damage -1 | – | removable |
+| Curse stat | added `+3 → 6` | |

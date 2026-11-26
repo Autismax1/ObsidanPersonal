@@ -17,38 +17,26 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Archaeologist]], [[Baby]], [[Caveman]], [[Chef]], [[Chunky]], [[Creature]], [[Cryptid]], [[Druid]], [[Explorer]], [[Farmer]], [[Fisherman]], [[Golem]], [[Hiker]], [[Jack]], [[Lich]], [[Lucky]], [[Multitasker]], [[Mutant]], [[Poacher]], [[Speedy]], [[Streamer]], [[Survivor]], [[Time Shifter]], [[Vampire]], [[Well Rounded]], [[Wildling]], [[Wounded]]
+> **Classes** [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Archaeologist]], [[Baby]], [[Caveman]], [[Chef]], [[Chunky]], [[Creature]], [[Cryptid]], [[Druid]], [[Explorer]], [[Farmer]], [[Fisherman]], [[Golem]], [[Hiker]], [[Jack]], [[Lich]], [[Lucky]], [[Multitasker]], [[Mutant]], [[Poacher]], [[Speedy]], [[Streamer]], [[Survivor]], [[Time Shifter]], [[Vampire]], [[Well Rounded]], [[Wildling]], [[Wounded]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 10 | **8** | 100% Melee damage | 1.29s | 3% ×1.5 | 175 | – |
-| 2 | 22 | **9** | 100% Melee damage | 1.22s | 3% ×1.5 | 175 | – |
-| 3 | 45 | **10** | 100% Melee damage | 1.15s | 3% ×1.5 | 175 | – |
-| 4 | 91 | **12** | 100% Melee damage | 1.09s | 3% ×1.5 | 175 | – |
+**All tiers** Scaling 100% Melee damage · Crit 3% ×1.5 · Range 175 · Knockback 0 · Accuracy 100% · Other Thrust
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
+| Tier | Price | Damage | Cooldown (0 attack speed) |
 |---|---|---|---|
-| 1 | 0 | 100% | Thrust |
-| 2 | 0 | 100% | Thrust |
-| 3 | 0 | 100% | Thrust |
-| 4 | 0 | 100% | Thrust |
+| 1 | 10 | **8** | 1.29s |
+| 2 | 22 | **9** | 1.22s |
+| 3 | 45 | **10** | 1.15s |
+| 4 | 91 | **12** | 1.09s |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **+4 Damage for every Stick you hold** | – |
-| 2 | **+6 Damage for every Stick you hold** | – |
-| 3 | **+8 Damage for every Stick you hold** | – |
-| 4 | **+10 Damage for every Stick you hold** | – |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **… Damage for every Stick you hold** | +4 | +6 | +8 | +10 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -59,12 +47,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: +4 Damage for every Stick you hold | value | `5 → 9` |
-| Tier 2: +6 Damage for every Stick you hold | value | `7 → 13` |
-| Tier 3: +8 Damage for every Stick you hold | value | `9 → 17` |
-| Tier 4: +10 Damage for every Stick you hold | value | `11 → 21` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| … Damage for every Stick you hold | `5 → 9` | `7 → 13` | `9 → 17` | `11 → 21` |

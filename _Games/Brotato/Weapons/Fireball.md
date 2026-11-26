@@ -18,38 +18,26 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Ranged** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Elemental|Elemental]], [[Weapon Classes#Explosive|Explosive]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[King]]
+> **Classes** [[Weapon Classes#Elemental|Elemental]], [[Weapon Classes#Explosive|Explosive]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[King]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 2 | 36 | **5** | 25% Elemental damage | 1.12s | 3% ×1.5 | 400 | – |
-| 3 | 66 | **10** | 50% Elemental damage | 1.03s | 3% ×1.5 | 450 | – |
-| 4 | 140 | **20** | 75% Elemental damage | 0.87s | 3% ×1.5 | 500 | – |
+**All tiers** Crit 3% ×1.5 · Knockback 0 · Other projectile speed 1500
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 2 | 0 | 90% | projectile speed 1500 |
-| 3 | 0 | 95% | projectile speed 1500 |
-| 4 | 0 | 100% | projectile speed 1500 |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Range | Accuracy |
+|---|---|---|---|---|---|---|
+| 2 | 36 | **5** | 25% Elemental damage | 1.12s | 400 | 90% |
+| 3 | 66 | **10** | 50% Elemental damage | 1.03s | 450 | 95% |
+| 4 | 140 | **20** | 75% Elemental damage | 0.87s | 500 | 100% |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 2 | **Explodes on hit** | 100% chance · explosion size 100% · uses the weapon's damage |
-| 2 | **Burning 3×5 (100% Elemental damage)** | – |
-| 3 | **Explodes on hit** | 100% chance · explosion size 100% · uses the weapon's damage |
-| 3 | **Burning 4×6 (100% Elemental damage)** | – |
-| 4 | **Explodes on hit** | 100% chance · explosion size 100% · uses the weapon's damage |
-| 4 | **Burning 5×8 (100% Elemental damage)** | – |
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| **Explodes on hit**<br>· 100% chance · explosion size 100% · uses the weapon's damage | ✓ | ✓ | ✓ |
+| **Burning … (100% Elemental damage)** | 3×5 | 4×6 | 5×8 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -59,11 +47,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 2: Burning 3×5 (100% Elemental damage) | Burning | `4×6 → 7×11` |
-| Tier 3: Burning 4×6 (100% Elemental damage) | Burning | `5×7 → 9×13` |
-| Tier 4: Burning 5×8 (100% Elemental damage) | Burning | `6×9 → 11×17` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| Burning … (100% Elemental damage) · Burning | `4×6 → 7×11` | `5×7 → 9×13` | `6×9 → 11×17` |

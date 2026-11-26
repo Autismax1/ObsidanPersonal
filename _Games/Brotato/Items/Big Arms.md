@@ -26,28 +26,11 @@ in_shop: true
 > **Never offered to** [[Arsonist]], [[Mage]], [[Technomage]] (until endless)
 
 ## Effects
-- Melee damage +12
-- Ranged damage +6
-- Knockback (+3)
-- Attack speed -3
-- Speed -3
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Melee damage +12 | value | `14 → 26` |
-| Ranged damage +6 | value | `7 → 13` |
-| Knockback (+3) | value | `4 → 7` |
-| Attack speed -3 | value | `-2 → -1` |
-| Speed -3 | value | `-2 → -1` |
-| Curse stat | added | `+5 → 9` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Melee damage +12<br>Ranged damage +6<br>Knockback (+3) |
-| **Can be removed** | Attack speed -3<br>Speed -3 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Melee damage +12 | `14 → 26` | copied |
+| Ranged damage +6 | `7 → 13` | copied |
+| Knockback (+3) | `4 → 7` | copied |
+| Attack speed -3 | `-2 → -1` | removable |
+| Speed -3 | `-2 → -1` | removable |
+| Curse stat | added `+5 → 9` | |

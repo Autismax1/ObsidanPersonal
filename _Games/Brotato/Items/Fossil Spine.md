@@ -22,25 +22,10 @@ in_shop: true
 > **Shows up more often for** [[One Armed]]
 
 ## Effects
-- Hp regeneration +3
-- Percent damage -5
-- +2 Hp regeneration for every Fossil count
-- Fossil count ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Hp regeneration +3 | value | `4 → 7` |
-| Percent damage -5 | value | `-4 → -2` |
-| +2 Hp regeneration for every Fossil count | value | `3 → 5` |
-| Curse stat | added | `+2 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Hp regeneration +3<br>+2 Hp regeneration for every Fossil count<br>Fossil count ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]]) |
-| **Can be removed** | Percent damage -5 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Hp regeneration +3 | `4 → 7` | copied |
+| Percent damage -5 | `-4 → -2` | removable |
+| +2 Hp regeneration for every Fossil count | `3 → 5` | copied |
+| Fossil count (+1) ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]]) | – | copied |
+| Curse stat | added `+2 → 3` | |

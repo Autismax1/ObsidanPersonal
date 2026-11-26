@@ -22,7 +22,7 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- All weapons count for sets
+- Each weapon class you own counts all your weapons toward its set bonus (`All weapons count for sets`)
 - No duplicate weapons
 - Armor -5
 - Dodge -5
@@ -31,6 +31,6 @@ hidden_effect: false
 
 Nothing from this character is copied into the Tumor ([[Mutation#Copy strength]]).
 
-**Starting weapons** [[Cacti Club]] · [[Chopper]] · [[Dagger]] · [[Spear]] · [[Sharp Tooth]] · [[Hand]] · [[Claw]] · [[Fighting Stick]] · [[Hatchet]] · [[Plank]] · [[Ghost Flint]] · [[Spiky Shield]] · [[Lightning Shiv]] · [[Torch]] · [[Shuriken]] · [[Crossbow]] · [[Revolver]] · [[Laser Gun]] · [[Rail Gun]] · [[Lute]] · [[Crowbar]] · [[Shovel]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Meat Tenderizer]] · [[Boomerang]]
+**Starting weapon choices** [[Cacti Club]] · [[Chopper]] · [[Dagger]] · [[Spear]] · [[Sharp Tooth]] · [[Hand]] · [[Claw]] · [[Fighting Stick]] · [[Hatchet]] · [[Plank]] · [[Ghost Flint]] · [[Spiky Shield]] · [[Lightning Shiv]] · [[Torch]] · [[Shuriken]] · [[Crossbow]] · [[Revolver]] · [[Laser Gun]] · [[Rail Gun]] · [[Lute]] · [[Crowbar]] · [[Shovel]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Meat Tenderizer]] · [[Boomerang]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

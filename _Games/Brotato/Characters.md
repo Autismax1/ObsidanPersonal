@@ -8,6 +8,7 @@ tags:
 
 > [!summary] 74 characters, one note each
 > Open your character for wanted tags, bans, hidden effects, evolution rules and what a [[Mutation]] can copy from it.
+> **Starting weapon choices** are what the weapon-select screen can offer; it only shows weapons you have unlocked. "(tier 2)" marks a choice that starts above that weapon's lowest tier.
 > Base game: `50` · Abyssal Terrors: `14` · Primal Dread: `10`
 
 The table below is a [[Characters.base|Base]] you can sort and filter.
@@ -23,34 +24,4 @@ The table below is a [[Characters.base|Base]] you can sort and filter.
 ## Primal Dread
 [[Archaeologist]] · [[Arsonist]] · [[Caveman]] · [[Droid]] · [[Mad Scientist]] · [[Poacher]] · [[Survivor]] · [[Time Shifter]] · [[Variant]] · [[Veteran]]
 
-## By wanted tag
-| Wanted tag | Characters |
-|---|---|
-| [[Wanted Tags#Armor\|Armor]] | [[Bull]], [[Golem]], [[Knight]], [[Masochist]], [[Pacifist]] |
-| [[Wanted Tags#Consumable\|Consumable]] | [[Chunky]], [[Druid]], [[Explorer]], [[Farmer]], [[Glutton]] |
-| [[Wanted Tags#Crit chance\|Crit chance]] | [[Crazy]], [[Diver]], [[Hunter]] |
-| [[Wanted Tags#Curse\|Curse]] | [[Creature]], [[Sailor]] |
-| [[Wanted Tags#Dodge\|Dodge]] | [[Cryptid]], [[Ghost]] |
-| [[Wanted Tags#Economy\|Economy]] | [[Entrepreneur]] |
-| [[Wanted Tags#Elemental damage\|Elemental damage]] | [[Arsonist]], [[Mage]], [[Technomage]] |
-| [[Wanted Tags#Engineering\|Engineering]] | [[Builder]], [[Dwarf]], [[Engineer]], [[Technomage]] |
-| [[Wanted Tags#Exploration\|Exploration]] | [[Cryptid]], [[Explorer]], [[Lucky]] |
-| [[Wanted Tags#Explosive\|Explosive]] | [[Arsonist]], [[Artificer]], [[Bull]], [[Glutton]], [[Ogre]] |
-| [[Wanted Tags#Harvesting\|Harvesting]] | [[Entrepreneur]], [[Farmer]] |
-| [[Wanted Tags#Hp regeneration\|Hp regeneration]] | [[Bull]], [[Doctor]], [[Lich]], [[Masochist]], [[Pacifist]] |
-| [[Wanted Tags#Less enemies\|Less enemies]] | [[Old]] |
-| [[Wanted Tags#Less enemy speed\|Less enemy speed]] | [[Old]] |
-| [[Wanted Tags#Lifesteal\|Lifesteal]] | [[Lich]], [[Masochist]], [[Sick]], [[Vampire]] |
-| [[Wanted Tags#Luck\|Luck]] | [[Chunky]], [[Curious]], [[Druid]], [[Lucky]] |
-| [[Wanted Tags#Max hp\|Max hp]] | [[Chunky]], [[Golem]], [[Lich]], [[Masochist]], [[Ogre]], [[Pacifist]] |
-| [[Wanted Tags#Melee damage\|Melee damage]] | [[Brawler]], [[Crazy]], [[Diver]], [[Generalist]], [[Gladiator]], [[Glutton]], [[Ogre]] |
-| [[Wanted Tags#More enemies\|More enemies]] | [[Loud]] |
-| [[Wanted Tags#Percent damage\|Percent damage]] | [[One Armed]] |
-| [[Wanted Tags#Pet\|Pet]] | [[Beast Master]] |
-| [[Wanted Tags#Pickup\|Pickup]] | [[Buccaneer]], [[Lucky]] |
-| [[Wanted Tags#Range\|Range]] | [[Hunter]], [[Ranger]] |
-| [[Wanted Tags#Ranged damage\|Ranged damage]] | [[Cyborg]], [[Generalist]], [[Ranger]] |
-| [[Wanted Tags#Speed\|Speed]] | [[Explorer]], [[Hiker]], [[Speedy]], [[Time Shifter]] |
-| [[Wanted Tags#Stand still\|Stand still]] | [[Soldier]] |
-| [[Wanted Tags#Structure\|Structure]] | [[Cyborg]], [[Dwarf]], [[Engineer]], [[Streamer]], [[Technomage]] |
-| [[Wanted Tags#Xp gain\|Xp gain]] | [[Apprentice]], [[Baby]], [[Captain]], [[Creature]], [[Mutant]] |
+Who wants which tag: [[Wanted Tags]] (each tag lists its characters).

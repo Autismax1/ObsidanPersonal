@@ -25,11 +25,11 @@ hidden_effect: false
 ## Starting effects
 - Speed +30 🧬
 - +1 Melee damage for every 2 Speed 🧬
-- While not moving (-100)
+- While standing still: -100 Armor (`While not moving (-100)`)
 - Armor -3
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Fist]] · [[Claw]] · [[Knife]] · [[Dagger]] · [[Stick]] · [[Spear]] · [[Fighting Stick]] · [[Jousting Lance]] · [[Screwdriver]] · [[Ghost Flint]] · [[Pruner]] · [[Shuriken]] · [[Hiking Stick]] · [[Javelin]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Flail]] · [[Boomerang]]
+**Starting weapon choices** [[Fist]] · [[Claw]] · [[Knife]] · [[Dagger]] · [[Stick]] · [[Spear]] · [[Fighting Stick]] · [[Jousting Lance]] · [[Screwdriver]] · [[Ghost Flint]] · [[Pruner]] · [[Shuriken]] · [[Hiking Stick]] · [[Javelin]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Flail]] · [[Boomerang]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

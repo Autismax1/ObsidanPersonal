@@ -24,14 +24,14 @@ hidden_effect: false
 ## Starting effects
 - Max hp +5 🧬
 - Harvesting +20 🧬
-- Guaranteed shop item
-- Specific price (-100)
+- A Bait is guaranteed in every shop (`Guaranteed shop item`)
+- Bait is free in the shop (−100% price) (`Specific price (-100)`)
 - +2 Harvesting for every Bait 🧬
-- Upgraded baits
+- Upgraded Baits: each wave adds extra enemy groups (1 per 10 Baits, min 1) with +1 enemy per group per 15 Baits (`Upgraded baits`)
 - Enemy gold drops (-40)
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Knife]] · [[Rock]] · [[Spear]] · [[Fighting Stick]] · [[Spiky Shield]] · [[Torch]] · [[Stick]] · [[Sharp Tooth]] · [[Plank]] · [[Pruner]] · [[Scissors]] · [[Pistol]] · [[Smg]] · [[Crossbow]] · [[Double Barrel Shotgun]] · [[Laser Gun]] · [[Revolver]] · [[Shredder]] · [[Slingshot]] · [[Boomerang]] · [[Icicle]] · [[Javelin]] · [[Meat Tenderizer]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Pan Flute]] · [[Carbon Bow]]
+**Starting weapon choices** [[Knife]] · [[Rock]] · [[Spear]] · [[Fighting Stick]] · [[Spiky Shield]] · [[Torch]] · [[Stick]] · [[Sharp Tooth]] · [[Plank]] · [[Pruner]] · [[Scissors]] · [[Pistol]] · [[Smg]] · [[Crossbow]] · [[Double Barrel Shotgun]] · [[Laser Gun]] · [[Revolver]] · [[Shredder]] · [[Slingshot]] · [[Boomerang]] · [[Icicle]] · [[Javelin]] · [[Meat Tenderizer]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Pan Flute]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

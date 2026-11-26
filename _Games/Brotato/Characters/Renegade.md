@@ -24,15 +24,15 @@ hidden_effect: false
 
 ## Starting effects
 - Projectiles (+2) 🧬
-- Piercing 🧬
+- +1 Piercing (`Piercing`) 🧬
 - +10 Percent damage for every Common item 🧬
 - No melee weapons
 - Percent damage -400
-- Accuracy (-50)
+- -50% weapon accuracy, shots spread wider (`Accuracy (-50)`)
 - -80% gains of Percent damage, Explosion damage
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Pistol]] · [[Revolver]] · [[Shredder]] · [[Smg]] · [[Laser Gun]] · [[Medical Gun]] · [[Double Barrel Shotgun]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Ghost Scepter]] · [[Crossbow]] · [[Shuriken]] · [[Slingshot]] · [[Rail Gun]] · [[Flute]] · [[Javelin]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Carbon Bow]] · [[Machinegun]]
+**Starting weapon choices** [[Pistol]] · [[Revolver]] · [[Shredder]] · [[Smg]] · [[Laser Gun]] · [[Medical Gun]] · [[Double Barrel Shotgun]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Ghost Scepter]] · [[Crossbow]] · [[Shuriken]] · [[Slingshot]] · [[Rail Gun]] · [[Flute]] · [[Javelin]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Carbon Bow]] · [[Machinegun]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

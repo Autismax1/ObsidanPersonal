@@ -19,21 +19,7 @@ in_shop: true
 > **Price** `80` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `4` ([[Item Caps]])
 
 ## Effects
-- **Enemies hit take +25% damage**
-  - 25% chance · 5s · up to 1 stacks
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Enemies hit take +25% damage | value | `28 → 53` |
-| Curse stat | added | `+4 → 7` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Enemies hit take +25% damage (25% chance, 5s, up to 1 stacks) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| **Enemies hit take +25% damage** (any hit or burn, whatever stat it scales with)<br>· 25% chance · 5s · up to 1 stacks | `28 → 53` | copied |
+| Curse stat | added `+4 → 7` | |

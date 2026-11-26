@@ -18,31 +18,23 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Ranged** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Gun|Gun]], [[Weapon Classes#Precise|Precise]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]]
+> **Classes** [[Weapon Classes#Gun|Gun]], [[Weapon Classes#Precise|Precise]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 3 | 115 | **50** | 100% Ranged damage, 20% Range | 2.40s | 20% ×3 | 800 | – |
-| 4 | 245 | **80** | 100% Ranged damage, 30% Range | 2.40s | 20% ×4 | 1000 | – |
+**All tiers** Knockback 30 · Accuracy 100%
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 3 | 30 | 100% | – |
-| 4 | 30 | 100% | – |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Crit | Range |
+|---|---|---|---|---|---|---|
+| 3 | 115 | **50** | 100% Ranged damage, 20% Range | 2.40s | 20% ×3 | 800 |
+| 4 | 245 | **80** | 100% Ranged damage, 30% Range | 2.40s | 20% ×4 | 1000 |
 
 ## Effects per tier
-| Tier | Effect | Details |
+| Effect | Tier 3 | Tier 4 |
 |---|---|---|
-| 3 | **Effect projectiles on hit +5** | `5` damage (10% Range) · every `1.20s` · range `10000` · crit 20% ×3 |
-| 4 | **Effect projectiles on hit +8** | `5` damage (15% Range) · every `1.20s` · range `10000` · crit 20% ×4 |
+| **Effect projectiles on hit** | +5 · `5` damage (10% Range) · every `1.20s` · range `10000` · crit 20% ×3 | +8 · `5` damage (15% Range) · every `1.20s` · range `10000` · crit 20% ×4 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -51,12 +43,7 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
+| Effect | Tier 3 | Tier 4 |
 |---|---|---|
-| Tier 3: Effect projectiles on hit +5 | damage | `6 → 11` |
-|  | scaling | `×1.10 → ×2.10` |
-| Tier 4: Effect projectiles on hit +8 | damage | `6 → 11` |
-|  | scaling | `×1.10 → ×2.10` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect projectiles on hit … · damage | `6 → 11` | `6 → 11` |
+| Effect projectiles on hit … · scaling | `×1.10 → ×2.10` | `×1.10 → ×2.10` |

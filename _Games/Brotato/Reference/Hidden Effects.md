@@ -7,15 +7,15 @@ tags:
 [[Brotato]] › Hidden Effects
 
 > [!summary] At a glance
-> - Effects the tooltip never shows, for example [[Mad Scientist]]'s `+100%` mutation fruit chance and [[Beast Master]]'s `10%` wanted tags.
+> - Effects marked `[EMPTY]` in the game data: they work, but the tooltip never shows them.
 
-Effects marked `[EMPTY]` in the game data. They work, but the tooltip doesn't show them.
+^glance
 
 ## Characters
 | Character | Hidden effect |
 |---|---|
 | [[Mad Scientist]] | **+100% mutation fruit chance**. See [[Evolution Drops#Mutation fruit]]. |
-| [[Generalist]] | max 3 ranged weapons |
+| [[Generalist]] | **max 3 ranged weapons** (no tooltip line of its own). The visible effect is the max 3 melee weapons cap. |
 | [[Explorer]] | trees spawn right at the start of every wave (first 5 seconds) |
 | [[Beast Master]] | boosted wanted tags: 10% instead of 5%. See [[Shop Item Rolls#Wanted tags]]. |
 | [[Builder]] | max 1 turret |

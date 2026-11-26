@@ -24,20 +24,7 @@ in_shop: true
 > **Never offered to** [[Hunter]], [[Knight]], [[Sailor]] (until endless)
 
 ## Effects
-- Harvesting growth (+8)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Harvesting growth (+8) | value | `9 → 17` |
-| Curse stat | added | `+3 → 6` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Harvesting growth (+8) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Harvesting growth (+8) | `9 → 17` | copied |
+| Curse stat | added `+3 → 6` | |

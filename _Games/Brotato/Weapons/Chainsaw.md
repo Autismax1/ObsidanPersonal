@@ -18,31 +18,23 @@ dlc: Abyssal Terrors
 [[Brotato]] › [[Weapons]] · **Melee** · Abyssal Terrors
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Blade|Blade]], [[Weapon Classes#Tool|Tool]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]]
+> **Classes** [[Weapon Classes#Blade|Blade]], [[Weapon Classes#Tool|Tool]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
+**All tiers** Crit 3% ×1.5 · Knockback 0 · Accuracy 100%
+
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Range | Extra | Other |
 |---|---|---|---|---|---|---|---|
-| 3 | 112 | **10** | 75% Melee damage, 75% Engineering, 75% Lifesteal | 0.53s | 3% ×1.5 | 175 | Lifesteal 15% |
-| 4 | 242 | **20** | 100% Melee damage, 100% Engineering, 100% Lifesteal | 0.56s | 3% ×1.5 | 200 | Lifesteal 30% |
-
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 3 | 0 | 100% | Thrust · **reload** every `30` shots: `1.3s` (cooldown ×40) |
-| 4 | 0 | 100% | Thrust · **reload** every `40` shots: `1.0s` (cooldown ×30) |
+| 3 | 112 | **10** | 75% Melee damage, 75% Engineering, 75% Lifesteal | 0.53s | 175 | Lifesteal 15% | Thrust · **reload** every `30` shots: `1.3s` (cooldown ×40) |
+| 4 | 242 | **20** | 100% Melee damage, 100% Engineering, 100% Lifesteal | 0.56s | 200 | Lifesteal 30% | Thrust · **reload** every `40` shots: `1.0s` (cooldown ×30) |
 
 ## Effects per tier
-| Tier | Effect | Details |
+| Effect | Tier 3 | Tier 4 |
 |---|---|---|
-| 3 | **Bonus current health damage (+10)** | second value 1 |
-| 4 | **Bonus current health damage (+20)** | second value 2 |
+| **Bonus current health damage** | (+10) · second value 1 | (+20) · second value 2 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -51,12 +43,7 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
+| Effect | Tier 3 | Tier 4 |
 |---|---|---|
-| Tier 3: weapon | Lifesteal | `16% → 32%` |
-| Tier 3: Bonus current health damage (+10) | value | `11 → 21` |
-| Tier 4: weapon | Lifesteal | `33% → 63%` |
-| Tier 4: Bonus current health damage (+20) | value | `22 → 42` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| weapon · Lifesteal | `16% → 32%` | `33% → 63%` |
+| Bonus current health damage | `11 → 21` | `22 → 42` |

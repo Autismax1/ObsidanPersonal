@@ -18,38 +18,26 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Ranged** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Gun|Gun]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Apprentice]], [[Arsonist]], [[Artificer]], [[Buccaneer]], [[Builder]], [[Captain]], [[Chunky]], [[Creature]], [[Cryptid]], [[Droid]], [[Explorer]], [[Fisherman]], [[Generalist]], [[Glutton]], [[Loud]], [[Mutant]], [[One Armed]], [[Ranger]], [[Renegade]], [[Soldier]], [[Streamer]], [[Vampire]]
+> **Classes** [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Gun|Gun]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Apprentice]], [[Arsonist]], [[Artificer]], [[Buccaneer]], [[Builder]], [[Captain]], [[Chunky]], [[Creature]], [[Cryptid]], [[Droid]], [[Explorer]], [[Fisherman]], [[Generalist]], [[Glutton]], [[Loud]], [[Mutant]], [[One Armed]], [[Ranger]], [[Renegade]], [[Soldier]], [[Streamer]], [[Vampire]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 15 | **5** | 50% Ranged damage | 1.30s | 3% ×2 | 450 | Piercing 3 |
-| 2 | 31 | **10** | 50% Ranged damage | 1.22s | 3% ×2 | 450 | Piercing 3 |
-| 3 | 61 | **15** | 50% Ranged damage | 1.13s | 3% ×2 | 450 | Piercing 3 |
-| 4 | 122 | **25** | 50% Ranged damage | 1.05s | 3% ×2 | 450 | Piercing 3 |
+**All tiers** Scaling 50% Ranged damage · Crit 3% ×2 · Range 450 · Extra Piercing 3 · Knockback 0 · Accuracy 100%
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 0 | 100% | no damage loss on pierce · projectile speed 2500 · on-hit effect size ×0.5 |
-| 2 | 0 | 100% | no damage loss on pierce · on-hit effect size ×0.5 |
-| 3 | 0 | 100% | no damage loss on pierce · on-hit effect size ×0.5 |
-| 4 | 0 | 100% | no damage loss on pierce · on-hit effect size ×0.5 |
+| Tier | Price | Damage | Cooldown (0 attack speed) | Other |
+|---|---|---|---|---|
+| 1 | 15 | **5** | 1.30s | no damage loss on pierce · projectile speed 2500 · on-hit effect size ×0.5 |
+| 2 | 31 | **10** | 1.22s | no damage loss on pierce · on-hit effect size ×0.5 |
+| 3 | 61 | **15** | 1.13s | no damage loss on pierce · on-hit effect size ×0.5 |
+| 4 | 122 | **25** | 1.05s | no damage loss on pierce · on-hit effect size ×0.5 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Explodes on hit** | 50% chance · explosion size 75% · uses the weapon's damage |
-| 2 | **Explodes on hit** | 65% chance · explosion size 80% · uses the weapon's damage |
-| 3 | **Explodes on hit** | 80% chance · explosion size 85% · uses the weapon's damage |
-| 4 | **Explodes on hit** | 100% chance · explosion size 90% · uses the weapon's damage |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Explodes on hit** | 50% chance · explosion size 75% · uses the weapon's damage | 65% chance · explosion size 80% · uses the weapon's damage | 80% chance · explosion size 85% · uses the weapon's damage | 100% chance · explosion size 90% · uses the weapon's damage |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -69,6 +57,3 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 | Tier 3: weapon | Piercing | `4 → 4` |
 | Tier 3: Explodes on hit | explosion chance | `81.6% → 97.6%` |
 | Tier 4: weapon | Piercing | `4 → 4` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

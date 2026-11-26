@@ -24,12 +24,12 @@ hidden_effect: false
 
 ## Starting effects
 - Fog of war permanent
-- Burn weapon
+- Recycling a weapon burns it: +30 fog visibility per tier step (Tier I 30 … Tier IV 120) (`Burn weapon`)
 - No ranged weapons
-- Burn give primitive bonus 🧬
+- Each burned weapon gives Primitive weapons +1 / +2 / +4 / +8 Damage (Tier I / II / III / IV) (`Burn give primitive bonus`) 🧬
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Cacti Club]] · [[Hatchet]] · [[Rock]] · [[Sharp Tooth]] · [[Spear]] · [[Fighting Stick]] · [[Stick]] · [[Torch]]
+**Starting weapon choices** [[Cacti Club]] · [[Hatchet]] · [[Rock]] · [[Sharp Tooth]] · [[Spear]] · [[Fighting Stick]] · [[Stick]] · [[Torch]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

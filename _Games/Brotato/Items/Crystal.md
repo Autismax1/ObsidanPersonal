@@ -22,26 +22,10 @@ in_shop: true
 > **Never offered to** [[Bull]] (until endless)
 
 ## Effects
-- Attack speed +5
-- **Temp stats per interval**
-  - every 1s
-- Lost on hit
-- Engineering -2
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Attack speed +5 | value | `6 → 11` |
-| Temp stats per interval | value | `2 → 3` |
-| Engineering -2 | value | `-1` |
-| Curse stat | added | `+3 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Attack speed +5<br>Temp stats per interval (every 1s) |
-| **Can be removed** | Engineering -2 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Attack speed +5 | `6 → 11` | copied |
+| **Temp stats per interval: Attack speed (+1)**<br>· every 1s | `2 → 3` | copied |
+| Lost on hit | – | – |
+| Engineering -2 | `-1` | removable |
+| Curse stat | added `+3 → 5` | |

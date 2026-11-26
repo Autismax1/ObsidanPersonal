@@ -24,22 +24,8 @@ in_shop: true
 > **Never offered to** [[Arsonist]], [[Brawler]], [[Diver]], [[Gladiator]], [[Knight]], [[Mage]], [[Technomage]] (until endless)
 
 ## Effects
-- Ranged damage +1
-- Range -5
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Ranged damage +1 | value | `2 → 3` |
-| Range -5 | value | `-4 → -2` |
-| Curse stat | added | `+1 → 2` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Ranged damage +1 |
-| **Can be removed** | Range -5 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Ranged damage +1 | `2 → 3` | copied |
+| Range -5 | `-4 → -2` | removable |
+| Curse stat | added `+1 → 2` | |

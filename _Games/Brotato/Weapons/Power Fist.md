@@ -18,31 +18,23 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Unarmed|Unarmed]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]]
+> **Classes** [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Unarmed|Unarmed]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 3 | 110 | **40** | 100% Melee damage | 0.69s | 1% ×1.5 | 150 | – |
-| 4 | 221 | **80** | 100% Melee damage | 0.59s | 1% ×1.5 | 150 | – |
+**All tiers** Scaling 100% Melee damage · Crit 1% ×1.5 · Range 150 · Knockback 15 · Accuracy 100% · Other Thrust
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
+| Tier | Price | Damage | Cooldown (0 attack speed) |
 |---|---|---|---|
-| 3 | 15 | 100% | Thrust |
-| 4 | 15 | 100% | Thrust |
+| 3 | 110 | **40** | 0.69s |
+| 4 | 221 | **80** | 0.59s |
 
 ## Effects per tier
-| Tier | Effect | Details |
+| Effect | Tier 3 | Tier 4 |
 |---|---|---|
-| 3 | **Explodes on hit** | 25% chance · explosion size 100% · uses the weapon's damage |
-| 4 | **Explodes on hit** | 50% chance · explosion size 125% · uses the weapon's damage |
+| **Explodes on hit** | 25% chance · explosion size 100% · uses the weapon's damage | 50% chance · explosion size 125% · uses the weapon's damage |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -51,10 +43,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
+| Effect | Tier 3 | Tier 4 |
 |---|---|---|
-| Tier 3: Explodes on hit | explosion chance | `25.5% → 30.5%` |
-| Tier 4: Explodes on hit | explosion chance | `51% → 61%` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Explodes on hit · explosion chance | `25.5% → 30.5%` | `51% → 61%` |

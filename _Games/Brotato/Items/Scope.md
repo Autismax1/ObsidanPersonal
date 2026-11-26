@@ -23,24 +23,9 @@ in_shop: true
 > **Shows up more often for** [[Cyborg]], [[Generalist]], [[Hunter]], [[Ranger]]
 
 ## Effects
-- Ranged damage +2
-- Range +25
-- Attack speed -7
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Ranged damage +2 | value | `3 → 5` |
-| Range +25 | value | `28 → 53` |
-| Attack speed -7 | value | `-6 → -3` |
-| Curse stat | added | `+2 → 4` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Ranged damage +2<br>Range +25 |
-| **Can be removed** | Attack speed -7 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Ranged damage +2 | `3 → 5` | copied |
+| Range +25 | `28 → 53` | copied |
+| Attack speed -7 | `-6 → -3` | removable |
+| Curse stat | added `+2 → 4` | |

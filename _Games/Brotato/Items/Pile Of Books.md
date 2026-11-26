@@ -23,24 +23,9 @@ in_shop: true
 > **Shows up more often for** [[Builder]], [[Crazy]], [[Diver]], [[Dwarf]], [[Engineer]], [[Hunter]], [[Technomage]]
 
 ## Effects
-- Structures can crit
-- Crit chance +5
-- Engineering +3
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Structures can crit | value | `2 → 5 (×3 boost for this item)` |
-| Crit chance +5 | value | `7 → 22 (×3 boost for this item)` |
-| Engineering +3 | value | `4 → 13 (×3 boost for this item)` |
-| Curse stat | added | `+3 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Crit chance +5<br>Engineering +3 |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Structures can crit | `2 → 5 (×3 boost for this item)` | – |
+| Crit chance +5 | `7 → 22 (×3 boost for this item)` | copied |
+| Engineering +3 | `4 → 13 (×3 boost for this item)` | copied |
+| Curse stat | added `+3 → 5` | |

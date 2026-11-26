@@ -24,9 +24,10 @@ in_shop: true
 > **Shows up more often for** [[Arsonist]], [[Artificer]], [[Beast Master]], [[Brawler]], [[Bull]], [[Crazy]], [[Diver]], [[Generalist]], [[Gladiator]], [[Glutton]], [[Ogre]]
 
 ## Effects
-- **Pet: Bonk Dog**
-  - `10` damage (60% Melee damage) · cooldown `0.47s` · range `150`
-  - explosion: `8` damage (40% Melee damage) · cooldown `5.00s` · range `150` · 100% chance · explosion size 150%
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
+|---|---|---|
+| **Pet: Bonk Dog**<br>· `10` damage (60% Melee damage) · cooldown `0.47s` · range `150`<br>· explosion: `8` damage (40% Melee damage) · cooldown `5.00s` · range `150` · 100% chance · explosion size 150% | damage `11 → 21`<br>scaling `×1.10 → ×2.10` | – |
+| Curse stat | added `+2 → 3` | |
 
 ## How it works
 - Bites nearby enemies: 10 damage (60% Melee damage), attack cooldown 0.47s.
@@ -35,20 +36,3 @@ in_shop: true
 
 > [!note] Pet stats
 > Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Pet: Bonk Dog | damage | `11 → 21` |
-|  | scaling | `×1.10 → ×2.10` |
-| Curse stat | added | `+2 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

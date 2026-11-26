@@ -19,22 +19,8 @@ in_shop: true
 > **Price** `50` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `1` ([[Item Caps]])
 
 ## Effects
-- Plastic boots
-- Speed -3
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Plastic boots | adds armor | `+2 (roll < 50%) or +3` |
-| Speed -3 | value | `-2 → -1` |
-| Curse stat | added | `+2 → 4` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | Speed -3 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Plastic boots | adds armor `+2 (roll < 50%) or +3` | – |
+| Speed -3 | `-2 → -1` | removable |
+| Curse stat | added `+2 → 4` | |

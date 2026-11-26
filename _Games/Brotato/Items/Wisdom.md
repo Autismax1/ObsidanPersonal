@@ -22,23 +22,8 @@ in_shop: true
 > **Shows up more often for** [[One Armed]]
 
 ## Effects
-- **Temp stats per interval (+5)**
-  - every 5s
-- Percent damage -15
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Temp stats per interval (+5) | value | `6 → 11` |
-| Percent damage -15 | value | `-13 → -7` |
-| Curse stat | added | `+4 → 7` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Temp stats per interval (+5) (every 5s) |
-| **Can be removed** | Percent damage -15 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| **Temp stats per interval: Percent damage (+5)**<br>· every 5s | `6 → 11` | copied |
+| Percent damage -15 | `-13 → -7` | removable |
+| Curse stat | added `+4 → 7` | |

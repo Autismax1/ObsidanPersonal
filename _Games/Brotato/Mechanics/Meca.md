@@ -8,21 +8,22 @@ tags:
 [[Brotato]] › [[Evolution]] › Meca · flowchart: [[Evolution Flow.canvas|Evolution Flow]]
 
 > [!summary] At a glance
-> - Mechanize a weapon for `rank + 1` parts. Pick **1 of 2 stats** from two different groups.
-> - Each rank adds meca power: `+3%` damage per power (1, 3, 6, 10…).
+> - Mechanize a weapon for `meca rank + 1` (rank starts at 0) [[Evolution Drops#Meca parts|meca parts]]. Pick **1 of 2 stats** from two different groups.
+> - Each rank adds meca power: `+3%` damage and stat scaling per power (1, 3, 6, 10…).
 > - Same 4 stat groups for every weapon. Build damage always offers **your highest** damage stat.
 
-Mechanizing spends [[Evolution Drops#Meca parts|meca parts]] to rank up a weapon. Each rank raises the weapon's own damage and lets you **pick one of two stat bonuses** that count toward your stats while you hold the weapon.
+^glance
+
+The picked stat bonuses count toward your stats while you hold the weapon.
 
 ## One mechanize
-1. **Pay** `rank + 1` parts: 1, then 2, then 3… Any weapon that isn't cursed or mutant.
-2. **Roll 2 stats** from 2 **different** [[#The four stat groups|groups]] and pick one. The same stat again stacks.
-3. **Meca power** + cost. Total power runs 1, 3, 6, 10…
+1. **Pay** 1, then 2, then 3… parts. Any weapon that isn't cursed or mutant.
+2. **Roll** from 2 **different** [[#The four stat groups|groups]]. The same stat again stacks.
+3. **Meca power** + cost.
 4. **First time only:** +1 evolution, weapon becomes meca.
 
 ## Meca power
 Recalculated from the original weapon, not stacked:
-- damage and stat scaling: **+3% per power**
 - crit damage: **+2% per power**
 - lifesteal: **+3% per power** (weapons that have some)
 - structure weapons: damage and spawn rate
@@ -35,11 +36,12 @@ Recalculated from the original weapon, not stacked:
 | Damage | % Damage, Attack speed, Crit chance | random |
 | Build damage | Melee, Ranged, Engineering, Elemental | **your highest**; ties go to what the weapon scales with |
 
-- **No pool per weapon family.** Every weapon uses these groups.
 - 2 of the 4 groups are drawn at random, so each group shows up about half the time.
 - Skipped: dodge at the dodge cap, crit at the crit cap, and stats your character bans. Check your character in [[Characters]].
 
 ## Stat value by rank
+Here Rn is the n-th mechanize of the weapon: it costs n parts and takes meca rank from n−1 to n.
+
 | Stat | R1 | R2 | R3 | R4 | R5 | R6 | R7 | R8+ |
 |---|---|---|---|---|---|---|---|---|
 | Max HP · Dodge · Speed | 3 | 4 | 6 | 7 | 8 | 9 | 11 | 12 |

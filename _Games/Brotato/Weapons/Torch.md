@@ -18,27 +18,18 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Elemental|Elemental]], [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Apprentice]], [[Arsonist]], [[Buccaneer]], [[Captain]], [[Caveman]], [[Chef]], [[Chunky]], [[Creature]], [[Curious]], [[Demon]], [[Druid]], [[Explorer]], [[Farmer]], [[Fisherman]], [[Gladiator]], [[Golem]], [[Jack]], [[King]], [[Knight]], [[Loud]], [[Lucky]], [[Mage]], [[Masochist]], [[One Armed]], [[Technomage]], [[Vagabond]], [[Vampire]], [[Wildling]]
+> **Classes** [[Weapon Classes#Elemental|Elemental]], [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Apprentice]], [[Arsonist]], [[Buccaneer]], [[Captain]], [[Caveman]], [[Chef]], [[Chunky]], [[Creature]], [[Curious]], [[Demon]], [[Druid]], [[Explorer]], [[Farmer]], [[Fisherman]], [[Gladiator]], [[Golem]], [[Jack]], [[King]] (tier 2), [[Knight]] (tier 2), [[Loud]], [[Lucky]], [[Mage]], [[Masochist]], [[One Armed]], [[Technomage]], [[Vagabond]], [[Vampire]], [[Wildling]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 10 | **1** | 50% Melee damage, 50% Elemental damage | 1.10s | 0% ×1.5 | 175 | – |
-| 2 | 22 | **1** | 65% Melee damage, 65% Elemental damage | 1.04s | 0% ×1.5 | 175 | – |
-| 3 | 45 | **1** | 80% Melee damage, 80% Elemental damage | 0.95s | 0% ×1.5 | 175 | – |
-| 4 | 91 | **1** | 100% Melee damage, 100% Elemental damage | 0.80s | 0% ×1.5 | 175 | – |
+**All tiers** Crit 0% ×1.5 · Range 175 · Knockback 20 · Accuracy 100% · Other Sweep
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 20 | 100% | Sweep |
-| 2 | 20 | 100% | Sweep |
-| 3 | 20 | 100% | Sweep |
-| 4 | 20 | 100% | Sweep |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) |
+|---|---|---|---|---|
+| 1 | 10 | **1** | 50% Melee damage, 50% Elemental damage | 1.10s |
+| 2 | 22 | **1** | 65% Melee damage, 65% Elemental damage | 1.04s |
+| 3 | 45 | **1** | 80% Melee damage, 80% Elemental damage | 0.95s |
+| 4 | 91 | **1** | 100% Melee damage, 100% Elemental damage | 0.80s |
 
 ## Effects per tier
 | Tier | Effect | Details |
@@ -46,12 +37,12 @@ Cooldown is the base value with 0 attack speed.
 | 1 | **Burning 3×3 (100% Elemental damage)** | – |
 | 2 | **Burning 5×5 (100% Elemental damage)** | – |
 | 3 | **Burning 8×6 (100% Elemental damage)** | – |
-| 3 | **Burning spread** | – |
+| 3 | **Burning spread (+1)** | – |
 | 4 | **Burning 12×9 (100% Elemental damage)** | – |
-| 4 | **Burning spread** | – |
+| 4 | **Burning spread (+1)** | – |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -70,6 +61,3 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 | Tier 3: Burning spread | value | `2 → 3` |
 | Tier 4: Burning 12×9 (100% Elemental damage) | Burning | `14×10 → 26×19` |
 | Tier 4: Burning spread | value | `2 → 3` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

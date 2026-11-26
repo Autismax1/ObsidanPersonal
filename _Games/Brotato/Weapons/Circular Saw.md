@@ -18,28 +18,20 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Blade|Blade]], [[Weapon Classes#Medical|Medical]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[King]]
+> **Classes** [[Weapon Classes#Blade|Blade]], [[Weapon Classes#Medical|Medical]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[King]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 2 | 46 | **10** | 100% Melee damage | 0.72s | 5% ×2 | 175 | Lifesteal 45% |
-| 3 | 86 | **15** | 100% Melee damage | 0.67s | 10% ×2 | 175 | Lifesteal 50% |
-| 4 | 173 | **25** | 100% Melee damage | 0.62s | 20% ×2 | 175 | Lifesteal 60% |
+**All tiers** Scaling 100% Melee damage · Range 175 · Knockback 0 · Accuracy 100% · Other Sweep
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 2 | 0 | 100% | Sweep |
-| 3 | 0 | 100% | Sweep |
-| 4 | 0 | 100% | Sweep |
+| Tier | Price | Damage | Cooldown (0 attack speed) | Crit | Extra |
+|---|---|---|---|---|---|
+| 2 | 46 | **10** | 0.72s | 5% ×2 | Lifesteal 45% |
+| 3 | 86 | **15** | 0.67s | 10% ×2 | Lifesteal 50% |
+| 4 | 173 | **25** | 0.62s | 20% ×2 | Lifesteal 60% |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -49,11 +41,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 2: weapon | Lifesteal | `50% → 94%` |
-| Tier 3: weapon | Lifesteal | `55% → 105%` |
-| Tier 4: weapon | Lifesteal | `66% → 126%` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| weapon · Lifesteal | `50% → 94%` | `55% → 105%` | `66% → 126%` |

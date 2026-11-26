@@ -25,22 +25,9 @@ in_shop: true
 > **Never offered to** [[Chef]], [[Cyborg]] (until endless)
 
 ## Effects
-- +1 Engineering for every Elemental damage
-- Melee damage -1
-- Ranged damage -1
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| +1 Engineering for every Elemental damage | value | `2 → 3` |
-| Curse stat | added | `+3 → 6` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | +1 Engineering for every Elemental damage |
-| **Can be removed** | Melee damage -1<br>Ranged damage -1 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| +1 Engineering for every Elemental damage | `2 → 3` | copied |
+| Melee damage -1 | – | removable |
+| Ranged damage -1 | – | removable |
+| Curse stat | added `+3 → 6` | |

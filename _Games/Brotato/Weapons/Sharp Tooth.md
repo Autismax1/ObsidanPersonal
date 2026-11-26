@@ -18,38 +18,26 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Precise|Precise]], [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Archaeologist]], [[Baby]], [[Caveman]], [[Crazy]], [[Creature]], [[Demon]], [[Diver]], [[Fisherman]], [[Gladiator]], [[Lich]], [[Masochist]], [[Multitasker]], [[Poacher]], [[Romantic]], [[Sick]], [[Survivor]], [[Vagabond]], [[Vampire]], [[Wildling]]
+> **Classes** [[Weapon Classes#Precise|Precise]], [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Archaeologist]], [[Baby]], [[Caveman]], [[Crazy]], [[Creature]], [[Demon]], [[Diver]], [[Fisherman]], [[Gladiator]], [[Lich]], [[Masochist]], [[Multitasker]], [[Poacher]], [[Romantic]], [[Sick]], [[Survivor]], [[Vagabond]], [[Vampire]], [[Wildling]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 12 | **5** | 50% Melee damage, 50% Lifesteal | 1.14s | 3% ×2 | 150 | – |
-| 2 | 26 | **8** | 50% Melee damage, 65% Lifesteal | 1.07s | 6% ×2.15 | 160 | – |
-| 3 | 52 | **11** | 50% Melee damage, 80% Lifesteal | 1.00s | 9% ×2.3 | 170 | – |
-| 4 | 105 | **15** | 50% Melee damage, 100% Lifesteal | 0.93s | 12% ×2.5 | 180 | – |
+**All tiers** Knockback 2 · Accuracy 100% · Other Thrust
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 2 | 100% | Thrust |
-| 2 | 2 | 100% | Thrust |
-| 3 | 2 | 100% | Thrust |
-| 4 | 2 | 100% | Thrust |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Crit | Range |
+|---|---|---|---|---|---|---|
+| 1 | 12 | **5** | 50% Melee damage, 50% Lifesteal | 1.14s | 3% ×2 | 150 |
+| 2 | 26 | **8** | 50% Melee damage, 65% Lifesteal | 1.07s | 6% ×2.15 | 160 |
+| 3 | 52 | **11** | 50% Melee damage, 80% Lifesteal | 1.00s | 9% ×2.3 | 170 |
+| 4 | 105 | **15** | 50% Melee damage, 100% Lifesteal | 0.93s | 12% ×2.5 | 180 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **+1 Lifesteal for every 25 Percent player missing health** | – |
-| 2 | **+1 Lifesteal for every 20 Percent player missing health** | – |
-| 3 | **+1 Lifesteal for every 15 Percent player missing health** | – |
-| 4 | **+1 Lifesteal for every 10 Percent player missing health** | – |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **+1 Lifesteal for every … Percent player missing health** | 25 | 20 | 15 | 10 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -60,12 +48,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: +1 Lifesteal for every 25 Percent player missing health | value | `2 → 3` |
-| Tier 2: +1 Lifesteal for every 20 Percent player missing health | value | `2 → 3` |
-| Tier 3: +1 Lifesteal for every 15 Percent player missing health | value | `2 → 3` |
-| Tier 4: +1 Lifesteal for every 10 Percent player missing health | value | `2 → 3` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| +1 Lifesteal for every … Percent player missing health | `2 → 3` | `2 → 3` | `2 → 3` | `2 → 3` |

@@ -17,38 +17,26 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Ranged** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Precise|Precise]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Apprentice]], [[Baby]], [[Crazy]], [[Diver]], [[Entrepreneur]], [[Generalist]], [[Hunter]], [[Jack]], [[Loud]], [[Multitasker]], [[One Armed]], [[Renegade]], [[Romantic]], [[Speedy]], [[Time Shifter]], [[Vagabond]], [[Vampire]]
+> **Classes** [[Weapon Classes#Precise|Precise]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Apprentice]], [[Baby]], [[Crazy]], [[Diver]], [[Entrepreneur]], [[Generalist]], [[Hunter]], [[Jack]], [[Loud]], [[Multitasker]], [[One Armed]], [[Renegade]], [[Romantic]], [[Speedy]], [[Time Shifter]], [[Vagabond]], [[Vampire]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 12 | **7** | 25% Melee damage | 0.87s | 35% ×1.5 | 350 | – |
-| 2 | 26 | **9** | 34% Melee damage | 0.83s | 38% ×1.5 | 350 | – |
-| 3 | 52 | **11** | 42% Melee damage | 0.80s | 41% ×1.5 | 350 | – |
-| 4 | 105 | **15** | 50% Melee damage | 0.70s | 45% ×1.5 | 350 | – |
+**All tiers** Range 350 · Knockback 0 · Accuracy 100% · Other projectile speed 1500
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 0 | 100% | projectile speed 1500 |
-| 2 | 0 | 100% | projectile speed 1500 |
-| 3 | 0 | 100% | projectile speed 1500 |
-| 4 | 0 | 100% | projectile speed 1500 |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Crit |
+|---|---|---|---|---|---|
+| 1 | 12 | **7** | 25% Melee damage | 0.87s | 35% ×1.5 |
+| 2 | 26 | **9** | 34% Melee damage | 0.83s | 38% ×1.5 |
+| 3 | 52 | **11** | 42% Melee damage | 0.80s | 41% ×1.5 |
+| 4 | 105 | **15** | 50% Melee damage | 0.70s | 45% ×1.5 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Bounce on crit** | – |
-| 2 | **Bounce on crit (+2)** | – |
-| 3 | **Bounce on crit (+3)** | – |
-| 4 | **Bounce on crit (+4)** | – |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Bounce on crit** | (+1) | (+2) | (+3) | (+4) |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -59,12 +47,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: Bounce on crit | value | `2 → 3` |
-| Tier 2: Bounce on crit (+2) | value | `3 → 5` |
-| Tier 3: Bounce on crit (+3) | value | `4 → 7` |
-| Tier 4: Bounce on crit (+4) | value | `5 → 9` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| Bounce on crit | `2 → 3` | `3 → 5` | `4 → 7` | `5 → 9` |

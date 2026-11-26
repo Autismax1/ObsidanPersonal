@@ -32,14 +32,14 @@ hidden_effect: false
 
 ## Starting effects
 - +200% gains of Ranged damage 🧬
-- Convert temp half wave
+- Halfway through each wave, 100% of Ranged damage is converted to Engineering (1 → 2) for the rest of the wave (`Convert temp half wave`)
 - -75% gains of Engineering
 - -100% gains of Melee damage
 - -100% gains of Elemental damage
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Wrench]] · [[Screwdriver]] · [[Plank]] · [[Pistol]] · [[Smg]] · [[Revolver]] · [[Double Barrel Shotgun]] · [[Crossbow]] · [[Brick]] · [[Awl]] · [[Crowbar]] · [[Machinegun]] · [[Carbon Bow]] · [[Sticky Grenade]]
+**Starting weapon choices** [[Wrench]] · [[Screwdriver]] · [[Plank]] · [[Pistol]] · [[Smg]] · [[Revolver]] · [[Double Barrel Shotgun]] · [[Crossbow]] · [[Brick]] · [[Awl]] · [[Crowbar]] · [[Machinegun]] · [[Carbon Bow]] · [[Sticky Grenade]]
 
 ## Banned items
 - [[Item Groups#Melee damage|Melee damage]]: [[Mastery]], [[Goat Skull]], [[Riposte]]

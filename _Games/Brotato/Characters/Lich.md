@@ -27,12 +27,12 @@ hidden_effect: false
 ## Starting effects
 - Hp regeneration +10 🧬
 - Lifesteal +10 🧬
-- **Deal dmg when heal (+100)**
+- **When you heal: deal damage equal to 100% of your Max HP (boosted by Damage %) to a random enemy** (`Deal dmg when heal (+100)`)
   - 100% chance
 - -50% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Piercing damage, Explosion damage, Bounce damage, Damage against bosses
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Scissors]] · [[Chopper]] · [[Dagger]] · [[Stick]] · [[Knife]] · [[Ghost Flint]] · [[Sharp Tooth]] · [[Pruner]] · [[Hatchet]] · [[Rock]] · [[Spiky Shield]] · [[Lightning Shiv]] · [[Ghost Scepter]] · [[Medical Gun]] · [[Smg]] · [[Wand]] · [[Icicle]] · [[Slingshot]] · [[Crossbow]] · [[Spoon]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Machinegun]] · [[Pan Flute]] · [[Carbon Bow]] · [[Boomerang]]
+**Starting weapon choices** [[Scissors]] · [[Chopper]] · [[Dagger]] · [[Stick]] · [[Knife]] · [[Ghost Flint]] · [[Sharp Tooth]] · [[Pruner]] · [[Hatchet]] · [[Rock]] · [[Spiky Shield]] · [[Lightning Shiv]] · [[Ghost Scepter]] · [[Medical Gun]] · [[Smg]] · [[Wand]] · [[Icicle]] · [[Slingshot]] · [[Crossbow]] · [[Spoon]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Machinegun]] · [[Pan Flute]] · [[Carbon Bow]] · [[Boomerang]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

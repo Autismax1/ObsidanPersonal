@@ -18,35 +18,25 @@ dlc: Primal Dread
 [[Brotato]] › [[Weapons]] · **Melee** · Primal Dread
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Blunt|Blunt]], [[Weapon Classes#Unarmed|Unarmed]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Dwarf]], [[King]], [[Knight]]
+> **Classes** [[Weapon Classes#Blunt|Blunt]], [[Weapon Classes#Unarmed|Unarmed]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Dwarf]], [[King]], [[Knight]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 2 | 35 | **25** | 100% Melee damage | 1.29s | 3% ×1.5 | 175 | – |
-| 3 | 67 | **50** | 100% Melee damage | 1.20s | 3% ×1.5 | 175 | – |
-| 4 | 134 | **100** | 100% Melee damage | 1.10s | 3% ×1.5 | 175 | – |
+**All tiers** Scaling 100% Melee damage · Crit 3% ×1.5 · Range 175 · Knockback 5 · Accuracy 100% · Other Thrust
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
+| Tier | Price | Damage | Cooldown (0 attack speed) |
 |---|---|---|---|
-| 2 | 5 | 100% | Thrust |
-| 3 | 5 | 100% | Thrust |
-| 4 | 5 | 100% | Thrust |
+| 2 | 35 | **25** | 1.29s |
+| 3 | 67 | **50** | 1.20s |
+| 4 | 134 | **100** | 1.10s |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 2 | **×2 damage while Knockback is at least 10** | – |
-| 3 | **×2 damage while Knockback is at least 10** | – |
-| 4 | **×2 damage while Knockback is at least 10** | – |
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| **×2 damage while Knockback is at least 10** | ✓ | ✓ | ✓ |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -56,11 +46,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 2: ×2 damage while Knockback is at least 10 | stat threshold lowered | `8 (worst) → 6 (best)` |
-| Tier 3: ×2 damage while Knockback is at least 10 | stat threshold lowered | `8 (worst) → 6 (best)` |
-| Tier 4: ×2 damage while Knockback is at least 10 | stat threshold lowered | `8 (worst) → 6 (best)` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| ×2 damage while Knockback is at least 10 · stat threshold lowered | `8 (worst) → 6 (best)` | `8 (worst) → 6 (best)` | `8 (worst) → 6 (best)` |

@@ -23,7 +23,7 @@ in_shop: true
 > **Never offered to** [[Droid]], [[Wounded]] (until endless)
 
 ## Effects
-| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
 | Max hp +8 | `9 → 17` | copied |
 | Dodge -2 | `-1` | removable |

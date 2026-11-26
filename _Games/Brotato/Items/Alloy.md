@@ -26,30 +26,12 @@ in_shop: true
 > **Shows up more often for** [[Arsonist]], [[Brawler]], [[Builder]], [[Crazy]], [[Cyborg]], [[Diver]], [[Dwarf]], [[Engineer]], [[Generalist]], [[Gladiator]], [[Glutton]], [[Hunter]], [[Mage]], [[Ogre]], [[Ranger]], [[Technomage]]
 
 ## Effects
-- Melee damage +3
-- Ranged damage +3
-- Elemental damage +3
-- Engineering +3
-- Crit chance +5
-- Dodge -6
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Melee damage +3 | value | `4 → 7` |
-| Ranged damage +3 | value | `4 → 7` |
-| Elemental damage +3 | value | `4 → 7` |
-| Engineering +3 | value | `4 → 7` |
-| Crit chance +5 | value | `6 → 11` |
-| Dodge -6 | value | `-5 → -2` |
-| Curse stat | added | `+4 → 7` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Melee damage +3<br>Ranged damage +3<br>Elemental damage +3<br>Engineering +3<br>Crit chance +5 |
-| **Can be removed** | Dodge -6 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Melee damage +3 | `4 → 7` | copied |
+| Ranged damage +3 | `4 → 7` | copied |
+| Elemental damage +3 | `4 → 7` | copied |
+| Engineering +3 | `4 → 7` | copied |
+| Crit chance +5 | `6 → 11` | copied |
+| Dodge -6 | `-5 → -2` | removable |
+| Curse stat | added `+4 → 7` | |

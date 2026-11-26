@@ -25,12 +25,12 @@ hidden_effect: false
 ## Starting effects
 - Explosion damage +175 🧬
 - +4 Explosion size for every Elemental damage 🧬
-- Effect class bonus +100 🧬
+- Tool weapons: +100% Damage (`Effect class bonus +100`) 🧬
 - Percent damage -100
 - -50% gains of Armor
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Plank]] · [[Screwdriver]] · [[Wrench]] · [[Shredder]] · [[Sticky Grenade]]
+**Starting weapon choices** [[Plank]] · [[Screwdriver]] · [[Wrench]] · [[Shredder]] · [[Sticky Grenade]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

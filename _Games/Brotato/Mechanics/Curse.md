@@ -32,6 +32,7 @@ Rolled once for every shop or crate item.
 - **Ammosaurus**
 - Combining a cursed weapon
 
+
 ## Curse strength
 - **Weapons:** one roll for damage and scaling ×(1 + m), crit damage ×(1 + m/5), pierce and bounce +1 at most.
 - The **shown curse level is the highest roll**, so items with many effects show higher curses.

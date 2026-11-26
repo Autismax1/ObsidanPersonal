@@ -25,28 +25,11 @@ in_shop: true
 > **Shows up more often for** [[Bull]], [[Chunky]], [[Explorer]], [[Golem]], [[Hiker]], [[Knight]], [[Lich]], [[Masochist]], [[Ogre]], [[One Armed]], [[Pacifist]], [[Speedy]], [[Time Shifter]]
 
 ## Effects
-- Max hp +3
-- Percent damage +3
-- Armor +1
-- Speed +3
-- Crit chance -4
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Max hp +3 | value | `4 → 7` |
-| Percent damage +3 | value | `4 → 7` |
-| Armor +1 | value | `2 → 3` |
-| Speed +3 | value | `4 → 7` |
-| Crit chance -4 | value | `-3 → -1` |
-| Curse stat | added | `+2 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Max hp +3<br>Percent damage +3<br>Armor +1<br>Speed +3 |
-| **Can be removed** | Crit chance -4 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Max hp +3 | `4 → 7` | copied |
+| Percent damage +3 | `4 → 7` | copied |
+| Armor +1 | `2 → 3` | copied |
+| Speed +3 | `4 → 7` | copied |
+| Crit chance -4 | `-3 → -1` | removable |
+| Curse stat | added `+2 → 5` | |

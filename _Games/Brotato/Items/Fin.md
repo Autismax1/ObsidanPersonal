@@ -24,24 +24,9 @@ in_shop: true
 > **Never offered to** [[Chunky]] (until endless)
 
 ## Effects
-- Speed +10
-- Lifesteal +3
-- Luck -8
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Speed +10 | value | `11 → 21` |
-| Lifesteal +3 | value | `4 → 7` |
-| Luck -8 | value | `-7 → -3` |
-| Curse stat | added | `+3 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Speed +10<br>Lifesteal +3 |
-| **Can be removed** | Luck -8 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Speed +10 | `11 → 21` | copied |
+| Lifesteal +3 | `4 → 7` | copied |
+| Luck -8 | `-7 → -3` | removable |
+| Curse stat | added `+3 → 5` | |

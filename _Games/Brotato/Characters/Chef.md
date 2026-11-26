@@ -24,7 +24,7 @@ hidden_effect: false
 
 ## Starting effects
 - Luck +35 🧬
-- Bonus non elemental damage against burning targets (+200) 🧬
+- +200% damage from non-elemental attacks against burning enemies (`Bonus non elemental damage against burning targets (+200)`) 🧬
 - **Explode and burn on consumable** (100% chance) 🧬
   - 100% chance
 - Enemy health +100
@@ -32,7 +32,7 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Spoon]] · [[Chopper]] · [[Fist]] · [[Knife]] · [[Hatchet]] · [[Stick]] · [[Torch]] · [[Screwdriver]] · [[Wrench]] · [[Pruner]] · [[Cacti Club]] · [[Wand]] · [[Meat Tenderizer]] · [[Awl]] · [[Whip]] · [[Blowgun]] · [[Flail]] · [[Shovel]] · [[Molotov]]
+**Starting weapon choices** [[Spoon]] · [[Chopper]] · [[Fist]] · [[Knife]] · [[Hatchet]] · [[Stick]] · [[Torch]] · [[Screwdriver]] · [[Wrench]] · [[Pruner]] · [[Cacti Club]] · [[Wand]] · [[Meat Tenderizer]] · [[Awl]] · [[Whip]] · [[Blowgun]] · [[Flail]] · [[Shovel]] · [[Molotov]]
 
 **Starting items** [[Scared Sausage]]
 

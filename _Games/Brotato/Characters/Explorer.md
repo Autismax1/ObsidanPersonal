@@ -22,7 +22,7 @@ hidden_effect: true
 > **Wanted tags** [[Wanted Tags#Speed|Speed]], [[Wanted Tags#Exploration|Exploration]], [[Wanted Tags#Consumable|Consumable]] ([[Shop Item Rolls#Wanted tags|5% of item rolls]])
 > **Never in the shop** nothing banned
 > **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all
-> **Hidden effects** Trees start wave
+> **Hidden effects** Trees spawn at wave start
 
 ## Starting effects
 - Trees (+12) 🧬
@@ -33,11 +33,11 @@ hidden_effect: true
 - Enemy gold drops (-50)
 - Enemy speed +10
 - Percent damage -40
-- Trees start wave ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
+- Trees spawn right at the start of the wave (`Trees start wave`) ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Hand]] · [[Cacti Club]] · [[Screwdriver]] · [[Dagger]] · [[Wrench]] · [[Stick]] · [[Torch]] · [[Chopper]] · [[Plank]] · [[Hatchet]] · [[Jousting Lance]] · [[Ghost Axe]] · [[Crossbow]] · [[Shredder]] · [[Taser]] · [[Wand]] · [[Hiking Stick]] · [[Spoon]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Carbon Bow]] · [[Pan Flute]] · [[Boomerang]]
+**Starting weapon choices** [[Hand]] · [[Cacti Club]] · [[Screwdriver]] · [[Dagger]] · [[Wrench]] · [[Stick]] · [[Torch]] · [[Chopper]] · [[Plank]] · [[Hatchet]] · [[Jousting Lance]] · [[Ghost Axe]] · [[Crossbow]] · [[Shredder]] · [[Taser]] · [[Wand]] · [[Hiking Stick]] · [[Spoon]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Carbon Bow]] · [[Pan Flute]] · [[Boomerang]]
 
 **Starting items** [[Lumberjack Shirt]]
 

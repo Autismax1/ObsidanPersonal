@@ -24,7 +24,7 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Effect class bonus +100 🧬
+- Precise weapons: +100 Range (`Effect class bonus +100`) 🧬
 - Attack speed +25 🧬
 - Dodge -30
 - Engineering -10
@@ -32,6 +32,6 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Knife]] · [[Dagger]] · [[Scissors]] · [[Lightning Shiv]] · [[Claw]] · [[Sharp Tooth]] · [[Shuriken]] · [[Icicle]]
+**Starting weapon choices** [[Knife]] · [[Dagger]] · [[Scissors]] · [[Lightning Shiv]] · [[Claw]] · [[Sharp Tooth]] · [[Shuriken]] · [[Icicle]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

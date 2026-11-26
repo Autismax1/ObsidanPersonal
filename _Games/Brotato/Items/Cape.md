@@ -23,28 +23,11 @@ in_shop: true
 > **Shows up more often for** [[Cryptid]], [[Ghost]], [[Lich]], [[Masochist]], [[Sick]], [[Vampire]]
 
 ## Effects
-- Lifesteal +5
-- Dodge +20
-- Melee damage -2
-- Ranged damage -2
-- Elemental damage -2
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Lifesteal +5 | value | `6 → 11` |
-| Dodge +20 | value | `22 → 42` |
-| Melee damage -2 | value | `-1` |
-| Ranged damage -2 | value | `-1` |
-| Elemental damage -2 | value | `-1` |
-| Curse stat | added | `+5 → 9` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Lifesteal +5<br>Dodge +20 |
-| **Can be removed** | Melee damage -2<br>Ranged damage -2<br>Elemental damage -2 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Lifesteal +5 | `6 → 11` | copied |
+| Dodge +20 | `22 → 42` | copied |
+| Melee damage -2 | `-1` | removable |
+| Ranged damage -2 | `-1` | removable |
+| Elemental damage -2 | `-1` | removable |
+| Curse stat | added `+5 → 9` | |

@@ -24,28 +24,11 @@ in_shop: true
 > **Shows up more often for** [[Cyborg]], [[Generalist]], [[Hunter]], [[One Armed]], [[Ranger]]
 
 ## Effects
-- Ranged damage +5
-- Percent damage +10
-- Range +10
-- Attack speed -5
-- Crit chance -5
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Ranged damage +5 | value | `6 → 11` |
-| Percent damage +10 | value | `11 → 21` |
-| Range +10 | value | `11 → 21` |
-| Attack speed -5 | value | `-4 → -2` |
-| Crit chance -5 | value | `-4 → -2` |
-| Curse stat | added | `+4 → 8` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Ranged damage +5<br>Percent damage +10<br>Range +10 |
-| **Can be removed** | Attack speed -5<br>Crit chance -5 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Ranged damage +5 | `6 → 11` | copied |
+| Percent damage +10 | `11 → 21` | copied |
+| Range +10 | `11 → 21` | copied |
+| Attack speed -5 | `-4 → -2` | removable |
+| Crit chance -5 | `-4 → -2` | removable |
+| Curse stat | added `+4 → 8` | |

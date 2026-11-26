@@ -23,22 +23,8 @@ in_shop: true
 > **Shows up more often for** [[Chunky]], [[Crazy]], [[Curious]], [[Diver]], [[Druid]], [[Hunter]], [[Lucky]]
 
 ## Effects
-- +2 Luck for every Crit chance
-- Armor -2
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| +2 Luck for every Crit chance | value | `3 → 5` |
-| Armor -2 | value | `-1` |
-| Curse stat | added | `+5 → 9` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | +2 Luck for every Crit chance |
-| **Can be removed** | Armor -2 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| +2 Luck for every Crit chance | `3 → 5` | copied |
+| Armor -2 | `-1` | removable |
+| Curse stat | added `+5 → 9` | |

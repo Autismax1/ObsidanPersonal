@@ -18,35 +18,25 @@ dlc: Abyssal Terrors
 [[Brotato]] › [[Weapons]] · **Melee** · Abyssal Terrors
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Medieval|Medieval]], [[Weapon Classes#Naval|Naval]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[King]], [[Sailor]]
+> **Classes** [[Weapon Classes#Medieval|Medieval]], [[Weapon Classes#Naval|Naval]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[King]], [[Sailor]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 2 | 49 | **30** | 100% Melee damage, 15% Curse | 1.58s | 3% ×2 | 325 | – |
-| 3 | 96 | **50** | 100% Melee damage, 30% Curse | 1.50s | 3% ×2 | 325 | – |
-| 4 | 200 | **80** | 100% Melee damage, 50% Curse | 1.41s | 3% ×2 | 325 | – |
+**All tiers** Crit 3% ×2 · Range 325 · Knockback 0 · Accuracy 100% · Other Thrust
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 2 | 0 | 100% | Thrust |
-| 3 | 0 | 100% | Thrust |
-| 4 | 0 | 100% | Thrust |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) |
+|---|---|---|---|---|
+| 2 | 49 | **30** | 100% Melee damage, 15% Curse | 1.58s |
+| 3 | 96 | **50** | 100% Melee damage, 30% Curse | 1.50s |
+| 4 | 200 | **80** | 100% Melee damage, 50% Curse | 1.41s |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 2 | **Bonus damage against targets above hp (+30)** | second value 80 |
-| 3 | **Bonus damage against targets above hp (+40)** | second value 80 |
-| 4 | **Bonus damage against targets above hp (+50)** | second value 80 |
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| **Bonus damage against targets above hp**<br>· second value 80 | (+30) | (+40) | (+50) |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -56,11 +46,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 2: Bonus damage against targets above hp (+30) | value | `33 → 63` |
-| Tier 3: Bonus damage against targets above hp (+40) | value | `44 → 84` |
-| Tier 4: Bonus damage against targets above hp (+50) | value | `56 → 105` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| Bonus damage against targets above hp | `33 → 63` | `44 → 84` | `56 → 105` |

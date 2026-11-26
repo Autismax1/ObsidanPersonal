@@ -16,19 +16,10 @@ in_shop: false
 [[Brotato]] › [[Items]] · **Tier 4** · Base game
 
 > [!info] Not in the shop
-> Not sold in the shop or crates. Created by another effect.
+> Not sold in the shop or crates. Created by another effect, so it only gets cursed through special effects.
 
 ## Effects
-- Broken hourglass
-- Hp start next wave (-100)
-
-## Cursed
-Not sold in the shop, so it only gets cursed through special effects.
-
-## Mutation
-| | |
+| Effect | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Broken hourglass | – |
+| Hp start next wave (-100) | – |

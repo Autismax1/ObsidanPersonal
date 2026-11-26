@@ -21,22 +21,8 @@ in_shop: true
 > **Tags** [[Wanted Tags#Evolution|Evolution]]
 
 ## Effects
-- Evolution -5
-- Heal on mutant kill (+50)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Evolution -5 | value | `-6 → -11` |
-| Heal on mutant kill (+50) | value | `56 → 105` |
-| Curse stat | added | `+1 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Heal on mutant kill (+50) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Evolution -5 | `-6 → -11` | – |
+| Heal on mutant kill (+50) | `56 → 105` | copied |
+| Curse stat | added `+1 → 3` | |

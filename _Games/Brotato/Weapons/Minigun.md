@@ -18,25 +18,18 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Ranged** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Gun|Gun]], [[Weapon Classes#Heavy|Heavy]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]]
+> **Classes** [[Weapon Classes#Gun|Gun]], [[Weapon Classes#Heavy|Heavy]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 3 | 127 | **2** | 50% Ranged damage | 0.09s | 1% ×1.75 | 400 | Piercing 1 |
-| 4 | 255 | **5** | 75% Ranged damage | 0.09s | 3% ×2 | 450 | Piercing 2 |
+**All tiers** Knockback 3 · Other −25% damage per pierce · on-hit effect size ×0.1
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 3 | 3 | 85% | −25% damage per pierce · on-hit effect size ×0.1 |
-| 4 | 3 | 100% | −25% damage per pierce · on-hit effect size ×0.1 |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Crit | Range | Extra | Accuracy |
+|---|---|---|---|---|---|---|---|---|
+| 3 | 127 | **2** | 50% Ranged damage | 0.09s | 1% ×1.75 | 400 | Piercing 1 | 85% |
+| 4 | 255 | **5** | 75% Ranged damage | 0.09s | 3% ×2 | 450 | Piercing 2 | 100% |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -45,10 +38,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
+| Effect | Tier 3 | Tier 4 |
 |---|---|---|
-| Tier 3: weapon | Piercing | `2 → 2` |
-| Tier 4: weapon | Piercing | `3 → 3` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| weapon · Piercing | `2 → 2` | `3 → 3` |

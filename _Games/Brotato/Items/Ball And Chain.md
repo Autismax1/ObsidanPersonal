@@ -24,28 +24,11 @@ in_shop: true
 > **Shows up more often for** [[Bull]], [[Golem]], [[Knight]], [[Masochist]], [[One Armed]], [[Pacifist]]
 
 ## Effects
-- Percent damage +15
-- Armor +3
-- Knockback (+5)
-- Speed -3
-- Minimum cooldown (+45)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Percent damage +15 | value | `17 → 32` |
-| Armor +3 | value | `4 → 7` |
-| Knockback (+5) | value | `6 → 11` |
-| Speed -3 | value | `-2 → -1` |
-| Minimum cooldown (+45) | value | `40 → 21` |
-| Curse stat | added | `+3 → 6` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Percent damage +15<br>Armor +3<br>Knockback (+5) |
-| **Can be removed** | Speed -3<br>Minimum cooldown (+45) |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Percent damage +15 | `17 → 32` | copied |
+| Armor +3 | `4 → 7` | copied |
+| Knockback (+5) | `6 → 11` | copied |
+| Speed -3 | `-2 → -1` | removable |
+| Minimum cooldown (+45) | `40 → 21` | removable |
+| Curse stat | added `+3 → 6` | |

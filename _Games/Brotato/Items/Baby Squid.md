@@ -24,22 +24,8 @@ in_shop: true
 > **Never offered to** [[Droid]], [[Druid]], [[Golem]], [[Sick]], [[Vampire]], [[Veteran]], [[Wounded]] (until endless)
 
 ## Effects
-- +1 Hp regeneration on every level up
-- Attack speed -3
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| +1 Hp regeneration on every level up | value | `2 → 3` |
-| Attack speed -3 | value | `-2 → -1` |
-| Curse stat | added | `+2 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | +1 Hp regeneration on every level up |
-| **Can be removed** | Attack speed -3 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| +1 Hp regeneration on every level up | `2 → 3` | copied |
+| Attack speed -3 | `-2 → -1` | removable |
+| Curse stat | added `+2 → 5` | |

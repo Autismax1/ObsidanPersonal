@@ -22,25 +22,10 @@ in_shop: true
 > **Shows up more often for** [[Bull]], [[Golem]], [[Knight]], [[Masochist]], [[Pacifist]]
 
 ## Effects
-- Armor +3
-- Speed -3
-- +1 Armor for every Fossil count
-- Fossil count ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Armor +3 | value | `4 → 7` |
-| Speed -3 | value | `-2 → -1` |
-| +1 Armor for every Fossil count | value | `2 → 3` |
-| Curse stat | added | `+3 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Armor +3<br>+1 Armor for every Fossil count<br>Fossil count ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]]) |
-| **Can be removed** | Speed -3 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Armor +3 | `4 → 7` | copied |
+| Speed -3 | `-2 → -1` | removable |
+| +1 Armor for every Fossil count | `2 → 3` | copied |
+| Fossil count (+1) ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]]) | – | copied |
+| Curse stat | added `+3 → 5` | |

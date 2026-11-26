@@ -23,13 +23,13 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Gold on every step: +6 Gold (10) 🧬
-- On every step: +1 Max hp (80) 🧬
+- +6 materials every 10 steps (`Gold on every step: +6 Gold (10)`) 🧬
+- +1 Max HP every 80 steps (`On every step: +1 Max hp (80)`) 🧬
 - +10% gains of Speed 🧬
 - Gold drops (-50)
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Hiking Stick]] · [[Fist]] · [[Hand]] · [[Lute]] · [[Flute]] · [[Dagger]] · [[Jousting Lance]] · [[Stick]] · [[Pistol]] · [[Taser]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Spoon]] · [[Whip]] · [[Blowgun]] · [[Boomerang]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]]
+**Starting weapon choices** [[Hiking Stick]] · [[Fist]] · [[Hand]] · [[Lute]] · [[Flute]] · [[Dagger]] · [[Jousting Lance]] · [[Stick]] · [[Pistol]] · [[Taser]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Spoon]] · [[Whip]] · [[Blowgun]] · [[Boomerang]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

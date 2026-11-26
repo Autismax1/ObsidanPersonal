@@ -34,7 +34,7 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Fire explosion
+- Your explosions leave a fire puddle (`Fire explosion`)
 - **Fire puddle on burning death** (50% chance) 🧬
   - 50% chance
 - Speed +5 🧬
@@ -44,7 +44,7 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Torch]] · [[Molotov]] · [[Shredder]] · [[Sticky Grenade]] · [[Plank]] · [[Lightning Shiv]] · [[Wand]] · [[Screwdriver]]
+**Starting weapon choices** [[Torch]] · [[Molotov]] · [[Shredder]] · [[Sticky Grenade]] · [[Plank]] · [[Lightning Shiv]] · [[Wand]] · [[Screwdriver]]
 
 ## Banned items
 - [[Item Groups#Melee damage|Melee damage]]: [[Mastery]], [[Goat Skull]], [[Riposte]]

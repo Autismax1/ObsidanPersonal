@@ -7,8 +7,11 @@ tags:
 [[Brotato]] › Shop · related: [[Rarity Odds]], [[Weapon Rolls]], [[Item Caps]]
 
 > [!summary] At a glance
-> - Slot → rarity → pool → bans and caps removed → `5%` wanted-tag filter → random pick → curse/meca roll.
-> - Character bans stop in endless. Endless bans Piggy Bank and Crown.
+> - Slot → rarity → pool → bans and caps removed → wanted-tag filter → random pick → curse/meca roll.
+> - **Wanted tag roll:** `5%` of item rolls (`10%` boosted, e.g. [[Beast Master]]) only offer items with a wanted tag. The other `95%` ignore tags.
+> - Character bans apply only before the last wave: in endless, banned items come back. Endless instead bans **Piggy Bank** and **Crown**.
+
+^glance
 
 How one shop slot (or a crate) picks its item. Same logic for every slot.
 
@@ -21,20 +24,17 @@ How one shop slot (or a crate) picks its item. Same logic for every slot.
    - items you have the max number of. See [[Item Caps]].
    - your character's banned items and item groups. See [[#Character bans]].
    - tags removed by item effects
-5. **Wanted tag filter** (5% chance). See [[#Wanted tags]].
+5. **Wanted tag filter**. See [[#Wanted tags]].
 6. Pick one at random. If the pool is empty, a backup pool is used.
 7. The item can turn [[Curse|cursed]] or [[Meca|meca]] (weapons). See [[Curse#Curse chance]].
 
 ## Wanted tags
 - Every character has a hidden list of wanted tags. Your character note lists them.
-- On **5%** of item rolls (10% with the boosted effect, e.g. [[Beast Master]]), the pool is cut down to items with at least one wanted tag.
-- The other 95% of rolls ignore the tags completely. Wanted tags are a small nudge, not a weight.
+- Wanted tags are a small nudge, not a weight.
 - Which items each tag covers: [[Wanted Tags]].
 
 ## Character bans
 - Banned items and [[Item Groups|banned item groups]] are removed from the pool.
-- **Only before the last wave.** In endless, banned items come back.
-- Endless instead bans **Piggy Bank** and **Crown**.
 - Banned level-ups are rerolled (up to 50 tries).
 
 ## Small rules

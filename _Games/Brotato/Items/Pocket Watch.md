@@ -20,23 +20,8 @@ in_shop: true
 > **Never offered to** [[Wounded]] (until endless)
 
 ## Effects
-- **Slow time when below hp (+75)**
-  - 5s · below 40% HP
-- Dodge -4
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Slow time when below hp (+75) | duration | `×1.10 → ×2.10` |
-| Dodge -4 | value | `-3 → -1` |
-| Curse stat | added | `+3 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Slow time when below hp (+75) (5s, below 40% HP) |
-| **Can be removed** | Dodge -4 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| **Slow time when below hp (+75)**<br>· 5s · below 40% HP | duration `×1.10 → ×2.10` | copied |
+| Dodge -4 | `-3 → -1` | removable |
+| Curse stat | added `+3 → 5` | |

@@ -23,21 +23,7 @@ in_shop: true
 > **Shows up more often for** [[Creature]], [[One Armed]], [[Sailor]]
 
 ## Effects
-- Percent damage +3
-- Curse +1
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Percent damage +3 | value | `4 → 7` |
-| Curse +1 | value | `2 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Percent damage +3 |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Percent damage +3 | `4 → 7` | copied |
+| Curse +1 | `2 → 3` | – |

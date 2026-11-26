@@ -17,38 +17,26 @@ dlc: Primal Dread
 [[Brotato]] › [[Weapons]] · **Ranged** · Primal Dread
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Builder]], [[Captain]], [[Creature]], [[Curious]], [[Explorer]], [[Fisherman]], [[Hiker]], [[Jack]], [[King]], [[Lich]], [[Old]], [[Romantic]], [[Soldier]], [[Speedy]], [[Vagabond]], [[Wildling]], [[Wounded]]
+> **Classes** [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Builder]], [[Captain]], [[Creature]], [[Curious]], [[Explorer]], [[Fisherman]], [[Hiker]], [[Jack]], [[King]] (tier 2), [[Lich]], [[Old]], [[Romantic]], [[Soldier]], [[Speedy]], [[Vagabond]], [[Wildling]], [[Wounded]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 14 | **12** | 50% Melee damage, 75% Speed | 0.45s | 5% ×2 | 300 | – |
-| 2 | 30 | **18** | 60% Melee damage, 100% Speed | 0.43s | 5% ×2 | 325 | – |
-| 3 | 58 | **24** | 70% Melee damage, 125% Speed | 0.42s | 5% ×2 | 350 | – |
-| 4 | 115 | **34** | 80% Melee damage, 150% Speed | 0.40s | 5% ×2 | 375 | – |
+**All tiers** Crit 5% ×2 · Knockback 0 · Accuracy 100%
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 0 | 100% | projectile speed 900 · can't gain bounces |
-| 2 | 0 | 100% | projectile speed 950 · can't gain bounces |
-| 3 | 0 | 100% | projectile speed 1000 · can't gain bounces |
-| 4 | 0 | 100% | projectile speed 1050 · can't gain bounces |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Range | Other |
+|---|---|---|---|---|---|---|
+| 1 | 14 | **12** | 50% Melee damage, 75% Speed | 0.45s | 300 | projectile speed 900 · can't gain bounces |
+| 2 | 30 | **18** | 60% Melee damage, 100% Speed | 0.43s | 325 | projectile speed 950 · can't gain bounces |
+| 3 | 58 | **24** | 70% Melee damage, 125% Speed | 0.42s | 350 | projectile speed 1000 · can't gain bounces |
+| 4 | 115 | **34** | 80% Melee damage, 150% Speed | 0.40s | 375 | projectile speed 1050 · can't gain bounces |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Boomerang return** | – |
-| 2 | **Boomerang return** | – |
-| 3 | **Boomerang return** | – |
-| 4 | **Boomerang return** | – |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Boomerang return** | ✓ | ✓ | ✓ | ✓ |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -56,6 +44,3 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 | 2 | `20 → 38` | 66% → 126% Melee damage, 110% → 210% Speed | ×2 → ×2.4 | `+1 → 3` |
 | 3 | `27 → 51` | 77% → 147% Melee damage, 138% → 262% Speed | ×2 → ×2.4 | `+3 → 5` |
 | 4 | `38 → 72` | 88% → 168% Melee damage, 165% → 315% Speed | ×2 → ×2.4 | `+5 → 10` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

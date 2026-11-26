@@ -17,30 +17,21 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Ranged** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Apprentice]], [[Archaeologist]], [[Baby]], [[Buccaneer]], [[Builder]], [[Captain]], [[Curious]], [[Druid]], [[Farmer]], [[Fisherman]], [[Generalist]], [[Golem]], [[Lich]], [[Loud]], [[Lucky]], [[Multitasker]], [[One Armed]], [[Poacher]], [[Ranger]], [[Renegade]], [[Romantic]], [[Sick]], [[Streamer]], [[Survivor]], [[Variant]], [[Well Rounded]], [[Wildling]], [[Wounded]]
+> **Classes** [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Apprentice]], [[Archaeologist]], [[Baby]], [[Buccaneer]], [[Builder]], [[Captain]], [[Curious]], [[Druid]], [[Farmer]], [[Fisherman]], [[Generalist]], [[Golem]], [[Lich]], [[Loud]], [[Lucky]], [[Multitasker]], [[One Armed]], [[Poacher]], [[Ranger]], [[Renegade]], [[Romantic]], [[Sick]], [[Streamer]], [[Survivor]], [[Variant]], [[Well Rounded]], [[Wildling]], [[Wounded]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 15 | **10** | 80% Ranged damage | 1.22s | 3% ×2 | 300 | Bounce 1 |
-| 2 | 31 | **13** | 80% Ranged damage | 1.17s | 3% ×2 | 300 | Bounce 2 |
-| 3 | 61 | **16** | 80% Ranged damage | 1.13s | 3% ×2 | 300 | Bounce 3 |
-| 4 | 122 | **20** | 80% Ranged damage | 1.10s | 3% ×2 | 300 | Bounce 4 |
+**All tiers** Scaling 80% Ranged damage · Crit 3% ×2 · Range 300 · Knockback 5 · Accuracy 100% · Other no damage loss on bounce · projectile speed 2000
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 5 | 100% | no damage loss on bounce · projectile speed 2000 |
-| 2 | 5 | 100% | no damage loss on bounce · projectile speed 2000 |
-| 3 | 5 | 100% | no damage loss on bounce · projectile speed 2000 |
-| 4 | 5 | 100% | no damage loss on bounce · projectile speed 2000 |
+| Tier | Price | Damage | Cooldown (0 attack speed) | Extra |
+|---|---|---|---|---|
+| 1 | 15 | **10** | 1.22s | Bounce 1 |
+| 2 | 31 | **13** | 1.17s | Bounce 2 |
+| 3 | 61 | **16** | 1.13s | Bounce 3 |
+| 4 | 122 | **20** | 1.10s | Bounce 4 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -51,12 +42,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: weapon | Bounce | `2 → 2` |
-| Tier 2: weapon | Bounce | `3 → 3` |
-| Tier 3: weapon | Bounce | `4 → 4` |
-| Tier 4: weapon | Bounce | `5 → 5` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| weapon · Bounce | `2 → 2` | `3 → 3` | `4 → 4` | `5 → 5` |

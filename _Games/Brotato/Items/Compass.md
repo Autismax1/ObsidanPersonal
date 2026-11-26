@@ -23,24 +23,9 @@ in_shop: true
 > **Shows up more often for** [[Builder]], [[Dwarf]], [[Engineer]], [[Explorer]], [[Hiker]], [[Speedy]], [[Technomage]], [[Time Shifter]]
 
 ## Effects
-- Speed +5
-- Engineering +3
-- Crit chance -3
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Speed +5 | value | `6 → 11` |
-| Engineering +3 | value | `4 → 7` |
-| Crit chance -3 | value | `-2 → -1` |
-| Curse stat | added | `+2 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Speed +5<br>Engineering +3 |
-| **Can be removed** | Crit chance -3 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Speed +5 | `6 → 11` | copied |
+| Engineering +3 | `4 → 7` | copied |
+| Crit chance -3 | `-2 → -1` | removable |
+| Curse stat | added `+2 → 3` | |

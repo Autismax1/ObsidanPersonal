@@ -36,7 +36,7 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Cacti Club]] · [[Dagger]] · [[Spear]] · [[Claw]] · [[Scissors]] · [[Shuriken]] · [[Double Barrel Shotgun]] · [[Crossbow]] · [[Icicle]] · [[Rail Gun]] · [[Knife]] · [[Hiking Stick]] · [[Javelin]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Carbon Bow]] · [[Flail]]
+**Starting weapon choices** [[Cacti Club]] · [[Dagger]] · [[Spear]] · [[Claw]] · [[Scissors]] · [[Shuriken]] · [[Double Barrel Shotgun]] · [[Crossbow]] · [[Icicle]] · [[Rail Gun]] · [[Knife]] · [[Hiking Stick]] · [[Javelin]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Carbon Bow]] · [[Flail]]
 
 ## Banned items
 - [[Item Groups#Harvesting|Harvesting]]: [[Blood Donation]], [[Crown]], [[Fertilizer]], [[Tractor]], [[Wheelbarrow]], [[Lost Organ]]

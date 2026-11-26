@@ -24,24 +24,9 @@ in_shop: true
 > **Never offered to** [[Ghost]] (until endless)
 
 ## Effects
-- Armor +1
-- Engineering +1
-- Max hp -2
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Armor +1 | value | `2 → 3` |
-| Engineering +1 | value | `2 → 3` |
-| Max hp -2 | value | `-1` |
-| Curse stat | added | `+1 → 2` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Armor +1<br>Engineering +1 |
-| **Can be removed** | Max hp -2 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Armor +1 | `2 → 3` | copied |
+| Engineering +1 | `2 → 3` | copied |
+| Max hp -2 | `-1` | removable |
+| Curse stat | added `+1 → 2` | |

@@ -23,8 +23,10 @@ in_shop: true
 > **Shows up more often for** [[Beast Master]], [[Cyborg]], [[Generalist]], [[Ranger]]
 
 ## Effects
-- **Pet: Catling Gun**
-  - `10` damage (60% Ranged damage) · cooldown `0.92s` · range `500`
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
+|---|---|---|
+| **Pet: Catling Gun**<br>· `10` damage (60% Ranged damage) · cooldown `0.92s` · range `500` | damage `11 → 21`<br>scaling `×1.10 → ×2.10` | – |
+| Curse stat | added `+1 → 3` | |
 
 ## How it works
 - Two guns that take turns: 10 damage (60% Ranged damage) each, range 500. With a 0.92s cooldown and alternating guns that is **a shot every 0.46s**.
@@ -32,20 +34,3 @@ in_shop: true
 
 > [!note] Pet stats
 > Pets get your % Damage and Crit chance, but **not your Attack speed** (Improved Tools doesn't help either): their attack cooldowns never change. See [[Structures and Pets]].
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Pet: Catling Gun | damage | `11 → 21` |
-|  | scaling | `×1.10 → ×2.10` |
-| Curse stat | added | `+1 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

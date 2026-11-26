@@ -19,20 +19,7 @@ in_shop: true
 > **Price** `23` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
 
 ## Effects
-- Increase tier on reroll
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Increase tier on reroll | value | `2 → 3` |
-| Curse stat | added | `+1 → 2` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Increase tier on reroll (+1) | `2 → 3` | – |
+| Curse stat | added `+1 → 2` | |

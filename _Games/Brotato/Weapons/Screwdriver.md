@@ -17,41 +17,29 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Tool|Tool]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Apprentice]], [[Arsonist]], [[Artificer]], [[Baby]], [[Chef]], [[Cryptid]], [[Cyborg]], [[Droid]], [[Engineer]], [[Explorer]], [[Farmer]], [[Glutton]], [[Loud]], [[Lucky]], [[Multitasker]], [[Old]], [[Speedy]], [[Streamer]], [[Technomage]], [[Time Shifter]], [[Vampire]]
+> **Classes** [[Weapon Classes#Tool|Tool]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Apprentice]], [[Arsonist]], [[Artificer]], [[Baby]], [[Chef]], [[Cryptid]], [[Cyborg]], [[Droid]], [[Engineer]], [[Explorer]], [[Farmer]], [[Glutton]], [[Loud]], [[Lucky]], [[Multitasker]], [[Old]], [[Speedy]], [[Streamer]], [[Technomage]], [[Time Shifter]], [[Vampire]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 10 | **8** | 50% Melee damage, 50% Engineering | 1.06s | 10% ×2 | 135 | – |
-| 2 | 22 | **12** | 50% Melee damage, 60% Engineering | 1.01s | 15% ×2.15 | 135 | – |
-| 3 | 45 | **16** | 50% Melee damage, 70% Engineering | 0.98s | 20% ×2.3 | 135 | – |
-| 4 | 91 | **20** | 50% Melee damage, 80% Engineering | 0.88s | 30% ×2.5 | 135 | – |
+**All tiers** Range 135 · Knockback 3 · Accuracy 100% · Other Thrust
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 3 | 100% | Thrust |
-| 2 | 3 | 100% | Thrust |
-| 3 | 3 | 100% | Thrust |
-| 4 | 3 | 100% | Thrust |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Crit |
+|---|---|---|---|---|---|
+| 1 | 10 | **8** | 50% Melee damage, 50% Engineering | 1.06s | 10% ×2 |
+| 2 | 22 | **12** | 50% Melee damage, 60% Engineering | 1.01s | 15% ×2.15 |
+| 3 | 45 | **16** | 50% Melee damage, 70% Engineering | 0.98s | 20% ×2.3 |
+| 4 | 91 | **20** | 50% Melee damage, 80% Engineering | 0.88s | 30% ×2.5 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Landmines** | spawns every 12s<br>`10` damage (100% Engineering)<br>Explodes on hit (100% chance, explosion size 175%) |
-| 2 | **Landmines** | spawns every 9s<br>`10` damage (100% Engineering)<br>Explodes on hit (100% chance, explosion size 175%) |
-| 3 | **Landmines** | spawns every 6s<br>`10` damage (100% Engineering)<br>Explodes on hit (100% chance, explosion size 175%) |
-| 4 | **Landmines** | spawns every 3s<br>`10` damage (100% Engineering)<br>Explodes on hit (100% chance, explosion size 175%) |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Landmines** | spawns every 12s<br>`10` damage (100% Engineering)<br>Explodes on hit (100% chance, explosion size 175%) | spawns every 9s<br>`10` damage (100% Engineering)<br>Explodes on hit (100% chance, explosion size 175%) | spawns every 6s<br>`10` damage (100% Engineering)<br>Explodes on hit (100% chance, explosion size 175%) | spawns every 3s<br>`10` damage (100% Engineering)<br>Explodes on hit (100% chance, explosion size 175%) |
 
 > [!note] Structures
 > Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -62,20 +50,8 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: Landmines | spawn interval | `10s → 5s` |
-|  | damage | `11 → 21` |
-|  | scaling | `×1.10 → ×2.10` |
-| Tier 2: Landmines | spawn interval | `8s → 4s` |
-|  | damage | `11 → 21` |
-|  | scaling | `×1.10 → ×2.10` |
-| Tier 3: Landmines | spawn interval | `5s → 2s` |
-|  | damage | `11 → 21` |
-|  | scaling | `×1.10 → ×2.10` |
-| Tier 4: Landmines | spawn interval | `2s → 1s` |
-|  | damage | `11 → 21` |
-|  | scaling | `×1.10 → ×2.10` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| Landmines · spawn interval | `10s → 5s` | `8s → 4s` | `5s → 2s` | `2s → 1s` |
+| Landmines · damage | `11 → 21` | `11 → 21` | `11 → 21` | `11 → 21` |
+| Landmines · scaling | `×1.10 → ×2.10` | `×1.10 → ×2.10` | `×1.10 → ×2.10` | `×1.10 → ×2.10` |

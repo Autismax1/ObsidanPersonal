@@ -17,30 +17,21 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Ranged** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Gun|Gun]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Arms Dealer]], [[Baby]], [[Cryptid]], [[Curious]], [[Cyborg]], [[Droid]], [[Entrepreneur]], [[Fisherman]], [[Gangster]], [[Golem]], [[Hiker]], [[King]], [[Loud]], [[Mad Scientist]], [[Poacher]], [[Ranger]], [[Renegade]], [[Saver]], [[Soldier]], [[Streamer]], [[Vampire]], [[Variant]], [[Well Rounded]], [[Wounded]]
+> **Classes** [[Weapon Classes#Gun|Gun]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Arms Dealer]], [[Baby]], [[Cryptid]], [[Curious]], [[Cyborg]], [[Droid]], [[Entrepreneur]], [[Fisherman]], [[Gangster]], [[Golem]], [[Hiker]], [[King]] (tier 2), [[Loud]], [[Mad Scientist]], [[Poacher]], [[Ranger]], [[Renegade]], [[Saver]], [[Soldier]], [[Streamer]], [[Vampire]], [[Variant]], [[Well Rounded]], [[Wounded]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 10 | **12** | 100% Ranged damage | 1.20s | 10% ×2 | 400 | Piercing 1 |
-| 2 | 22 | **20** | 100% Ranged damage | 1.12s | 15% ×2 | 400 | Piercing 1 |
-| 3 | 45 | **30** | 100% Ranged damage | 1.03s | 20% ×2 | 400 | Piercing 1 |
-| 4 | 91 | **50** | 100% Ranged damage | 0.87s | 25% ×2 | 400 | Piercing 1 |
+**All tiers** Scaling 100% Ranged damage · Range 400 · Extra Piercing 1 · Knockback 15 · Other −50% damage per pierce
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 15 | 90% | −50% damage per pierce |
-| 2 | 15 | 90% | −50% damage per pierce |
-| 3 | 15 | 90% | −50% damage per pierce |
-| 4 | 15 | 100% | −50% damage per pierce |
+| Tier | Price | Damage | Cooldown (0 attack speed) | Crit | Accuracy |
+|---|---|---|---|---|---|
+| 1 | 10 | **12** | 1.20s | 10% ×2 | 90% |
+| 2 | 22 | **20** | 1.12s | 15% ×2 | 90% |
+| 3 | 45 | **30** | 1.03s | 20% ×2 | 90% |
+| 4 | 91 | **50** | 0.87s | 25% ×2 | 100% |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -51,12 +42,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: weapon | Piercing | `2 → 2` |
-| Tier 2: weapon | Piercing | `2 → 2` |
-| Tier 3: weapon | Piercing | `2 → 2` |
-| Tier 4: weapon | Piercing | `2 → 2` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| weapon · Piercing | `2 → 2` | `2 → 2` | `2 → 2` | `2 → 2` |

@@ -23,12 +23,12 @@ hidden_effect: false
 
 ## Starting effects
 - Xp gain -25
-- Mutant only
-- Mutate end of wave
-- Mutate on equip chance (+25) *(only from scale 0.7, about −63 evolution)* 🧬
+- Evolution locked to Mutant: only Mutant fruits drop, never Meca (`Mutant only`)
+- End of every wave: a random item mutates (`Mutate end of wave`)
+- 25% chance for each item you get to mutate (`Mutate on equip chance (+25)`) *(only from scale 0.7, about −58 evolution)* 🧬
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Ghost Flint]] · [[Pistol]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Slingshot]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]]
+**Starting weapon choices** [[Ghost Flint]] · [[Pistol]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Slingshot]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

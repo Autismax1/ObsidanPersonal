@@ -18,20 +18,12 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Legendary|Legendary]] · **Tiers** 4–4 · shop odds: [[Weapon Rolls]]
+> **Classes** [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Legendary|Legendary]] · **Tiers** 4–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 4 | 315 | **100** | 100% Melee damage, 100% Engineering | 1.33s | 3% ×2 | 400 | – |
-
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 4 | 10 | 100% | Thrust |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Crit | Range | Extra | Knockback | Accuracy | Other |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 315 | **100** | 100% Melee damage, 100% Engineering | 1.33s | 3% ×2 | 400 | – | 10 | 100% | Thrust |
 
 ## Effects per tier
 | Tier | Effect | Details |
@@ -40,7 +32,7 @@ Cooldown is the base value with 0 attack speed.
 | 4 | **Effect lightning on hit** | `30` damage (100% Elemental damage) · every `1.20s` · range `9999` · crit 3% ×2 · bounce 4 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -53,6 +45,3 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 | Tier 4: Explodes on hit | explosion chance | `51% → 61%` |
 | Tier 4: Effect lightning on hit | damage | `33 → 63` |
 |  | scaling | `×1.10 → ×2.10` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

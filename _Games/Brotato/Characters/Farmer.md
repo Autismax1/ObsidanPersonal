@@ -25,13 +25,13 @@ hidden_effect: false
 
 ## Starting effects
 - Harvesting +20 🧬
-- Harvesting growth (+3) 🧬
-- Consumable while max *(only from scale 0.7, about −63 evolution)* 🧬
+- Harvesting grows 8% per wave instead of 5% (+3) (`Harvesting growth (+3)`) 🧬
+- Picking up a consumable at full HP: +1 Harvesting (`Consumable while max`) *(only from scale 0.7, about −58 evolution)* 🧬
 - Gold drops (-50)
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Hand]] · [[Spear]] · [[Stick]] · [[Torch]] · [[Fighting Stick]] · [[Screwdriver]] · [[Pruner]] · [[Dagger]] · [[Wrench]] · [[Taser]] · [[Wand]] · [[Double Barrel Shotgun]] · [[Slingshot]] · [[Potato Thrower]] · [[Lute]] · [[Sickle]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Whip]] · [[Pan Flute]]
+**Starting weapon choices** [[Hand]] · [[Spear]] · [[Stick]] · [[Torch]] · [[Fighting Stick]] · [[Screwdriver]] · [[Pruner]] · [[Dagger]] · [[Wrench]] · [[Taser]] · [[Wand]] · [[Double Barrel Shotgun]] · [[Slingshot]] · [[Potato Thrower]] · [[Lute]] · [[Sickle]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Whip]] · [[Pan Flute]]
 
 **Starting items** [[Garden]]
 

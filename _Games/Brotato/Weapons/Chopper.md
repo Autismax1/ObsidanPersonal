@@ -17,38 +17,26 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Blade|Blade]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Archaeologist]], [[Captain]], [[Chef]], [[Chunky]], [[Creature]], [[Cryptid]], [[Demon]], [[Druid]], [[Explorer]], [[Glutton]], [[Golem]], [[Lich]], [[Lucky]], [[Multitasker]], [[Ogre]], [[Old]], [[Poacher]], [[Romantic]], [[Saver]], [[Survivor]], [[Vagabond]], [[Well Rounded]], [[Wounded]]
+> **Classes** [[Weapon Classes#Blade|Blade]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Archaeologist]], [[Captain]], [[Chef]], [[Chunky]], [[Creature]], [[Cryptid]], [[Demon]], [[Druid]], [[Explorer]], [[Glutton]], [[Golem]], [[Lich]], [[Lucky]], [[Multitasker]], [[Ogre]], [[Old]], [[Poacher]], [[Romantic]], [[Saver]], [[Survivor]], [[Vagabond]], [[Well Rounded]], [[Wounded]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 15 | **6** | 50% Melee damage, 15% Max hp | 0.99s | 10% ×2 | 135 | – |
-| 2 | 31 | **12** | 50% Melee damage, 20% Max hp | 0.98s | 15% ×2 | 150 | – |
-| 3 | 61 | **18** | 50% Melee damage, 25% Max hp | 0.96s | 20% ×2 | 165 | – |
-| 4 | 122 | **30** | 50% Melee damage, 30% Max hp | 0.89s | 25% ×2 | 180 | – |
+**All tiers** Knockback 2 · Accuracy 100% · Other Sweep
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 2 | 100% | Sweep |
-| 2 | 2 | 100% | Sweep |
-| 3 | 2 | 100% | Sweep |
-| 4 | 2 | 100% | Sweep |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Crit | Range |
+|---|---|---|---|---|---|---|
+| 1 | 15 | **6** | 50% Melee damage, 15% Max hp | 0.99s | 10% ×2 | 135 |
+| 2 | 31 | **12** | 50% Melee damage, 20% Max hp | 0.98s | 15% ×2 | 150 |
+| 3 | 61 | **18** | 50% Melee damage, 25% Max hp | 0.96s | 20% ×2 | 165 |
+| 4 | 122 | **30** | 50% Melee damage, 30% Max hp | 0.89s | 25% ×2 | 180 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Consumable heal** | – |
-| 2 | **Consumable heal** | – |
-| 3 | **Consumable heal** | – |
-| 4 | **Consumable heal (+2)** | – |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Consumable heal** | (+1) | (+1) | (+1) | (+2) |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -59,12 +47,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: Consumable heal | value | `2 → 3` |
-| Tier 2: Consumable heal | value | `2 → 3` |
-| Tier 3: Consumable heal | value | `2 → 3` |
-| Tier 4: Consumable heal (+2) | value | `3 → 5` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| Consumable heal | `2 → 3` | `2 → 3` | `2 → 3` | `3 → 5` |

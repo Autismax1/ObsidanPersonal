@@ -17,41 +17,29 @@ dlc: Primal Dread
 [[Brotato]] › [[Weapons]] · **Melee** · Primal Dread
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Tool|Tool]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Baby]], [[Captain]], [[Chef]], [[Chunky]], [[Curious]], [[Cyborg]], [[Demon]], [[Druid]], [[Dwarf]], [[Engineer]], [[Entrepreneur]], [[Explorer]], [[Farmer]], [[Gangster]], [[Generalist]], [[Golem]], [[Hiker]], [[Jack]], [[King]], [[Lich]], [[Loud]], [[Lucky]], [[Multitasker]], [[Mutant]], [[Old]], [[Poacher]], [[Romantic]], [[Saver]], [[Sick]], [[Speedy]], [[Streamer]], [[Survivor]], [[Technomage]], [[Time Shifter]], [[Vampire]], [[Variant]], [[Well Rounded]], [[Wounded]]
+> **Classes** [[Weapon Classes#Tool|Tool]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Baby]], [[Captain]], [[Chef]], [[Chunky]], [[Curious]], [[Cyborg]], [[Demon]], [[Druid]], [[Dwarf]] (tier 2), [[Engineer]], [[Entrepreneur]], [[Explorer]], [[Farmer]], [[Gangster]], [[Generalist]], [[Golem]], [[Hiker]], [[Jack]], [[King]] (tier 2), [[Lich]], [[Loud]], [[Lucky]], [[Multitasker]], [[Mutant]], [[Old]], [[Poacher]], [[Romantic]], [[Saver]], [[Sick]], [[Speedy]], [[Streamer]], [[Survivor]], [[Technomage]], [[Time Shifter]], [[Vampire]], [[Variant]], [[Well Rounded]], [[Wounded]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 12 | **10** | 50% Melee damage, 50% Engineering | 1.06s | 10% ×2 | 135 | – |
-| 2 | 26 | **15** | 50% Melee damage, 60% Engineering | 1.01s | 15% ×2.15 | 135 | – |
-| 3 | 52 | **20** | 50% Melee damage, 70% Engineering | 0.98s | 20% ×2.3 | 135 | – |
-| 4 | 104 | **25** | 50% Melee damage, 80% Engineering | 0.88s | 30% ×2.5 | 135 | – |
+**All tiers** Range 135 · Knockback 0 · Accuracy 100% · Other Thrust
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 0 | 100% | Thrust |
-| 2 | 0 | 100% | Thrust |
-| 3 | 0 | 100% | Thrust |
-| 4 | 0 | 100% | Thrust |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Crit |
+|---|---|---|---|---|---|
+| 1 | 12 | **10** | 50% Melee damage, 50% Engineering | 1.06s | 10% ×2 |
+| 2 | 26 | **15** | 50% Melee damage, 60% Engineering | 1.01s | 15% ×2.15 |
+| 3 | 52 | **20** | 50% Melee damage, 70% Engineering | 0.98s | 20% ×2.3 |
+| 4 | 104 | **25** | 50% Melee damage, 80% Engineering | 0.88s | 30% ×2.5 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Dart trap** | 6 darts · spawns every 6s · `8` damage (100% Engineering) · range `10000` |
-| 2 | **Dart trap** | 9 darts · spawns every 6s · `8` damage (100% Engineering) · range `10000` |
-| 3 | **Dart trap** | 12 darts · spawns every 6s · `8` damage (100% Engineering) · range `10000` |
-| 4 | **Dart trap** | 15 darts · spawns every 6s · `8` damage (100% Engineering) · range `10000` |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Dart trap** | 6 darts · spawns every 6s · `8` damage (100% Engineering) · range `10000` | 9 darts · spawns every 6s · `8` damage (100% Engineering) · range `10000` | 12 darts · spawns every 6s · `8` damage (100% Engineering) · range `10000` | 15 darts · spawns every 6s · `8` damage (100% Engineering) · range `10000` |
 
 > [!note] Structures
 > Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -62,20 +50,8 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: Dart trap | spawn interval | `5s → 2s` |
-|  | damage | `9 → 17` |
-|  | scaling | `×1.10 → ×2.10` |
-| Tier 2: Dart trap | spawn interval | `5s → 2s` |
-|  | damage | `9 → 17` |
-|  | scaling | `×1.10 → ×2.10` |
-| Tier 3: Dart trap | spawn interval | `5s → 2s` |
-|  | damage | `9 → 17` |
-|  | scaling | `×1.10 → ×2.10` |
-| Tier 4: Dart trap | spawn interval | `5s → 2s` |
-|  | damage | `9 → 17` |
-|  | scaling | `×1.10 → ×2.10` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| Dart trap · spawn interval | `5s → 2s` | `5s → 2s` | `5s → 2s` | `5s → 2s` |
+| Dart trap · damage | `9 → 17` | `9 → 17` | `9 → 17` | `9 → 17` |
+| Dart trap · scaling | `×1.10 → ×2.10` | `×1.10 → ×2.10` | `×1.10 → ×2.10` | `×1.10 → ×2.10` |

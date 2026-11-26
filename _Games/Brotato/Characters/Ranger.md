@@ -33,7 +33,7 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Pistol]] · [[Smg]] · [[Revolver]] · [[Double Barrel Shotgun]] · [[Laser Gun]] · [[Shredder]] · [[Crossbow]] · [[Slingshot]] · [[Rail Gun]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Carbon Bow]]
+**Starting weapon choices** [[Pistol]] · [[Smg]] · [[Revolver]] · [[Double Barrel Shotgun]] · [[Laser Gun]] · [[Shredder]] · [[Crossbow]] · [[Slingshot]] · [[Rail Gun]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Carbon Bow]]
 
 ## Banned items
 - [[Item Groups#Melee damage|Melee damage]]: [[Mastery]], [[Goat Skull]], [[Riposte]]

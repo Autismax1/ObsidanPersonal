@@ -24,20 +24,7 @@ in_shop: true
 > **Never offered to** [[Droid]], [[Golem]], [[Vampire]], [[Wounded]] (until endless)
 
 ## Effects
-- Consumable heal
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Consumable heal | value | `2 → 3` |
-| Curse stat | added | `+1` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Consumable heal |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Consumable heal (+1) | `2 → 3` | copied |
+| Curse stat | added `+1` | |

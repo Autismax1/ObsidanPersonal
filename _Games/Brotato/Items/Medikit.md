@@ -24,25 +24,9 @@ in_shop: true
 > **Never offered to** [[Droid]], [[Druid]], [[Golem]], [[Sick]], [[Vampire]], [[Veteran]], [[Wounded]] (until endless)
 
 ## Effects
-- Hp regeneration +10
-- **Temp stats per interval (+2)**
-  - every 5s
-- Luck -10
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Hp regeneration +10 | value | `11 → 21` |
-| Temp stats per interval (+2) | value | `3 → 5` |
-| Luck -10 | value | `-9 → -4` |
-| Curse stat | added | `+4 → 8` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Hp regeneration +10<br>Temp stats per interval (+2) (every 5s) |
-| **Can be removed** | Luck -10 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Hp regeneration +10 | `11 → 21` | copied |
+| **Temp stats per interval: Hp regeneration (+2)**<br>· every 5s | `3 → 5` | copied |
+| Luck -10 | `-9 → -4` | removable |
+| Curse stat | added `+4 → 8` | |

@@ -24,25 +24,10 @@ in_shop: true
 > **Shows up more often for** [[Arsonist]], [[Brawler]], [[Crazy]], [[Cyborg]], [[Diver]], [[Generalist]], [[Gladiator]], [[Glutton]], [[Mage]], [[Ogre]], [[Ranger]], [[Technomage]]
 
 ## Effects
-- Melee damage +8
-- Ranged damage +8
-- Elemental damage +8
-- Hp cap at current value
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Melee damage +8 | value | `9 → 17` |
-| Ranged damage +8 | value | `9 → 17` |
-| Elemental damage +8 | value | `9 → 17` |
-| Curse stat | added | `+4 → 7` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Melee damage +8<br>Ranged damage +8<br>Elemental damage +8 |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Melee damage +8 | `9 → 17` | copied |
+| Ranged damage +8 | `9 → 17` | copied |
+| Elemental damage +8 | `9 → 17` | copied |
+| Hp cap at current value | – | – |
+| Curse stat | added `+4 → 7` | |

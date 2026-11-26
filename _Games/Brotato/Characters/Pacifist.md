@@ -26,13 +26,13 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Pacifist (+65) 🧬
+- End of wave: gain materials and XP equal to 65% of the enemies still alive (halved in horde waves) (`Pacifist (+65)`) 🧬
 - Percent damage -100
 - Engineering -100
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Hand]] · [[Taser]] · [[Pruner]]
+**Starting weapon choices** [[Hand]] · [[Taser]] · [[Pruner]]
 
 **Starting items** [[Lumberjack Shirt]]
 

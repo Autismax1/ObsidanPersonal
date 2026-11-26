@@ -24,8 +24,10 @@ in_shop: true
 > **Never offered to** [[Droid]], [[Golem]], [[Wounded]] (until endless)
 
 ## Effects
-- **Garden**
-  - about every `15.00s` (random `10.50–19.50s`) · range `150`
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
+|---|---|---|
+| **Garden**<br>· about every `15.00s` (random `10.50–19.50s`) · range `150` | interval `13s → 7s` | – |
+| Curse stat | added `+2 → 4` | |
 
 > [!note] Structure
 > Uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
@@ -33,19 +35,3 @@ in_shop: true
 ## How it works
 - Grows a **fruit** about every `15s` (random `10.5–19.5s`). Structure attack speed makes it faster.
 - Cursed: fruit every `13s` → `7s` instead (it has no damage to boost).
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Garden | interval | `13s → 7s` |
-| Curse stat | added | `+2 → 4` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

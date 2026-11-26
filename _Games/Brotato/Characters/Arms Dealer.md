@@ -25,12 +25,12 @@ hidden_effect: false
 - Weapons price -95
 - Harvesting +30 🧬
 - +33% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Explosion damage, Piercing damage, Bounce damage, Damage against bosses 🧬
-- Minimum in shop
-- Destroy weapons
+- At least 1 weapon in every shop (`Minimum in shop`)
+- All your weapons are destroyed each time the shop opens (`Destroy weapons`)
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Pistol]]
+**Starting weapon choices** [[Pistol]]
 
 **Starting items** [[Dangerous Bunny]]
 

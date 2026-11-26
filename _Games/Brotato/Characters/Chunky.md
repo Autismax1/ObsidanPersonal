@@ -26,7 +26,7 @@ hidden_effect: false
 
 > [!summary] At a glance
 > **Wanted tags** [[Wanted Tags#Max hp|Max hp]], [[Wanted Tags#Consumable|Consumable]], [[Wanted Tags#Luck|Luck]] ([[Shop Item Rolls#Wanted tags|5% of item rolls]])
-> **Never in the shop** [[Item Groups#Lifesteal|Lifesteal]], [[Item Groups#Lifesteal and hp regeneration|Lifesteal and hp regeneration]], [[Item Groups#Speed|Speed]], 1 items ([[Shop Item Rolls#Character bans|until endless]])
+> **Never in the shop** [[Item Groups#Lifesteal|Lifesteal]], [[Item Groups#Lifesteal and hp regeneration|Lifesteal and hp regeneration]], [[Item Groups#Speed|Speed]], 1 item ([[Shop Item Rolls#Character bans|until endless]])
 > **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all except Lifesteal, Speed
 > **Never offered as level-ups** Speed
 > **Hidden effects** none
@@ -42,7 +42,7 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Fist]] · [[Cacti Club]] · [[Rock]] · [[Stick]] · [[Torch]] · [[Plank]] · [[Chopper]] · [[Pruner]] · [[Spiky Shield]] · [[Double Barrel Shotgun]] · [[Taser]] · [[Ghost Scepter]] · [[Shredder]] · [[Revolver]] · [[Spoon]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Flail]] · [[Carbon Bow]] · [[Pan Flute]] · [[Machinegun]]
+**Starting weapon choices** [[Fist]] · [[Cacti Club]] · [[Rock]] · [[Stick]] · [[Torch]] · [[Plank]] · [[Chopper]] · [[Pruner]] · [[Spiky Shield]] · [[Double Barrel Shotgun]] · [[Taser]] · [[Ghost Scepter]] · [[Shredder]] · [[Revolver]] · [[Spoon]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Flail]] · [[Carbon Bow]] · [[Pan Flute]] · [[Machinegun]]
 
 ## Banned items
 - [[Item Groups#Lifesteal|Lifesteal]]: [[Butterfly]], [[Bat]], [[Whetstone]], [[Decomposing Flesh]], [[Bloody Hand]], [[Fresh Meat]]

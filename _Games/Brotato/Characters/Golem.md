@@ -36,13 +36,13 @@ hidden_effect: false
 - Max hp +20 🧬
 - +33% gains of Max hp 🧬
 - +33% gains of Armor 🧬
-- Below half health (+40) 🧬
-- Below half health (+20) 🧬
+- Below half HP: +40 Attack speed (`Below half health (+40)`) 🧬
+- Below half HP: +20 Speed (`Below half health (+20)`) 🧬
 - No heal
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Cacti Club]] · [[Chopper]] · [[Fist]] · [[Ghost Axe]] · [[Hatchet]] · [[Knife]] · [[Plank]] · [[Rock]] · [[Spiky Shield]] · [[Stick]] · [[Torch]] · [[Pistol]] · [[Revolver]] · [[Slingshot]] · [[Crossbow]] · [[Ghost Scepter]] · [[Brick]] · [[Spoon]] · [[Flute]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Whip]] · [[Molotov]]
+**Starting weapon choices** [[Cacti Club]] · [[Chopper]] · [[Fist]] · [[Ghost Axe]] · [[Hatchet]] · [[Knife]] · [[Plank]] · [[Rock]] · [[Spiky Shield]] · [[Stick]] · [[Torch]] · [[Pistol]] · [[Revolver]] · [[Slingshot]] · [[Crossbow]] · [[Ghost Scepter]] · [[Brick]] · [[Spoon]] · [[Flute]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Whip]] · [[Molotov]]
 
 ## Banned items
 - [[Item Groups#Hp regeneration|Hp regeneration]]: [[Mushroom]], [[Plant]], [[Sad Tomato]], [[Medikit]], [[Fairy]], [[Potion]], [[Fried Rice]], [[Baby Squid]], [[Coral]], [[Penguin]]

@@ -20,12 +20,12 @@ hidden_effect: false
 
 > [!summary] At a glance
 > **Wanted tags** [[Wanted Tags#Melee damage|Melee damage]] ([[Shop Item Rolls#Wanted tags|5% of item rolls]])
-> **Never in the shop** [[Item Groups#Ranged damage|Ranged damage]], 1 items ([[Shop Item Rolls#Character bans|until endless]])
+> **Never in the shop** [[Item Groups#Ranged damage|Ranged damage]], 1 item ([[Shop Item Rolls#Character bans|until endless]])
 > **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all except Ranged damage
 > **Hidden effects** none
 
 ## Starting effects
-- Unique bonus (+20) 🧬
+- +20 Attack speed for every different weapon you hold (`Unique bonus (+20)`) 🧬
 - Melee damage +5 🧬
 - No ranged weapons
 - Attack speed -40
@@ -33,7 +33,7 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Spear]] · [[Jousting Lance]] · [[Cacti Club]] · [[Torch]] · [[Dagger]] · [[Knife]] · [[Plank]] · [[Ghost Axe]] · [[Ghost Flint]] · [[Sharp Tooth]] · [[Fist]] · [[Claw]] · [[Fighting Stick]] · [[Hatchet]] · [[Lightning Shiv]] · [[Flail]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]]
+**Starting weapon choices** [[Spear]] · [[Jousting Lance]] · [[Cacti Club]] · [[Torch]] · [[Dagger]] · [[Knife]] · [[Plank]] · [[Ghost Axe]] · [[Ghost Flint]] · [[Sharp Tooth]] · [[Fist]] · [[Claw]] · [[Fighting Stick]] · [[Hatchet]] · [[Lightning Shiv]] · [[Flail]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]]
 
 ## Banned items
 - [[Item Groups#Ranged damage|Ranged damage]]: [[Lens]]

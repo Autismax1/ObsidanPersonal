@@ -24,27 +24,11 @@ in_shop: true
 > **Shows up more often for** [[Arsonist]], [[Bull]], [[Doctor]], [[Lich]], [[Mage]], [[Masochist]], [[Old]], [[Pacifist]], [[Technomage]]
 
 ## Effects
-- Elemental damage +4
-- Hp regeneration +1
-- Number of enemies -10
-- Percent damage -5
-- Fog visibility (+25)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Elemental damage +4 | value | `5 → 9` |
-| Hp regeneration +1 | value | `2 → 3` |
-| Percent damage -5 | value | `-4 → -2` |
-| Fog visibility (+25) | value | `28 → 53` |
-| Curse stat | added | `+3 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Elemental damage +4<br>Hp regeneration +1<br>Fog visibility (+25) |
-| **Can be removed** | Percent damage -5 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Elemental damage +4 | `5 → 9` | copied |
+| Hp regeneration +1 | `2 → 3` | copied |
+| Number of enemies -10 | `-10` (unchanged) | – |
+| Percent damage -5 | `-4 → -2` | removable |
+| Fog visibility (+25) | `28 → 53` | copied |
+| Curse stat | added `+3 → 5` | |

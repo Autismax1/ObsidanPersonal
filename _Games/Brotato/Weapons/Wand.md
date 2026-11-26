@@ -17,38 +17,26 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Ranged** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Elemental|Elemental]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Arsonist]], [[Baby]], [[Builder]], [[Chef]], [[Demon]], [[Druid]], [[Explorer]], [[Farmer]], [[Jack]], [[Lich]], [[Lucky]], [[Mad Scientist]], [[Mage]], [[Masochist]], [[Multitasker]], [[Mutant]], [[Old]], [[Renegade]], [[Saver]], [[Soldier]], [[Streamer]], [[Survivor]], [[Technomage]], [[Variant]], [[Well Rounded]], [[Wounded]]
+> **Classes** [[Weapon Classes#Elemental|Elemental]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Arsonist]], [[Baby]], [[Builder]], [[Chef]], [[Demon]], [[Druid]], [[Explorer]], [[Farmer]], [[Jack]], [[Lich]], [[Lucky]], [[Mad Scientist]], [[Mage]], [[Masochist]], [[Multitasker]], [[Mutant]], [[Old]], [[Renegade]], [[Saver]], [[Soldier]], [[Streamer]], [[Survivor]], [[Technomage]], [[Variant]], [[Well Rounded]], [[Wounded]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 10 | **1** | 50% Elemental damage | 0.87s | 0% ×2 | 350 | Piercing 1 |
-| 2 | 22 | **1** | 65% Elemental damage | 0.78s | 0% ×2 | 375 | Piercing 1 |
-| 3 | 45 | **1** | 80% Elemental damage | 0.70s | 0% ×2 | 400 | Piercing 1 |
-| 4 | 91 | **1** | 100% Elemental damage | 0.53s | 0% ×2 | 425 | Piercing 1 |
+**All tiers** Crit 0% ×2 · Extra Piercing 1 · Knockback 10 · Accuracy 100% · Other −50% damage per pierce · projectile speed 2000
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 10 | 100% | −50% damage per pierce · projectile speed 2000 |
-| 2 | 10 | 100% | −50% damage per pierce · projectile speed 2000 |
-| 3 | 10 | 100% | −50% damage per pierce · projectile speed 2000 |
-| 4 | 10 | 100% | −50% damage per pierce · projectile speed 2000 |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Range |
+|---|---|---|---|---|---|
+| 1 | 10 | **1** | 50% Elemental damage | 0.87s | 350 |
+| 2 | 22 | **1** | 65% Elemental damage | 0.78s | 375 |
+| 3 | 45 | **1** | 80% Elemental damage | 0.70s | 400 |
+| 4 | 91 | **1** | 100% Elemental damage | 0.53s | 425 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Burning 3×3 (100% Elemental damage)** | – |
-| 2 | **Burning 5×5 (100% Elemental damage)** | – |
-| 3 | **Burning 8×6 (100% Elemental damage)** | – |
-| 4 | **Burning 12×9 (100% Elemental damage)** | – |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Burning … (100% Elemental damage)** | 3×3 | 5×5 | 8×6 | 12×9 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -59,16 +47,7 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: weapon | Piercing | `2 → 2` |
-| Tier 1: Burning 3×3 (100% Elemental damage) | Burning | `4×4 → 7×7` |
-| Tier 2: weapon | Piercing | `2 → 2` |
-| Tier 2: Burning 5×5 (100% Elemental damage) | Burning | `6×6 → 11×11` |
-| Tier 3: weapon | Piercing | `2 → 2` |
-| Tier 3: Burning 8×6 (100% Elemental damage) | Burning | `9×7 → 17×13` |
-| Tier 4: weapon | Piercing | `2 → 2` |
-| Tier 4: Burning 12×9 (100% Elemental damage) | Burning | `14×10 → 26×19` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| weapon · Piercing | `2 → 2` | `2 → 2` | `2 → 2` | `2 → 2` |
+| Burning … (100% Elemental damage) · Burning | `4×4 → 7×7` | `6×6 → 11×11` | `9×7 → 17×13` | `14×10 → 26×19` |

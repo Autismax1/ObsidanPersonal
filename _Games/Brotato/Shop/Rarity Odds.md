@@ -7,9 +7,13 @@ tags:
 [[Brotato]] › [[Shop Item Rolls]] › Rarity Odds
 
 > [!summary] At a glance
-> - Common never below `40%`, legendary never above `8%`.
-> - Luck only multiplies the per-wave part. Late in a run it turns rares into legendaries.
+> - **Common floor:** never below `40%` (because the uncommon cap is `60%`).
+> - **Legendary cap:** `8%` max in the shop.
+> - **Legendary at wave 20:** `3%` (`6%` at 100 luck).
+> - Luck only multiplies the per-wave part (negative luck divides it). Late in a run it mostly turns rares into legendaries.
 > - Level-ups use your **level** instead of the wave. Levels 5/10/15/20 have fixed tiers.
+
+^glance
 
 ## Formula
 One random number per slot, checked from Legendary down:
@@ -18,15 +22,11 @@ One random number per slot, checked from Legendary down:
 chance(tier) = min(base + max(0, (wave − 1 − min_wave) × per_wave) × (1 + luck/100), max)
 ```
 
-| Tier | Starts after wave | Per wave | Max |
+| Tier | min_wave (first wave with a chance) | Per wave | Max |
 |---|---|---|---|
-| Tier 2 (uncommon) | 1 | +6% | 60% |
-| Tier 3 (rare) | 3 | +2% | 25% |
-| Tier 4 (legendary) | 7 | +0.23% | 8% |
-
-- Luck only multiplies the per-wave part. Negative luck divides it.
-- **Common never drops below 40%**, because the uncommon cap is 60%.
-- **Legendary can never pass 8%** in the shop.
+| Tier 2 (uncommon) | 0 (wave 2) | +6% | 60% |
+| Tier 3 (rare) | 2 (wave 4) | +2% | 25% |
+| Tier 4 (legendary) | 6 (wave 8) | +0.23% | 8% |
 
 ## Shop odds
 | | Common | Uncommon | Rare | Legendary |
@@ -39,10 +39,7 @@ chance(tier) = min(base + max(0, (wave − 1 − min_wave) × per_wave) × (1 + 
 | Wave 20, luck 0 | 40% | 35% | 22% | 3% |
 | Wave 20, luck 100 | 40% | 35% | 19% | 6% |
 
-Late in a run, luck mostly turns rares into legendaries.
-
 ## Level-ups
-- Level-ups use the same formula with your **level** in place of the wave.
 - Fixed tiers: level 5 = uncommon, levels 10/15/20 = rare, every 5th level after 20 = legendary.
 - Characters can ban level-ups. See your character note or [[Characters]].
 

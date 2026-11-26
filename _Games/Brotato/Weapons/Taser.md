@@ -18,38 +18,26 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Ranged** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Elemental|Elemental]], [[Weapon Classes#Support|Support]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Apprentice]], [[Archaeologist]], [[Baby]], [[Builder]], [[Chunky]], [[Demon]], [[Entrepreneur]], [[Explorer]], [[Farmer]], [[Hiker]], [[Jack]], [[King]], [[Mad Scientist]], [[Mage]], [[Multitasker]], [[Mutant]], [[Old]], [[One Armed]], [[Pacifist]], [[Poacher]], [[Renegade]], [[Romantic]], [[Saver]], [[Soldier]], [[Streamer]], [[Technomage]], [[Variant]], [[Well Rounded]], [[Wounded]]
+> **Classes** [[Weapon Classes#Elemental|Elemental]], [[Weapon Classes#Support|Support]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Apprentice]], [[Archaeologist]], [[Baby]], [[Builder]], [[Chunky]], [[Demon]], [[Entrepreneur]], [[Explorer]], [[Farmer]], [[Hiker]], [[Jack]], [[King]] (tier 2), [[Mad Scientist]], [[Mage]], [[Multitasker]], [[Mutant]], [[Old]], [[One Armed]], [[Pacifist]], [[Poacher]], [[Renegade]], [[Romantic]], [[Saver]], [[Soldier]], [[Streamer]], [[Technomage]], [[Variant]], [[Well Rounded]], [[Wounded]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 15 | **7** | 80% Elemental damage | 0.95s | 3% ×2 | 200 | – |
-| 2 | 31 | **7 ×2** | 70% Elemental damage | 0.95s | 3% ×2 | 200 | – |
-| 3 | 61 | **7 ×3** | 60% Elemental damage | 0.95s | 3% ×2 | 200 | – |
-| 4 | 122 | **14 ×4** | 50% Elemental damage | 0.95s | 3% ×2 | 200 | – |
+**All tiers** Crit 3% ×2 · Range 200 · Knockback 0 · Accuracy 100%
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 0 | 100% | projectile speed 2000 |
-| 2 | 0 | 100% | spread 29° · projectile speed 2000 |
-| 3 | 0 | 100% | spread 40° · projectile speed 2000 |
-| 4 | 0 | 100% | spread 40° · projectile speed 2000 |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Other |
+|---|---|---|---|---|---|
+| 1 | 15 | **7** | 80% Elemental damage | 0.95s | projectile speed 2000 |
+| 2 | 31 | **7 ×2** | 70% Elemental damage | 0.95s | spread 29° · projectile speed 2000 |
+| 3 | 61 | **7 ×3** | 60% Elemental damage | 0.95s | spread 40° · projectile speed 2000 |
+| 4 | 122 | **14 ×4** | 50% Elemental damage | 0.95s | spread 40° · projectile speed 2000 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Effect slow in zone** | – |
-| 2 | **Effect slow in zone** | – |
-| 3 | **Effect slow in zone** | – |
-| 4 | **Effect slow in zone** | – |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Effect slow in zone** | ✓ | ✓ | ✓ | ✓ |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -60,12 +48,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: Effect slow in zone | value | `2 → 3` |
-| Tier 2: Effect slow in zone | value | `2 → 3` |
-| Tier 3: Effect slow in zone | value | `2 → 3` |
-| Tier 4: Effect slow in zone | value | `2 → 3` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| Effect slow in zone | `2 → 3` | `2 → 3` | `2 → 3` | `2 → 3` |

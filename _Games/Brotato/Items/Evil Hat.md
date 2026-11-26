@@ -23,24 +23,9 @@ in_shop: true
 > **Shows up more often for** [[Buccaneer]], [[Entrepreneur]], [[Lucky]]
 
 ## Effects
-- Gold drops (+70)
-- Speed -15
-- Dodge -10
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Gold drops (+70) | value | `77 → 147` |
-| Speed -15 | value | `-13 → -7` |
-| Dodge -10 | value | `-9 → -4` |
-| Curse stat | added | `+6 → 11` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Gold drops (+70) |
-| **Can be removed** | Speed -15<br>Dodge -10 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Gold drops (+70) | `77 → 147` | copied |
+| Speed -15 | `-13 → -7` | removable |
+| Dodge -10 | `-9 → -4` | removable |
+| Curse stat | added `+6 → 11` | |

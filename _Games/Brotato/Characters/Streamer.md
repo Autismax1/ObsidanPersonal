@@ -23,9 +23,9 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Gold while not moving: +3 Percent materials (25) 🧬
-- While moving (+40) 🧬
-- While moving (+40) 🧬
+- While standing still: every second gain 3% of your materials (at least 1, at most 25) (`Gold while not moving: +3 Percent materials (25)`) 🧬
+- While moving: +40% Damage (`While moving (+40)`) 🧬
+- While moving: +40% Attack speed (`While moving (+40)`) 🧬
 - +2 Armor for every Structure 🧬
 - Gold drops (-50)
 - -1 Percent damage for every 15 Materials
@@ -33,6 +33,6 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Fist]] · [[Stick]] · [[Cacti Club]] · [[Ghost Flint]] · [[Ghost Axe]] · [[Scissors]] · [[Screwdriver]] · [[Wrench]] · [[Spear]] · [[Plank]] · [[Pruner]] · [[Spiky Shield]] · [[Crossbow]] · [[Double Barrel Shotgun]] · [[Laser Gun]] · [[Medical Gun]] · [[Pistol]] · [[Shredder]] · [[Smg]] · [[Revolver]] · [[Slingshot]] · [[Ghost Scepter]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Javelin]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Machinegun]] · [[Pan Flute]] · [[Carbon Bow]]
+**Starting weapon choices** [[Fist]] · [[Stick]] · [[Cacti Club]] · [[Ghost Flint]] · [[Ghost Axe]] · [[Scissors]] · [[Screwdriver]] · [[Wrench]] · [[Spear]] · [[Plank]] · [[Pruner]] · [[Spiky Shield]] · [[Crossbow]] · [[Double Barrel Shotgun]] · [[Laser Gun]] · [[Medical Gun]] · [[Pistol]] · [[Shredder]] · [[Smg]] · [[Revolver]] · [[Slingshot]] · [[Ghost Scepter]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Javelin]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Machinegun]] · [[Pan Flute]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

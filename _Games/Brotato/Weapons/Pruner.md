@@ -17,41 +17,29 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Support|Support]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Apprentice]], [[Baby]], [[Chef]], [[Chunky]], [[Cryptid]], [[Druid]], [[Entrepreneur]], [[Farmer]], [[Fisherman]], [[Glutton]], [[Lich]], [[Loud]], [[Lucky]], [[Multitasker]], [[Old]], [[One Armed]], [[Pacifist]], [[Saver]], [[Sick]], [[Speedy]], [[Streamer]], [[Technomage]], [[Time Shifter]]
+> **Classes** [[Weapon Classes#Support|Support]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Apprentice]], [[Baby]], [[Chef]], [[Chunky]], [[Cryptid]], [[Druid]], [[Entrepreneur]], [[Farmer]], [[Fisherman]], [[Glutton]], [[Lich]], [[Loud]], [[Lucky]], [[Multitasker]], [[Old]], [[One Armed]], [[Pacifist]], [[Saver]], [[Sick]], [[Speedy]], [[Streamer]], [[Technomage]], [[Time Shifter]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 15 | **10** | 50% Melee damage | 1.14s | 3% ×1.25 | 150 | – |
-| 2 | 28 | **15** | 65% Melee damage | 1.06s | 6% ×1.5 | 150 | – |
-| 3 | 52 | **20** | 80% Melee damage | 0.98s | 9% ×1.75 | 150 | – |
-| 4 | 95 | **25** | 100% Melee damage | 0.89s | 12% ×2 | 150 | – |
+**All tiers** Range 150 · Knockback 2 · Accuracy 100% · Other Thrust
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 2 | 100% | Thrust |
-| 2 | 2 | 100% | Thrust |
-| 3 | 2 | 100% | Thrust |
-| 4 | 2 | 100% | Thrust |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Crit |
+|---|---|---|---|---|---|
+| 1 | 15 | **10** | 50% Melee damage | 1.14s | 3% ×1.25 |
+| 2 | 28 | **15** | 65% Melee damage | 1.06s | 6% ×1.5 |
+| 3 | 52 | **20** | 80% Melee damage | 0.98s | 9% ×1.75 |
+| 4 | 95 | **25** | 100% Melee damage | 0.89s | 12% ×2 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Garden** | about every `15.00s` (random `10.50–19.50s`) · range `150` |
-| 2 | **Garden** | about every `14.00s` (random `9.80–18.20s`) · range `150` |
-| 3 | **Garden** | about every `12.00s` (random `8.40–15.60s`) · range `150` |
-| 4 | **Garden** | about every `10.00s` (random `7.00–13.00s`) · range `150` |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Garden** | about every `15.00s` (random `10.50–19.50s`) · range `150` | about every `14.00s` (random `9.80–18.20s`) · range `150` | about every `12.00s` (random `8.40–15.60s`) · range `150` | about every `10.00s` (random `7.00–13.00s`) · range `150` |
 
 > [!note] Structures
 > Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -62,12 +50,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: Garden | interval | `13s → 7s` |
-| Tier 2: Garden | interval | `12s → 6s` |
-| Tier 3: Garden | interval | `10s → 5s` |
-| Tier 4: Garden | interval | `9s → 4s` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| Garden · interval | `13s → 7s` | `12s → 6s` | `10s → 5s` | `9s → 4s` |

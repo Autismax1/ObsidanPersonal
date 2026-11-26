@@ -28,6 +28,6 @@ hidden_effect: false
 
 Nothing from this character is copied into the Tumor ([[Mutation#Copy strength]]).
 
-**Starting weapons** [[Cacti Club]] · [[Ghost Axe]] · [[Stick]] · [[Fighting Stick]] · [[Rock]] · [[Plank]] · [[Lightning Shiv]] · [[Double Barrel Shotgun]] · [[Smg]] · [[Revolver]] · [[Shredder]] · [[Crossbow]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Brick]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Carbon Bow]]
+**Starting weapon choices** [[Cacti Club]] · [[Ghost Axe]] · [[Stick]] · [[Fighting Stick]] · [[Rock]] · [[Plank]] · [[Lightning Shiv]] · [[Double Barrel Shotgun]] · [[Smg]] · [[Revolver]] · [[Shredder]] · [[Crossbow]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Brick]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

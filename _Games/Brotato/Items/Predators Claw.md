@@ -23,24 +23,9 @@ in_shop: true
 > **Shows up more often for** [[Explorer]], [[Hiker]], [[Speedy]], [[Time Shifter]]
 
 ## Effects
-- Attack speed +11
-- Speed +4
-- Consumable heal (-2)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Attack speed +11 | value | `13 → 24` |
-| Speed +4 | value | `5 → 9` |
-| Consumable heal (-2) | value | `-1` |
-| Curse stat | added | `+2 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Attack speed +11<br>Speed +4 |
-| **Can be removed** | Consumable heal (-2) |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Attack speed +11 | `13 → 24` | copied |
+| Speed +4 | `5 → 9` | copied |
+| Consumable heal (-2) | `-1` | removable |
+| Curse stat | added `+2 → 3` | |

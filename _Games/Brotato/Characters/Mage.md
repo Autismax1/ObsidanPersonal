@@ -38,7 +38,7 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Wand]] · [[Torch]] · [[Plank]] · [[Taser]] · [[Lightning Shiv]] · [[Icicle]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Molotov]] · [[Blowgun]] · [[Sticky Grenade]] · [[Pan Flute]]
+**Starting weapon choices** [[Wand]] · [[Torch]] · [[Plank]] · [[Taser]] · [[Lightning Shiv]] · [[Icicle]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Molotov]] · [[Blowgun]] · [[Sticky Grenade]] · [[Pan Flute]]
 
 **Starting items** [[Snake]] · [[Scared Sausage]]
 

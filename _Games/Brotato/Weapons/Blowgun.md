@@ -18,38 +18,26 @@ dlc: Primal Dread
 [[Brotato]] › [[Weapons]] · **Ranged** · Primal Dread
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Precise|Precise]], [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Archaeologist]], [[Baby]], [[Buccaneer]], [[Builder]], [[Captain]], [[Chef]], [[Chunky]], [[Creature]], [[Curious]], [[Diver]], [[Druid]], [[Explorer]], [[Fisherman]], [[Gangster]], [[Generalist]], [[Hiker]], [[Hunter]], [[Jack]], [[King]], [[Loud]], [[Lucky]], [[Mage]], [[Masochist]], [[Multitasker]], [[Mutant]], [[Old]], [[One Armed]], [[Poacher]], [[Ranger]], [[Renegade]], [[Romantic]], [[Saver]], [[Sick]], [[Streamer]], [[Survivor]], [[Time Shifter]], [[Vagabond]], [[Vampire]], [[Variant]], [[Well Rounded]], [[Wildling]], [[Wounded]]
+> **Classes** [[Weapon Classes#Precise|Precise]], [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Archaeologist]], [[Baby]], [[Buccaneer]], [[Builder]], [[Captain]], [[Chef]], [[Chunky]], [[Creature]], [[Curious]], [[Diver]], [[Druid]], [[Explorer]], [[Fisherman]], [[Gangster]], [[Generalist]], [[Hiker]], [[Hunter]], [[Jack]], [[King]] (tier 2), [[Loud]], [[Lucky]], [[Mage]], [[Masochist]], [[Multitasker]], [[Mutant]], [[Old]], [[One Armed]], [[Poacher]], [[Ranger]], [[Renegade]], [[Romantic]], [[Saver]], [[Sick]], [[Streamer]], [[Survivor]], [[Time Shifter]], [[Vagabond]], [[Vampire]], [[Variant]], [[Well Rounded]], [[Wildling]], [[Wounded]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 12 | **5** | 60% Ranged damage | 0.62s | 10% ×2.25 | 600 | – |
-| 2 | 25 | **7** | 60% Ranged damage | 0.53s | 15% ×2.5 | 600 | – |
-| 3 | 52 | **9** | 60% Ranged damage | 0.45s | 20% ×2.75 | 600 | – |
-| 4 | 105 | **11** | 60% Ranged damage | 0.37s | 25% ×3 | 600 | – |
+**All tiers** Scaling 60% Ranged damage · Range 600 · Knockback 0 · Accuracy 100% · Other projectile speed 2500
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 0 | 100% | projectile speed 2500 |
-| 2 | 0 | 100% | projectile speed 2500 |
-| 3 | 0 | 100% | projectile speed 2500 |
-| 4 | 0 | 100% | projectile speed 2500 |
+| Tier | Price | Damage | Cooldown (0 attack speed) | Crit |
+|---|---|---|---|---|
+| 1 | 12 | **5** | 0.62s | 10% ×2.25 |
+| 2 | 25 | **7** | 0.53s | 15% ×2.5 |
+| 3 | 52 | **9** | 0.45s | 20% ×2.75 |
+| 4 | 105 | **11** | 0.37s | 25% ×3 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Enemies hit take +20% damage** | 100% chance · 3s · up to 1 stacks |
-| 2 | **Enemies hit take +30% damage** | 100% chance · 3s · up to 1 stacks |
-| 3 | **Enemies hit take +40% damage** | 100% chance · 3s · up to 1 stacks |
-| 4 | **Enemies hit take +50% damage** | 100% chance · 3s · up to 1 stacks |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Enemies hit take … damage**<br>· 100% chance · 3s · up to 1 stacks | +20% | +30% | +40% | +50% |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -60,12 +48,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: Enemies hit take +20% damage | value | `22 → 42` |
-| Tier 2: Enemies hit take +30% damage | value | `33 → 63` |
-| Tier 3: Enemies hit take +40% damage | value | `44 → 84` |
-| Tier 4: Enemies hit take +50% damage | value | `56 → 105` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| Enemies hit take … damage | `22 → 42` | `33 → 63` | `44 → 84` | `56 → 105` |

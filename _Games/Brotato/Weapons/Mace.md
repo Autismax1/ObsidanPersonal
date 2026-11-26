@@ -18,35 +18,25 @@ dlc: Abyssal Terrors
 [[Brotato]] › [[Weapons]] · **Melee** · Abyssal Terrors
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Heavy|Heavy]], [[Weapon Classes#Medieval|Medieval]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Dwarf]], [[Knight]]
+> **Classes** [[Weapon Classes#Heavy|Heavy]], [[Weapon Classes#Medieval|Medieval]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Dwarf]], [[Knight]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 2 | 46 | **40** | 100% Melee damage | 1.39s | 4% ×1.5 | 150 | – |
-| 3 | 92 | **60** | 100% Melee damage | 1.31s | 8% ×1.5 | 150 | – |
-| 4 | 185 | **100** | 100% Melee damage | 1.23s | 12% ×1.5 | 150 | – |
+**All tiers** Scaling 100% Melee damage · Range 150 · Knockback 5 · Accuracy 100% · Other Sweep
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 2 | 5 | 100% | Sweep |
-| 3 | 5 | 100% | Sweep |
-| 4 | 5 | 100% | Sweep |
+| Tier | Price | Damage | Cooldown (0 attack speed) | Crit |
+|---|---|---|---|---|
+| 2 | 46 | **40** | 1.39s | 4% ×1.5 |
+| 3 | 92 | **60** | 1.31s | 8% ×1.5 |
+| 4 | 185 | **100** | 1.23s | 12% ×1.5 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 2 | **Attack speed -3** | – |
-| 3 | **Attack speed -6** | – |
-| 4 | **Attack speed -10** | – |
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| **Attack speed** | -3 | -6 | -10 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -56,11 +46,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 2: Attack speed -3 | value | `-4 → -7` |
-| Tier 3: Attack speed -6 | value | `-7 → -13` |
-| Tier 4: Attack speed -10 | value | `-11 → -21` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| Attack speed | `-4 → -7` | `-7 → -13` | `-11 → -21` |

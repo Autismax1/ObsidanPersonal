@@ -18,38 +18,26 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Support|Support]], [[Weapon Classes#Unarmed|Unarmed]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Brawler]], [[Cryptid]], [[Entrepreneur]], [[Explorer]], [[Farmer]], [[Hiker]], [[Pacifist]], [[Vagabond]]
+> **Classes** [[Weapon Classes#Support|Support]], [[Weapon Classes#Unarmed|Unarmed]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Brawler]], [[Cryptid]], [[Entrepreneur]], [[Explorer]], [[Farmer]], [[Hiker]], [[Pacifist]], [[Vagabond]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 10 | **1** | 50% Melee damage | 1.01s | 1% ×1.5 | 150 | – |
-| 2 | 22 | **1** | 50% Melee damage | 0.93s | 1% ×1.5 | 150 | – |
-| 3 | 45 | **1** | 50% Melee damage | 0.86s | 1% ×1.5 | 150 | – |
-| 4 | 91 | **1** | 50% Melee damage | 0.71s | 1% ×1.5 | 150 | – |
+**All tiers** Scaling 50% Melee damage · Crit 1% ×1.5 · Range 150 · Knockback 30 · Accuracy 100% · Other Thrust
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
+| Tier | Price | Damage | Cooldown (0 attack speed) |
 |---|---|---|---|
-| 1 | 30 | 100% | Thrust |
-| 2 | 30 | 100% | Thrust |
-| 3 | 30 | 100% | Thrust |
-| 4 | 30 | 100% | Thrust |
+| 1 | 10 | **1** | 1.01s |
+| 2 | 22 | **1** | 0.93s |
+| 3 | 45 | **1** | 0.86s |
+| 4 | 91 | **1** | 0.71s |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Harvesting +3** | – |
-| 2 | **Harvesting +6** | – |
-| 3 | **Harvesting +12** | – |
-| 4 | **Harvesting +25** | – |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Harvesting** | +3 | +6 | +12 | +25 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -60,12 +48,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: Harvesting +3 | value | `4 → 7` |
-| Tier 2: Harvesting +6 | value | `7 → 13` |
-| Tier 3: Harvesting +12 | value | `14 → 26` |
-| Tier 4: Harvesting +25 | value | `28 → 53` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| Harvesting | `4 → 7` | `7 → 13` | `14 → 26` | `28 → 53` |

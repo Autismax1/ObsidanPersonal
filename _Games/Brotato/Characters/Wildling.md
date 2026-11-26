@@ -23,10 +23,10 @@ hidden_effect: false
 
 ## Starting effects
 - Primitive weapons: +30% Lifesteal 🧬
-- Max tier
+- Weapons are at most Uncommon (tier II): no higher tier in shop, no combining past it (`Max tier`)
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Stick]] · [[Spear]] · [[Torch]] · [[Rock]] · [[Cacti Club]] · [[Hatchet]] · [[Fighting Stick]] · [[Sharp Tooth]] · [[Slingshot]] · [[Javelin]] · [[Whip]] · [[Blowgun]] · [[Boomerang]]
+**Starting weapon choices** [[Stick]] · [[Spear]] · [[Torch]] · [[Rock]] · [[Cacti Club]] · [[Hatchet]] · [[Fighting Stick]] · [[Sharp Tooth]] · [[Slingshot]] · [[Javelin]] · [[Whip]] · [[Blowgun]] · [[Boomerang]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

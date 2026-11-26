@@ -12,13 +12,12 @@ tags:
 > - Chance per spawn: `50%·(1 − 1/(1 + curse/50))`. Bosses, elites and loot aliens never.
 > - Stats: **+150% HP** (+2% per team curse), **+25% damage**, **+15% speed**, +33% materials.
 
+^glance
+
 ## Chance per spawn
-```
-chance = 50% × (1 − 1/(1 + curse/50))
-```
 - Per player, averaged. Increased in endless.
 - About 8% at 10 curse, 25% at 50, 33% at 100, never above 50%.
-- **Never cursed:** bosses, elites (they count as bosses in the code), loot aliens.
+- Elites count as bosses in the code.
 
 ## Stats
 | | Cursed |

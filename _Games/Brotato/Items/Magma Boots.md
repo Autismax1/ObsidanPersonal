@@ -23,23 +23,9 @@ in_shop: true
 > **Never offered to** [[Wounded]] (until endless)
 
 ## Effects
-- Fire trail: Burning 5×3 (100% Elemental damage)
-- Speed +9
-- Lose hp per second
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Fire trail: Burning 5×3 (100% Elemental damage) | adds elemental damage | `+2 (roll < 50%) or +3` |
-| Speed +9 | value | `10 → 19` |
-| Curse stat | added | `+4 → 8` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Fire trail: Burning 5×3 (100% Elemental damage)<br>Speed +9 |
-| **Can be removed** | Lose hp per second |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Fire trail: Burning 5×3 (100% Elemental damage) | adds elemental damage `+2 (roll < 50%) or +3` | copied |
+| Speed +9 | `10 → 19` | copied |
+| Lose hp per second (+1) | – | removable |
+| Curse stat | added `+4 → 8` | |

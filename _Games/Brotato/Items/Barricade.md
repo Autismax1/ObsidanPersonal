@@ -24,24 +24,9 @@ in_shop: true
 > **Shows up more often for** [[Bull]], [[Golem]], [[Knight]], [[Masochist]], [[Pacifist]], [[Soldier]]
 
 ## Effects
-- Knockback (+3)
-- While not moving (+8)
-- Speed -5
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Knockback (+3) | value | `4 → 7` |
-| While not moving (+8) | value | `9 → 17` |
-| Speed -5 | value | `-4 → -2` |
-| Curse stat | added | `+3 → 6` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Knockback (+3)<br>While not moving (+8) |
-| **Can be removed** | Speed -5 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Knockback (+3) | `4 → 7` | copied |
+| While not moving: Armor (+8) | `9 → 17` | copied |
+| Speed -5 | `-4 → -2` | removable |
+| Curse stat | added `+3 → 6` | |

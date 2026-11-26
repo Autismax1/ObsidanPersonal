@@ -24,13 +24,13 @@ hidden_effect: false
 
 ## Starting effects
 - +60 Xp gain for every Free slots 🧬
-- Level upgrades modifications (+100) 🧬
+- Level-up upgrades are +100% stronger (doubled values) (`Level upgrades modifications (+100)`) 🧬
 - Next level xp needed +200
 - +2 Enemy health at the end of every wave
 - +2 Enemy damage at the end of every wave
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Fist]] · [[Knife]] · [[Hatchet]] · [[Spear]] · [[Ghost Axe]] · [[Ghost Flint]] · [[Chopper]] · [[Fighting Stick]] · [[Torch]] · [[Plank]] · [[Lightning Shiv]] · [[Double Barrel Shotgun]] · [[Smg]] · [[Revolver]] · [[Slingshot]] · [[Boomerang]] · [[Shredder]] · [[Javelin]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Pan Flute]] · [[Carbon Bow]]
+**Starting weapon choices** [[Fist]] · [[Knife]] · [[Hatchet]] · [[Spear]] · [[Ghost Axe]] · [[Ghost Flint]] · [[Chopper]] · [[Fighting Stick]] · [[Torch]] · [[Plank]] · [[Lightning Shiv]] · [[Double Barrel Shotgun]] · [[Smg]] · [[Revolver]] · [[Slingshot]] · [[Boomerang]] · [[Shredder]] · [[Javelin]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Pan Flute]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

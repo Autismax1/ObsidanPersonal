@@ -18,31 +18,23 @@ dlc: Abyssal Terrors
 [[Brotato]] › [[Weapons]] · **Melee** · Abyssal Terrors
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Blade|Blade]], [[Weapon Classes#Naval|Naval]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]]
+> **Classes** [[Weapon Classes#Blade|Blade]], [[Weapon Classes#Naval|Naval]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 3 | 110 | **50** | 100% Melee damage, 100% Curse | 1.03s | 3% ×2 | 200 | – |
-| 4 | 210 | **80** | 125% Melee damage, 125% Curse | 0.95s | 3% ×2 | 200 | – |
+**All tiers** Crit 3% ×2 · Range 200 · Knockback 5 · Accuracy 100% · Other Thrust · alternates thrust and sweep
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 3 | 5 | 100% | Thrust · alternates thrust and sweep |
-| 4 | 5 | 100% | Thrust · alternates thrust and sweep |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) |
+|---|---|---|---|---|
+| 3 | 110 | **50** | 100% Melee damage, 100% Curse | 1.03s |
+| 4 | 210 | **80** | 125% Melee damage, 125% Curse | 0.95s |
 
 ## Effects per tier
-| Tier | Effect | Details |
+| Effect | Tier 3 | Tier 4 |
 |---|---|---|
-| 3 | **+25 Damage for every Free slots** | – |
-| 4 | **+50 Damage for every Free slots** | – |
+| **… Damage for every Free slots** | +25 | +50 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -51,10 +43,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
+| Effect | Tier 3 | Tier 4 |
 |---|---|---|
-| Tier 3: +25 Damage for every Free slots | value | `28 → 53` |
-| Tier 4: +50 Damage for every Free slots | value | `56 → 105` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| … Damage for every Free slots | `28 → 53` | `56 → 105` |

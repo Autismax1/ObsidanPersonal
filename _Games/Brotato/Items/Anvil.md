@@ -19,21 +19,7 @@ in_shop: true
 > **Price** `120` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `1` ([[Item Caps]])
 
 ## Effects
-- Random weapon (+2)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Random weapon (+2) | value | `3 → 5` |
-|  | adds armor | `4 → 7` |
-| Curse stat | added | `+5 → 10` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Each shop: upgrades a random weapon by one tier; if no weapon can be upgraded (or weapons are locked), Armor +2 instead (`Random weapon (+2)`) | fallback Armor `3 → 5`<br>adds Armor `4 → 7` | – |
+| Curse stat | added `+5 → 10` | |

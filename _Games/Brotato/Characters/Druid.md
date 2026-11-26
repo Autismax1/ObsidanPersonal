@@ -24,23 +24,23 @@ hidden_effect: false
 
 > [!summary] At a glance
 > **Wanted tags** [[Wanted Tags#Consumable|Consumable]], [[Wanted Tags#Luck|Luck]] ([[Shop Item Rolls#Wanted tags|5% of item rolls]])
-> **Never in the shop** [[Item Groups#Lifesteal|Lifesteal]], [[Item Groups#Lifesteal and hp regeneration|Lifesteal and hp regeneration]], [[Item Groups#Hp regeneration|Hp regeneration]], 1 items ([[Shop Item Rolls#Character bans|until endless]])
+> **Never in the shop** [[Item Groups#Lifesteal|Lifesteal]], [[Item Groups#Lifesteal and hp regeneration|Lifesteal and hp regeneration]], [[Item Groups#Hp regeneration|Hp regeneration]], 1 item ([[Shop Item Rolls#Character bans|until endless]])
 > **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all except Hp regeneration, Lifesteal
 > **Hidden effects** none
 
 ## Starting effects
 - Max hp +5 🧬
 - Luck +15 🧬
-- Enemy fruit drops (+4) 🧬
-- On fruit: +1 Luck (33) 🧬
-- Poisoned fruit (+33)
+- +4% chance for enemies to drop a fruit (`Enemy fruit drops (+4)`) 🧬
+- Eating a fruit: 33% chance of +1 Luck (`On fruit: +1 Luck (33)`) 🧬
+- 33% of fruits are poisoned: eating one deals 3 damage to you, plus your Consumable heal bonus (`Poisoned fruit (+33)`)
 - Hp regeneration -100
 - Lifesteal -100
 - -50% gains of Engineering
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Fist]] · [[Claw]] · [[Ghost Flint]] · [[Cacti Club]] · [[Rock]] · [[Chopper]] · [[Fighting Stick]] · [[Pruner]] · [[Sickle]] · [[Lute]] · [[Stick]] · [[Spear]] · [[Torch]] · [[Flute]] · [[Slingshot]] · [[Ghost Scepter]] · [[Icicle]] · [[Wand]] · [[Javelin]] · [[Pan Flute]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Whip]] · [[Blowgun]] · [[Molotov]] · [[Flail]]
+**Starting weapon choices** [[Fist]] · [[Claw]] · [[Ghost Flint]] · [[Cacti Club]] · [[Rock]] · [[Chopper]] · [[Fighting Stick]] · [[Pruner]] · [[Sickle]] · [[Lute]] · [[Stick]] · [[Spear]] · [[Torch]] · [[Flute]] · [[Slingshot]] · [[Ghost Scepter]] · [[Icicle]] · [[Wand]] · [[Javelin]] · [[Pan Flute]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Whip]] · [[Blowgun]] · [[Molotov]] · [[Flail]]
 
 ## Banned items
 - [[Item Groups#Lifesteal|Lifesteal]]: [[Butterfly]], [[Bat]], [[Whetstone]], [[Decomposing Flesh]], [[Bloody Hand]], [[Fresh Meat]]

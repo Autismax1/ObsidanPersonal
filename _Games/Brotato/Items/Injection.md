@@ -22,22 +22,8 @@ in_shop: true
 > **Shows up more often for** [[One Armed]]
 
 ## Effects
-- Percent damage +7
-- Max hp -2
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Percent damage +7 | value | `8 → 15` |
-| Max hp -2 | value | `-1` |
-| Curse stat | added | `+1 → 2` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Percent damage +7 |
-| **Can be removed** | Max hp -2 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Percent damage +7 | `8 → 15` | copied |
+| Max hp -2 | `-1` | removable |
+| Curse stat | added `+1 → 2` | |

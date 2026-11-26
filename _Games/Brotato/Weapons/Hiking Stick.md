@@ -17,38 +17,26 @@ dlc: Abyssal Terrors
 [[Brotato]] › [[Weapons]] · **Melee** · Abyssal Terrors
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Support|Support]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Baby]], [[Entrepreneur]], [[Explorer]], [[Hiker]], [[Hunter]], [[Multitasker]], [[Speedy]], [[Time Shifter]]
+> **Classes** [[Weapon Classes#Support|Support]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Baby]], [[Entrepreneur]], [[Explorer]], [[Hiker]], [[Hunter]], [[Multitasker]], [[Speedy]], [[Time Shifter]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 17 | **12** | 50% Melee damage, 10% Range | 1.42s | 3% ×1.5 | 175 | – |
-| 2 | 34 | **18** | 50% Melee damage, 12% Range | 1.34s | 3% ×1.5 | 175 | – |
-| 3 | 66 | **24** | 50% Melee damage, 15% Range | 1.25s | 3% ×1.5 | 175 | – |
-| 4 | 130 | **30** | 50% Melee damage, 20% Range | 1.17s | 3% ×1.5 | 175 | – |
+**All tiers** Crit 3% ×1.5 · Range 175 · Knockback 0 · Accuracy 100% · Other Thrust
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 0 | 100% | Thrust |
-| 2 | 0 | 100% | Thrust |
-| 3 | 0 | 100% | Thrust |
-| 4 | 0 | 100% | Thrust |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) |
+|---|---|---|---|---|
+| 1 | 17 | **12** | 50% Melee damage, 10% Range | 1.42s |
+| 2 | 34 | **18** | 50% Melee damage, 12% Range | 1.34s |
+| 3 | 66 | **24** | 50% Melee damage, 15% Range | 1.25s |
+| 4 | 130 | **30** | 50% Melee damage, 20% Range | 1.17s |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **On every step** | second value 70 |
-| 2 | **On every step** | second value 60 |
-| 3 | **On every step** | second value 50 |
-| 4 | **On every step** | second value 40 |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **On every step** | second value 70 | second value 60 | second value 50 | second value 40 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -59,12 +47,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: On every step | steps needed | `63 → 33` |
-| Tier 2: On every step | steps needed | `54 → 28` |
-| Tier 3: On every step | steps needed | `45 → 23` |
-| Tier 4: On every step | steps needed | `36 → 19` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| On every step · steps needed | `63 → 33` | `54 → 28` | `45 → 23` | `36 → 19` |

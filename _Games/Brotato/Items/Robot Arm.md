@@ -23,23 +23,9 @@ in_shop: true
 > **Shows up more often for** [[Brawler]], [[Builder]], [[Crazy]], [[Diver]], [[Dwarf]], [[Engineer]], [[Generalist]], [[Gladiator]], [[Glutton]], [[Ogre]], [[Technomage]]
 
 ## Effects
-- +3 Melee damage at the end of every wave
-- +3 Engineering at the end of every wave
-- -1 Max hp at the end of every wave
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| +3 Melee damage at the end of every wave | value | `4 → 7` |
-| +3 Engineering at the end of every wave | value | `4 → 7` |
-| Curse stat | added | `+4 → 8` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | +3 Melee damage at the end of every wave<br>+3 Engineering at the end of every wave |
-| **Can be removed** | -1 Max hp at the end of every wave |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| +3 Melee damage at the end of every wave | `4 → 7` | copied |
+| +3 Engineering at the end of every wave | `4 → 7` | copied |
+| -1 Max hp at the end of every wave | – | removable |
+| Curse stat | added `+4 → 8` | |

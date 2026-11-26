@@ -23,21 +23,7 @@ in_shop: true
 > **Shows up more often for** [[Creature]], [[Sailor]]
 
 ## Effects
-- Curse locked items (+20)
-- Curse +1
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Curse locked items (+20) | value | `22 → 42` |
-| Curse +1 | value | `2 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Curse locked items (+20) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Curse locked items (+20) | `22 → 42` | copied |
+| Curse +1 | `2 → 3` | – |

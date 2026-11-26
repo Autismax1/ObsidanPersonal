@@ -31,7 +31,7 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Fist]] · [[Hand]] · [[Claw]]
+**Starting weapon choices** [[Fist]] · [[Hand]] · [[Claw]]
 
 ## Banned items
 - [[Item Groups#Ranged damage|Ranged damage]]: [[Lens]]

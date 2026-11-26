@@ -23,24 +23,9 @@ in_shop: true
 > **Shows up more often for** [[Arsonist]], [[Crazy]], [[Diver]], [[Hunter]], [[Mage]], [[Technomage]]
 
 ## Effects
-- Crit chance +4
-- Elemental damage +2
-- Ranged damage -2
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Crit chance +4 | value | `5 → 9` |
-| Elemental damage +2 | value | `3 → 5` |
-| Ranged damage -2 | value | `-1` |
-| Curse stat | added | `+2 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Crit chance +4<br>Elemental damage +2 |
-| **Can be removed** | Ranged damage -2 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Crit chance +4 | `5 → 9` | copied |
+| Elemental damage +2 | `3 → 5` | copied |
+| Ranged damage -2 | `-1` | removable |
+| Curse stat | added `+2 → 5` | |

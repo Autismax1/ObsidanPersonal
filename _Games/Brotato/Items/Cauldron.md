@@ -22,24 +22,9 @@ in_shop: true
 > **Shows up more often for** [[Buccaneer]], [[Lucky]]
 
 ## Effects
-- Pickup range (+50)
-- Decaying on consumable: +20 Percent damage (2)
-- Hp regeneration -2
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Pickup range (+50) | value | `56 → 105` |
-| Decaying on consumable: +20 Percent damage (2) | value | `22 → 42` |
-| Hp regeneration -2 | value | `-1` |
-| Curse stat | added | `+2 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Pickup range (+50)<br>Decaying on consumable: +20 Percent damage (2) |
-| **Can be removed** | Hp regeneration -2 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Pickup range (+50) | `56 → 105` | copied |
+| Decaying on consumable: +20 Percent damage (2) | `22 → 42` | copied |
+| Hp regeneration -2 | `-1` | removable |
+| Curse stat | added `+2 → 3` | |

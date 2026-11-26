@@ -26,11 +26,11 @@ hidden_effect: false
 ## Starting effects
 - Engineering +10 🧬
 - +25% gains of Engineering 🧬
-- Group structures
+- Structures spawn grouped together instead of scattered across the map (`Group structures`)
 - -50% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Piercing damage, Explosion damage, Bounce damage, Damage against bosses
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Wrench]] · [[Screwdriver]] · [[Plank]] · [[Hammer]] · [[Crowbar]] · [[Shovel]] · [[Awl]] · [[Carbon Bow]]
+**Starting weapon choices** [[Wrench]] · [[Screwdriver]] · [[Plank]] · [[Hammer]] · [[Crowbar]] · [[Shovel]] · [[Awl]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

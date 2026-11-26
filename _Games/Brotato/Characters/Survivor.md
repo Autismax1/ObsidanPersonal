@@ -22,17 +22,17 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Crate give weapon 🧬
-- No in shop
-- Max weapons (+8) 🧬
+- Crates give a weapon instead of an item (`Crate give weapon`) 🧬
+- No weapons in the shop (`No in shop`)
+- 8 weapon slots instead of 6 (`Max weapons (+8)`) 🧬
 - Trees (+12) 🧬
 - Crate chance (+25) 🧬
 - Gold drops (-25)
-- Extra starting choices
-- Consumable heal (-2)
+- Pick 1 extra starting weapon, 2 in total (`Extra starting choices`)
+- Consumables heal 2 HP less (`Consumable heal (-2)`)
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Knife]] · [[Stick]] · [[Fist]] · [[Chopper]] · [[Fighting Stick]] · [[Cacti Club]] · [[Hatchet]] · [[Spiky Shield]] · [[Ghost Flint]] · [[Wrench]] · [[Slingshot]] · [[Wand]] · [[Icicle]] · [[Lute]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]] · [[Sharp Tooth]]
+**Starting weapon choices** [[Knife]] · [[Stick]] · [[Fist]] · [[Chopper]] · [[Fighting Stick]] · [[Cacti Club]] · [[Hatchet]] · [[Spiky Shield]] · [[Ghost Flint]] · [[Wrench]] · [[Slingshot]] · [[Wand]] · [[Icicle]] · [[Lute]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]] · [[Sharp Tooth]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

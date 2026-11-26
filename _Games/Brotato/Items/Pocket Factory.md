@@ -24,22 +24,8 @@ in_shop: true
 > **Shows up more often for** [[Builder]], [[Cryptid]], [[Cyborg]], [[Dwarf]], [[Engineer]], [[Explorer]], [[Lucky]], [[Streamer]], [[Technomage]]
 
 ## Effects
-- Engineering +2
-- Tree turret
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Engineering +2 | value | `3 → 9 (×3 boost for this item)` |
-| Tree turret | adds | `+1 tree` |
-| Curse stat | added | `+3 → 6` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Engineering +2<br>Tree turret |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Engineering +2 | `3 → 9 (×3 boost for this item)` | copied |
+| Tree turret (+1) | adds `+1 tree` | copied |
+| Curse stat | added `+3 → 6` | |

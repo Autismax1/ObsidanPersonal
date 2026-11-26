@@ -25,26 +25,10 @@ in_shop: true
 > **Never offered to** [[Droid]], [[Wounded]] (until endless)
 
 ## Effects
-- Max hp +12
-- Hp regeneration +5
-- Lifesteal +3
-- Crit chance -8
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Max hp +12 | value | `14 → 26` |
-| Hp regeneration +5 | value | `6 → 11` |
-| Lifesteal +3 | value | `4 → 7` |
-| Crit chance -8 | value | `-7 → -3` |
-| Curse stat | added | `+5 → 9` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Max hp +12<br>Hp regeneration +5<br>Lifesteal +3 |
-| **Can be removed** | Crit chance -8 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Max hp +12 | `14 → 26` | copied |
+| Hp regeneration +5 | `6 → 11` | copied |
+| Lifesteal +3 | `4 → 7` | copied |
+| Crit chance -8 | `-7 → -3` | removable |
+| Curse stat | added `+5 → 9` | |

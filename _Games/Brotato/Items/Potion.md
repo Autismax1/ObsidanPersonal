@@ -24,22 +24,8 @@ in_shop: true
 > **Never offered to** [[Droid]], [[Druid]], [[Golem]], [[Sick]], [[Vampire]], [[Veteran]], [[Wounded]] (until endless)
 
 ## Effects
-- Hp regen bonus double: +1 Hp regen bonus (50)
-- Hp regeneration +3
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Hp regen bonus double: +1 Hp regen bonus (50) | health threshold | `56 → 90` |
-| Hp regeneration +3 | value | `4 → 13 (×3 boost for this item)` |
-| Curse stat | added | `+4 → 8` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Hp regeneration +3<br>Hp regen bonus double: +1 Hp regen bonus (50) *(only from scale 0.7, about −63 evolution)* |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Hp regen bonus double: +1 Hp regen bonus (50) | health threshold `56 → 90` | copied *(only from scale 0.7, about −58 evolution)* |
+| Hp regeneration +3 | `4 → 13 (×3 boost for this item)` | copied |
+| Curse stat | added `+4 → 8` | |

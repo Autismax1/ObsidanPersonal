@@ -18,34 +18,23 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Blade|Blade]], [[Weapon Classes#Medieval|Medieval]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[King]], [[Knight]]
+> **Classes** [[Weapon Classes#Blade|Blade]], [[Weapon Classes#Medieval|Medieval]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[King]], [[Knight]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 2 | 51 | **30** | 100% Melee damage | 1.28s | 3% ×2 | 200 | – |
-| 3 | 95 | **45** | 100% Melee damage | 1.13s | 3% ×2 | 200 | – |
-| 4 | 190 | **65** | 100% Melee damage | 0.98s | 3% ×2 | 200 | – |
+**All tiers** Scaling 100% Melee damage · Crit 3% ×2 · Range 200 · Knockback 5 · Accuracy 100% · Other Thrust · alternates thrust and sweep
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
+| Tier | Price | Damage | Cooldown (0 attack speed) |
 |---|---|---|---|
-| 2 | 5 | 100% | Thrust · alternates thrust and sweep |
-| 3 | 5 | 100% | Thrust · alternates thrust and sweep |
-| 4 | 5 | 100% | Thrust · alternates thrust and sweep |
+| 2 | 51 | **30** | 1.28s |
+| 3 | 95 | **45** | 1.13s |
+| 4 | 190 | **65** | 0.98s |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
 | 2 | `33 → 63` | 110% → 210% Melee damage | ×2 → ×2.4 | `+2 → 4` |
 | 3 | `50 → 95` | 110% → 210% Melee damage | ×2 → ×2.4 | `+4 → 8` |
 | 4 | `72 → 137` | 110% → 210% Melee damage | ×2 → ×2.4 | `+8 → 16` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

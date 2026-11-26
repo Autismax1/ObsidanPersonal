@@ -23,26 +23,10 @@ in_shop: true
 > **Shows up more often for** [[One Armed]]
 
 ## Effects
-- Percent damage +12
-- Unique bonus (+6)
-- Dodge -3
-- Harvesting -5
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Percent damage +12 | value | `14 → 26` |
-| Unique bonus (+6) | value | `7 → 13` |
-| Dodge -3 | value | `-2 → -1` |
-| Harvesting -5 | value | `-4 → -2` |
-| Curse stat | added | `+5 → 9` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Percent damage +12<br>Unique bonus (+6) |
-| **Can be removed** | Dodge -3<br>Harvesting -5 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Percent damage +12 | `14 → 26` | copied |
+| Unique bonus: Attack speed (+6) | `7 → 13` | copied |
+| Dodge -3 | `-2 → -1` | removable |
+| Harvesting -5 | `-4 → -2` | removable |
+| Curse stat | added `+5 → 9` | |

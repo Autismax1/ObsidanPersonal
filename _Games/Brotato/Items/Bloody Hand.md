@@ -24,23 +24,9 @@ in_shop: true
 > **Never offered to** [[Bull]], [[Chunky]], [[Cryptid]], [[Druid]], [[Golem]], [[Veteran]], [[Wounded]] (until endless)
 
 ## Effects
-- Lifesteal +10
-- +2 Percent damage for every Lifesteal
-- Lose hp per second
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Lifesteal +10 | value | `11 → 21` |
-| +2 Percent damage for every Lifesteal | value | `3 → 5` |
-| Curse stat | added | `+5 → 9` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Lifesteal +10<br>+2 Percent damage for every Lifesteal |
-| **Can be removed** | Lose hp per second |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Lifesteal +10 | `11 → 21` | copied |
+| +2 Percent damage for every Lifesteal | `3 → 5` | copied |
+| Lose hp per second (+1) | – | removable |
+| Curse stat | added `+5 → 9` | |

@@ -18,31 +18,23 @@ dlc: Primal Dread
 [[Brotato]] › [[Weapons]] · **Melee** · Primal Dread
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Blade|Blade]], [[Weapon Classes#Precise|Precise]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]]
+> **Classes** [[Weapon Classes#Blade|Blade]], [[Weapon Classes#Precise|Precise]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 3 | 90 | **24** | 100% Melee damage | 1.04s | 3% ×2 | 150 | – |
-| 4 | 182 | **38** | 120% Melee damage | 0.92s | 3% ×2 | 150 | – |
+**All tiers** Crit 3% ×2 · Range 150 · Knockback 5 · Accuracy 100% · Other Sweep
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 3 | 5 | 100% | Sweep |
-| 4 | 5 | 100% | Sweep |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) |
+|---|---|---|---|---|
+| 3 | 90 | **24** | 100% Melee damage | 1.04s |
+| 4 | 182 | **38** | 120% Melee damage | 0.92s |
 
 ## Effects per tier
-| Tier | Effect | Details |
+| Effect | Tier 3 | Tier 4 |
 |---|---|---|
-| 3 | **Deflect projectiles** | `18` damage (150% Ranged damage) · range `1000` · crit 3% ×2 |
-| 4 | **Deflect projectiles** | `25` damage (200% Ranged damage) · range `1000` · crit 3% ×2 |
+| **Deflect projectiles** | `18` damage (150% Ranged damage) · range `1000` · crit 3% ×2 | `25` damage (200% Ranged damage) · range `1000` · crit 3% ×2 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -51,10 +43,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
+| Effect | Tier 3 | Tier 4 |
 |---|---|---|
-| Tier 3: Deflect projectiles | deflect damage | unchanged |
-| Tier 4: Deflect projectiles | deflect damage | unchanged |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Deflect projectiles · deflect damage | unchanged | unchanged |

@@ -23,22 +23,8 @@ in_shop: true
 > **Shows up more often for** [[Brawler]], [[Crazy]], [[Diver]], [[Generalist]], [[Gladiator]], [[Glutton]], [[Ogre]]
 
 ## Effects
-- Melee damage +1
-- Knockback (+3)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Melee damage +1 | value | `2 → 3` |
-| Knockback (+3) | value | `4 → 7` |
-| Curse stat | added | `+1 → 2` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Melee damage +1<br>Knockback (+3) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Melee damage +1 | `2 → 3` | copied |
+| Knockback (+3) | `4 → 7` | copied |
+| Curse stat | added `+1 → 2` | |

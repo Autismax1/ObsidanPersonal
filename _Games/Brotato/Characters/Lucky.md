@@ -27,13 +27,13 @@ hidden_effect: false
 ## Starting effects
 - Luck +100 🧬
 - +25% gains of Luck 🧬
-- **Deal dmg when pickup gold (+15)** (75% chance) 🧬
+- **When you pick up materials: deal damage equal to 15% of your Luck (boosted by Damage %) to a random enemy** (`Deal dmg when pickup gold (+15)`) (75% chance) 🧬
   - 75% chance
 - Attack speed -60
 - Xp gain -50
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Stick]] · [[Rock]] · [[Fist]] · [[Chopper]] · [[Plank]] · [[Screwdriver]] · [[Jousting Lance]] · [[Torch]] · [[Pruner]] · [[Slingshot]] · [[Wand]] · [[Icicle]] · [[Lute]] · [[Flute]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Carbon Bow]] · [[Pan Flute]]
+**Starting weapon choices** [[Stick]] · [[Rock]] · [[Fist]] · [[Chopper]] · [[Plank]] · [[Screwdriver]] · [[Jousting Lance]] · [[Torch]] · [[Pruner]] · [[Slingshot]] · [[Wand]] · [[Icicle]] · [[Lute]] · [[Flute]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Carbon Bow]] · [[Pan Flute]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

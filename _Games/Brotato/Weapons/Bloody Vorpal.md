@@ -18,35 +18,25 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Blade|Blade]], [[Weapon Classes#Medieval|Medieval]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[King]], [[Knight]]
+> **Classes** [[Weapon Classes#Blade|Blade]], [[Weapon Classes#Medieval|Medieval]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[King]], [[Knight]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 2 | 55 | **20** | 100% Melee damage | 1.11s | 3% ×2 | 200 | – |
-| 3 | 100 | **35** | 100% Melee damage | 1.03s | 3% ×2 | 200 | – |
-| 4 | 200 | **55** | 100% Melee damage | 0.95s | 3% ×2 | 200 | – |
+**All tiers** Scaling 100% Melee damage · Crit 3% ×2 · Range 200 · Knockback 5 · Accuracy 100% · Other Thrust · alternates thrust and sweep
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
+| Tier | Price | Damage | Cooldown (0 attack speed) |
 |---|---|---|---|
-| 2 | 5 | 100% | Thrust · alternates thrust and sweep |
-| 3 | 5 | 100% | Thrust · alternates thrust and sweep |
-| 4 | 5 | 100% | Thrust · alternates thrust and sweep |
+| 2 | 55 | **20** | 1.11s |
+| 3 | 100 | **35** | 1.03s |
+| 4 | 200 | **55** | 0.95s |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 2 | **One shot on hit effect** | – |
-| 3 | **One shot on hit effect (+2)** | – |
-| 4 | **One shot on hit effect (+3)** | – |
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| **One shot on hit effect** | (+1) | (+2) | (+3) |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -56,11 +46,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 2: One shot on hit effect | value | `2 → 3` |
-| Tier 3: One shot on hit effect (+2) | value | `3 → 5` |
-| Tier 4: One shot on hit effect (+3) | value | `4 → 7` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| One shot on hit effect | `2 → 3` | `3 → 5` | `4 → 7` |

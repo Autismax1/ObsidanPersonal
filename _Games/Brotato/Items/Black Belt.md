@@ -24,26 +24,10 @@ in_shop: true
 > **Shows up more often for** [[Apprentice]], [[Baby]], [[Brawler]], [[Captain]], [[Crazy]], [[Creature]], [[Diver]], [[Generalist]], [[Gladiator]], [[Glutton]], [[Mutant]], [[Ogre]]
 
 ## Effects
-- Xp gain +25
-- Melee damage +3
-- Knockback (+3)
-- Luck -8
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Xp gain +25 | value | `28 → 53` |
-| Melee damage +3 | value | `4 → 7` |
-| Knockback (+3) | value | `4 → 7` |
-| Luck -8 | value | `-7 → -3` |
-| Curse stat | added | `+2 → 4` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Xp gain +25<br>Melee damage +3<br>Knockback (+3) |
-| **Can be removed** | Luck -8 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Xp gain +25 | `28 → 53` | copied |
+| Melee damage +3 | `4 → 7` | copied |
+| Knockback (+3) | `4 → 7` | copied |
+| Luck -8 | `-7 → -3` | removable |
+| Curse stat | added `+2 → 4` | |

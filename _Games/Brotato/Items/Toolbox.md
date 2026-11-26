@@ -24,22 +24,8 @@ in_shop: true
 > **Never offered to** [[Pacifist]] (until endless)
 
 ## Effects
-- Engineering +6
-- Attack speed -8
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Engineering +6 | value | `7 → 13` |
-| Attack speed -8 | value | `-7 → -3` |
-| Curse stat | added | `+2 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Engineering +6 |
-| **Can be removed** | Attack speed -8 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Engineering +6 | `7 → 13` | copied |
+| Attack speed -8 | `-7 → -3` | removable |
+| Curse stat | added `+2 → 5` | |

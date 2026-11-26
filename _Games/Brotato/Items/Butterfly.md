@@ -24,21 +24,8 @@ in_shop: true
 > **Never offered to** [[Bull]], [[Chunky]], [[Cryptid]], [[Droid]], [[Druid]], [[Golem]], [[Veteran]], [[Wounded]] (until endless)
 
 ## Effects
-- Lifesteal +2
-- Elemental damage -1
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Lifesteal +2 | value | `3 → 5` |
-| Curse stat | added | `+1 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Lifesteal +2 |
-| **Can be removed** | Elemental damage -1 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Lifesteal +2 | `3 → 5` | copied |
+| Elemental damage -1 | – | removable |
+| Curse stat | added `+1 → 3` | |

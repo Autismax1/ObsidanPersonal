@@ -23,26 +23,8 @@ in_shop: true
 > **Shows up more often for** [[Arsonist]], [[Artificer]], [[Brawler]], [[Bull]], [[Crazy]], [[Diver]], [[Generalist]], [[Gladiator]], [[Glutton]], [[Ogre]]
 
 ## Effects
-- **Explode on death**
-  - 20% chance
-  - explosion size 65%
-  - `10` damage (50% Melee damage) · every `1.56s` · range `150`
-- Crit chance -5
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Explode on death | damage | `11 → 21` |
-|  | scaling | `×1.10 → ×2.10` |
-| Crit chance -5 | value | `-4 → -2` |
-| Curse stat | added | `+3 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Explode on death (20% chance, explosion size 65%, `10` damage (50% Melee damage) · every `1.56s` · range `150`) |
-| **Can be removed** | Crit chance -5 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| **Explode on death**<br>· 20% chance<br>· explosion size 65%<br>· `10` damage (50% Melee damage) · every `1.56s` · range `150` | damage `11 → 21`<br>scaling `×1.10 → ×2.10` | copied |
+| Crit chance -5 | `-4 → -2` | removable |
+| Curse stat | added `+3 → 5` | |

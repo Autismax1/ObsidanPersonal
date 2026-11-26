@@ -23,22 +23,8 @@ in_shop: true
 > **Never offered to** [[Droid]], [[Wounded]] (until endless)
 
 ## Effects
-- Max hp +15
-- Torture (+5)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Max hp +15 | value | `17 → 32` |
-| Torture (+5) | value | `6 → 11` |
-| Curse stat | added | `+4 → 8` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Max hp +15<br>Torture (+5) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Max hp +15 | `17 → 32` | copied |
+| Torture (+5) | `6 → 11` | copied |
+| Curse stat | added `+4 → 8` | |

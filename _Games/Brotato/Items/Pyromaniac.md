@@ -22,22 +22,8 @@ in_shop: true
 > **Shows up more often for** [[Arsonist]], [[Mage]], [[Technomage]]
 
 ## Effects
-- Burning stacks
-- Crit chance -13
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Burning stacks | adds elemental damage | `+2 (roll < 50%) or +3` |
-| Crit chance -13 | value | `-11 → -6` |
-| Curse stat | added | `+4 → 8` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | Crit chance -13 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Burning stacks | adds elemental damage `+2 (roll < 50%) or +3` | – |
+| Crit chance -13 | `-11 → -6` | removable |
+| Curse stat | added `+4 → 8` | |

@@ -27,11 +27,11 @@ hidden_effect: false
 - Items price -25
 - +50% gains of Harvesting 🧬
 - Recycling gains (+25) 🧬
-- Gain pct gold start wave (-100)
+- Unspent materials are lost at the start of every wave (`Gain pct gold start wave (-100)`)
 - -50% gains of Percent damage, Ranged damage, Melee damage, Elemental damage, Explosion damage, Bounce damage, Piercing damage, Damage against bosses
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Fist]] · [[Claw]] · [[Hand]] · [[Knife]] · [[Dagger]] · [[Pruner]] · [[Fighting Stick]] · [[Hatchet]] · [[Ghost Flint]] · [[Wrench]] · [[Plank]] · [[Pistol]] · [[Double Barrel Shotgun]] · [[Taser]] · [[Shuriken]] · [[Crossbow]] · [[Icicle]] · [[Hiking Stick]] · [[Lute]] · [[Sickle]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Pan Flute]] · [[Carbon Bow]]
+**Starting weapon choices** [[Fist]] · [[Claw]] · [[Hand]] · [[Knife]] · [[Dagger]] · [[Pruner]] · [[Fighting Stick]] · [[Hatchet]] · [[Ghost Flint]] · [[Wrench]] · [[Plank]] · [[Pistol]] · [[Double Barrel Shotgun]] · [[Taser]] · [[Shuriken]] · [[Crossbow]] · [[Icicle]] · [[Hiking Stick]] · [[Lute]] · [[Sickle]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Pan Flute]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

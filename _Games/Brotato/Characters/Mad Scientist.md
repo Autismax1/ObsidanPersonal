@@ -22,13 +22,13 @@ hidden_effect: true
 > **Hidden effects** Mutation fruit chance +100
 
 ## Starting effects
-- Dual evolution
+- Both evolution paths at once: Meca and Mutant fruits both drop (`Dual evolution`)
 - +2 Evolution at the end of every wave 🧬
 - -5 Xp gain at the end of every wave
 - Mutation fruit chance +100 ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Ghost Flint]] · [[Wrench]] · [[Pistol]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Rail Gun]] · [[Carbon Bow]] · [[Crowbar]] · [[Meat Tenderizer]] · [[Laser Gun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Flail]] · [[Shovel]]
+**Starting weapon choices** [[Ghost Flint]] · [[Wrench]] · [[Pistol]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Rail Gun]] · [[Carbon Bow]] · [[Crowbar]] · [[Meat Tenderizer]] · [[Laser Gun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Flail]] · [[Shovel]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

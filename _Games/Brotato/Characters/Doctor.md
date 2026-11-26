@@ -32,6 +32,6 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Scissors]] · [[Medical Gun]] · [[Meat Tenderizer]]
+**Starting weapon choices** [[Scissors]] · [[Medical Gun]] · [[Meat Tenderizer]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

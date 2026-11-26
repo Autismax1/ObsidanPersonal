@@ -22,12 +22,12 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- **Gain every killed enemies in zone (+15)** (second value 3) *(only from scale 0.7, about −63 evolution)* 🧬
+- **Every 15 enemies killed inside your zone: +3% Damage (count resets each wave)** (`Gain every killed enemies in zone (+15)`) (second value 3) *(only from scale 0.7, about −58 evolution)* 🧬
   - second value 3
-- Poacher zone materials (-50)
+- Enemies killed inside your zone drop 50% fewer materials (`Poacher zone materials (-50)`)
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Knife]] · [[Stick]] · [[Fist]] · [[Chopper]] · [[Fighting Stick]] · [[Cacti Club]] · [[Hatchet]] · [[Wrench]] · [[Pistol]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Slingshot]] · [[Taser]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Flail]] · [[Carbon Bow]] · [[Sharp Tooth]]
+**Starting weapon choices** [[Knife]] · [[Stick]] · [[Fist]] · [[Chopper]] · [[Fighting Stick]] · [[Cacti Club]] · [[Hatchet]] · [[Wrench]] · [[Pistol]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Slingshot]] · [[Taser]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Flail]] · [[Carbon Bow]] · [[Sharp Tooth]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

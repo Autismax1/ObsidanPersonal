@@ -31,14 +31,14 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Die in one hit
+- Any hit that damages you kills you (`Die in one hit`)
 - Speed +5 🧬
 - Harvesting +8 🧬
-- Wounded items explanation
+- No mechanical effect, tooltip text only (`Wounded items explanation`)
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Knife]] · [[Stick]] · [[Fist]] · [[Chopper]] · [[Fighting Stick]] · [[Cacti Club]] · [[Hatchet]] · [[Spiky Shield]] · [[Ghost Flint]] · [[Wrench]] · [[Pistol]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Slingshot]] · [[Boomerang]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Rail Gun]] · [[Lute]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]]
+**Starting weapon choices** [[Knife]] · [[Stick]] · [[Fist]] · [[Chopper]] · [[Fighting Stick]] · [[Cacti Club]] · [[Hatchet]] · [[Spiky Shield]] · [[Ghost Flint]] · [[Wrench]] · [[Pistol]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Slingshot]] · [[Boomerang]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Rail Gun]] · [[Lute]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]]
 
 **Starting items** [[Tardigrade]]
 

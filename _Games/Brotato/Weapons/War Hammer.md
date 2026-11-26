@@ -18,36 +18,25 @@ dlc: Abyssal Terrors
 [[Brotato]] › [[Weapons]] · **Melee** · Abyssal Terrors
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Blunt|Blunt]], [[Weapon Classes#Tool|Tool]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]]
+> **Classes** [[Weapon Classes#Blunt|Blunt]], [[Weapon Classes#Tool|Tool]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 3 | 130 | **100** | 150% Melee damage, 150% Engineering | 2.11s | 3% ×1.5 | 200 | – |
-| 4 | 255 | **200** | 200% Melee damage, 200% Engineering | 1.95s | 3% ×1.5 | 200 | – |
+**All tiers** Crit 3% ×1.5 · Range 200 · Accuracy 100% · Other Sweep
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 3 | 20 | 100% | Sweep |
-| 4 | 25 | 100% | Sweep |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Knockback |
+|---|---|---|---|---|---|
+| 3 | 130 | **100** | 150% Melee damage, 150% Engineering | 2.11s | 20 |
+| 4 | 255 | **200** | 200% Melee damage, 200% Engineering | 1.95s | 25 |
 
 ## Effects per tier
-| Tier | Effect | Details |
+| Effect | Tier 3 | Tier 4 |
 |---|---|---|
-| 3 | **Reload turrets on shoot** | – |
-| 4 | **Reload turrets on shoot** | – |
+| **Reload turrets on shoot** | ✓ | ✓ |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
 | 3 | `111 → 210` | 165% → 315% Melee damage, 165% → 315% Engineering | ×1.5 → ×1.8 | `+6 → 11` |
 | 4 | `221 → 420` | 220% → 420% Melee damage, 220% → 420% Engineering | ×1.5 → ×1.8 | `+11 → 21` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

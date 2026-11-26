@@ -23,11 +23,11 @@ hidden_effect: false
 
 ## Starting effects
 - Percent damage +20 🧬
-- Max weapons (+12) 🧬
-- Additional bonus (-5)
+- 12 weapon slots instead of 6 (`Max weapons (+12)`) 🧬
+- -5% Damage for every weapon equipped (`Additional bonus (-5)`)
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Cacti Club]] · [[Fist]] · [[Claw]] · [[Knife]] · [[Spear]] · [[Stick]] · [[Fighting Stick]] · [[Lightning Shiv]] · [[Screwdriver]] · [[Wrench]] · [[Ghost Flint]] · [[Ghost Axe]] · [[Plank]] · [[Chopper]] · [[Hatchet]] · [[Jousting Lance]] · [[Pruner]] · [[Rock]] · [[Spiky Shield]] · [[Sharp Tooth]] · [[Double Barrel Shotgun]] · [[Smg]] · [[Revolver]] · [[Laser Gun]] · [[Wand]] · [[Icicle]] · [[Slingshot]] · [[Taser]] · [[Shuriken]] · [[Crossbow]] · [[Rail Gun]] · [[Hiking Stick]] · [[Lute]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Carbon Bow]]
+**Starting weapon choices** [[Cacti Club]] · [[Fist]] · [[Claw]] · [[Knife]] · [[Spear]] · [[Stick]] · [[Fighting Stick]] · [[Lightning Shiv]] · [[Screwdriver]] · [[Wrench]] · [[Ghost Flint]] · [[Ghost Axe]] · [[Plank]] · [[Chopper]] · [[Hatchet]] · [[Jousting Lance]] · [[Pruner]] · [[Rock]] · [[Spiky Shield]] · [[Sharp Tooth]] · [[Double Barrel Shotgun]] · [[Smg]] · [[Revolver]] · [[Laser Gun]] · [[Wand]] · [[Icicle]] · [[Slingshot]] · [[Taser]] · [[Shuriken]] · [[Crossbow]] · [[Rail Gun]] · [[Hiking Stick]] · [[Lute]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

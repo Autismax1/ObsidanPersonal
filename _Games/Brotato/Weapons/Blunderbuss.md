@@ -18,35 +18,25 @@ dlc: Abyssal Terrors
 [[Brotato]] › [[Weapons]] · **Ranged** · Abyssal Terrors
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Gun|Gun]], [[Weapon Classes#Naval|Naval]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Sailor]]
+> **Classes** [[Weapon Classes#Gun|Gun]], [[Weapon Classes#Naval|Naval]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Sailor]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
+**All tiers** Extra Piercing 2 · Accuracy 90% · Other −25% damage per pierce
+
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Crit | Range | Knockback |
 |---|---|---|---|---|---|---|---|
-| 2 | 45 | **22** | 110% Ranged damage | 5.20s | 3% ×2 | 325 | Piercing 2 |
-| 3 | 95 | **45** | 135% Ranged damage | 5.20s | 3% ×2.25 | 350 | Piercing 2 |
-| 4 | 192 | **70** | 175% Ranged damage | 5.20s | 3% ×2.5 | 375 | Piercing 2 |
-
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 2 | 10 | 90% | −25% damage per pierce |
-| 3 | 20 | 90% | −25% damage per pierce |
-| 4 | 30 | 90% | −25% damage per pierce |
+| 2 | 45 | **22** | 110% Ranged damage | 5.20s | 3% ×2 | 325 | 10 |
+| 3 | 95 | **45** | 135% Ranged damage | 5.20s | 3% ×2.25 | 350 | 20 |
+| 4 | 192 | **70** | 175% Ranged damage | 5.20s | 3% ×2.5 | 375 | 30 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 2 | **Reload when pickup gold** | – |
-| 3 | **Reload when pickup gold** | – |
-| 4 | **Reload when pickup gold** | – |
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| **Reload when pickup gold** | ✓ | ✓ | ✓ |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -56,14 +46,7 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 2: weapon | Piercing | `3 → 3` |
-| Tier 2: Reload when pickup gold | value | `2 → 3` |
-| Tier 3: weapon | Piercing | `3 → 3` |
-| Tier 3: Reload when pickup gold | value | `2 → 3` |
-| Tier 4: weapon | Piercing | `3 → 3` |
-| Tier 4: Reload when pickup gold | value | `2 → 3` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| weapon · Piercing | `3 → 3` | `3 → 3` | `3 → 3` |
+| Reload when pickup gold | `2 → 3` | `2 → 3` | `2 → 3` |

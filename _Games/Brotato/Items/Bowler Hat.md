@@ -23,26 +23,10 @@ in_shop: true
 > **Shows up more often for** [[Chunky]], [[Curious]], [[Druid]], [[Entrepreneur]], [[Farmer]], [[Lucky]]
 
 ## Effects
-- Luck +15
-- Harvesting +18
-- Attack speed -5
-- Crit chance -3
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Luck +15 | value | `17 → 32` |
-| Harvesting +18 | value | `20 → 38` |
-| Attack speed -5 | value | `-4 → -2` |
-| Crit chance -3 | value | `-2 → -1` |
-| Curse stat | added | `+3 → 6` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Luck +15<br>Harvesting +18 |
-| **Can be removed** | Attack speed -5<br>Crit chance -3 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Luck +15 | `17 → 32` | copied |
+| Harvesting +18 | `20 → 38` | copied |
+| Attack speed -5 | `-4 → -2` | removable |
+| Crit chance -3 | `-2 → -1` | removable |
+| Curse stat | added `+3 → 6` | |

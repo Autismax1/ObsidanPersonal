@@ -18,35 +18,25 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Blunt|Blunt]], [[Weapon Classes#Heavy|Heavy]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Dwarf]], [[Engineer]], [[King]], [[Knight]]
+> **Classes** [[Weapon Classes#Blunt|Blunt]], [[Weapon Classes#Heavy|Heavy]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Dwarf]], [[Engineer]], [[King]], [[Knight]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 2 | 46 | **40** | 150% Melee damage | 1.67s | 3% ×1.75 | 175 | – |
-| 3 | 86 | **75** | 175% Melee damage | 1.59s | 3% ×1.75 | 175 | – |
-| 4 | 151 | **120** | 200% Melee damage | 1.50s | 3% ×1.75 | 175 | – |
+**All tiers** Crit 3% ×1.75 · Range 175 · Accuracy 100%
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 2 | 30 | 100% | Sweep · ignores 10% knockback resistance |
-| 3 | 40 | 100% | Sweep · ignores 15% knockback resistance |
-| 4 | 50 | 100% | Sweep · ignores 20% knockback resistance |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Knockback | Other |
+|---|---|---|---|---|---|---|
+| 2 | 46 | **40** | 150% Melee damage | 1.67s | 30 | Sweep · ignores 10% knockback resistance |
+| 3 | 86 | **75** | 175% Melee damage | 1.59s | 40 | Sweep · ignores 15% knockback resistance |
+| 4 | 151 | **120** | 200% Melee damage | 1.50s | 50 | Sweep · ignores 20% knockback resistance |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 2 | **Knockback (+2)** | – |
-| 3 | **Knockback (+4)** | – |
-| 4 | **Knockback (+6)** | – |
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| **Knockback** | (+2) | (+4) | (+6) |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -56,11 +46,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 2: Knockback (+2) | value | `3 → 5` |
-| Tier 3: Knockback (+4) | value | `5 → 9` |
-| Tier 4: Knockback (+6) | value | `7 → 13` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| Knockback | `3 → 5` | `5 → 9` | `7 → 13` |

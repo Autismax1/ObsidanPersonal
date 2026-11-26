@@ -22,25 +22,10 @@ in_shop: true
 > **Shows up more often for** [[Entrepreneur]], [[Farmer]]
 
 ## Effects
-- Harvesting +5
-- Max hp -3
-- +3 Harvesting for every Fossil count
-- Fossil count ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Harvesting +5 | value | `6 → 11` |
-| Max hp -3 | value | `-2 → -1` |
-| +3 Harvesting for every Fossil count | value | `4 → 7` |
-| Curse stat | added | `+2 → 4` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Harvesting +5<br>+3 Harvesting for every Fossil count<br>Fossil count ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]]) |
-| **Can be removed** | Max hp -3 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Harvesting +5 | `6 → 11` | copied |
+| Max hp -3 | `-2 → -1` | removable |
+| +3 Harvesting for every Fossil count | `4 → 7` | copied |
+| Fossil count (+1) ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]]) | – | copied |
+| Curse stat | added `+2 → 4` | |

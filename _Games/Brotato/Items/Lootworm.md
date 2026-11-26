@@ -24,25 +24,11 @@ in_shop: true
 > **Shows up more often for** [[Beast Master]], [[Buccaneer]], [[Entrepreneur]], [[Lucky]]
 
 ## Effects
-- **Pet: Lootworm**
-  - 10% double chance
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
+|---|---|---|
+| **Pet: Lootworm**<br>· 10% double chance | double chance `11% → 21%` | – |
+| Curse stat | added `+1 → 3` | |
 
 ## How it works
 - Collects materials for you: **10% chance to double** each material it picks up.
 - Attacks trees: each hit deals at least 1/5 of the tree's max HP, so it fells a tree in about 5 hits.
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Pet: Lootworm | double chance | `11% → 21%` |
-| Curse stat | added | `+1 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

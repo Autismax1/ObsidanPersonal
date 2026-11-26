@@ -28,7 +28,7 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Fist]] · [[Chopper]] · [[Dagger]] · [[Ghost Flint]] · [[Pruner]] · [[Lightning Shiv]] · [[Cacti Club]] · [[Spear]] · [[Pistol]] · [[Revolver]] · [[Laser Gun]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Lute]] · [[Sickle]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Carbon Bow]]
+**Starting weapon choices** [[Fist]] · [[Chopper]] · [[Dagger]] · [[Ghost Flint]] · [[Pruner]] · [[Lightning Shiv]] · [[Cacti Club]] · [[Spear]] · [[Pistol]] · [[Revolver]] · [[Laser Gun]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Lute]] · [[Sickle]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Carbon Bow]]
 
 **Starting items** [[Piggy Bank]]
 

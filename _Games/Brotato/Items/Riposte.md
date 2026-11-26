@@ -25,23 +25,8 @@ in_shop: true
 > **Never offered to** [[Arsonist]], [[Cyborg]], [[Mage]], [[Ranger]], [[Technomage]] (until endless)
 
 ## Effects
-- Melee damage +2
-- **Deal dmg when dodge (+300)**
-  - 100% chance
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Melee damage +2 | value | `3 → 5` |
-| Deal dmg when dodge (+300) | value | `330 → 630` |
-| Curse stat | added | `+2 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Melee damage +2<br>Deal dmg when dodge (+300) (100% chance) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Melee damage +2 | `3 → 5` | copied |
+| **Deal dmg when dodge: Melee damage (+300)**<br>· 100% chance | `330 → 630` | copied |
+| Curse stat | added `+2 → 3` | |

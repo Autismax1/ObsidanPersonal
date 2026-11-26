@@ -10,20 +10,15 @@ tags:
 > [!summary] At a glance
 > - Evolution **> 0 = meca**, **< 0 = mutant**.
 > - Past `±2` you're locked to a side: only your fruit drops and your side's items join the shop.
-> - Meca fruit `+1`, mutant fruit `−1`, every mutation `−1`, first mechanize `+1`.
+> - Meca fruit `+1`, mutant fruit `−1` ([[Evolution Drops#Meca and mutant fruit]]), every mutation `−1` on the Tumor ([[Mutation#Step 4: the Tumor grows]]), first mechanize of a weapon `+1` ([[Meca]]).
 
-The evolution stat decides your side. **Positive = meca, negative = mutant.**
+^glance
 
 ## How evolution changes
-- Meca fruit +1, mutant fruit −1. See [[Evolution Drops#Meca and mutant fruit]].
-- First mechanize of a weapon: +1. See [[Meca]].
-- Every mutation: −1 (on the Tumor). See [[Mutation#Step 4: the Tumor grows]].
 - Characters like [[Droid]] (+1 per wave) or [[Mad Scientist]] (+2 per wave) gain it on their own.
 - Primal Dread items carry evolution effects.
 
 ## The ±2 threshold
-Past **+2 or −2** evolution you are locked to a side:
-- **Fruit:** only your side's fruit drops.
 - **Shop pool:**
   - Above +2: meca items join the pool.
   - Below −2: mutant items join the pool.

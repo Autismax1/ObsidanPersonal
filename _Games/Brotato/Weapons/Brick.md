@@ -17,38 +17,26 @@ dlc: Abyssal Terrors
 [[Brotato]] › [[Weapons]] · **Melee** · Abyssal Terrors
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Blunt|Blunt]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Apprentice]], [[Buccaneer]], [[Builder]], [[Curious]], [[Cyborg]], [[Dwarf]], [[Golem]], [[Jack]], [[Masochist]], [[Mutant]], [[Ogre]]
+> **Classes** [[Weapon Classes#Blunt|Blunt]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Apprentice]], [[Buccaneer]], [[Builder]], [[Curious]], [[Cyborg]], [[Dwarf]] (tier 2), [[Golem]], [[Jack]], [[Masochist]], [[Mutant]], [[Ogre]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 6 | **30** | 50% Melee damage, 50% Engineering | 1.39s | 3% ×1.5 | 150 | – |
-| 2 | 14 | **60** | 65% Melee damage, 65% Engineering | 1.39s | 3% ×1.5 | 150 | – |
-| 3 | 22 | **90** | 80% Melee damage, 80% Engineering | 1.39s | 3% ×1.5 | 150 | – |
-| 4 | 40 | **120** | 100% Melee damage, 100% Engineering | 1.39s | 3% ×1.5 | 150 | – |
+**All tiers** Crit 3% ×1.5 · Range 150 · Knockback 5 · Accuracy 100% · Other Sweep
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 5 | 100% | Sweep |
-| 2 | 5 | 100% | Sweep |
-| 3 | 5 | 100% | Sweep |
-| 4 | 5 | 100% | Sweep |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) |
+|---|---|---|---|---|
+| 1 | 6 | **30** | 50% Melee damage, 50% Engineering | 1.39s |
+| 2 | 14 | **60** | 65% Melee damage, 65% Engineering | 1.39s |
+| 3 | 22 | **90** | 80% Melee damage, 80% Engineering | 1.39s |
+| 4 | 40 | **120** | 100% Melee damage, 100% Engineering | 1.39s |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Break on hit** | second value 10 |
-| 2 | **Break on hit** | second value 30 |
-| 3 | **Break on hit** | second value 75 |
-| 4 | **Break on hit** | second value 200 |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Break on hit** | second value 10 | second value 30 | second value 75 | second value 200 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -59,12 +47,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: Break on hit | second value | `11 → 21` |
-| Tier 2: Break on hit | second value | `33 → 63` |
-| Tier 3: Break on hit | second value | `83 → 158` |
-| Tier 4: Break on hit | second value | `221 → 420` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| Break on hit · second value | `11 → 21` | `33 → 63` | `83 → 158` | `221 → 420` |

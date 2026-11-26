@@ -22,21 +22,7 @@ in_shop: true
 > **Shows up more often for** [[Arsonist]], [[Mage]], [[Technomage]]
 
 ## Effects
-- **Enemies hit take +10% damage**
-  - 100% chance · 3s · up to 1 stacks · max 1 times
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Enemies hit take +10% damage | value | `11 → 21` |
-| Curse stat | added | `+2 → 4` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Enemies hit take +10% damage (100% chance, 3s, up to 1 stacks, max 1 times) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| **Enemies hit take +10% damage** (only hits and burns that scale with Elemental damage; once per enemy)<br>· 100% chance · 3s · up to 1 stacks · max 1 times | `11 → 21` | copied |
+| Curse stat | added `+2 → 4` | |

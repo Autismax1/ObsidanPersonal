@@ -22,24 +22,11 @@ in_shop: true
 > **Shows up more often for** [[Beast Master]]
 
 ## Effects
-- Pet: Jellyshield
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
+|---|---|---|
+| Pet: Jellyshield | adds armor `2 → 3` | copied |
+| Curse stat | added `+2 → 4` | |
 
 ## How it works
 - A jelly that circles you (radius 100, about 1 turn every 6s) and **blocks enemy attacks and projectiles** that touch it. It has no HP and never breaks.
 - Each copy adds one more jelly, evenly spaced. Max 3.
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Pet: Jellyshield | adds armor | `2 → 3` |
-| Curse stat | added | `+2 → 4` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Pet jellyshield |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

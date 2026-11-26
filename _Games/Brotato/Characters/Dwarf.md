@@ -25,7 +25,7 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Gain when attack killed enemies: +1 Engineering (5) 🧬
+- +1 Engineering when a single attack kills 5 enemies (`Gain when attack killed enemies: +1 Engineering (5)`) 🧬
 - +1 Melee damage for every 2 Engineering 🧬
 - No ranged weapons
 - Dodge -20
@@ -34,6 +34,6 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Hammer]] · [[Wrench]] · [[Brick]] · [[Mace]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Cestus]] · [[Meat Tenderizer]] · [[Flail]]
+**Starting weapon choices** [[Hammer]] · [[Wrench]] (tier 2) · [[Brick]] (tier 2) · [[Mace]] · [[Awl]] (tier 2) · [[Crowbar]] (tier 2) · [[Shovel]] (tier 2) · [[Cestus]] · [[Meat Tenderizer]] (tier 2) · [[Flail]] (tier 2)
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

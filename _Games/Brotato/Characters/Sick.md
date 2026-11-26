@@ -27,12 +27,12 @@ hidden_effect: false
 ## Starting effects
 - Max hp +12 🧬
 - Lifesteal +25 🧬
-- Lose hp per second
+- Lose 1 HP every second, ignoring armor and dodge (`Lose hp per second`)
 - Hp regeneration -100
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Fist]] · [[Scissors]] · [[Hatchet]] · [[Ghost Flint]] · [[Cacti Club]] · [[Lightning Shiv]] · [[Sharp Tooth]] · [[Pruner]] · [[Ghost Scepter]] · [[Slingshot]] · [[Smg]] · [[Medical Gun]] · [[Sickle]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Carbon Bow]] · [[Pan Flute]]
+**Starting weapon choices** [[Fist]] · [[Scissors]] · [[Hatchet]] · [[Ghost Flint]] · [[Cacti Club]] · [[Lightning Shiv]] · [[Sharp Tooth]] · [[Pruner]] · [[Ghost Scepter]] · [[Slingshot]] · [[Smg]] · [[Medical Gun]] · [[Sickle]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Carbon Bow]] · [[Pan Flute]]
 
 ## Banned items
 - [[Item Groups#Hp regeneration|Hp regeneration]]: [[Mushroom]], [[Plant]], [[Sad Tomato]], [[Medikit]], [[Fairy]], [[Potion]], [[Fried Rice]], [[Baby Squid]], [[Coral]], [[Penguin]]

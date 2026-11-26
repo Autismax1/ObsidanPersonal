@@ -23,24 +23,9 @@ in_shop: true
 > **Shows up more often for** [[Lich]], [[Masochist]], [[One Armed]], [[Sick]], [[Vampire]]
 
 ## Effects
-- Percent damage +6
-- Lifesteal +2
-- Engineering -2
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Percent damage +6 | value | `7 → 13` |
-| Lifesteal +2 | value | `3 → 5` |
-| Engineering -2 | value | `-1` |
-| Curse stat | added | `+3 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Percent damage +6<br>Lifesteal +2 |
-| **Can be removed** | Engineering -2 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Percent damage +6 | `7 → 13` | copied |
+| Lifesteal +2 | `3 → 5` | copied |
+| Engineering -2 | `-1` | removable |
+| Curse stat | added `+3 → 5` | |

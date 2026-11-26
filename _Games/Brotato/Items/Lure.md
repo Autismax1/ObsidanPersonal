@@ -22,22 +22,8 @@ in_shop: true
 > **Shows up more often for** [[Bull]], [[Doctor]], [[Lich]], [[Masochist]], [[Pacifist]]
 
 ## Effects
-- Hp regeneration +2
-- Extra loot aliens next wave (+2)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Hp regeneration +2 | value | `3 → 5` |
-| Extra loot aliens next wave (+2) | value | `3 → 5` |
-| Curse stat | added | `+1 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Hp regeneration +2<br>Extra loot aliens next wave (+2) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Hp regeneration +2 | `3 → 5` | copied |
+| Extra loot aliens next wave (+2) | `3 → 5` | copied |
+| Curse stat | added `+1 → 3` | |

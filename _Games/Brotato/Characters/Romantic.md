@@ -22,7 +22,7 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- **Charm below hp (+50)** (second value 25) 🧬
+- **Hitting an enemy below 25% HP: chance to charm it, in %, equal to 50% of your Max HP** (`Charm below hp (+50)`) (second value 25) 🧬
   - second value 25
 - Melee weapons: +50 Max range
 - -3 Percent damage for every 5 Curse
@@ -31,6 +31,6 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Lute]] · [[Chopper]] · [[Fist]] · [[Spoon]] · [[Scissors]] · [[Sharp Tooth]] · [[Hatchet]] · [[Flute]] · [[Double Barrel Shotgun]] · [[Shuriken]] · [[Boomerang]] · [[Slingshot]] · [[Medical Gun]] · [[Smg]] · [[Taser]] · [[Cacti Club]] · [[Claw]] · [[Pan Flute]] · [[Awl]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Flail]] · [[Carbon Bow]]
+**Starting weapon choices** [[Lute]] · [[Chopper]] · [[Fist]] · [[Spoon]] · [[Scissors]] · [[Sharp Tooth]] · [[Hatchet]] · [[Flute]] · [[Double Barrel Shotgun]] · [[Shuriken]] · [[Boomerang]] · [[Slingshot]] · [[Medical Gun]] · [[Smg]] · [[Taser]] · [[Cacti Club]] · [[Claw]] · [[Pan Flute]] · [[Awl]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Flail]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

@@ -23,25 +23,10 @@ in_shop: true
 > **Shows up more often for** [[Cryptid]], [[Explorer]], [[Ghost]], [[Hiker]], [[Speedy]], [[Time Shifter]]
 
 ## Effects
-- Speed +15
-- Dodge +10
-- Max hp -5
-- Armor -1
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Speed +15 | value | `17 → 32` |
-| Dodge +10 | value | `11 → 21` |
-| Max hp -5 | value | `-4 → -2` |
-| Curse stat | added | `+4 → 8` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Speed +15<br>Dodge +10 |
-| **Can be removed** | Max hp -5<br>Armor -1 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Speed +15 | `17 → 32` | copied |
+| Dodge +10 | `11 → 21` | copied |
+| Max hp -5 | `-4 → -2` | removable |
+| Armor -1 | – | removable |
+| Curse stat | added `+4 → 8` | |

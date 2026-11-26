@@ -22,22 +22,8 @@ in_shop: true
 > **Never offered to** [[Bull]] (until endless)
 
 ## Effects
-- +1 Attack speed for every Living enemy
-- Armor -2
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| +1 Attack speed for every Living enemy | value | `2 → 3` |
-| Armor -2 | value | `-1` |
-| Curse stat | added | `+3 → 6` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | +1 Attack speed for every Living enemy |
-| **Can be removed** | Armor -2 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| +1 Attack speed for every Living enemy | `2 → 3` | copied |
+| Armor -2 | `-1` | removable |
+| Curse stat | added `+3 → 6` | |

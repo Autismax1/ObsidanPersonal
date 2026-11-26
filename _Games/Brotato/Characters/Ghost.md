@@ -25,14 +25,14 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Ethereal weapons: +10% Damage 🧬
+- Ethereal weapons: +10 Damage (`Ethereal weapons: +10% Damage`) 🧬
 - Dodge +30 🧬
-- Dodge cap (+90)
+- Dodge cap 90% (default 60%) (`Dodge cap (+90)`)
 - Armor -100
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Ghost Flint]] · [[Ghost Axe]] · [[Ghost Scepter]] · [[Rail Gun]]
+**Starting weapon choices** [[Ghost Flint]] · [[Ghost Axe]] · [[Ghost Scepter]] · [[Rail Gun]]
 
 ## Banned items
 - [[Item Groups#Armor|Armor]]: [[Stone Skin]], [[Helmet]], [[Metal Plate]]

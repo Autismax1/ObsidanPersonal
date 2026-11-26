@@ -26,7 +26,7 @@ hidden_effect: false
 
 ## Starting effects
 - Luck +50 🧬
-- Consumable while max *(only from scale 0.7, about −63 evolution)* 🧬
+- Picking up a consumable at full HP: +1 Explosion damage (`Consumable while max`) *(only from scale 0.7, about −58 evolution)* 🧬
 - **Explode on consumable** (100% chance) 🧬
   - 100% chance
 - Items price +25
@@ -34,6 +34,6 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Pruner]] · [[Chopper]] · [[Dagger]] · [[Fist]] · [[Jousting Lance]] · [[Screwdriver]] · [[Plank]] · [[Shredder]] · [[Lute]] · [[Spoon]] · [[Flute]] · [[Meat Tenderizer]] · [[Shovel]] · [[Whip]] · [[Sticky Grenade]] · [[Carbon Bow]] · [[Pan Flute]]
+**Starting weapon choices** [[Pruner]] · [[Chopper]] · [[Dagger]] · [[Fist]] · [[Jousting Lance]] · [[Screwdriver]] · [[Plank]] · [[Shredder]] · [[Lute]] · [[Spoon]] · [[Flute]] · [[Meat Tenderizer]] · [[Shovel]] · [[Whip]] · [[Sticky Grenade]] · [[Carbon Bow]] · [[Pan Flute]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

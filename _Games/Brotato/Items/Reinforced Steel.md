@@ -23,24 +23,9 @@ in_shop: true
 > **Shows up more often for** [[Builder]], [[Cyborg]], [[Dwarf]], [[Engineer]], [[Generalist]], [[Ranger]], [[Technomage]]
 
 ## Effects
-- Ranged damage +2
-- Engineering +3
-- Speed -3
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Ranged damage +2 | value | `3 → 5` |
-| Engineering +3 | value | `4 → 7` |
-| Speed -3 | value | `-2 → -1` |
-| Curse stat | added | `+2 → 4` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Ranged damage +2<br>Engineering +3 |
-| **Can be removed** | Speed -3 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Ranged damage +2 | `3 → 5` | copied |
+| Engineering +3 | `4 → 7` | copied |
+| Speed -3 | `-2 → -1` | removable |
+| Curse stat | added `+2 → 4` | |

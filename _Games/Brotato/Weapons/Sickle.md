@@ -17,38 +17,26 @@ dlc: Abyssal Terrors
 [[Brotato]] › [[Weapons]] · **Melee** · Abyssal Terrors
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Support|Support]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Creature]], [[Cryptid]], [[Druid]], [[Entrepreneur]], [[Farmer]], [[Masochist]], [[Old]], [[Saver]], [[Sick]], [[Vampire]]
+> **Classes** [[Weapon Classes#Support|Support]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Creature]], [[Cryptid]], [[Druid]], [[Entrepreneur]], [[Farmer]], [[Masochist]], [[Old]], [[Saver]], [[Sick]], [[Vampire]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 15 | **5** | 80% Melee damage, 10% Harvesting | 0.87s | 3% ×2 | 125 | – |
-| 2 | 31 | **8** | 80% Melee damage, 15% Harvesting | 0.82s | 3% ×2 | 125 | – |
-| 3 | 61 | **12** | 80% Melee damage, 20% Harvesting | 0.77s | 3% ×2 | 125 | – |
-| 4 | 122 | **15** | 80% Melee damage, 25% Harvesting | 0.70s | 3% ×2 | 125 | – |
+**All tiers** Crit 3% ×2 · Range 125 · Knockback 2 · Accuracy 100% · Other Sweep
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 2 | 100% | Sweep |
-| 2 | 2 | 100% | Sweep |
-| 3 | 2 | 100% | Sweep |
-| 4 | 2 | 100% | Sweep |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) |
+|---|---|---|---|---|
+| 1 | 15 | **5** | 80% Melee damage, 10% Harvesting | 0.87s |
+| 2 | 31 | **8** | 80% Melee damage, 15% Harvesting | 0.82s |
+| 3 | 61 | **12** | 80% Melee damage, 20% Harvesting | 0.77s |
+| 4 | 122 | **15** | 80% Melee damage, 25% Harvesting | 0.70s |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Bonus damage against targets below hp (+20)** | second value 30 |
-| 2 | **Bonus damage against targets below hp (+30)** | second value 30 |
-| 3 | **Bonus damage against targets below hp (+40)** | second value 30 |
-| 4 | **Bonus damage against targets below hp (+50)** | second value 30 |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Bonus damage against targets below hp**<br>· second value 30 | (+20) | (+30) | (+40) | (+50) |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -59,12 +47,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: Bonus damage against targets below hp (+20) | value | `22 → 42` |
-| Tier 2: Bonus damage against targets below hp (+30) | value | `33 → 63` |
-| Tier 3: Bonus damage against targets below hp (+40) | value | `44 → 84` |
-| Tier 4: Bonus damage against targets below hp (+50) | value | `56 → 105` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| Bonus damage against targets below hp | `22 → 42` | `33 → 63` | `44 → 84` | `56 → 105` |

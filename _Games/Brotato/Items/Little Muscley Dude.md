@@ -23,24 +23,9 @@ in_shop: true
 > **Shows up more often for** [[Brawler]], [[Chunky]], [[Crazy]], [[Diver]], [[Generalist]], [[Gladiator]], [[Glutton]], [[Golem]], [[Lich]], [[Masochist]], [[Ogre]], [[Pacifist]]
 
 ## Effects
-- Melee damage +3
-- Max hp +5
-- Range -15
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Melee damage +3 | value | `4 → 7` |
-| Max hp +5 | value | `6 → 11` |
-| Range -15 | value | `-13 → -7` |
-| Curse stat | added | `+2 → 4` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Melee damage +3<br>Max hp +5 |
-| **Can be removed** | Range -15 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Melee damage +3 | `4 → 7` | copied |
+| Max hp +5 | `6 → 11` | copied |
+| Range -15 | `-13 → -7` | removable |
+| Curse stat | added `+2 → 4` | |

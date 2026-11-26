@@ -23,13 +23,13 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Increase material value (+100) 🧬
+- Materials you pick up are worth +100% (`Increase material value (+100)`) 🧬
 - Weapons reload when pickup gold
 - Attack speed -100
 - Enemy gold drops (-50)
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Brick]] · [[Cacti Club]] · [[Rock]] · [[Spear]] · [[Torch]] · [[Double Barrel Shotgun]] · [[Laser Gun]] · [[Shredder]] · [[Icicle]] · [[Flute]] · [[Slingshot]] · [[Crossbow]] · [[Rail Gun]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]]
+**Starting weapon choices** [[Brick]] · [[Cacti Club]] · [[Rock]] · [[Spear]] · [[Torch]] · [[Double Barrel Shotgun]] · [[Laser Gun]] · [[Shredder]] · [[Icicle]] · [[Flute]] · [[Slingshot]] · [[Crossbow]] · [[Rail Gun]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

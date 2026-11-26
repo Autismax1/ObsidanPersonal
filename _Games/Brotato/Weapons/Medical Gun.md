@@ -18,30 +18,21 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Ranged** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Gun|Gun]], [[Weapon Classes#Medical|Medical]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Apprentice]], [[Builder]], [[Doctor]], [[Droid]], [[Lich]], [[Masochist]], [[Renegade]], [[Romantic]], [[Sick]], [[Streamer]], [[Vampire]]
+> **Classes** [[Weapon Classes#Gun|Gun]], [[Weapon Classes#Medical|Medical]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Apprentice]], [[Builder]], [[Doctor]], [[Droid]], [[Lich]], [[Masochist]], [[Renegade]], [[Romantic]], [[Sick]], [[Streamer]], [[Vampire]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 15 | **10** | 100% Ranged damage | 0.78s | 3% ×2 | 400 | Lifesteal 50% |
-| 2 | 31 | **15** | 100% Ranged damage | 0.70s | 3% ×2 | 400 | Lifesteal 55% |
-| 3 | 61 | **20** | 100% Ranged damage | 0.62s | 3% ×2 | 400 | Lifesteal 60% |
-| 4 | 122 | **30** | 100% Ranged damage | 0.48s | 3% ×2 | 400 | Lifesteal 65% |
+**All tiers** Scaling 100% Ranged damage · Crit 3% ×2 · Range 400 · Knockback 0 · Other projectile speed 2000
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 0 | 90% | projectile speed 2000 |
-| 2 | 0 | 90% | projectile speed 2000 |
-| 3 | 0 | 90% | projectile speed 2000 |
-| 4 | 0 | 100% | projectile speed 2000 |
+| Tier | Price | Damage | Cooldown (0 attack speed) | Extra | Accuracy |
+|---|---|---|---|---|---|
+| 1 | 15 | **10** | 0.78s | Lifesteal 50% | 90% |
+| 2 | 31 | **15** | 0.70s | Lifesteal 55% | 90% |
+| 3 | 61 | **20** | 0.62s | Lifesteal 60% | 90% |
+| 4 | 122 | **30** | 0.48s | Lifesteal 65% | 100% |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -52,12 +43,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: weapon | Lifesteal | `55% → 105%` |
-| Tier 2: weapon | Lifesteal | `61% → 116%` |
-| Tier 3: weapon | Lifesteal | `66% → 126%` |
-| Tier 4: weapon | Lifesteal | `72% → 137%` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| weapon · Lifesteal | `55% → 105%` | `61% → 116%` | `66% → 126%` | `72% → 137%` |

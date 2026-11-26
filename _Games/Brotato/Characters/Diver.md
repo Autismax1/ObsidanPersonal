@@ -26,8 +26,8 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Specific price (-100)
-- Effect class bonus +200 🧬
+- Harpoon Gun is free in the shop (−100% price) (`Specific price (-100)`)
+- Precise weapons: +200% Crit damage (`Effect class bonus +200`) 🧬
 - +25% gains of Crit chance 🧬
 - +1 Hp regeneration for every 2 Melee damage 🧬
 - **Enemies hit take +300% damage** (100% chance) 🧬
@@ -37,7 +37,7 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Claw]] · [[Dagger]] · [[Knife]] · [[Scissors]] · [[Sharp Tooth]] · [[Shuriken]] · [[Meat Tenderizer]] · [[Blowgun]] · [[Carbon Bow]]
+**Starting weapon choices** [[Claw]] · [[Dagger]] · [[Knife]] · [[Scissors]] · [[Sharp Tooth]] · [[Shuriken]] · [[Meat Tenderizer]] · [[Blowgun]] · [[Carbon Bow]]
 
 ## Banned items
 - [[Item Groups#Ranged damage|Ranged damage]]: [[Lens]]

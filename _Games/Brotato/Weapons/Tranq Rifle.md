@@ -18,35 +18,25 @@ dlc: Primal Dread
 [[Brotato]] › [[Weapons]] · **Ranged** · Primal Dread
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Gun|Gun]], [[Weapon Classes#Precise|Precise]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[King]]
+> **Classes** [[Weapon Classes#Gun|Gun]], [[Weapon Classes#Precise|Precise]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[King]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 2 | 39 | **50** | 160% Ranged damage, 15% Range | 2.08s | 15% ×2.5 | 600 | – |
-| 3 | 74 | **80** | 180% Ranged damage, 20% Range | 2.05s | 18% ×3 | 700 | – |
-| 4 | 149 | **120** | 200% Ranged damage, 25% Range | 2.03s | 20% ×3.5 | 800 | – |
+**All tiers** Knockback 10 · Accuracy 100% · Other can't gain bounces
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 2 | 10 | 100% | can't gain bounces |
-| 3 | 10 | 100% | can't gain bounces |
-| 4 | 10 | 100% | can't gain bounces |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Crit | Range |
+|---|---|---|---|---|---|---|
+| 2 | 39 | **50** | 160% Ranged damage, 15% Range | 2.08s | 15% ×2.5 | 600 |
+| 3 | 74 | **80** | 180% Ranged damage, 20% Range | 2.05s | 18% ×3 | 700 |
+| 4 | 149 | **120** | 200% Ranged damage, 25% Range | 2.03s | 20% ×3.5 | 800 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 2 | **Slow area on hit (+50)** | 2s · radius 150 |
-| 3 | **Slow area on hit (+50)** | 2s · radius 175 |
-| 4 | **Slow area on hit (+50)** | 2s · radius 200 |
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| **Slow area on hit (+50)** | 2s · radius 150 | 2s · radius 175 | 2s · radius 200 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -56,11 +46,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 2: Slow area on hit (+50) | value | `56 → 105` |
-| Tier 3: Slow area on hit (+50) | value | `56 → 105` |
-| Tier 4: Slow area on hit (+50) | value | `56 → 105` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| Slow area on hit (+50) | `56 → 105` | `56 → 105` | `56 → 105` |

@@ -23,9 +23,10 @@ in_shop: true
 > **Shows up more often for** [[Builder]], [[Cyborg]], [[Dwarf]], [[Engineer]], [[Streamer]], [[Technomage]]
 
 ## Effects
-- **Turret damage taken**
-  - `8` damage (80% Engineering) · about every `0.53s` (random `0.37–0.69s`) · range `300`
-  - Enemies hit take +10% damage (5s, up to 3 stacks)
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
+|---|---|---|
+| **Turret damage taken**<br>· `8` damage (80% Engineering) · about every `0.53s` (random `0.37–0.69s`) · range `300`<br>· Enemies hit take +10% damage (5s, up to 3 stacks) | damage `9 → 17`<br>scaling `×1.10 → ×2.10` | – |
+| Curse stat | added `+1` | |
 
 > [!note] Structure
 > Uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
@@ -33,20 +34,3 @@ in_shop: true
 ## How it works
 - Shoots like a [[Turret]] (8 damage, 80% Engineering, about every `0.53s`).
 - Enemies it hits take **+10% damage for 5s**, stacking up to 3 times (+30%).
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Turret damage taken | damage | `9 → 17` |
-|  | scaling | `×1.10 → ×2.10` |
-| Curse stat | added | `+1` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

@@ -23,24 +23,9 @@ in_shop: true
 > **Shows up more often for** [[Crazy]], [[Cyborg]], [[Diver]], [[Generalist]], [[Hunter]], [[Ranger]]
 
 ## Effects
-- Pierce on crit item
-- Crit chance +3
-- Accuracy (-10)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Pierce on crit item | value | `2 → 3` |
-| Crit chance +3 | value | `4 → 7` |
-| Accuracy (-10) | value | `-9 → -4` |
-| Curse stat | added | `+2 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Pierce on crit item<br>Crit chance +3 |
-| **Can be removed** | Accuracy (-10) |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Pierce on crit item (+1) | `2 → 3` | copied |
+| Crit chance +3 | `4 → 7` | copied |
+| Accuracy (-10) | `-9 → -4` | removable |
+| Curse stat | added `+2 → 5` | |

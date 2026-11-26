@@ -29,6 +29,6 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Cacti Club]] · [[Ghost Axe]] · [[Ghost Flint]] · [[Lightning Shiv]] · [[Dagger]] · [[Claw]] · [[Spear]] · [[Torch]] · [[Rock]] · [[Hatchet]] · [[Plank]] · [[Wrench]] · [[Jousting Lance]] · [[Fighting Stick]] · [[Pruner]] · [[Screwdriver]] · [[Double Barrel Shotgun]] · [[Pistol]] · [[Smg]] · [[Shredder]] · [[Icicle]] · [[Shuriken]] · [[Slingshot]] · [[Crossbow]] · [[Javelin]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]]
+**Starting weapon choices** [[Cacti Club]] · [[Ghost Axe]] · [[Ghost Flint]] · [[Lightning Shiv]] · [[Dagger]] · [[Claw]] · [[Spear]] · [[Torch]] · [[Rock]] · [[Hatchet]] · [[Plank]] · [[Wrench]] · [[Jousting Lance]] · [[Fighting Stick]] · [[Pruner]] · [[Screwdriver]] · [[Double Barrel Shotgun]] · [[Pistol]] · [[Smg]] · [[Shredder]] · [[Icicle]] · [[Shuriken]] · [[Slingshot]] · [[Crossbow]] · [[Javelin]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

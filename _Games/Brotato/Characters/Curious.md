@@ -23,15 +23,15 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Extra loot aliens (+2) 🧬
-- Stronger loot aliens on kill (+8)
+- 2 extra loot aliens spawn every wave (`Extra loot aliens (+2)`) 🧬
+- Loot aliens get +8% HP for each loot alien killed this run (`Stronger loot aliens on kill (+8)`)
 - +2 Xp gain for every Different item 🧬
 - -10 Percent damage for every Duplicate item
 - Enemy health +25
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Brick]] · [[Cacti Club]] · [[Ghost Axe]] · [[Hatchet]] · [[Knife]] · [[Plank]] · [[Rock]] · [[Torch]] · [[Lightning Shiv]] · [[Pistol]] · [[Double Barrel Shotgun]] · [[Icicle]] · [[Lute]] · [[Javelin]] · [[Slingshot]] · [[Boomerang]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]]
+**Starting weapon choices** [[Brick]] · [[Cacti Club]] · [[Ghost Axe]] · [[Hatchet]] · [[Knife]] · [[Plank]] · [[Rock]] · [[Torch]] · [[Lightning Shiv]] · [[Pistol]] · [[Double Barrel Shotgun]] · [[Icicle]] · [[Lute]] · [[Javelin]] · [[Slingshot]] · [[Boomerang]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Pan Flute]] · [[Flail]] · [[Carbon Bow]]
 
 **Starting items** [[Spyglass]]
 

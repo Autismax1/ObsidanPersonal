@@ -24,23 +24,9 @@ in_shop: true
 > **Never offered to** [[Pacifist]] (until endless)
 
 ## Effects
-- Engineering +20
-- -1 Engineering for every Structure
-- Fog visibility (+100)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Engineering +20 | value | `22 → 42` |
-| Fog visibility (+100) | value | `111 → 210` |
-| Curse stat | added | `+4 → 7` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Engineering +20<br>Fog visibility (+100) |
-| **Can be removed** | -1 Engineering for every Structure |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Engineering +20 | `22 → 42` | copied |
+| -1 Engineering for every Structure | – | removable |
+| Fog visibility (+100) | `111 → 210` | copied |
+| Curse stat | added `+4 → 7` | |

@@ -26,36 +26,15 @@ in_shop: true
 > **Shows up more often for** [[Bull]], [[Chunky]], [[Curious]], [[Doctor]], [[Druid]], [[Explorer]], [[Golem]], [[Hiker]], [[Lich]], [[Lucky]], [[Masochist]], [[Ogre]], [[One Armed]], [[Pacifist]], [[Speedy]], [[Time Shifter]]
 
 ## Effects
-- Max hp +3
-- Hp regeneration +2
-- Lifesteal +1
-- Percent damage +5
-- Attack speed +5
-- Speed +3
-- Dodge +3
-- Armor +1
-- Luck +5
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Max hp +3 | value | `4 → 7` |
-| Hp regeneration +2 | value | `3 → 5` |
-| Lifesteal +1 | value | `2 → 3` |
-| Percent damage +5 | value | `6 → 11` |
-| Attack speed +5 | value | `6 → 11` |
-| Speed +3 | value | `4 → 7` |
-| Dodge +3 | value | `4 → 7` |
-| Armor +1 | value | `2 → 3` |
-| Luck +5 | value | `6 → 11` |
-| Curse stat | added | `+4 → 8` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Max hp +3<br>Hp regeneration +2<br>Lifesteal +1<br>Percent damage +5<br>Attack speed +5<br>Speed +3<br>Dodge +3<br>Armor +1<br>Luck +5 |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Max hp +3 | `4 → 7` | copied |
+| Hp regeneration +2 | `3 → 5` | copied |
+| Lifesteal +1 | `2 → 3` | copied |
+| Percent damage +5 | `6 → 11` | copied |
+| Attack speed +5 | `6 → 11` | copied |
+| Speed +3 | `4 → 7` | copied |
+| Dodge +3 | `4 → 7` | copied |
+| Armor +1 | `2 → 3` | copied |
+| Luck +5 | `6 → 11` | copied |
+| Curse stat | added `+4 → 8` | |

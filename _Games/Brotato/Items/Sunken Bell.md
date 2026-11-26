@@ -23,25 +23,7 @@ in_shop: true
 > **Never offered to** [[Droid]], [[Wounded]] (until endless)
 
 ## Effects
-- **Explode when below hp**
-  - 100% chance
-  - explosion size 600%
-  - below 40% HP
-  - `100` damage (500% Melee damage, 500% Ranged damage, 500% Elemental damage, 500% Engineering) · every `1.56s` · range `150` · crit 3% ×1.5
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Explode when below hp | damage | `111 → 210` |
-|  | scaling | `×1.10 → ×2.10` |
-| Curse stat | added | `+2 → 4` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Explode when below hp (100% chance, explosion size 600%, below 40% HP, `100` damage (500% Melee damage, 500% Ranged damage, 500% Elemental damage, 500% Engineering) · every `1.56s` · range `150` · crit 3% ×1.5) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| **Explode when below hp**<br>· 100% chance<br>· explosion size 600%<br>· below 40% HP<br>· `100` damage (500% Melee damage, 500% Ranged damage, 500% Elemental damage, 500% Engineering) · every `1.56s` · range `150` · crit 3% ×1.5 | damage `111 → 210`<br>scaling `×1.10 → ×2.10` | copied |
+| Curse stat | added `+2 → 4` | |

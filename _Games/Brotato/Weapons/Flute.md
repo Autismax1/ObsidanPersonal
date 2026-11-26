@@ -17,38 +17,26 @@ dlc: Abyssal Terrors
 [[Brotato]] › [[Weapons]] · **Ranged** · Abyssal Terrors
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Musical|Musical]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Baby]], [[Buccaneer]], [[Builder]], [[Demon]], [[Druid]], [[Glutton]], [[Golem]], [[Hiker]], [[Jack]], [[King]], [[Lucky]], [[Renegade]], [[Romantic]], [[Soldier]]
+> **Classes** [[Weapon Classes#Musical|Musical]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Baby]], [[Buccaneer]], [[Builder]], [[Demon]], [[Druid]], [[Glutton]], [[Golem]], [[Hiker]], [[Jack]], [[King]] (tier 2), [[Lucky]], [[Renegade]], [[Romantic]], [[Soldier]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 20 | **6** | 50% Ranged damage, 10% Luck | 1.03s | 3% ×1.5 | 300 | – |
-| 2 | 45 | **8** | 50% Ranged damage, 15% Luck | 0.95s | 3% ×1.5 | 325 | – |
-| 3 | 80 | **11** | 50% Ranged damage, 20% Luck | 0.87s | 3% ×1.5 | 350 | – |
-| 4 | 165 | **15** | 50% Ranged damage, 25% Luck | 0.78s | 3% ×1.5 | 375 | – |
+**All tiers** Crit 3% ×1.5 · Knockback 0 · Accuracy 100% · Other projectile speed 2000
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 0 | 100% | projectile speed 2000 |
-| 2 | 0 | 100% | projectile speed 2000 |
-| 3 | 0 | 100% | projectile speed 2000 |
-| 4 | 0 | 100% | projectile speed 2000 |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Range |
+|---|---|---|---|---|---|
+| 1 | 20 | **6** | 50% Ranged damage, 10% Luck | 1.03s | 300 |
+| 2 | 45 | **8** | 50% Ranged damage, 15% Luck | 0.95s | 325 |
+| 3 | 80 | **11** | 50% Ranged damage, 20% Luck | 0.87s | 350 |
+| 4 | 165 | **15** | 50% Ranged damage, 25% Luck | 0.78s | 375 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Charm below hp no scaling (+10)** | second value 60 |
-| 2 | **Charm below hp no scaling (+15)** | second value 65 |
-| 3 | **Charm below hp no scaling (+20)** | second value 70 |
-| 4 | **Charm below hp no scaling (+25)** | second value 75 |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Charm below hp no scaling** | (+10) · second value 60 | (+15) · second value 65 | (+20) · second value 70 | (+25) · second value 75 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -59,12 +47,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: Charm below hp no scaling (+10) | value | `11 → 21` |
-| Tier 2: Charm below hp no scaling (+15) | value | `17 → 32` |
-| Tier 3: Charm below hp no scaling (+20) | value | `22 → 42` |
-| Tier 4: Charm below hp no scaling (+25) | value | `28 → 53` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| Charm below hp no scaling | `11 → 21` | `17 → 32` | `22 → 42` | `28 → 53` |

@@ -28,10 +28,10 @@ hidden_effect: false
 - Speed +10 🧬
 - Pickup range (+200) 🧬
 - Knockback (+15) 🧬
-- Cant attack while moving
+- Weapons only attack while you stand still (`Cant attack while moving`)
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Knife]] · [[Lightning Shiv]] · [[Crossbow]] · [[Double Barrel Shotgun]] · [[Laser Gun]] · [[Pistol]] · [[Shredder]] · [[Revolver]] · [[Smg]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Rail Gun]] · [[Flute]] · [[Javelin]] · [[Whip]] · [[Boomerang]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Machinegun]] · [[Flail]] · [[Carbon Bow]]
+**Starting weapon choices** [[Knife]] · [[Lightning Shiv]] · [[Crossbow]] · [[Double Barrel Shotgun]] · [[Laser Gun]] · [[Pistol]] · [[Shredder]] · [[Revolver]] · [[Smg]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Rail Gun]] · [[Flute]] · [[Javelin]] · [[Whip]] · [[Boomerang]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Machinegun]] · [[Flail]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

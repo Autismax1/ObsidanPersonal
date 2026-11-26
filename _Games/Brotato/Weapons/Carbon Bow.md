@@ -18,7 +18,7 @@ dlc: Primal Dread
 
 > [!info] Weapon
 > **Classes** [[Weapon Classes#Precise|Precise]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
-> **Starting weapon for** [[Apprentice]], [[Archaeologist]], [[Baby]], [[Buccaneer]], [[Captain]], [[Chunky]], [[Curious]], [[Cyborg]], [[Diver]], [[Droid]], [[Engineer]], [[Entrepreneur]], [[Explorer]], [[Fisherman]], [[Gangster]], [[Generalist]], [[Glutton]], [[Hiker]], [[Hunter]], [[Jack]], [[King]], [[Lich]], [[Loud]], [[Lucky]], [[Mad Scientist]], [[Masochist]], [[Multitasker]], [[Mutant]], [[Old]], [[One Armed]], [[Poacher]], [[Ranger]], [[Renegade]], [[Romantic]], [[Saver]], [[Sick]], [[Soldier]], [[Streamer]], [[Survivor]], [[Technomage]], [[Time Shifter]], [[Vampire]], [[Variant]], [[Veteran]], [[Well Rounded]], [[Wounded]]
+> **Starting weapon choice for** [[Apprentice]], [[Archaeologist]], [[Baby]], [[Buccaneer]], [[Captain]], [[Chunky]], [[Curious]], [[Cyborg]], [[Diver]], [[Droid]], [[Engineer]], [[Entrepreneur]], [[Explorer]], [[Fisherman]], [[Gangster]], [[Generalist]], [[Glutton]], [[Hiker]], [[Hunter]], [[Jack]], [[King]] (tier 2), [[Lich]], [[Loud]], [[Lucky]], [[Mad Scientist]], [[Masochist]], [[Multitasker]], [[Mutant]], [[Old]], [[One Armed]], [[Poacher]], [[Ranger]], [[Renegade]], [[Romantic]], [[Saver]], [[Sick]], [[Soldier]], [[Streamer]], [[Survivor]], [[Technomage]], [[Time Shifter]], [[Vampire]], [[Variant]], [[Veteran]], [[Well Rounded]], [[Wounded]]
 
 ## Stats per tier
 **All tiers** Range 350 · Knockback 0 · Accuracy 100%
@@ -31,15 +31,17 @@ dlc: Primal Dread
 | 4 | 145 | **18** | 110% Ranged damage | 0.70s | 45% ×1.75 |
 
 ## Effects per tier
+Each shot randomly scales with one damage stat; what the shot does depends on that stat.
+
 | Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
 |---|---|---|---|---|
-| **Carbon bow random scaling** | ✓ | ✓ | ✓ | ✓ |
-| **Carbon bow melee, while it scales with Melee damage (+50)** | 0.5s | 1s | 1.5s | 2s |
-| **Carbon bow ranged, while it scales with Ranged damage** | – | – | +2 | +2 |
-| **Burning (100% Elemental damage)** | 3×3 | 5×5 | 8×6 | 12×9 |
-| **Carbon bow engineering, while it scales with Engineering** | +2 | +3 | +4 | +5 |
+| **Random damage stat per shot** (`Carbon bow random scaling`) | ✓ | ✓ | ✓ | ✓ |
+| **Melee shot: slows the enemy by 50%, wearing off over** (`Carbon bow melee, while it scales with Melee damage (+50)`) | 0.5s | 1s | 1.5s | 2s |
+| **Ranged shot: extra piercing** (`Carbon bow ranged, while it scales with Ranged damage`) | +1 | +1 | +2 | +2 |
+| **Elemental shot: Burning … (100% Elemental damage)** | 3×3 | 5×5 | 8×6 | 12×9 |
+| **Engineering shot: chance on hit to drop a landmine** (`Carbon bow engineering, while it scales with Engineering`) | 2% | 3% | 4% | 5% |
 
-Engineering, all tiers: structure: `10` damage (100% Engineering) · every `0.23s` · spawns every 12s · Explodes on hit (100% chance, explosion size 175%)
+Landmine, all tiers: structure: `10` damage (100% Engineering) · every `0.23s` · Explodes on hit (100% chance, explosion size 175%). Its data also has a "spawns every 12s" timer, which doesn't apply here: the bow drops mines on hit.
 
 > [!note] Structures
 > Its structures use structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]). See [[Structures and Pets]].

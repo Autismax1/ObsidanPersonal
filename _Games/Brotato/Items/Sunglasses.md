@@ -22,21 +22,8 @@ in_shop: true
 > **Shows up more often for** [[Crazy]], [[Diver]], [[Hunter]]
 
 ## Effects
-- Crit chance +10
-- Armor -1
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Crit chance +10 | value | `11 → 21` |
-| Curse stat | added | `+2 → 4` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Crit chance +10 |
-| **Can be removed** | Armor -1 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Crit chance +10 | `11 → 21` | copied |
+| Armor -1 | – | removable |
+| Curse stat | added `+2 → 4` | |

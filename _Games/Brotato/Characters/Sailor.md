@@ -28,16 +28,16 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Bonus class damage against cursed enemies (+200) 🧬
+- Naval weapons deal +200% damage to cursed enemies (`Bonus class damage against cursed enemies (+200)`) 🧬
 - Curse +25
 - Percent damage -25
-- Min tier
-- Dodge cap (+20)
+- Weapons are at least Uncommon (tier II) (`Min tier`)
+- Dodge capped at 20% instead of 60% (`Dodge cap (+20)`)
 - -100% gains of Harvesting
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Anchor]] · [[Trident]] · [[Blunderbuss]]
+**Starting weapon choices** [[Anchor]] · [[Trident]] · [[Blunderbuss]]
 
 ## Banned items
 - [[Item Groups#Harvesting|Harvesting]]: [[Blood Donation]], [[Crown]], [[Fertilizer]], [[Tractor]], [[Wheelbarrow]], [[Lost Organ]]

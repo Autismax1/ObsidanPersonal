@@ -22,20 +22,7 @@ in_shop: true
 > **Shows up more often for** [[Cryptid]], [[Explorer]], [[Lucky]]
 
 ## Effects
-- One shot trees
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| One shot trees | adds | `+1 tree` |
-| Curse stat | added | `+1` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| One shot trees | adds `+1 tree` | – |
+| Curse stat | added `+1` | |

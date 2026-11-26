@@ -24,21 +24,7 @@ in_shop: true
 > **Never offered to** [[Chef]], [[Cyborg]] (until endless)
 
 ## Effects
-- **Gain for equipped with stat**
-  - and Elemental damage
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Gain for equipped with stat | value | `2 → 3` |
-| Curse stat | added | `+2 → 4` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Gain for equipped with stat (and Elemental damage) *(only from scale 0.7, about −63 evolution)* |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| **Gain for equipped with stat: +1 Elemental damage**<br>· and Elemental damage | `2 → 3` | copied *(only from scale 0.7, about −58 evolution)* |
+| Curse stat | added `+2 → 4` | |

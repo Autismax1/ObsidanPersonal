@@ -24,23 +24,8 @@ in_shop: true
 > **Never offered to** [[Golem]], [[Sailor]] (until endless)
 
 ## Effects
-- Dodge +5
-- **Heal when dodge (+5)**
-  - 50% chance
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Dodge +5 | value | `6 → 11` |
-| Heal when dodge (+5) | value | `6 → 11` |
-| Curse stat | added | `+3 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Dodge +5 |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Dodge +5 | `6 → 11` | copied |
+| **Heal when dodge (+5)**<br>· 50% chance | `6 → 11` | – |
+| Curse stat | added `+3 → 5` | |

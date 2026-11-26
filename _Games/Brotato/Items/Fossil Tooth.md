@@ -19,21 +19,8 @@ in_shop: true
 > **Price** `25` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** no limit
 
 ## Effects
-- Mutation counts as fossil
-- Max hp -1
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Mutation counts as fossil | counts as | `2 fossils` |
-| Curse stat | added | `+1 → 2` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Mutation counts as fossil |
-| **Can be removed** | Max hp -1 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Mutation counts as fossil (+1) | counts as `2 fossils` | copied |
+| Max hp -1 | – | removable |
+| Curse stat | added `+1 → 2` | |

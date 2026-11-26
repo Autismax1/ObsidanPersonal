@@ -16,16 +16,13 @@ added: 2026-11-25
 [[Brotato]] › [[Tips]]
 
 > [!summary] At a glance
-> - Many hits → **lifesteal**. Few big hits → **HP regen**.
+> - Many hits → **lifesteal**: builds that hit very often, like fast weapons, many projectiles, bounces, piercing.
+> - Few big hits → **HP regen**: builds that hit rarely but hard.
 
-> [!tip]
-> **Lifesteal** on builds that hit very often: fast weapons, many projectiles, bounces, piercing.
-> **HP regen** on builds that hit rarely but hard.
+^glance
 
 ## Why
-- Lifesteal is a **chance per hit** to heal 1 HP. Big hits heal no more than small ones, so only the number of hits counts. Max 10 HP/s.
-- HP regen heals on a timer and ignores your weapons completely.
-- Numbers and tables: [[Healing]].
+- Lifesteal heals 1 HP per lucky hit, so only the number of hits counts, up to the 10 HP/s cap. Numbers and tables: [[Healing]].
 
 ## Good with
 - Fast or multi-hit builds: [[Smg]], [[Minigun]], bouncing and piercing weapons, unarmed ([[Fist]], [[Flaming Brass Knuckles]]): [[Brawler]]

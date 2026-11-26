@@ -28,6 +28,6 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Knife]] · [[Stick]] · [[Fist]] · [[Chopper]] · [[Fighting Stick]] · [[Cacti Club]] · [[Hatchet]] · [[Spiky Shield]] · [[Ghost Flint]] · [[Wrench]] · [[Pistol]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Slingshot]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Rail Gun]] · [[Lute]] · [[Awl]] · [[Shovel]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Carbon Bow]]
+**Starting weapon choices** [[Knife]] · [[Stick]] · [[Fist]] · [[Chopper]] · [[Fighting Stick]] · [[Cacti Club]] · [[Hatchet]] · [[Spiky Shield]] · [[Ghost Flint]] · [[Wrench]] · [[Pistol]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Slingshot]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Rail Gun]] · [[Lute]] · [[Awl]] · [[Shovel]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Pan Flute]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

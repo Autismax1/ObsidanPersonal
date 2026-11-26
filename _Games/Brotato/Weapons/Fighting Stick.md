@@ -18,38 +18,26 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Medieval|Medieval]], [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Apprentice]], [[Archaeologist]], [[Baby]], [[Captain]], [[Caveman]], [[Druid]], [[Entrepreneur]], [[Farmer]], [[Fisherman]], [[Gladiator]], [[Knight]], [[Loud]], [[Multitasker]], [[Mutant]], [[Poacher]], [[Speedy]], [[Survivor]], [[Time Shifter]], [[Vagabond]], [[Well Rounded]], [[Wildling]], [[Wounded]]
+> **Classes** [[Weapon Classes#Medieval|Medieval]], [[Weapon Classes#Primitive|Primitive]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Apprentice]], [[Archaeologist]], [[Baby]], [[Captain]], [[Caveman]], [[Druid]], [[Entrepreneur]], [[Farmer]], [[Fisherman]], [[Gladiator]], [[Knight]] (tier 2), [[Loud]], [[Multitasker]], [[Mutant]], [[Poacher]], [[Speedy]], [[Survivor]], [[Time Shifter]], [[Vagabond]], [[Well Rounded]], [[Wildling]], [[Wounded]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 15 | **10** | 75% Levels, 50% Melee damage | 1.42s | 3% ×1.5 | 175 | – |
-| 2 | 31 | **15** | 85% Levels, 65% Melee damage | 1.25s | 3% ×1.5 | 175 | – |
-| 3 | 61 | **20** | 100% Levels, 80% Melee damage | 1.09s | 3% ×1.5 | 175 | – |
-| 4 | 122 | **30** | 125% Levels, 100% Melee damage | 0.92s | 3% ×1.5 | 175 | – |
+**All tiers** Crit 3% ×1.5 · Range 175 · Knockback 0 · Accuracy 100% · Other Thrust · alternates thrust and sweep
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 0 | 100% | Thrust · alternates thrust and sweep |
-| 2 | 0 | 100% | Thrust · alternates thrust and sweep |
-| 3 | 0 | 100% | Thrust · alternates thrust and sweep |
-| 4 | 0 | 100% | Thrust · alternates thrust and sweep |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) |
+|---|---|---|---|---|
+| 1 | 15 | **10** | 75% Levels, 50% Melee damage | 1.42s |
+| 2 | 31 | **15** | 85% Levels, 65% Melee damage | 1.25s |
+| 3 | 61 | **20** | 100% Levels, 80% Melee damage | 1.09s |
+| 4 | 122 | **30** | 125% Levels, 100% Melee damage | 0.92s |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Xp gain +2** | – |
-| 2 | **Xp gain +5** | – |
-| 3 | **Xp gain +9** | – |
-| 4 | **Xp gain +15** | – |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Xp gain** | +2 | +5 | +9 | +15 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -60,12 +48,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: Xp gain +2 | value | `3 → 5` |
-| Tier 2: Xp gain +5 | value | `6 → 11` |
-| Tier 3: Xp gain +9 | value | `10 → 19` |
-| Tier 4: Xp gain +15 | value | `17 → 32` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| Xp gain | `3 → 5` | `6 → 11` | `10 → 19` | `17 → 32` |

@@ -26,13 +26,13 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Time shift on hit (+75)
-- Mixing up wave
+- When you take damage: enemies are slowed by 75% for 3 seconds (`Time shift on hit (+75)`)
+- Wave order shuffled: up to 4 pairs of waves (from wave 2 to the one before last) swap places, at most 3 waves apart (`Mixing up wave`)
 - Speed +5 🧬
 - -100% gains of Dodge
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Fist]] · [[Claw]] · [[Knife]] · [[Dagger]] · [[Stick]] · [[Spear]] · [[Fighting Stick]] · [[Jousting Lance]] · [[Screwdriver]] · [[Ghost Flint]] · [[Pruner]] · [[Shuriken]] · [[Hiking Stick]] · [[Javelin]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Flail]] · [[Carbon Bow]] · [[Machinegun]]
+**Starting weapon choices** [[Fist]] · [[Claw]] · [[Knife]] · [[Dagger]] · [[Stick]] · [[Spear]] · [[Fighting Stick]] · [[Jousting Lance]] · [[Screwdriver]] · [[Ghost Flint]] · [[Pruner]] · [[Shuriken]] · [[Hiking Stick]] · [[Javelin]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Molotov]] · [[Flail]] · [[Carbon Bow]] · [[Machinegun]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

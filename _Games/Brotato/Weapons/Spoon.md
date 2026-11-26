@@ -17,38 +17,26 @@ dlc: Abyssal Terrors
 [[Brotato]] › [[Weapons]] · **Melee** · Abyssal Terrors
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Blunt|Blunt]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Baby]], [[Chef]], [[Chunky]], [[Demon]], [[Explorer]], [[Glutton]], [[Golem]], [[Hiker]], [[Jack]], [[Lich]], [[Ogre]], [[Romantic]]
+> **Classes** [[Weapon Classes#Blunt|Blunt]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Baby]], [[Chef]], [[Chunky]], [[Demon]], [[Explorer]], [[Glutton]], [[Golem]], [[Hiker]], [[Jack]], [[Lich]], [[Ogre]], [[Romantic]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 15 | **10** | 50% Melee damage, 15% Max hp | 1.06s | 0% ×2 | 150 | – |
-| 2 | 31 | **15** | 50% Melee damage, 20% Max hp | 0.99s | 0% ×2.25 | 165 | – |
-| 3 | 61 | **20** | 50% Melee damage, 25% Max hp | 0.93s | 0% ×2.5 | 180 | – |
-| 4 | 122 | **25** | 50% Melee damage, 30% Max hp | 0.86s | 0% ×3 | 200 | – |
+**All tiers** Knockback 2 · Accuracy 100% · Other Sweep
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 2 | 100% | Sweep |
-| 2 | 2 | 100% | Sweep |
-| 3 | 2 | 100% | Sweep |
-| 4 | 2 | 100% | Sweep |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Crit | Range |
+|---|---|---|---|---|---|---|
+| 1 | 15 | **10** | 50% Melee damage, 15% Max hp | 1.06s | 0% ×2 | 150 |
+| 2 | 31 | **15** | 50% Melee damage, 20% Max hp | 0.99s | 0% ×2.25 | 165 |
+| 3 | 61 | **20** | 50% Melee damage, 25% Max hp | 0.93s | 0% ×2.5 | 180 |
+| 4 | 122 | **25** | 50% Melee damage, 30% Max hp | 0.86s | 0% ×3 | 200 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Crit on hitting burning target** | – |
-| 2 | **Crit on hitting burning target** | – |
-| 3 | **Crit on hitting burning target** | – |
-| 4 | **Crit on hitting burning target** | – |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Crit on hitting burning target** | ✓ | ✓ | ✓ | ✓ |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -56,6 +44,3 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 | 2 | `17 → 32` | 55% → 105% Melee damage, 22% → 42% Max hp | ×2.3 → ×2.7 | `+1 → 3` |
 | 3 | `22 → 42` | 55% → 105% Melee damage, 28% → 52% Max hp | ×2.5 → ×3 | `+3 → 5` |
 | 4 | `28 → 53` | 55% → 105% Melee damage, 33% → 63% Max hp | ×3.1 → ×3.7 | `+5 → 10` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

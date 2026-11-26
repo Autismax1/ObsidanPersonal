@@ -41,7 +41,7 @@ hidden_effect: false
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Wrench]] · [[Screwdriver]] · [[Plank]] · [[Torch]] · [[Lightning Shiv]] · [[Pruner]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Awl]] · [[Molotov]] · [[Carbon Bow]]
+**Starting weapon choices** [[Wrench]] · [[Screwdriver]] · [[Plank]] · [[Torch]] · [[Lightning Shiv]] · [[Pruner]] · [[Taser]] · [[Wand]] · [[Icicle]] · [[Awl]] · [[Molotov]] · [[Carbon Bow]]
 
 **Starting items** [[Turret]]
 

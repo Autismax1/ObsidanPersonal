@@ -18,23 +18,15 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Ranged** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Heavy|Heavy]], [[Weapon Classes#Legendary|Legendary]] · **Tiers** 4–4 · shop odds: [[Weapon Rolls]]
+> **Classes** [[Weapon Classes#Heavy|Heavy]], [[Weapon Classes#Legendary|Legendary]] · **Tiers** 4–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 4 | 290 | **10** | 100% Ranged damage | 0.07s | 10% ×3 | 500 | Piercing 3 |
-
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 4 | 5 | 75% | −25% damage per pierce · on-hit effect size ×0.1 |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Crit | Range | Extra | Knockback | Accuracy | Other |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 290 | **10** | 100% Ranged damage | 0.07s | 10% ×3 | 500 | Piercing 3 | 5 | 75% | −25% damage per pierce · on-hit effect size ×0.1 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -45,6 +37,3 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 | Effect | What changes | Cursed (worst → best) |
 |---|---|---|
 | Tier 4: weapon | Piercing | `4 → 4` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

@@ -17,42 +17,27 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Medieval|Medieval]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Cryptid]], [[Explorer]], [[Gladiator]], [[Glutton]], [[Hiker]], [[Jack]], [[King]], [[Knight]], [[Loud]], [[Lucky]], [[Multitasker]], [[One Armed]], [[Speedy]], [[Time Shifter]]
+> **Classes** [[Weapon Classes#Medieval|Medieval]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Cryptid]], [[Explorer]], [[Gladiator]], [[Glutton]], [[Hiker]], [[Jack]], [[King]] (tier 2), [[Knight]] (tier 2), [[Loud]], [[Lucky]], [[Multitasker]], [[One Armed]], [[Speedy]], [[Time Shifter]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 20 | **20** | 50% Melee damage, 30% Speed | 1.58s | 3% ×2 | 250 | – |
-| 2 | 36 | **25** | 50% Melee damage, 35% Speed | 1.50s | 3% ×2 | 250 | – |
-| 3 | 72 | **30** | 50% Melee damage, 40% Speed | 1.42s | 3% ×2 | 250 | – |
-| 4 | 132 | **50** | 50% Melee damage, 50% Speed | 1.33s | 3% ×2 | 250 | – |
+**All tiers** Crit 3% ×2 · Range 250 · Knockback 0 · Accuracy 100% · Other Thrust
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 0 | 100% | Thrust |
-| 2 | 0 | 100% | Thrust |
-| 3 | 0 | 100% | Thrust |
-| 4 | 0 | 100% | Thrust |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) |
+|---|---|---|---|---|
+| 1 | 20 | **20** | 50% Melee damage, 30% Speed | 1.58s |
+| 2 | 36 | **25** | 50% Melee damage, 35% Speed | 1.50s |
+| 3 | 72 | **30** | 50% Melee damage, 40% Speed | 1.42s |
+| 4 | 132 | **50** | 50% Melee damage, 50% Speed | 1.33s |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Speed +2** | – |
-| 1 | **While not moving (-10)** | – |
-| 2 | **Speed +3** | – |
-| 2 | **While not moving (-15)** | – |
-| 3 | **Speed +4** | – |
-| 3 | **While not moving (-20)** | – |
-| 4 | **Speed +5** | – |
-| 4 | **While not moving (-25)** | – |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Speed** | +2 | +3 | +4 | +5 |
+| **While not moving** | (-10) | (-15) | (-20) | (-25) |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -63,16 +48,7 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: Speed +2 | value | `3 → 5` |
-| Tier 1: While not moving (-10) | value | `-9 → -4` |
-| Tier 2: Speed +3 | value | `4 → 7` |
-| Tier 2: While not moving (-15) | value | `-13 → -7` |
-| Tier 3: Speed +4 | value | `5 → 9` |
-| Tier 3: While not moving (-20) | value | `-18 → -9` |
-| Tier 4: Speed +5 | value | `6 → 11` |
-| Tier 4: While not moving (-25) | value | `-22 → -11` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| Speed | `3 → 5` | `4 → 7` | `5 → 9` | `6 → 11` |
+| While not moving | `-9 → -4` | `-13 → -7` | `-18 → -9` | `-22 → -11` |

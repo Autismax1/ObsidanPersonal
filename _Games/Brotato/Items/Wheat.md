@@ -24,26 +24,10 @@ in_shop: true
 > **Shows up more often for** [[Brawler]], [[Crazy]], [[Cyborg]], [[Diver]], [[Entrepreneur]], [[Farmer]], [[Generalist]], [[Gladiator]], [[Glutton]], [[Ogre]], [[Ranger]]
 
 ## Effects
-- Melee damage +4
-- Ranged damage +2
-- Harvesting +10
-- Elemental damage -2
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Melee damage +4 | value | `5 → 9` |
-| Ranged damage +2 | value | `3 → 5` |
-| Harvesting +10 | value | `11 → 21` |
-| Elemental damage -2 | value | `-1` |
-| Curse stat | added | `+4 → 7` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Melee damage +4<br>Ranged damage +2<br>Harvesting +10 |
-| **Can be removed** | Elemental damage -2 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Melee damage +4 | `5 → 9` | copied |
+| Ranged damage +2 | `3 → 5` | copied |
+| Harvesting +10 | `11 → 21` | copied |
+| Elemental damage -2 | `-1` | removable |
+| Curse stat | added `+4 → 7` | |

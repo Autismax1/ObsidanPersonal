@@ -17,34 +17,23 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Ranged** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Support|Support]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Farmer]]
+> **Classes** [[Weapon Classes#Support|Support]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Farmer]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 2 | 36 | **3** | 40% Ranged damage, 20% Max hp | 0.45s | 3% ×1.5 | 500 | – |
-| 3 | 69 | **5** | 40% Ranged damage, 20% Max hp | 0.37s | 3% ×1.5 | 500 | – |
-| 4 | 139 | **10** | 40% Ranged damage, 20% Max hp | 0.28s | 3% ×1.5 | 500 | – |
+**All tiers** Scaling 40% Ranged damage, 20% Max hp · Crit 3% ×1.5 · Range 500 · Accuracy 90% · Other projectile speed 2000
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 2 | 20 | 90% | projectile speed 2000 |
-| 3 | 25 | 90% | projectile speed 2000 |
-| 4 | 30 | 90% | projectile speed 2000 |
+| Tier | Price | Damage | Cooldown (0 attack speed) | Knockback |
+|---|---|---|---|---|
+| 2 | 36 | **3** | 0.45s | 20 |
+| 3 | 69 | **5** | 0.37s | 25 |
+| 4 | 139 | **10** | 0.28s | 30 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
 | 2 | `4 → 7` | 44% → 84% Ranged damage, 22% → 42% Max hp | ×1.5 → ×1.8 | `+2 → 3` |
 | 3 | `6 → 11` | 44% → 84% Ranged damage, 22% → 42% Max hp | ×1.5 → ×1.8 | `+3 → 6` |
 | 4 | `11 → 21` | 44% → 84% Ranged damage, 22% → 42% Max hp | ×1.5 → ×1.8 | `+6 → 12` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

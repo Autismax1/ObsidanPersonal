@@ -23,22 +23,8 @@ in_shop: true
 > **Shows up more often for** [[Soldier]]
 
 ## Effects
-- While not moving (+40)
-- Speed -10
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| While not moving (+40) | value | `44 → 84` |
-| Speed -10 | value | `-9 → -4` |
-| Curse stat | added | `+3 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | While not moving (+40) |
-| **Can be removed** | Speed -10 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| While not moving: Attack speed (+40) | `44 → 84` | copied |
+| Speed -10 | `-9 → -4` | removable |
+| Curse stat | added `+3 → 5` | |

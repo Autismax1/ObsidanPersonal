@@ -18,35 +18,25 @@ dlc: Abyssal Terrors
 [[Brotato]] › [[Weapons]] · **Ranged** · Abyssal Terrors
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Heavy|Heavy]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[King]]
+> **Classes** [[Weapon Classes#Explosive|Explosive]], [[Weapon Classes#Heavy|Heavy]] · **Tiers** 2–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[King]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 2 | 58 | **12** | 100% Ranged damage | 0.37s | 5% ×2.5 | 350 | Bounce 1 |
-| 3 | 108 | **18** | 100% Ranged damage | 0.37s | 10% ×3 | 400 | Bounce 1 |
-| 4 | 212 | **30** | 100% Ranged damage | 0.37s | 20% ×3.5 | 450 | Bounce 1 |
+**All tiers** Scaling 100% Ranged damage · Extra Bounce 1 · Knockback 0 · Accuracy 80%
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 2 | 0 | 80% | no damage loss on bounce · projectile speed 2000 · **reload** every `2` shots: `3.5s` (cooldown ×21) |
-| 3 | 0 | 80% | no damage loss on bounce · projectile speed 2000 · **reload** every `3` shots: `3.0s` (cooldown ×18) |
-| 4 | 0 | 80% | no damage loss on bounce · projectile speed 2000 · **reload** every `4` shots: `2.5s` (cooldown ×15) |
+| Tier | Price | Damage | Cooldown (0 attack speed) | Crit | Range | Other |
+|---|---|---|---|---|---|---|
+| 2 | 58 | **12** | 0.37s | 5% ×2.5 | 350 | no damage loss on bounce · projectile speed 2000 · **reload** every `2` shots: `3.5s` (cooldown ×21) |
+| 3 | 108 | **18** | 0.37s | 10% ×3 | 400 | no damage loss on bounce · projectile speed 2000 · **reload** every `3` shots: `3.0s` (cooldown ×18) |
+| 4 | 212 | **30** | 0.37s | 20% ×3.5 | 450 | no damage loss on bounce · projectile speed 2000 · **reload** every `4` shots: `2.5s` (cooldown ×15) |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 2 | **Explodes on hit** | 100% chance · explosion size 75% · uses the weapon's damage |
-| 3 | **Explodes on hit** | 100% chance · explosion size 75% · uses the weapon's damage |
-| 4 | **Explodes on hit** | 100% chance · explosion size 75% · uses the weapon's damage |
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| **Explodes on hit**<br>· 100% chance · explosion size 75% · uses the weapon's damage | ✓ | ✓ | ✓ |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -56,11 +46,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 2: weapon | Bounce | `2 → 2` |
-| Tier 3: weapon | Bounce | `2 → 2` |
-| Tier 4: weapon | Bounce | `2 → 2` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|
+| weapon · Bounce | `2 → 2` | `2 → 2` | `2 → 2` |

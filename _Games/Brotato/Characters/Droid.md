@@ -25,16 +25,16 @@ hidden_effect: false
 > **Hidden effects** none
 
 ## Starting effects
-- Materials as health
-- Meca only
-- Meca parts on level up 🧬
+- Materials are your health: damage removes materials (`Materials as health`)
+- Meca evolution only: evolution fruit is always Meca, no mutations (`Meca only`)
+- +1 Meca part on every level up (`Meca parts on level up`) 🧬
 - +5 Enemy damage on every level up
-- No level upgrades
+- Level-ups give no stat upgrades (`No level upgrades`)
 - +1 Evolution at the end of every wave 🧬
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Screwdriver]] · [[Wrench]] · [[Double Barrel Shotgun]] · [[Laser Gun]] · [[Medical Gun]] · [[Pistol]] · [[Rail Gun]] · [[Shredder]] · [[Smg]] · [[Carbon Bow]]
+**Starting weapon choices** [[Screwdriver]] · [[Wrench]] · [[Double Barrel Shotgun]] · [[Laser Gun]] · [[Medical Gun]] · [[Pistol]] · [[Rail Gun]] · [[Shredder]] · [[Smg]] · [[Carbon Bow]]
 
 ## Banned items
 - Single items (44): [[Acid]], [[Alien Baby]], [[Cake]], [[Extra Stomach]], [[Jelly]], [[Padding]], [[Stone Skin]], [[Weird Ghost]], [[Baby Squid]], [[Coral]], [[Fairy]], [[Fried Rice]], [[Medikit]], [[Mushroom]], [[Penguin]], [[Plant]], [[Potion]], [[Sad Tomato]], [[Bat]], [[Butterfly]], [[Whetstone]], [[Alien Magic]], [[Alien Worm]], [[Blood Leech]], [[Broken Mouth]], [[Decomposing Flesh]], [[Estys Couch]], [[Fresh Meat]], [[Grinds Magical Leaf]], [[Octopus]], [[Shmoop]], [[Cute Monkey]], [[Goblet]], [[Jerky]], [[Lemonade]], [[Weird Food]], [[Torture]], [[Fruit Basket]], [[Garden]], [[Doc Moth]], [[Turret Healing]], [[Sunken Bell]], [[Failsafe Core]], [[Barnacle]]

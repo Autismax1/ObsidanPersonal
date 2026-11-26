@@ -28,15 +28,15 @@ hidden_effect: false
 
 ## Starting effects
 - +1 Percent damage for every Percent player missing health 🧬
-- More horde
-- No cure between wave
+- Extra horde waves: +1 at wave 9 and +2 in waves 11–19 (`More horde`)
+- HP is not refilled between waves (`No cure between wave`)
 - Hp regeneration -100
 - Lifesteal -100
-- No fruit attracted end of wave
+- Fruits left on the ground are not collected for you at the end of a wave (`No fruit attracted end of wave`)
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Double Barrel Shotgun]] · [[Rail Gun]] · [[Smg]] · [[Sticky Grenade]] · [[Molotov]] · [[Machinegun]] · [[Carbon Bow]]
+**Starting weapon choices** [[Double Barrel Shotgun]] · [[Rail Gun]] · [[Smg]] · [[Sticky Grenade]] · [[Molotov]] · [[Machinegun]] · [[Carbon Bow]]
 
 ## Banned items
 - [[Item Groups#Lifesteal|Lifesteal]]: [[Butterfly]], [[Bat]], [[Whetstone]], [[Decomposing Flesh]], [[Bloody Hand]], [[Fresh Meat]]

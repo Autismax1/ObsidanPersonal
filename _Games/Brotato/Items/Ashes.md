@@ -24,25 +24,10 @@ in_shop: true
 > **Shows up more often for** [[Hunter]], [[One Armed]], [[Ranger]]
 
 ## Effects
-- Percent damage +20
-- Attack speed +20
-- Range +100
-- -1 Armor at the end of every wave
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Percent damage +20 | value | `22 → 42` |
-| Attack speed +20 | value | `22 → 42` |
-| Range +100 | value | `111 → 210` |
-| Curse stat | added | `+4 → 8` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Percent damage +20<br>Attack speed +20<br>Range +100 |
-| **Can be removed** | -1 Armor at the end of every wave |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Percent damage +20 | `22 → 42` | copied |
+| Attack speed +20 | `22 → 42` | copied |
+| Range +100 | `111 → 210` | copied |
+| -1 Armor at the end of every wave | – | removable |
+| Curse stat | added `+4 → 8` | |

@@ -23,29 +23,13 @@ in_shop: true
 > **Shows up more often for** [[Builder]], [[Cyborg]], [[Dwarf]], [[Engineer]], [[Streamer]], [[Technomage]]
 
 ## Effects
-- **Turret rocket**
-  - `25` damage (150% Engineering) · about every `0.67s` (random `0.47–0.87s`) · range `500`
-  - Explodes on hit (100% chance, explosion size 100%, uses the weapon's damage)
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
+|---|---|---|
+| **Turret rocket**<br>· `25` damage (150% Engineering) · about every `0.67s` (random `0.47–0.87s`) · range `500`<br>· Explodes on hit (100% chance, explosion size 100%, uses the weapon's damage) | damage `28 → 53`<br>scaling `×1.10 → ×2.10` | – |
+| Curse stat | added `+4 → 7` | |
 
 > [!note] Structure
 > Uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
 
 ## How it works
 - Fires rockets: 25 damage (150% Engineering), about every `0.67s`, range 500. Each rocket explodes on hit.
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Turret rocket | damage | `28 → 53` |
-|  | scaling | `×1.10 → ×2.10` |
-| Curse stat | added | `+4 → 7` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

@@ -22,21 +22,7 @@ in_shop: true
 > **Shows up more often for** [[Chunky]], [[Curious]], [[Druid]], [[Lucky]]
 
 ## Effects
-- Extra random in crate (+20)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Extra random in crate (+20) | value | `22 → 42` |
-|  | adds luck | `6 → 11` |
-| Curse stat | added | `+2 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Extra random in crate (+20) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Extra random in crate (+20) | `22 → 42`<br>adds luck `6 → 11` | copied |
+| Curse stat | added `+2 → 3` | |

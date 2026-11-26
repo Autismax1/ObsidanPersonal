@@ -23,24 +23,9 @@ in_shop: true
 > **Shows up more often for** [[Arsonist]], [[Chunky]], [[Curious]], [[Druid]], [[Lucky]], [[Mage]], [[Technomage]]
 
 ## Effects
-- Elemental damage +10
-- Luck +20
-- Engineering -5
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Elemental damage +10 | value | `11 → 21` |
-| Luck +20 | value | `22 → 42` |
-| Engineering -5 | value | `-4 → -2` |
-| Curse stat | added | `+4 → 8` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Elemental damage +10<br>Luck +20 |
-| **Can be removed** | Engineering -5 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Elemental damage +10 | `11 → 21` | copied |
+| Luck +20 | `22 → 42` | copied |
+| Engineering -5 | `-4 → -2` | removable |
+| Curse stat | added `+4 → 8` | |

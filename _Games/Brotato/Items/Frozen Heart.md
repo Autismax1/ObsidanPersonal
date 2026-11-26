@@ -25,26 +25,10 @@ in_shop: true
 > **Never offered to** [[Chef]], [[Cyborg]] (until endless)
 
 ## Effects
-- Elemental damage +8
-- Crit chance +5
-- Scaling stats (+10)
-- Burning cooldown increase (-100)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Elemental damage +8 | value | `9 → 17` |
-| Crit chance +5 | value | `6 → 11` |
-| Scaling stats (+10) | value | `11 → 21` |
-| Burning cooldown increase (-100) | value | `-90 → -47` |
-| Curse stat | added | `+4 → 8` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Elemental damage +8<br>Crit chance +5<br>Scaling stats (+10) |
-| **Can be removed** | Burning cooldown increase (-100) |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Elemental damage +8 | `9 → 17` | copied |
+| Crit chance +5 | `6 → 11` | copied |
+| Scaling stats: Elemental damage (+10) | `11 → 21` | copied |
+| Burning cooldown increase (-100) | `-90 → -47` | removable |
+| Curse stat | added `+4 → 8` | |

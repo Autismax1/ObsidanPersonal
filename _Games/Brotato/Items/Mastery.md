@@ -24,22 +24,8 @@ in_shop: true
 > **Never offered to** [[Arsonist]], [[Cyborg]], [[Generalist]], [[Mage]], [[Ranger]], [[Technomage]] (until endless)
 
 ## Effects
-- Melee damage +6
-- Ranged damage -3
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Melee damage +6 | value | `7 → 13` |
-| Ranged damage -3 | value | `-2 → -1` |
-| Curse stat | added | `+2 → 5` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Melee damage +6 |
-| **Can be removed** | Ranged damage -3 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Melee damage +6 | `7 → 13` | copied |
+| Ranged damage -3 | `-2 → -1` | removable |
+| Curse stat | added `+2 → 5` | |

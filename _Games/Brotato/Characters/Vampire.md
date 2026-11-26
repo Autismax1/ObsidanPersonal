@@ -32,11 +32,11 @@ hidden_effect: false
 - -25% gains of Max hp
 - Percent damage -60
 - Hp regeneration -100
-- Consumable heal (-100)
+- Consumables don't heal (−100 HP per consumable) (`Consumable heal (-100)`)
 
 🧬 copied into the Tumor when your character is the picked item ([[Mutation#Copy strength|scaled down]], not past a stat cap).
 
-**Starting weapons** [[Fist]] · [[Claw]] · [[Sharp Tooth]] · [[Ghost Flint]] · [[Hatchet]] · [[Knife]] · [[Dagger]] · [[Lightning Shiv]] · [[Scissors]] · [[Spiky Shield]] · [[Stick]] · [[Torch]] · [[Screwdriver]] · [[Wrench]] · [[Shuriken]] · [[Pistol]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Medical Gun]] · [[Revolver]] · [[Shredder]] · [[Crossbow]] · [[Sickle]] · [[Awl]] · [[Shovel]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Flail]] · [[Carbon Bow]]
+**Starting weapon choices** [[Fist]] · [[Claw]] · [[Sharp Tooth]] · [[Ghost Flint]] · [[Hatchet]] · [[Knife]] · [[Dagger]] · [[Lightning Shiv]] · [[Scissors]] · [[Spiky Shield]] · [[Stick]] · [[Torch]] · [[Screwdriver]] · [[Wrench]] · [[Shuriken]] · [[Pistol]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Medical Gun]] · [[Revolver]] · [[Shredder]] · [[Crossbow]] · [[Sickle]] · [[Awl]] · [[Shovel]] · [[Whip]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Flail]] · [[Carbon Bow]]
 
 ## Banned items
 - [[Item Groups#Hp regeneration|Hp regeneration]]: [[Mushroom]], [[Plant]], [[Sad Tomato]], [[Medikit]], [[Fairy]], [[Potion]], [[Fried Rice]], [[Baby Squid]], [[Coral]], [[Penguin]]

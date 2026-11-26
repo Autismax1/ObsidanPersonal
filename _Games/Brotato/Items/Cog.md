@@ -25,24 +25,9 @@ in_shop: true
 > **Never offered to** [[Pacifist]] (until endless)
 
 ## Effects
-- Engineering +4
-- Knockback
-- Percent damage -4
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Engineering +4 | value | `5 → 9` |
-| Knockback | value | `2 → 3` |
-| Percent damage -4 | value | `-3 → -1` |
-| Curse stat | added | `+2 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Engineering +4<br>Knockback |
-| **Can be removed** | Percent damage -4 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Engineering +4 | `5 → 9` | copied |
+| Knockback (+1) | `2 → 3` | copied |
+| Percent damage -4 | `-3 → -1` | removable |
+| Curse stat | added `+2 → 3` | |

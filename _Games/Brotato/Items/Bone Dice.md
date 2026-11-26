@@ -22,21 +22,8 @@ in_shop: true
 > **Shows up more often for** [[One Armed]]
 
 ## Effects
-- Gain stats on reroll: +1 Percent damage (50)
-- Gain stats on reroll: -1 Max hp (10)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Gain stats on reroll: +1 Percent damage (50) | value | `2 → 3` |
-| Curse stat | added | `+1 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Gain stats on reroll: +1 Percent damage (50) |
-| **Can be removed** | Gain stats on reroll: -1 Max hp (10) |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Gain stats on reroll: +1 Percent damage (50) | `2 → 3` | copied |
+| Gain stats on reroll: -1 Max hp (10) | – | removable |
+| Curse stat | added `+1 → 3` | |

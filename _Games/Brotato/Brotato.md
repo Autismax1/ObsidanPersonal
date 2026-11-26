@@ -16,7 +16,7 @@ Hidden values and rules read from the game's own scripts. Start at **[[Run Cheat
 
 ## Tips
 - [[Tips]]: strategy tips, one note each, with a sortable table
-- [[Healing]]: lifesteal and HP regen numbers
+- [[Lifesteal vs HP Regen]]: which healing stat to pick
 
 ## Characters
 - [[Characters]]: all 74, sortable table plus one note each
@@ -25,10 +25,11 @@ Hidden values and rules read from the game's own scripts. Start at **[[Run Cheat
 - [[Hidden Effects]]: effects the tooltips don't show
 
 ## Items and weapons
-- [[Items]]: all 294 items by tier, each with effects, cursed values (worst → best roll) and mutation info
+- [[Items]]: all 294 item notes (282 sold in the shop) by tier, each with effects, cursed values (worst → best roll) and mutation info
 - [[Weapons]]: all 95 weapons, stats per tier, cooldowns, cursed values
 - [[Weapon Classes]]: set bonuses for 2–6 weapons and which weapons belong to each class
 - [[Structures and Pets]]: which stats turrets and pets use, and why attack speed doesn't speed up pets
+- [[Healing]]: lifesteal and HP regen numbers
 
 ## Shop
 - [[Shop Item Rolls]]: how one shop slot is filled, wanted tags, bans

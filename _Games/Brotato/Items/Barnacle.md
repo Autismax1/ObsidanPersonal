@@ -24,21 +24,7 @@ in_shop: true
 > **Never offered to** [[Baby]], [[Droid]] (until endless)
 
 ## Effects
-- Level upgrades modifications (+35)
-- +1 Curse on every level up
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Level upgrades modifications (+35) | value | `39 → 74` |
-| +1 Curse on every level up | value | `2 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Level upgrades modifications (+35) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Level upgrades modifications (+35) | `39 → 74` | copied |
+| +1 Curse on every level up | `2 → 3` | – |

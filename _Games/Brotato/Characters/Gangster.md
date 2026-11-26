@@ -19,18 +19,18 @@ hidden_effect: true
 > **Wanted tags** none, item rolls are fully random ([[Shop Item Rolls]])
 > **Never in the shop** nothing banned
 > **Evolution** normal: your side follows your evolution stat ([[Evolution]]) · **[[Meca#The four stat groups|Meca stats]]** all
-> **Hidden effects** Lock
+> **Hidden effects** Fish Hook removed from the shop
 
 ## Starting effects
-- Steals
-- Steals spawns elite
-- Stronger elites on kill (+15)
+- Can steal 1 shop item per shop visit (`Steals`)
+- Stealing can get you caught: an elite joins the next wave (chance rises with wave, price and tier, max 95%) (`Steals spawns elite`)
+- Elites and bosses get +15% HP and +7.5% damage for each elite or boss killed this run (`Stronger elites on kill (+15)`)
 - Items price +20
 - Disable locking
-- Lock ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
+- Fish Hook removed from the shop (`Lock`) ⟵ **hidden**, not shown in the tooltip ([[Hidden Effects]])
 
 Nothing from this character is copied into the Tumor ([[Mutation#Copy strength]]).
 
-**Starting weapons** [[Knife]] · [[Dagger]] · [[Lightning Shiv]] · [[Pistol]] · [[Revolver]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Flail]] · [[Carbon Bow]]
+**Starting weapon choices** [[Knife]] · [[Dagger]] · [[Lightning Shiv]] · [[Pistol]] · [[Revolver]] · [[Smg]] · [[Double Barrel Shotgun]] · [[Awl]] · [[Crowbar]] · [[Shovel]] · [[Meat Tenderizer]] · [[Blowgun]] · [[Sticky Grenade]] · [[Machinegun]] · [[Molotov]] · [[Flail]] · [[Carbon Bow]]
 
 Level-up rarity: [[Rarity Odds#Level-ups]] · curse: [[Curse]] · enemy variants: [[Evolved Enemies]], [[Cursed Enemies]]

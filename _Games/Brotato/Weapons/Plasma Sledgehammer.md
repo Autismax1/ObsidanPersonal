@@ -18,31 +18,23 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Elemental|Elemental]], [[Weapon Classes#Explosive|Explosive]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]]
+> **Classes** [[Weapon Classes#Elemental|Elemental]], [[Weapon Classes#Explosive|Explosive]] · **Tiers** 3–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 3 | 136 | **80** | 150% Melee damage, 150% Elemental damage | 1.55s | 3% ×1.75 | 175 | – |
-| 4 | 272 | **120** | 200% Melee damage, 200% Elemental damage | 1.49s | 3% ×1.75 | 175 | – |
+**All tiers** Crit 3% ×1.75 · Range 175 · Knockback 30 · Accuracy 100% · Other Sweep
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 3 | 30 | 100% | Sweep |
-| 4 | 30 | 100% | Sweep |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) |
+|---|---|---|---|---|
+| 3 | 136 | **80** | 150% Melee damage, 150% Elemental damage | 1.55s |
+| 4 | 272 | **120** | 200% Melee damage, 200% Elemental damage | 1.49s |
 
 ## Effects per tier
-| Tier | Effect | Details |
+| Effect | Tier 3 | Tier 4 |
 |---|---|---|
-| 3 | **Explodes on hit** | 25% chance · explosion size 100% · uses the weapon's damage |
-| 4 | **Explodes on hit** | 50% chance · explosion size 125% · uses the weapon's damage |
+| **Explodes on hit** | 25% chance · explosion size 100% · uses the weapon's damage | 50% chance · explosion size 125% · uses the weapon's damage |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -51,10 +43,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
+| Effect | Tier 3 | Tier 4 |
 |---|---|---|
-| Tier 3: Explodes on hit | explosion chance | `25.5% → 30.5%` |
-| Tier 4: Explodes on hit | explosion chance | `51% → 61%` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Explodes on hit · explosion chance | `25.5% → 30.5%` | `51% → 61%` |

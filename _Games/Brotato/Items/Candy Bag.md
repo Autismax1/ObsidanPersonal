@@ -19,21 +19,8 @@ in_shop: true
 > **Price** `70` base, grows with the wave ([[Prices and Rerolls#Item price|formula]]) · **Max** `1` ([[Item Caps]])
 
 ## Effects
-- Candy bag bonus: +8 Gain random primary stats on go to next wave (100)
-- Extra elite next wave chance (+10)
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Candy bag bonus: +8 Gain random primary stats on go to next wave (100) | value | `9 → 17` |
-| Curse stat | added | `+3 → 6` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Candy bag bonus: +8 Gain random primary stats on go to next wave (100) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Candy bag bonus: +8 Gain random primary stats on go to next wave (100) | `9 → 17` | copied |
+| Extra elite next wave chance (+10) | – | – |
+| Curse stat | added `+3 → 6` | |

@@ -21,23 +21,9 @@ in_shop: true
 > **Tags** [[Wanted Tags#Evolution|Evolution]]
 
 ## Effects
-- Mutation fruit chance (+50)
-- Armor -1
-- Evolution -3
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Mutation fruit chance (+50) | value | `56 → 105` |
-| Evolution -3 | value | `-4 → -7` |
-| Curse stat | added | `+1 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | Armor -1 |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Mutation fruit chance (+50) | `56 → 105` | – |
+| Armor -1 | – | removable |
+| Evolution -3 | `-4 → -7` | – |
+| Curse stat | added `+1 → 3` | |

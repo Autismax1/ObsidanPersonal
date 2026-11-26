@@ -23,8 +23,10 @@ in_shop: true
 > **Shows up more often for** [[Builder]], [[Cyborg]], [[Dwarf]], [[Engineer]], [[Streamer]], [[Technomage]]
 
 ## Effects
-- **Dart trap**
-  - 6 darts · spawns every 6s · `8` damage (100% Engineering) · range `10000`
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
+|---|---|---|
+| **Dart trap**<br>· 6 darts · spawns every 6s · `8` damage (100% Engineering) · range `10000` | spawn interval `5s → 2s`<br>damage `9 → 17`<br>scaling `×1.10 → ×2.10` | – |
+| Curse stat | added `+1` | |
 
 > [!note] Structure
 > Uses structure % damage, structure range and **structure attack speed** (e.g. [[Improved Tools]]), not your attack speed. See [[Structures and Pets]].
@@ -32,21 +34,3 @@ in_shop: true
 ## How it works
 - Places a dart trap every `6s`, and one at the start of each wave. Structure attack speed shortens the timer.
 - When an enemy steps on it and walks off, it fires **6 darts in a circle**: 8 damage each (100% Engineering). Then it's used up.
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Dart trap | spawn interval | `5s → 2s` |
-|  | damage | `9 → 17` |
-|  | scaling | `×1.10 → ×2.10` |
-| Curse stat | added | `+1` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | nothing |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].

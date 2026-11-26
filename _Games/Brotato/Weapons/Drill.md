@@ -18,20 +18,12 @@ dlc: Base game
 [[Brotato]] › [[Weapons]] · **Melee** · Base game
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Legendary|Legendary]], [[Weapon Classes#Precise|Precise]] · **Tiers** 4–4 · shop odds: [[Weapon Rolls]]
+> **Classes** [[Weapon Classes#Legendary|Legendary]], [[Weapon Classes#Precise|Precise]] · **Tiers** 4–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 4 | 250 | **10** | 100% Melee damage, 100% Engineering | 0.45s | 50% ×2.5 | 100 | – |
-
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 4 | 1 | 100% | Thrust |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Crit | Range | Extra | Knockback | Accuracy | Other |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 250 | **10** | 100% Melee damage, 100% Engineering | 0.45s | 50% ×2.5 | 100 | – | 1 | 100% | Thrust |
 
 ## Effects per tier
 | Tier | Effect | Details |
@@ -40,7 +32,7 @@ Cooldown is the base value with 0 attack speed.
 | 4 | **Temp stats per interval (+10)** | every 5s |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -51,6 +43,3 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 | Effect | What changes | Cursed (worst → best) |
 |---|---|---|
 | Tier 4: Temp stats per interval (+10) | value | `11 → 21` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].

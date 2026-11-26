@@ -17,42 +17,27 @@ dlc: Primal Dread
 [[Brotato]] › [[Weapons]] · **Ranged** · Primal Dread
 
 > [!info] Weapon
-> **Classes** [[Weapon Classes#Elemental|Elemental]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]]
-> **Starting weapon for** [[Apprentice]], [[Archaeologist]], [[Arsonist]], [[Baby]], [[Buccaneer]], [[Builder]], [[Captain]], [[Chef]], [[Chunky]], [[Cryptid]], [[Curious]], [[Demon]], [[Druid]], [[Entrepreneur]], [[Explorer]], [[Fisherman]], [[Gangster]], [[Golem]], [[Hiker]], [[Hunter]], [[Jack]], [[King]], [[Loud]], [[Lucky]], [[Mad Scientist]], [[Mage]], [[Masochist]], [[Multitasker]], [[Mutant]], [[Old]], [[One Armed]], [[Poacher]], [[Renegade]], [[Romantic]], [[Saver]], [[Sick]], [[Soldier]], [[Survivor]], [[Technomage]], [[Time Shifter]], [[Vagabond]], [[Variant]], [[Veteran]], [[Well Rounded]], [[Wounded]]
+> **Classes** [[Weapon Classes#Elemental|Elemental]] · **Tiers** 1–4 · shop odds: [[Weapon Rolls]] · [[Meca|mechanizable]] unless cursed or mutant
+> **Starting weapon choice for** [[Apprentice]], [[Archaeologist]], [[Arsonist]], [[Baby]], [[Buccaneer]], [[Builder]], [[Captain]], [[Chef]], [[Chunky]], [[Cryptid]], [[Curious]], [[Demon]], [[Druid]], [[Entrepreneur]], [[Explorer]], [[Fisherman]], [[Gangster]], [[Golem]], [[Hiker]], [[Hunter]], [[Jack]], [[King]] (tier 2), [[Loud]], [[Lucky]], [[Mad Scientist]], [[Mage]], [[Masochist]], [[Multitasker]], [[Mutant]], [[Old]], [[One Armed]], [[Poacher]], [[Renegade]], [[Romantic]], [[Saver]], [[Sick]], [[Soldier]], [[Survivor]], [[Technomage]], [[Time Shifter]], [[Vagabond]], [[Variant]], [[Veteran]], [[Well Rounded]], [[Wounded]]
 
 ## Stats per tier
-| Tier | Price | Damage | Scaling | Cooldown | Crit | Range | Extra |
-|---|---|---|---|---|---|---|---|
-| 1 | 12 | **4** | 30% Elemental damage | 1.70s | 3% ×1.5 | 300 | – |
-| 2 | 26 | **6** | 45% Elemental damage | 1.62s | 3% ×1.5 | 325 | – |
-| 3 | 52 | **8** | 60% Elemental damage | 1.53s | 3% ×1.5 | 350 | – |
-| 4 | 105 | **12** | 80% Elemental damage | 1.45s | 3% ×1.5 | 375 | – |
+**All tiers** Crit 3% ×1.5 · Knockback 0 · Accuracy 90% · Other projectile speed 1200 · can't gain bounces
 
-Cooldown is the base value with 0 attack speed.
-
-**More stats per tier**
-
-| Tier | Knockback | Accuracy | Other |
-|---|---|---|---|
-| 1 | 0 | 90% | projectile speed 1200 · can't gain bounces |
-| 2 | 0 | 90% | projectile speed 1200 · can't gain bounces |
-| 3 | 0 | 90% | projectile speed 1200 · can't gain bounces |
-| 4 | 0 | 90% | projectile speed 1200 · can't gain bounces |
+| Tier | Price | Damage | Scaling | Cooldown (0 attack speed) | Range |
+|---|---|---|---|---|---|
+| 1 | 12 | **4** | 30% Elemental damage | 1.70s | 300 |
+| 2 | 26 | **6** | 45% Elemental damage | 1.62s | 325 |
+| 3 | 52 | **8** | 60% Elemental damage | 1.53s | 350 |
+| 4 | 105 | **12** | 80% Elemental damage | 1.45s | 375 |
 
 ## Effects per tier
-| Tier | Effect | Details |
-|---|---|---|
-| 1 | **Fire puddle on hit: Burning 3×4 (100% Elemental damage)** | puddle lasts 3s |
-| 1 | **Burning 3×4 (100% Elemental damage)** | – |
-| 2 | **Fire puddle on hit: Burning 5×5 (100% Elemental damage)** | puddle lasts 3.5s |
-| 2 | **Burning 5×5 (100% Elemental damage)** | – |
-| 3 | **Fire puddle on hit: Burning 8×6 (100% Elemental damage)** | puddle lasts 4s |
-| 3 | **Burning 8×6 (100% Elemental damage)** | – |
-| 4 | **Fire puddle on hit: Burning 12×9 (100% Elemental damage)** | puddle lasts 4.5s |
-| 4 | **Burning 12×9 (100% Elemental damage)** | – |
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| **Fire puddle on hit: Burning … (100% Elemental damage)** | 3×4 · puddle lasts 3s | 5×5 · puddle lasts 3.5s | 8×6 · puddle lasts 4s | 12×9 · puddle lasts 4.5s |
+| **Burning … (100% Elemental damage)** | 3×4 | 5×5 | 8×6 | 12×9 |
 
 ## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
+Worst → best roll, see [[Curse#Curse strength]]. Each effect rolls on its own.
 
 | Tier | Damage | Scaling | Crit damage | Curse stat added |
 |---|---|---|---|---|
@@ -63,12 +48,6 @@ Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls o
 
 **Effects when cursed**
 
-| Effect | What changes | Cursed (worst → best) |
-|---|---|---|
-| Tier 1: Burning 3×4 (100% Elemental damage) | Burning | `4×5 → 7×9` |
-| Tier 2: Burning 5×5 (100% Elemental damage) | Burning | `6×6 → 11×11` |
-| Tier 3: Burning 8×6 (100% Elemental damage) | Burning | `9×7 → 17×13` |
-| Tier 4: Burning 12×9 (100% Elemental damage) | Burning | `14×10 → 26×19` |
-
-## Meca
-Can be mechanized unless cursed or mutant: `+3%` damage per meca power and a stat choice per rank. See [[Meca]].
+| Effect | Tier 1 | Tier 2 | Tier 3 | Tier 4 |
+|---|---|---|---|---|
+| Burning … (100% Elemental damage) · Burning | `4×5 → 7×9` | `6×6 → 11×11` | `9×7 → 17×13` | `14×10 → 26×19` |

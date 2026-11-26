@@ -25,26 +25,8 @@ in_shop: true
 > **Never offered to** [[Wounded]] (until endless)
 
 ## Effects
-- Max hp +3
-- **Explode on consumable**
-  - 50% chance
-  - explosion size 125%
-  - `0` damage (100% Max hp) · every `1.56s` · range `150`
-
-## Cursed
-Worst roll `+10%` (wave 1) → best roll `+110%` (wave 21+). Each effect rolls on its own. How it works: [[Curse#Curse strength]].
-
-| Effect | What changes | Cursed (worst → best) |
+| Effect | [[Curse#Curse strength\|Cursed]] (worst → best) | [[Mutation#Step 3: remove or copy\|Mutation]] ([[Mutation#Copy strength\|copies scaled down]]) |
 |---|---|---|
-| Max hp +3 | value | `4 → 7` |
-| Explode on consumable | damage | `0 → 0` |
-|  | scaling | `×1.10 → ×2.10` |
-| Curse stat | added | `+2 → 3` |
-
-## Mutation
-| | |
-|---|---|
-| **Copied into the Tumor** | Max hp +3<br>Explode on consumable (50% chance, explosion size 125%, `0` damage (100% Max hp) · every `1.56s` · range `150`) |
-| **Can be removed** | nothing |
-
-Copies are scaled down by your evolution, see [[Mutation#Copy strength]]. Removing: [[Mutation#Step 3: remove or copy]].
+| Max hp +3 | `4 → 7` | copied |
+| **Explode on consumable**<br>· 50% chance<br>· explosion size 125%<br>· `0` damage (100% Max hp) · every `1.56s` · range `150` | damage `0 → 0`<br>scaling `×1.10 → ×2.10` | copied |
+| Curse stat | added `+2 → 3` | |

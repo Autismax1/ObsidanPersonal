@@ -8,7 +8,7 @@
 		{"id":"n0044","type":"text","text":"### Meca enemies spawn\nchance 50%·(1−1/(1+|evo|/50))\n→ [[Evolved Enemies]]","x":-700,"y":100,"width":340,"height":130,"color":"5"},
 		{"id":"n0045","type":"text","text":"### Meca parts\n2.5% per meca kill + pity\nor dismantle a shop weapon (1)\n→ [[Evolution Drops#Meca parts]]","x":-700,"y":290,"width":340,"height":150,"color":"5"},
 		{"id":"n0046","type":"text","text":"### Mechanize in shop\ncost = rank + 1\nroll 2 stat groups → pick 1\n→ [[Meca]]","x":-700,"y":500,"width":340,"height":140,"color":"5"},
-		{"id":"n0047","type":"text","text":"### Result\n+3% weapon damage per power\nstat bonus by rank ([[Meca#Stat value by rank]])\nfirst time: +1 evolution","x":-700,"y":700,"width":340,"height":150,"color":"5"},
+		{"id":"n0047","type":"text","text":"### Result\n+3% damage and stat scaling per power (+3% lifesteal, +2% crit damage)\nstat bonus by rank ([[Meca#Stat value by rank]])\nfirst time: +1 evolution","x":-700,"y":700,"width":340,"height":150,"color":"5"},
 		{"id":"n0052","type":"text","text":"### Mutant enemies spawn\nsame chance formula\n→ [[Evolved Enemies]]","x":400,"y":100,"width":340,"height":130,"color":"4"},
 		{"id":"n0053","type":"text","text":"### Mutation fruit\n4% per mutant kill + pity\nneeds 3+ mutatable items\n→ [[Evolution Drops#Mutation fruit]]","x":400,"y":290,"width":340,"height":150,"color":"4"},
 		{"id":"n0054","type":"text","text":"### Wave end: pick item\nrandom item, character included, never weapons\n→ [[Mutation#Step 1: pick the item]]","x":400,"y":500,"width":340,"height":140,"color":"4"},
